@@ -4,11 +4,24 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 11:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 12:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#一周热门 中国新冠疫苗首次在海外获批，有效率达86%
+]]></title>
+            <link>http://nyti.ms/3oEuyaa</link>
+            <guid>0d72d28c21622fd8434116c764225f5c</guid>
+            <pubDate>Sun, 13 Dec 2020 19:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【共享充电宝闷声发大财？】现在市面上的共享充电宝基本分为三类：即将上市的、没有上市的，以及美团。从“涨价是美团开始”的传闻来看，美团充电宝定价的话语权已经抬头。]]></title>
+            <link>http://www.chinaventure.com.cn/news/78-20201213-359507.html</link>
+            <guid>cde07269565ebda307c734d6c36e26fe</guid>
+            <pubDate>Sun, 13 Dec 2020 19:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【这届共享办公之死】WeWork和疫情只是加剧了问题的出现，即使没有这两个因素，联合办公行业也会出问题，因为根本原因出在了业务模式的问题上。]]></title>
             <link>http://www.aicaijing.com.cn/overviewarticle_id=4796</link>
@@ -537,18 +550,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://bbc.in/375Urd1</link>
             <guid>60df9fc4209ebd45db03dbb8a72cc568</guid>
             <pubDate>Sat, 12 Dec 2020 10:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[陈鹤皋，疯癫宗师的冷静江湖]]></title>
-            <link>http://mp.weixin.qq.com/s/uI1-v8sUpRR3weXoMIo4QQ</link>
-            <guid>df5a80bf51fe60a4312f496a3c4878b0</guid>
-            <pubDate>Sat, 12 Dec 2020 10:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巨头的使命--从一张中国地图说起]]></title>
-            <link>http://mp.weixin.qq.com/s/wtNo0KQmHdWkv-gzm81dNg</link>
-            <guid>bbea5aeffebcff4c107a1fa5c90187ae</guid>
-            <pubDate>Sat, 12 Dec 2020 09:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
