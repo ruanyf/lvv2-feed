@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 08:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 09:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【4K修复版《上甘岭》：感动，不止来自每一帧画面的精细还原】我用非修复版的电影截图，尽可能说明修复版电影里涌现的那些细节。]]></title>
+            <link>http://mp.weixin.qq.com/s/tazyQ7e993I1D3wTNKk_vQ</link>
+            <guid>b328211d253f35c9b4b68914eef3115b</guid>
+            <pubDate>Sun, 13 Dec 2020 17:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一周热点回顾】这位运动人士花了四年时间，在社区收集居民的意见，成功令中国一家能源公司兴建煤碳厂的计划告吹，最后他更因此而获奖。 ]]></title>
+            <link>http://twitter.com/bbcchinese/status/1338015838486618112</link>
+            <guid>9542159d6e2fee9a49e1c247bac9221f</guid>
+            <pubDate>Sun, 13 Dec 2020 17:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【预备中产、农民工与“人才”的居住境遇】长租公寓爆雷事件似乎把年轻白领这一受过高等教育的预备中产群体“打回原形”，这些年轻人在城市承认系统中的“被除名”，与近年来在城中村消亡过程中被驱赶的“从不具名”的底层流动人口形成了对照。]]></title>
+            <link>http://mp.weixin.qq.com/s/2KnYuoJsGgyauZAM1ienEQ</link>
+            <guid>45b69d409618cde954b8e28f1cc4af08</guid>
+            <pubDate>Sun, 13 Dec 2020 17:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为了当海淀妈妈，我从500强辞职】她从通用电气离职，在黑暗中努力和摸索了三年之后，儿子花生成功“上岸”。她将自己的经验和儿子努力的过程一一记录成书，就取名《上岸》。]]></title>
+            <link>http://www.huxiu.com/article/399474.htmlf=chouti</link>
+            <guid>3a1362881e7612e78c8ab7798c56d430</guid>
+            <pubDate>Sun, 13 Dec 2020 16:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[泰国王室甄嬛传又更新！曾经闹出过全裸给狗庆生的第三任妻子西拉米，在被废黜后被勒令削发为尼……但最近，泰国国王似乎准备再把她接回来，这会让三个女人形成一个三足鼎立的局势，让后宫在明面上稳定下来……]]></title>
             <link>http://mp.weixin.qq.com/s/EFB5TSDzc7oGXokAtDNDrQ</link>
@@ -525,30 +549,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.allnow.com/post/5fd36e7bc84b905ab2b38acc</link>
             <guid>092e6fdc5b6cb31b25d06a6a13d44dfa</guid>
             <pubDate>Sat, 12 Dec 2020 07:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逛了两天山寨手机市场，我现在非常生气】山寨机依然遍地横行，无论是产品名称还是外形，抄袭程度没有最过分，只有更过分。]]></title>
-            <link>http://www.ifanr.com/1385476</link>
-            <guid>4b1ed8ac77827e2019c351aa9845a125</guid>
-            <pubDate>Sat, 12 Dec 2020 07:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高加索的无人战争——小记纳卡冲突中的无人机作战活动]]></title>
-            <link>http://mp.weixin.qq.com/s/QMny0gfnSQpGnjJoGXPZ4Q</link>
-            <guid>67ceeb4c6da0760fe4c1e4cff1570ccc</guid>
-            <pubDate>Sat, 12 Dec 2020 06:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一个上海小区十四天吃掉了两吨土豆]]></title>
-            <link>http://www.sohu.com/a/437442094_120146415</link>
-            <guid>2b7604fae076dc9814806aa73d463c5c</guid>
-            <pubDate>Sat, 12 Dec 2020 06:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信将治理 “打开 App 阅读全文”违规导流链接】对此类违规链接，从2020年12月21日凌晨开始，我们不再提供微信内直接打开的服务，用户可以通过“复制链接在浏览器中打开”的形式进行访问。]]></title>
-            <link>http://mp.weixin.qq.com/s/wrzynlw92rRGo528hZItVg</link>
-            <guid>769fec96740f547fbd0e017d35429e0c</guid>
-            <pubDate>Sat, 12 Dec 2020 05:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
