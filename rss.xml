@@ -4,11 +4,24 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 22:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 23:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在11月份召开的国际移动通信工作组第36次会议上，印度TSDSI提交的5Gi技术标准竟然还能够咸鱼翻身，成为全球统一的5G技术标准之一。但连本土的运营商们都不愿支持和采用印度的5G自主标准，这对TSDSI的5Gi技术前景无疑将构成沉重打击。]]></title>
+            <link>http://www.huxiu.com/article/399639.htmlf=chouti</link>
+            <guid>9962a863ac1da5bc529c6cadaca01378</guid>
+            <pubDate>Mon, 14 Dec 2020 07:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一周热点回顾】对澳大利亚酿酒商来说，最大最富有的市场在一夜之间关闭，这是一个毁灭性的打击。
+]]></title>
+            <link>http://bbc.in/2Kj36QI</link>
+            <guid>02d1fd610d6642f368c7674ffdf24d0c</guid>
+            <pubDate>Mon, 14 Dec 2020 06:50:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【AI 原创色情内容已成为可能？】一些创作者认为在原有色情作品上，利用 Deepfake 生成不存在的人进行二次创作可以避免法律上的惩罚和道德上的谴责。这也间接促成了相关裸照数据集被多次激活使用，并且使用人并不介意这些照片是否合法。]]></title>
             <link>http://mp.weixin.qq.com/s/rebwCSOpO2MY9rjSF0sewg</link>
@@ -536,18 +549,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://mp.weixin.qq.com/s/yoIur7Okx1y5K9WS_FvZiA</link>
             <guid>adfaf69b237cff15894cd80a61a9dc71</guid>
             <pubDate>Sat, 12 Dec 2020 16:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【集装箱“黑天鹅”】企业采购新箱子只要往欧美主要航线发运一次货物就能赚回买箱钱；将一个空集装箱从美国运往中国，比等待装满货物再从美国运往中国，更加有利可图。]]></title>
-            <link>http://www.cb.com.cn/index/show/dsx/cv/cv1332661276</link>
-            <guid>4b3f9c1947d14484ee99ec2d8946b383</guid>
-            <pubDate>Sat, 12 Dec 2020 16:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 中国兜售虚假信息，推动新冠病毒海外起源论]]></title>
-            <link>http://nyti.ms/3n33h13</link>
-            <guid>181094825b4c85df03da4528c4e95e06</guid>
-            <pubDate>Sat, 12 Dec 2020 11:58:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
