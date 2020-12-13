@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 13:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 14:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国和欧盟同意继续进行英国脱欧贸易谈判】 英国首相约翰逊和欧盟委员会主席冯德莱恩同意允许英国脱欧贸易谈判在周日的最后期限之后继续进行。]]></title>
+            <link>http://www.guancha.cn/internation/2020_12_13_574427.shtml</link>
+            <guid>956d8a26c15bbb28e24e34da18ea8d56</guid>
+            <pubDate>Sun, 13 Dec 2020 22:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今年3月，中国驻德国大使馆工作人员得知，一位海德堡大学医院的教授和家人疑似感染新冠肺炎，并伴有明显症状，但德国境内有效药品已断供，情急之下，他只能求助于中方。中国驻德国大使吴恳联系到浙江一家医药企业，后者决定赠送40盒药物，并于3月底将这批药物运抵德国。而这位教授，正是约翰·拉贝的孙子托马斯·拉贝。]]></title>
+            <link>http://weibo.com/1708575033/JyeTq5ZMu</link>
+            <guid>3e8526f9f135daaf8e508d81e8bf4510</guid>
+            <pubDate>Sun, 13 Dec 2020 22:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【解码社区团购：互联网巨头惦记的不是那几捆白菜】拼多多的崛起，除了让巨头们看到了下沉市场的潜力，更进一步坚定了他们挖掘私域流量的信心//@开水族馆的生物男：说跟菜市场摊贩、小水果店抢生意绝对没毛病。人家个体户除了是媒体眼中“不体面”辛苦钱之外，几乎每个都靠自己买上了房，打工人不靠父母补贴、几个做得到？]]></title>
+            <link>http://mp.weixin.qq.com/s/ytwHy9rLymLFYACpO4kRTg</link>
+            <guid>f7d0313d967177bdc47b0a50ecbc494f</guid>
+            <pubDate>Sun, 13 Dec 2020 21:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海人与马桶的斗争史】上海房地产科学研究院已经在研究冰冻马桶、燃烧马桶等新式马桶的可行性了。“黄浦区曾委托我们寻找太空马桶，就是宇航飞机上用的。因为他们实在没条件排（污）。”]]></title>
             <link>http://mp.weixin.qq.com/s/y3E5UDZ51bWYA2wD18XjLw</link>
@@ -537,24 +555,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.bjnews.com.cn/detail/160773994815030.html</link>
             <guid>1ec99c7df2d06b0e31d7a956ddee3372</guid>
             <pubDate>Sat, 12 Dec 2020 12:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新冠疫苗量产在即，中年辉瑞迎来第二春？]]></title>
-            <link>http://www.tmtpost.com/4888965.html</link>
-            <guid>dd6398065e592af35aab54bde4566654</guid>
-            <pubDate>Sat, 12 Dec 2020 12:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[轮椅女孩北漂5年，不靠父母，独立赚钱到处旅游]]></title>
-            <link>http://new.qq.com/omn/20201211/20201211A04IQ500.html</link>
-            <guid>baad78b781c450d86406222c03113171</guid>
-            <pubDate>Sat, 12 Dec 2020 12:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大豆都去哪了？央视调查：丰收之年，神秘资本囤积大豆，他们在赌什么？]]></title>
-            <link>http://m.21jingji.com/article/20201212/herald/c4409edc87bfe5598fb330a04002120d.html</link>
-            <guid>dc2b71060ebcd6be1065e465c23d17c8</guid>
-            <pubDate>Sat, 12 Dec 2020 11:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
