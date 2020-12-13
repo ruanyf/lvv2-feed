@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 15:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 16:49:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【急功近利的HBO Max】有趣的是，如今已经是Netflix联合CEO的 Ted Sarandos 曾说过：“在 HBO 成为我们前，我们要先成为 HBO。”而现在AT&amp;T确实在努力想让HBO成为Netflix一样的存在。问题是，为什么AT&amp;T和华纳传媒会觉得通过损害的HBO品牌价值反而能吸引那些原本就不关心HBO的用户？]]></title>
+            <link>http://mp.weixin.qq.com/s/Sdjz1Mzv6RovYLe23vNIjQ</link>
+            <guid>408dce569b6e3a8cdc98646c9414eeb3</guid>
+            <pubDate>Mon, 14 Dec 2020 00:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新冠下，F1走过的这一年：一个特殊年份，一个情理之中的剧本】经历了疫情的考验，见证了许多新老赛道的出现，以及各种出乎意料的“剧本”，20赛季终于以一场“平淡无奇”的比赛收场。]]></title>
+            <link>http://new.qq.com/omn/20201213/20201213A0CKS600.html</link>
+            <guid>d096df373171456e64cc32b2b575099c</guid>
+            <pubDate>Mon, 14 Dec 2020 00:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑大一附院一科室主任被实名举报回扣、高利贷】尽管部分医生收取回扣的事例已是业界潜规则，司法部门整治医生收受贿赂的案件也屡见不鲜。但直接举报医生、并列出详尽账目的方式发布在网络上，却极其罕见。当畸形的利益同盟体瓦解后，医药代表、生意人和医生王静最终撕破脸。]]></title>
+            <link>http://mp.weixin.qq.com/s/F2Utisqg088UcqOiU56cfQ</link>
+            <guid>2e33787200878c2b22a5570be69d0593</guid>
+            <pubDate>Sun, 13 Dec 2020 23:35:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[谁在购买Vintage？]]></title>
             <link>http://www.tmtpost.com/4890483.html</link>
@@ -538,24 +556,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.bjnews.com.cn/detail/160775187515205.html</link>
             <guid>acdff6085917c3bcf1e97652b4f9f0c4</guid>
             <pubDate>Sat, 12 Dec 2020 14:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国最高法院驳回了得克萨斯州要求在四个州推翻拜登胜选结果的诉讼请求。媒体认为，最高法院这一裁决等同于终结了特朗普靠法律手段“翻盘”的可能性。//@whigzhou ：所有热点州的司法系统，州长，州务卿，最后是联邦最高法院，他们的 integrity 全部经受住了考验，罕见的高强度考验，佐治亚 GOP 的表现尤其让人钦佩。]]></title>
-            <link>http://www.guancha.cn/internation/2020_12_12_574331.shtml</link>
-            <guid>82040dccb4ea97fbfac3396cf190c2db</guid>
-            <pubDate>Sat, 12 Dec 2020 13:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[豫能化人事调整：河南国资委主任兼任党委书记，平煤集团原董事长拟任董事长]]></title>
-            <link>http://m.21jingji.com/article/20201212/herald/d941d11be6cfc4c6e3301aeb13cf03bf.html</link>
-            <guid>8b75deb3697a75f82d5bf4f6dd3d1879</guid>
-            <pubDate>Sat, 12 Dec 2020 13:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CDPR的高管表示将为《赛博朋克2077》发售初期充满BUG的情况负责。在一封发送给员工的邮件中，他们表示无论游戏的评价如何，员工们都将获得全额奖金。CDPR最初设定的奖金发放门槛是Metacritic评分90分以上。]]></title>
-            <link>http://www.3dmgame.com/news/202012/3804034.html</link>
-            <guid>a589473109c66a84be1da21923391e14</guid>
-            <pubDate>Sat, 12 Dec 2020 13:10:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

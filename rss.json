@@ -6,6 +6,27 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "408dce569b6e3a8cdc98646c9414eeb3",
+            "content_html": "",
+            "url": "http://mp.weixin.qq.com/s/Sdjz1Mzv6RovYLe23vNIjQ",
+            "title": "【急功近利的HBO Max】有趣的是，如今已经是Netflix联合CEO的 Ted Sarandos 曾说过：“在 HBO 成为我们前，我们要先成为 HBO。”而现在AT&amp;T确实在努力想让HBO成为Netflix一样的存在。问题是，为什么AT&amp;T和华纳传媒会觉得通过损害的HBO品牌价值反而能吸引那些原本就不关心HBO的用户？",
+            "date_modified": "2020-12-14T00:35:01.000Z"
+        },
+        {
+            "id": "d096df373171456e64cc32b2b575099c",
+            "content_html": "",
+            "url": "http://new.qq.com/omn/20201213/20201213A0CKS600.html",
+            "title": "【新冠下，F1走过的这一年：一个特殊年份，一个情理之中的剧本】经历了疫情的考验，见证了许多新老赛道的出现，以及各种出乎意料的“剧本”，20赛季终于以一场“平淡无奇”的比赛收场。",
+            "date_modified": "2020-12-14T00:10:01.000Z"
+        },
+        {
+            "id": "2e33787200878c2b22a5570be69d0593",
+            "content_html": "",
+            "url": "http://mp.weixin.qq.com/s/F2Utisqg088UcqOiU56cfQ",
+            "title": "【郑大一附院一科室主任被实名举报回扣、高利贷】尽管部分医生收取回扣的事例已是业界潜规则，司法部门整治医生收受贿赂的案件也屡见不鲜。但直接举报医生、并列出详尽账目的方式发布在网络上，却极其罕见。当畸形的利益同盟体瓦解后，医药代表、生意人和医生王静最终撕破脸。",
+            "date_modified": "2020-12-13T23:35:01.000Z"
+        },
+        {
             "id": "542e174d14d4a8314ce638b859cbb180",
             "content_html": "",
             "url": "http://www.tmtpost.com/4890483.html",
@@ -606,27 +627,6 @@
             "url": "http://www.bjnews.com.cn/detail/160775187515205.html",
             "title": "12月12日，吐鲁番市高昌区在对重点人群进行定期核酸检测中，发现1名阳性人员，经专家诊断为无症状感染者。发现首例无症状感染者后，吐鲁番市疾控部门迅速排查其密切接触者及密切接触者的密切接触者，全部进行核酸检测。该无症状感染者的妻子（28岁）、母亲（63岁）核酸检测结果呈阳性，其余人员均为阴性。",
             "date_modified": "2020-12-12T14:00:02.000Z"
-        },
-        {
-            "id": "82040dccb4ea97fbfac3396cf190c2db",
-            "content_html": "",
-            "url": "http://www.guancha.cn/internation/2020_12_12_574331.shtml",
-            "title": "美国最高法院驳回了得克萨斯州要求在四个州推翻拜登胜选结果的诉讼请求。媒体认为，最高法院这一裁决等同于终结了特朗普靠法律手段“翻盘”的可能性。//@whigzhou ：所有热点州的司法系统，州长，州务卿，最后是联邦最高法院，他们的 integrity 全部经受住了考验，罕见的高强度考验，佐治亚 GOP 的表现尤其让人钦佩。",
-            "date_modified": "2020-12-12T13:50:01.000Z"
-        },
-        {
-            "id": "8b75deb3697a75f82d5bf4f6dd3d1879",
-            "content_html": "",
-            "url": "http://m.21jingji.com/article/20201212/herald/d941d11be6cfc4c6e3301aeb13cf03bf.html",
-            "title": "豫能化人事调整：河南国资委主任兼任党委书记，平煤集团原董事长拟任董事长",
-            "date_modified": "2020-12-12T13:25:01.000Z"
-        },
-        {
-            "id": "a589473109c66a84be1da21923391e14",
-            "content_html": "",
-            "url": "http://www.3dmgame.com/news/202012/3804034.html",
-            "title": "CDPR的高管表示将为《赛博朋克2077》发售初期充满BUG的情况负责。在一封发送给员工的邮件中，他们表示无论游戏的评价如何，员工们都将获得全额奖金。CDPR最初设定的奖金发放门槛是Metacritic评分90分以上。",
-            "date_modified": "2020-12-12T13:10:02.000Z"
         }
     ]
 }
