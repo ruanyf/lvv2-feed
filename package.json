@@ -1,0 +1,16 @@
+{
+  "name": "lvv2-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["RSS"],
+  "author": "Ruan Yifeng",
+  "license": "MIT",
+  "dependencies": {
+    "feed": "^4.2.1",
+    "rss-parser": "^3.10.0"
+  }
+}
