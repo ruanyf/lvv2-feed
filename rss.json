@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "73c530cd1aad6868b13c9ee8d31c519d",
+            "content_html": "",
+            "url": "http://www.qbitai.com/2020/12/20435.html",
+            "title": "【黄道十二宫杀手密码51年后被破解，来自两位程序员与数学家通力合作】谈到Z340密码为何会悬而未决50多年，破解者之一Blake表示是因为：密码的阅读方向太晦涩，以至于找到它的唯一方法是，使用复杂的软件对许多候选答案进行大规模搜索，才能有效解决谐音替代密码。",
+            "date_modified": "2020-12-13T16:00:01.000Z"
+        },
+        {
             "id": "d452a6e642ba70d80c3f7895cf4d3998",
             "content_html": "",
             "url": "http://www.allnow.com/post/5fd59938b96d232650aab291",
@@ -613,20 +620,6 @@
             "url": "http://www.xiaoyuzhoufm.com/episode/5fd2a2bfdee9c1e16ddd089e",
             "title": "【也说“蛋壳”，从金融的角度】胡越参与了最新一期《财新周刊》封面报道《蛋壳破了》的采访与调查。她从金融的角度分析了同样是长租公寓模式，为何蛋壳引发了如此大的社会反响；蛋壳背后暴露了怎样的金融风险；长租公寓的资金监管和风险控制如何求解。",
             "date_modified": "2020-12-12T04:20:01.000Z"
-        },
-        {
-            "id": "15714dd004749668806ba4f8d7702e08",
-            "content_html": "",
-            "url": "http://mp.weixin.qq.com/s/IS-ukGVR61IinYC-7ChXZQ",
-            "title": "掏出来的“耳屎经济”",
-            "date_modified": "2020-12-12T03:10:01.000Z"
-        },
-        {
-            "id": "1678fa366273e1a549a01c8a9110213e",
-            "content_html": "",
-            "url": "http://nyti.ms/2IDucRT",
-            "title": "周五，在黎智英被加控国家安全罪名的消息传出几小时后，彭博新闻社披露，该公司在北京工作的一名中国员工被当局拘留，理由也是涉嫌危害国家安全。这两起事件严酷地展现了中国迅速缩小的新闻和言论空间。",
-            "date_modified": "2020-12-12T02:36:12.000Z"
         }
     ]
 }

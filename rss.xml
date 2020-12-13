@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 07:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 08:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【黄道十二宫杀手密码51年后被破解，来自两位程序员与数学家通力合作】谈到Z340密码为何会悬而未决50多年，破解者之一Blake表示是因为：密码的阅读方向太晦涩，以至于找到它的唯一方法是，使用复杂的软件对许多候选答案进行大规模搜索，才能有效解决谐音替代密码。]]></title>
+            <link>http://www.qbitai.com/2020/12/20435.html</link>
+            <guid>73c530cd1aad6868b13c9ee8d31c519d</guid>
+            <pubDate>Sun, 13 Dec 2020 16:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本一镇女议员声称被“镇长”性侵后，她却被全镇的人投票除名了】在草津町，拥护町长和町议会的选民们自有他们的道理。有许多选民认为他们不能理解新井祥子的说辞，她的言论败坏了草津町的名声，不配当公务员。但在日本的其他地方，更多人表示难以理解。]]></title>
             <link>http://www.allnow.com/post/5fd59938b96d232650aab291</link>
@@ -543,18 +549,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/5fd2a2bfdee9c1e16ddd089e</link>
             <guid>455b762381319c4d06ac8322f71571b1</guid>
             <pubDate>Sat, 12 Dec 2020 04:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[掏出来的“耳屎经济”]]></title>
-            <link>http://mp.weixin.qq.com/s/IS-ukGVR61IinYC-7ChXZQ</link>
-            <guid>15714dd004749668806ba4f8d7702e08</guid>
-            <pubDate>Sat, 12 Dec 2020 03:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五，在黎智英被加控国家安全罪名的消息传出几小时后，彭博新闻社披露，该公司在北京工作的一名中国员工被当局拘留，理由也是涉嫌危害国家安全。这两起事件严酷地展现了中国迅速缩小的新闻和言论空间。]]></title>
-            <link>http://nyti.ms/2IDucRT</link>
-            <guid>1678fa366273e1a549a01c8a9110213e</guid>
-            <pubDate>Sat, 12 Dec 2020 02:36:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
