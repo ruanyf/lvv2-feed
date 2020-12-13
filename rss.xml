@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 19:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 20:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【AI 原创色情内容已成为可能？】一些创作者认为在原有色情作品上，利用 Deepfake 生成不存在的人进行二次创作可以避免法律上的惩罚和道德上的谴责。这也间接促成了相关裸照数据集被多次激活使用，并且使用人并不介意这些照片是否合法。]]></title>
+            <link>http://mp.weixin.qq.com/s/rebwCSOpO2MY9rjSF0sewg</link>
+            <guid>e481a9f48d8d5fb6fce5cd0d51640371</guid>
+            <pubDate>Mon, 14 Dec 2020 04:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【《大秦赋》的豆瓣评分为啥跌了】总共78集的剧，第36集嫪毐还没死，秦始皇还未亲政，后边一集灭一国吗？]]></title>
             <link>http://mp.weixin.qq.com/s/qpFs9T23uCE75sqL0o8XFg</link>
@@ -548,12 +554,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.guancha.cn/internation/2020_12_12_574328.shtml</link>
             <guid>17f279ebef8b4a39ebfd37f0b3ef903c</guid>
             <pubDate>Sat, 12 Dec 2020 15:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刚刚，江苏高铁连起来了】今天，连镇高铁淮镇段正式建成通车，江苏三部分之间终于实现省内高铁贯通，结束了此前江苏高铁南北不互通互联的格局。]]></title>
-            <link>http://mp.weixin.qq.com/s/hbffYYQy9AsoX7Wcocxsrg</link>
-            <guid>2235c9b423388611f62db907f602f162</guid>
-            <pubDate>Sat, 12 Dec 2020 14:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

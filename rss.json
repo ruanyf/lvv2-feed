@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "e481a9f48d8d5fb6fce5cd0d51640371",
+            "content_html": "",
+            "url": "http://mp.weixin.qq.com/s/rebwCSOpO2MY9rjSF0sewg",
+            "title": "【AI 原创色情内容已成为可能？】一些创作者认为在原有色情作品上，利用 Deepfake 生成不存在的人进行二次创作可以避免法律上的惩罚和道德上的谴责。这也间接促成了相关裸照数据集被多次激活使用，并且使用人并不介意这些照片是否合法。",
+            "date_modified": "2020-12-14T04:10:01.000Z"
+        },
+        {
             "id": "f844ed2db2b15894d214f9bdbed00f53",
             "content_html": "",
             "url": "http://mp.weixin.qq.com/s/qpFs9T23uCE75sqL0o8XFg",
@@ -620,13 +627,6 @@
             "url": "http://www.guancha.cn/internation/2020_12_12_574328.shtml",
             "title": "美国FDA发布了首个关于新冠疫苗的紧急使用授权（EUA），允许Pfizer/BioNTech联合研发的新冠疫苗在美国分销。此前有报道说，白宫办公厅主任马克•梅多斯当天要求FDA局长斯蒂芬•哈恩在当地时间11日结束前批准新冠疫苗，否则就让后者提交辞呈。 不过，哈恩在一份声明中称这是对他和梅多斯通话的“不真实描述”。",
             "date_modified": "2020-12-12T15:25:02.000Z"
-        },
-        {
-            "id": "2235c9b423388611f62db907f602f162",
-            "content_html": "",
-            "url": "http://mp.weixin.qq.com/s/hbffYYQy9AsoX7Wcocxsrg",
-            "title": "【刚刚，江苏高铁连起来了】今天，连镇高铁淮镇段正式建成通车，江苏三部分之间终于实现省内高铁贯通，结束了此前江苏高铁南北不互通互联的格局。",
-            "date_modified": "2020-12-12T14:50:02.000Z"
         }
     ]
 }
