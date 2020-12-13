@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 16:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 17:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【寻找“文学社”】现在的大学文学社是由什么样的年轻人组成？文学社有用吗？社交网络上流行的“XX文学”真的来自于大家对于“文学”的热爱吗？为什么“文学青年”不再成为一个褒义词？短视频、微博、朋友圈抖机灵算文学吗？]]></title>
+            <link>http://mp.weixin.qq.com/s/AmnTKLPhJnhl0FzJoZ6h7w</link>
+            <guid>6c601658ff212fc82d1c8fa3dcb9160f</guid>
+            <pubDate>Mon, 14 Dec 2020 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【急功近利的HBO Max】有趣的是，如今已经是Netflix联合CEO的 Ted Sarandos 曾说过：“在 HBO 成为我们前，我们要先成为 HBO。”而现在AT&amp;T确实在努力想让HBO成为Netflix一样的存在。问题是，为什么AT&amp;T和华纳传媒会觉得通过损害的HBO品牌价值反而能吸引那些原本就不关心HBO的用户？]]></title>
             <link>http://mp.weixin.qq.com/s/Sdjz1Mzv6RovYLe23vNIjQ</link>
@@ -550,12 +556,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://mp.weixin.qq.com/s/oYWaosf_lth0h07LODNRRA</link>
             <guid>cacf8abe162428bf4c0f3fd390bf18d4</guid>
             <pubDate>Sat, 12 Dec 2020 14:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12月12日，吐鲁番市高昌区在对重点人群进行定期核酸检测中，发现1名阳性人员，经专家诊断为无症状感染者。发现首例无症状感染者后，吐鲁番市疾控部门迅速排查其密切接触者及密切接触者的密切接触者，全部进行核酸检测。该无症状感染者的妻子（28岁）、母亲（63岁）核酸检测结果呈阳性，其余人员均为阴性。]]></title>
-            <link>http://www.bjnews.com.cn/detail/160775187515205.html</link>
-            <guid>acdff6085917c3bcf1e97652b4f9f0c4</guid>
-            <pubDate>Sat, 12 Dec 2020 14:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
