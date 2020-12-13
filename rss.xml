@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 17:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 18:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【梦想改造家：五位单身姐姐养老的家】五十多岁的姐姐们认识二十余年了，碰巧都是单身的她们大多也不愿和儿女一起住，她们一边旅行一边找合适的房子，最后选择了丽江的山间小屋，设计师谢柯在保留古城地域特色的同时，又充分兼顾每个姐姐不同的要求和喜好，实现了一个“一步一景”的家。]]></title>
+            <link>http://mp.weixin.qq.com/s/5b4NjAbNvlqwvD6Eort1Uw</link>
+            <guid>1abd3e9ecd913a61dd647c229764bbca</guid>
+            <pubDate>Mon, 14 Dec 2020 02:10:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【寻找“文学社”】现在的大学文学社是由什么样的年轻人组成？文学社有用吗？社交网络上流行的“XX文学”真的来自于大家对于“文学”的热爱吗？为什么“文学青年”不再成为一个褒义词？短视频、微博、朋友圈抖机灵算文学吗？]]></title>
             <link>http://mp.weixin.qq.com/s/AmnTKLPhJnhl0FzJoZ6h7w</link>
@@ -550,12 +556,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://bbc.in/3oJRhlw</link>
             <guid>5585bbb73f625bc8621766b875aa87ed</guid>
             <pubDate>Sat, 12 Dec 2020 14:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福建小哥租下一片海，造600㎡漂浮大平层：我随时可以与世隔绝]]></title>
-            <link>http://mp.weixin.qq.com/s/oYWaosf_lth0h07LODNRRA</link>
-            <guid>cacf8abe162428bf4c0f3fd390bf18d4</guid>
-            <pubDate>Sat, 12 Dec 2020 14:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
