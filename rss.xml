@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 08:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 08:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[泰国王室甄嬛传又更新！曾经闹出过全裸给狗庆生的第三任妻子西拉米，在被废黜后被勒令削发为尼……但最近，泰国国王似乎准备再把她接回来，这会让三个女人形成一个三足鼎立的局势，让后宫在明面上稳定下来……]]></title>
+            <link>http://mp.weixin.qq.com/s/EFB5TSDzc7oGXokAtDNDrQ</link>
+            <guid>a3fbc8ae9a13aa95f24a626f1577a423</guid>
+            <pubDate>Sun, 13 Dec 2020 16:25:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黄道十二宫杀手密码51年后被破解，来自两位程序员与数学家通力合作】谈到Z340密码为何会悬而未决50多年，破解者之一Blake表示是因为：密码的阅读方向太晦涩，以至于找到它的唯一方法是，使用复杂的软件对许多候选答案进行大规模搜索，才能有效解决谐音替代密码。]]></title>
             <link>http://www.qbitai.com/2020/12/20435.html</link>
@@ -543,12 +549,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://mp.weixin.qq.com/s/wrzynlw92rRGo528hZItVg</link>
             <guid>769fec96740f547fbd0e017d35429e0c</guid>
             <pubDate>Sat, 12 Dec 2020 05:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也说“蛋壳”，从金融的角度】胡越参与了最新一期《财新周刊》封面报道《蛋壳破了》的采访与调查。她从金融的角度分析了同样是长租公寓模式，为何蛋壳引发了如此大的社会反响；蛋壳背后暴露了怎样的金融风险；长租公寓的资金监管和风险控制如何求解。]]></title>
-            <link>http://www.xiaoyuzhoufm.com/episode/5fd2a2bfdee9c1e16ddd089e</link>
-            <guid>455b762381319c4d06ac8322f71571b1</guid>
-            <pubDate>Sat, 12 Dec 2020 04:20:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
