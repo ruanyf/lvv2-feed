@@ -4,11 +4,24 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 14:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 15:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[谁在购买Vintage？]]></title>
+            <link>http://www.tmtpost.com/4890483.html</link>
+            <guid>542e174d14d4a8314ce638b859cbb180</guid>
+            <pubDate>Sun, 13 Dec 2020 23:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新冠疫苗：美国周一开始首轮接种，医疗工作者和养老院居民为优先群体
+]]></title>
+            <link>http://bbc.in/37dTQpN</link>
+            <guid>8474d7430c6e629d33bc8390e9e3ca2b</guid>
+            <pubDate>Sun, 13 Dec 2020 22:56:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国和欧盟同意继续进行英国脱欧贸易谈判】 英国首相约翰逊和欧盟委员会主席冯德莱恩同意允许英国脱欧贸易谈判在周日的最后期限之后继续进行。]]></title>
             <link>http://www.guancha.cn/internation/2020_12_13_574427.shtml</link>
@@ -543,18 +556,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.3dmgame.com/news/202012/3804034.html</link>
             <guid>a589473109c66a84be1da21923391e14</guid>
             <pubDate>Sat, 12 Dec 2020 13:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021 年 UI 设计趋势指南]]></title>
-            <link>http://36kr.com/p/1004189019476997</link>
-            <guid>6620a98e8e6e4834c72f4496390e5940</guid>
-            <pubDate>Sat, 12 Dec 2020 12:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020死里逃生瞬间：车手火海逃生，地面突然塌陷2人跳车跑走]]></title>
-            <link>http://www.bjnews.com.cn/detail/160773994815030.html</link>
-            <guid>1ec99c7df2d06b0e31d7a956ddee3372</guid>
-            <pubDate>Sat, 12 Dec 2020 12:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
