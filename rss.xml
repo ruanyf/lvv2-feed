@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 20:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 21:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -548,12 +548,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://nyti.ms/3n33h13</link>
             <guid>181094825b4c85df03da4528c4e95e06</guid>
             <pubDate>Sat, 12 Dec 2020 11:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国FDA发布了首个关于新冠疫苗的紧急使用授权（EUA），允许Pfizer/BioNTech联合研发的新冠疫苗在美国分销。此前有报道说，白宫办公厅主任马克•梅多斯当天要求FDA局长斯蒂芬•哈恩在当地时间11日结束前批准新冠疫苗，否则就让后者提交辞呈。 不过，哈恩在一份声明中称这是对他和梅多斯通话的“不真实描述”。]]></title>
-            <link>http://www.guancha.cn/internation/2020_12_12_574328.shtml</link>
-            <guid>17f279ebef8b4a39ebfd37f0b3ef903c</guid>
-            <pubDate>Sat, 12 Dec 2020 15:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
