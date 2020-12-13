@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 11:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 11:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【这届共享办公之死】WeWork和疫情只是加剧了问题的出现，即使没有这两个因素，联合办公行业也会出问题，因为根本原因出在了业务模式的问题上。]]></title>
+            <link>http://www.aicaijing.com.cn/overviewarticle_id=4796</link>
+            <guid>52925c6ac4f3fe8a372d557f3a29dc8b</guid>
+            <pubDate>Sun, 13 Dec 2020 19:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诞生272年后，这个看似简单的数学问题终求得闭式解】山羊吃草问题有两种形式。内部问题是给出吃草面积求绳长，外部问题是给出绳长和篱笆周长求吃草面积（绳长等于篱笆周长）。这看起来像高中几何题，许多数学家和数学爱好者都在思考这个问题及其不同形式。他们成功解决了一些版本，但也只是模糊而不完备的答案。]]></title>
+            <link>http://www.jiqizhixin.com/articles/2020-12-13-3</link>
+            <guid>2d1ba09066a50a1a604a471f370ab7ba</guid>
+            <pubDate>Sun, 13 Dec 2020 19:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全球首个可变字体的 logo】Fontsmith为阿姆斯特丹的 WPP 新园区设计了一个响应式的Logo：它会随着人们的互动和时间的推移而产生变化。当人在空间中移动时，字母的造型也会变动。静息状态下会跟随“呼吸”改变形状，配色则会根据白天和黑夜的不同时间而缓慢变化。]]></title>
             <link>http://mp.weixin.qq.com/s/P14Ty5nLkE_AbzDeEB3qkQ</link>
@@ -537,18 +549,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://mp.weixin.qq.com/s/wtNo0KQmHdWkv-gzm81dNg</link>
             <guid>bbea5aeffebcff4c107a1fa5c90187ae</guid>
             <pubDate>Sat, 12 Dec 2020 09:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[素媛案罪犯赵斗淳出狱，12年来首露脸：头发灰白，紧握橘子]]></title>
-            <link>http://new.qq.com/omn/20201212/20201212A01KQX00.html</link>
-            <guid>59400598ddf6fc77e8ce06dcea783fb6</guid>
-            <pubDate>Sat, 12 Dec 2020 09:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI证实黄道十二宫杀手的“340密码”在51年后被破解]]></title>
-            <link>http://www.cnbeta.com/articles/tech/1064867.htm</link>
-            <guid>126bcc414a8b2a88cc31b06840b280a7</guid>
-            <pubDate>Sat, 12 Dec 2020 08:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
