@@ -48,6 +48,7 @@ const newFeed = new Feed({
       'video.weibo.com',
       'video.h5.weibo.cn',
       't.cn',
+      'www.yystv.cn',
     ];
     if (hostFilterArr.includes(hostname)) return;
 
