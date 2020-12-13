@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 13 Dec 2020 09:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 10:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[《电锯人》漫不经心地完结了，就像它的作者一样]]></title>
+            <link>http://www.yystv.cn/p/7390</link>
+            <guid>1c395e9447915fac0d8dca81ad40f971</guid>
+            <pubDate>Sun, 13 Dec 2020 18:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南国际电影节，严重误判了文青的消费能力和消费取向】从今年的主要放映、讨论和颁奖场地看，适合对标的应该是圣丹斯电影节。新近装修并投入使用的万达影城周边，几乎没有便民餐饮，不过到国际免税城的打车费低至10元以内——只是，砸上百元赶场、花上千元买几十场电影票的影迷，真的未必会去免税店“血拼”。]]></title>
+            <link>http://mp.weixin.qq.com/s/a_lQHiVSlOjpeVpSM92xyA</link>
+            <guid>b7182b868dc1c76ae397c30d99a143e6</guid>
+            <pubDate>Sun, 13 Dec 2020 18:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在非洲玩游戏】在坦桑尼亚永远火热的阳光下，似乎看不到电子游戏存在的土壤。由于网络游戏公司甚至没有兴趣在非洲多架设几个服务器，坦桑尼亚的人们和生活在南亚或东南亚的普通人那样，连前往网吧玩主流网络游戏的机会都很难得。]]></title>
+            <link>http://www.chuapp.com/article/287665.html</link>
+            <guid>092914786d8e7f370ccff09c20fc263f</guid>
+            <pubDate>Sun, 13 Dec 2020 17:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【4K修复版《上甘岭》：感动，不止来自每一帧画面的精细还原】我用非修复版的电影截图，尽可能说明修复版电影里涌现的那些细节。]]></title>
             <link>http://mp.weixin.qq.com/s/tazyQ7e993I1D3wTNKk_vQ</link>
@@ -531,24 +549,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.cnbeta.com/articles/tech/1064867.htm</link>
             <guid>126bcc414a8b2a88cc31b06840b280a7</guid>
             <pubDate>Sat, 12 Dec 2020 08:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[羊肉那么香，欧美人为什么不爱吃？]]></title>
-            <link>http://mp.weixin.qq.com/s__biz=MzA5MjM4MTM3OA==&amp;mid=2651768416&amp;idx=1&amp;sn=8cdda62dfb39bdd956a63b3393d99ade&amp;chksm=8b946fcdbce3e6db37a1dc148c24a430c484d376a88f608e9ab12e4edae98c000847868132a0&amp;token=360509066&amp;lang=zh_CN#rd</link>
-            <guid>bc46d24e4c6bbde10e8bf1dc9d64425a</guid>
-            <pubDate>Sat, 12 Dec 2020 08:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腆着脸做科普了，是因为发现科普需要历史】《美国自然博物馆终极指南》这本书从酝酿到出版，横跨了我从学生到老师的转变。美国自然历史博物馆AMNH是我奋斗过的地方，我在那里做了两期实习，当时每天早出晚归，参与了博物馆奇妙夜，参与了很多人类学展品的整理，协助了一位知名学者的亚洲研究……]]></title>
-            <link>http://book.douban.com/review/13041762/</link>
-            <guid>79b112975608c1a9fde688d93c5b892a</guid>
-            <pubDate>Sat, 12 Dec 2020 07:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[那些憎恶我的人，在我死后，会以另一种态度争先恐后地看我的电影]]></title>
-            <link>http://www.allnow.com/post/5fd36e7bc84b905ab2b38acc</link>
-            <guid>092e6fdc5b6cb31b25d06a6a13d44dfa</guid>
-            <pubDate>Sat, 12 Dec 2020 07:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
