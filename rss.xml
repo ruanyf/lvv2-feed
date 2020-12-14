@@ -4,11 +4,24 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 20:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 22:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[我们在他墓前读诗，纪念这个 14 年前离世的少年]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/5fd740dadee9c1e16d315a3ds=eyJ1IjoiNWVjY2ZkY2YyODM3YjIwODVkMDA2MWVlIn0=
+</link>
+            <guid>fe3e252d8df73d94ca2924b8f4c91424</guid>
+            <pubDate>Tue, 15 Dec 2020 06:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[熊猫珍贵的原因找到了]]></title>
+            <link>http://weibointl.api.weibo.com/share/189963126.htmlweibo_id=4582037401116424</link>
+            <guid>26c4318a0efcdbc12723f67ea06c56cc</guid>
+            <pubDate>Tue, 15 Dec 2020 05:10:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【代驾的光荣】规矩且体面地挣钱，代驾为这个职业感到光荣。他们活跃于深夜，也正被这深夜改变。]]></title>
             <link>http://www.disansheng.com/index/details/1867</link>
@@ -531,12 +544,6 @@
             <link>http://mp.weixin.qq.com/s/P14Ty5nLkE_AbzDeEB3qkQ</link>
             <guid>a8c8c8d407120c31e9b85f02b358ba51</guid>
             <pubDate>Sun, 13 Dec 2020 18:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南国际电影节，严重误判了文青的消费能力和消费取向】从今年的主要放映、讨论和颁奖场地看，适合对标的应该是圣丹斯电影节。新近装修并投入使用的万达影城周边，几乎没有便民餐饮，不过到国际免税城的打车费低至10元以内——只是，砸上百元赶场、花上千元买几十场电影票的影迷，真的未必会去免税店“血拼”。]]></title>
-            <link>http://mp.weixin.qq.com/s/a_lQHiVSlOjpeVpSM92xyA</link>
-            <guid>b7182b868dc1c76ae397c30d99a143e6</guid>
-            <pubDate>Sun, 13 Dec 2020 18:10:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
