@@ -45,9 +45,11 @@ const newFeed = new Feed({
     }
 
     const hostFilterArr = [
+      'meipin.im',
       'video.weibo.com',
       'video.h5.weibo.cn',
       't.cn',
+      'wap.newsmth.net',
       'www.yystv.cn',
     ];
     if (hostFilterArr.includes(hostname)) return;
