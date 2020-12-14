@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 18:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 20:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【代驾的光荣】规矩且体面地挣钱，代驾为这个职业感到光荣。他们活跃于深夜，也正被这深夜改变。]]></title>
+            <link>http://www.disansheng.com/index/details/1867</link>
+            <guid>f0149d2baecac0dc1ac0703debb2f2b9</guid>
+            <pubDate>Tue, 15 Dec 2020 03:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【Pornhub下架网站中的大部分视频】截至本文撰写时，Pornhub似乎已经下架了超过880万个视频：该网站在周日晚上拥有1350万个视频；截至周一早上，它只剩下470万个。]]></title>
             <link>http://www.cnbeta.com/articles/tech/1065721.htm</link>
@@ -531,18 +537,6 @@
             <link>http://mp.weixin.qq.com/s/a_lQHiVSlOjpeVpSM92xyA</link>
             <guid>b7182b868dc1c76ae397c30d99a143e6</guid>
             <pubDate>Sun, 13 Dec 2020 18:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在非洲玩游戏】在坦桑尼亚永远火热的阳光下，似乎看不到电子游戏存在的土壤。由于网络游戏公司甚至没有兴趣在非洲多架设几个服务器，坦桑尼亚的人们和生活在南亚或东南亚的普通人那样，连前往网吧玩主流网络游戏的机会都很难得。]]></title>
-            <link>http://www.chuapp.com/article/287665.html</link>
-            <guid>092914786d8e7f370ccff09c20fc263f</guid>
-            <pubDate>Sun, 13 Dec 2020 17:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【4K修复版《上甘岭》：感动，不止来自每一帧画面的精细还原】我用非修复版的电影截图，尽可能说明修复版电影里涌现的那些细节。]]></title>
-            <link>http://mp.weixin.qq.com/s/tazyQ7e993I1D3wTNKk_vQ</link>
-            <guid>b328211d253f35c9b4b68914eef3115b</guid>
-            <pubDate>Sun, 13 Dec 2020 17:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
