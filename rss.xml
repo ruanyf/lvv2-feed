@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 01:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 02:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩国迎疫情暴发以来“最大危机”】韩国12日报告新增950例新冠确诊病例，创下该国疫情暴发以来单日新增最高纪录。韩国第三波疫情从11月开始在首都圈等地快速扩散。亲友聚会、补习班、桑拿房、餐厅、军营、宗教场所和疗养设施频繁发生大规模集体感染。]]></title>
+            <link>http://mp.weixin.qq.com/s/qwttSLJWBQhzQu_cxAqnww</link>
+            <guid>bcadf91f5b24d91bc0d2c7d17aeda896</guid>
+            <pubDate>Mon, 14 Dec 2020 10:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[难怪很多人不愿意跟老人住一起]]></title>
+            <link>http://wap.newsmth.net/article/dc331faed31e14b4d9908b4c5d488995</link>
+            <guid>cf8abf7a7b49807fd74371713fe8cdcd</guid>
+            <pubDate>Mon, 14 Dec 2020 10:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张筱叶：监狱戏剧】过去六年里我一直在监狱里尝试带着服刑人员做戏剧活动，从事相关的研究。我们的常识里会觉得这种活动总的来说肯定是好事，但他却说，如果你只是在做一个单纯的艺术活动，没有重视监狱本身，没有意识到监狱跟社会的关系，这个活动就只是一种肤浅的、装饰性的正义。]]></title>
+            <link>http://mp.weixin.qq.com/s/lCBkcA6XNOZq66ZXJCfJ4A</link>
+            <guid>3463ba517b70385897b729a2261b87d8</guid>
+            <pubDate>Mon, 14 Dec 2020 09:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[没品 4chan笑话集：曼联成功向鲍里斯展示了离开欧洲（从欧冠出局）可以多么简单。]]></title>
+            <link>http://meipin.im/p/101251</link>
+            <guid>20af10b2284551b1d76cb2eecf83b7cf</guid>
+            <pubDate>Mon, 14 Dec 2020 09:35:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【重点部署，重返世界大洋的俄罗斯海军】目前，俄海军从太平洋到大西洋有两条航线，一条是存在冰冻期的北极航线，另一条则是缺少补给点的印度洋航线。在红海地区设立苏丹基地后，无需再费力经过拥挤的苏伊士运河进入地中海，就能获得停泊和补给。如果有能力支持核动力船，它可能会成为俄罗斯核潜艇重要的新作战起点。]]></title>
             <link>http://page.om.qq.com/page/OW1-ZhKxEuthXiO-gVZATosg0</link>
@@ -514,28 +538,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://mp.weixin.qq.com/s/BDBV7Hq448W5kdl9QN5zgg</link>
             <guid>31b0a031225feefc8240cebb804b9189</guid>
             <pubDate>Sat, 12 Dec 2020 18:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】“唯一可以击败威吓的方法，就是面对恐惧。这是作为反抗势力的象征的责任。”
-
-在壹传媒创办人黎智英12月3日因诈骗罪被还押候审前，他接受了BBC独家访问。
-
-而在周五（12月11日），他被加控勾结外国势力、危害国家安… ]]></title>
-            <link>http://twitter.com/bbcchinese/status/1337683640067760129</link>
-            <guid>6355ec0400bbc422e5d74bd89d0372ad</guid>
-            <pubDate>Sat, 12 Dec 2020 18:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政治局会议首次提及，什么是“需求侧改革”？]]></title>
-            <link>http://wallstreetcn.com/articles/3613292</link>
-            <guid>299eafa8c3c125e8b392018576b5b32e</guid>
-            <pubDate>Sat, 12 Dec 2020 18:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最新研究发现，压力太大会“唤醒”休眠的癌细胞]]></title>
-            <link>http://www.tmtpost.com/4890197.html</link>
-            <guid>f812da4c2004bb17eab8909908529f35</guid>
-            <pubDate>Sat, 12 Dec 2020 18:10:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
