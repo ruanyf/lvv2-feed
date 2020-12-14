@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 03:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 04:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【社区团购补贴大战，消费品公司左右为难】“跟他做也没必要。让他耗吧，看他能耗到什么时候…他（们）不可能永远补贴吧？等他们这波钱烧完了我们再讨论。”]]></title>
+            <link>http://www.nbd.com.cn/articles/2020-12-13/1570717.html</link>
+            <guid>5621e7e86df347751ef452e2f690be02</guid>
+            <pubDate>Mon, 14 Dec 2020 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中纪委揭露东方金诚腐败案例】12月14日，中央纪委国家监委网站披露，近日，知名评级机构东方金诚国际信用评估有限公司原总经理金永授、东方金诚江苏分公司原总经理崔润海被“双开”，涉嫌犯罪问题被移送检察机关依法审查起诉，所涉财物随案移送。]]></title>
+            <link>http://v.ccdi.gov.cn/2020/12/11/VIDEsDYumqXl4Z1aaShNH5uF201211.shtml</link>
+            <guid>16916e9b9c1423a58dbc3d09602995da</guid>
+            <pubDate>Mon, 14 Dec 2020 12:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧美各地出现的神秘金属巨柱到底是什么？ ]]></title>
+            <link>http://twitter.com/bbcchinese/status/1338308869072752641</link>
+            <guid>8252eb30c21bbebf5d90f37d74f06d60</guid>
+            <pubDate>Mon, 14 Dec 2020 11:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人人贷也出事：利息全无，本金打6.5折！创始人两个北大一个清华，曾登上福布斯榜]]></title>
+            <link>http://company.stcn.com/gsxw/202012/t20201213_2622120.html</link>
+            <guid>c8e97e98e9eaca669dde172ca3a6908f</guid>
+            <pubDate>Mon, 14 Dec 2020 11:35:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[著名电影表演艺术家、作家，曾获得上海第七届文学艺术奖终身成就奖的黄宗英于今晨（12月14日）3时28分于华东医院逝世，享年95岁。 ​​​​]]></title>
             <link>http://news.mtime.com/2020/12/14/1605131.html</link>
@@ -512,31 +536,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.nbd.com.cn/articles/2020-12-12/1570425.html</link>
             <guid>53d0723aba1a1032572bc692155002c9</guid>
             <pubDate>Sat, 12 Dec 2020 21:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科学健身系列文章之三——什么才是健身]]></title>
-            <link>http://mp.weixin.qq.com/s/kJyRR8KT1qialuxHFTuiew</link>
-            <guid>a9cd95018db338ebd583a4327c934ded</guid>
-            <pubDate>Sat, 12 Dec 2020 20:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普表示，第一例疫苗注射会在24小时内完成。
-]]></title>
-            <link>http://bbc.in/38bq7xh</link>
-            <guid>a2345a2efdd39d06ba98949b0031fb65</guid>
-            <pubDate>Sat, 12 Dec 2020 20:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020长三角城市跨城通勤年度报告】上海93.17%跨城通勤者住在苏州。长三角的上海、杭州、南京三个中心城市均与周边城市形成了较为显著跨城通勤联系。在通勤规模上，上海、杭州与周边城市已经形成了较大规模的跨城通勤双向联系，而南京的跨城通勤规模相对较小。]]></title>
-            <link>http://mp.weixin.qq.com/s/rCU5piZESZQQYTKwP4W9ow</link>
-            <guid>2013aa9194cab989a067f2ff6464775f</guid>
-            <pubDate>Sat, 12 Dec 2020 20:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[年轻人不讲武德，不讲武德的何止年轻人？王霏霏，袁姗姗，何洛洛，三人联手呈现了尬穿天际的假弹假唱的精彩舞台。“何洛洛什么时候会弹贝斯的”这个热搜买的比霍金的脑洞都还大。只听说过把贝斯错认成吉他的，竟然还有把吉他错认成贝斯……]]></title>
-            <link>http://m.weibo.cn/status/4581317524329295</link>
-            <guid>6d59bd4bb4f16fb7cea1c8d9062928b1</guid>
-            <pubDate>Sat, 12 Dec 2020 19:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
