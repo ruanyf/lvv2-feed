@@ -4,11 +4,36 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 04:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 05:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[肯德基新品炸鸡吃完了。这真是一次奇妙的进食体验。我真的想不到是什么样的鬼才厨师能想出如此惨绝人寰的配方。//@狸小璐：我觉得非常好吃，那层粉就是可乐软糖的味，我吃完还上瘾了，连吃了好几次//@不太懂吃：你们吃炸鸡都不去皮的吗]]></title>
+            <link>http://weibo.com/5610293875/Jy9bn9vJh</link>
+            <guid>09f2510f3b5ae84138fb33176bbce7f8</guid>
+            <pubDate>Mon, 14 Dec 2020 13:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[监管出手！阿里、阅文、丰巢违反《反垄断法》 给予行政处罚]]></title>
+            <link>http://wallstreetcn.com/articles/3613402</link>
+            <guid>46b72b41079fdad560940e4e406caa93</guid>
+            <pubDate>Mon, 14 Dec 2020 13:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场监管总局反垄断局主要负责人：互联网行业不是反垄断法外之地，所有企业都应当严格遵守反垄断法律法规，维护市场公平竞争，也只有这样，才能确保整个行业的健康发展。]]></title>
+            <link>http://www.samr.gov.cn/xw/zj/202012/t20201214_324336.html</link>
+            <guid>f0e1d33b97b88397f3abe5a7155d9dc0</guid>
+            <pubDate>Mon, 14 Dec 2020 12:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[不必谈技能、训练甚至运气。如果你是中国的一名女足运动员，那么胜败有时取决于你头发的颜色。
+福州大学与集美大学女足队比赛起初因双方均有球员染发而取消，教练为此紧急购买染发膏补救。福州大学队最终因一名球员头发仍然“不够乌黑”无法上场，… ]]></title>
+            <link>http://twitter.com/nytchinese/status/1338323608171507714</link>
+            <guid>4f487f1643d3668110ad9d01e23559fe</guid>
+            <pubDate>Mon, 14 Dec 2020 12:40:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【社区团购补贴大战，消费品公司左右为难】“跟他做也没必要。让他耗吧，看他能耗到什么时候…他（们）不可能永远补贴吧？等他们这波钱烧完了我们再讨论。”]]></title>
             <link>http://www.nbd.com.cn/articles/2020-12-13/1570717.html</link>
@@ -58,22 +83,10 @@
             <pubDate>Mon, 14 Dec 2020 10:25:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[难怪很多人不愿意跟老人住一起]]></title>
-            <link>http://wap.newsmth.net/article/dc331faed31e14b4d9908b4c5d488995</link>
-            <guid>cf8abf7a7b49807fd74371713fe8cdcd</guid>
-            <pubDate>Mon, 14 Dec 2020 10:10:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[【张筱叶：监狱戏剧】过去六年里我一直在监狱里尝试带着服刑人员做戏剧活动，从事相关的研究。我们的常识里会觉得这种活动总的来说肯定是好事，但他却说，如果你只是在做一个单纯的艺术活动，没有重视监狱本身，没有意识到监狱跟社会的关系，这个活动就只是一种肤浅的、装饰性的正义。]]></title>
             <link>http://mp.weixin.qq.com/s/lCBkcA6XNOZq66ZXJCfJ4A</link>
             <guid>3463ba517b70385897b729a2261b87d8</guid>
             <pubDate>Mon, 14 Dec 2020 09:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[没品 4chan笑话集：曼联成功向鲍里斯展示了离开欧洲（从欧冠出局）可以多么简单。]]></title>
-            <link>http://meipin.im/p/101251</link>
-            <guid>20af10b2284551b1d76cb2eecf83b7cf</guid>
-            <pubDate>Mon, 14 Dec 2020 09:35:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【重点部署，重返世界大洋的俄罗斯海军】目前，俄海军从太平洋到大西洋有两条航线，一条是存在冰冻期的北极航线，另一条则是缺少补给点的印度洋航线。在红海地区设立苏丹基地后，无需再费力经过拥挤的苏伊士运河进入地中海，就能获得停泊和补给。如果有能力支持核动力船，它可能会成为俄罗斯核潜艇重要的新作战起点。]]></title>
@@ -454,12 +467,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <pubDate>Sun, 13 Dec 2020 08:10:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[被这张图震惊了！]]></title>
-            <link>http://wap.newsmth.net/article/3cfb8faaff18007358372e5bf4ee8949</link>
-            <guid>9ec5fe704b01820b489f279d7bcaa376</guid>
-            <pubDate>Sun, 13 Dec 2020 07:50:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[【京东投资兴盛优选，谁是最大赢家？】腾讯同时是京东和兴盛的战略级投资者。这为这笔交易的成行提供了可能。兴盛优选的早期最大投资人是今日资本的徐新。而徐新同时又是京东早期最大的投资人。]]></title>
             <link>http://mp.weixin.qq.com/s/feh_ZK_QMmOFDehjttu4aA</link>
             <guid>d82398fc9a8b2fd26026e3ad20bc7a8d</guid>
@@ -518,24 +525,6 @@ BBC中文访问了影片发行商“影意志”艺术总监… ]]></title>
             <link>http://www.jiemian.com/article/5393875.html</link>
             <guid>bf71011ce29ba8cdf09575d873a687e6</guid>
             <pubDate>Sat, 12 Dec 2020 22:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瞭望｜文物盗贩的地下江湖]]></title>
-            <link>http://mp.weixin.qq.com/s/SSaejNtpPcbAxIE81Z9kdw</link>
-            <guid>3ea18fdb4d135de7143e857f66036e90</guid>
-            <pubDate>Sat, 12 Dec 2020 22:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛博朋克2077科幻彩蛋汇总】游戏解锁还不到48h，我们综合广大玩家和自己能找到的所有资料，整理了游戏里的第一批科幻梗。我料到了这游戏里彩蛋很多。但没料到蛋里都是刀。]]></title>
-            <link>http://mp.weixin.qq.com/s/pFFmmcSnKXbDcTZ5vTQ0iQ</link>
-            <guid>6d06b0af9ff2670bb83584b3a8385785</guid>
-            <pubDate>Sat, 12 Dec 2020 21:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家供应商禁止给社区团购平台供货】以多多买菜、美团优选等位代表的社区团购平台出现严重低价现象，甚至个别产品远低于出厂价，影响严重，损害客户利益。]]></title>
-            <link>http://www.nbd.com.cn/articles/2020-12-12/1570425.html</link>
-            <guid>53d0723aba1a1032572bc692155002c9</guid>
-            <pubDate>Sat, 12 Dec 2020 21:10:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
