@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 16:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 18:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Pornhub下架网站中的大部分视频】截至本文撰写时，Pornhub似乎已经下架了超过880万个视频：该网站在周日晚上拥有1350万个视频；截至周一早上，它只剩下470万个。]]></title>
+            <link>http://www.cnbeta.com/articles/tech/1065721.htm</link>
+            <guid>368cc2d654534ab4c28b57abcbac8149</guid>
+            <pubDate>Tue, 15 Dec 2020 02:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【医保谈判第一天…】外界最关心的肿瘤药以及PD-1的谈判将在16号开始；因“70万元一针”引爆舆论的治疗SMA的罕见病药物，没能通过医保局组织的药物经济学测算程序，无缘进入医保目录；对中成药压价幅度低于企业之前的设想。]]></title>
+            <link>http://mp.weixin.qq.com/s/Q3u54yJTDni_E_Esx4Eh5A</link>
+            <guid>d16ed0ad12b382ca3cad3473c41d1c9c</guid>
+            <pubDate>Tue, 15 Dec 2020 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[超越无形死神：第一位突破音障的飞行员查克·耶格尔]]></title>
             <link>http://www.gcores.com/articles/131540</link>
@@ -531,18 +543,6 @@
             <link>http://mp.weixin.qq.com/s/tazyQ7e993I1D3wTNKk_vQ</link>
             <guid>b328211d253f35c9b4b68914eef3115b</guid>
             <pubDate>Sun, 13 Dec 2020 17:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】这位运动人士花了四年时间，在社区收集居民的意见，成功令中国一家能源公司兴建煤碳厂的计划告吹，最后他更因此而获奖。 ]]></title>
-            <link>http://twitter.com/bbcchinese/status/1338015838486618112</link>
-            <guid>9542159d6e2fee9a49e1c247bac9221f</guid>
-            <pubDate>Sun, 13 Dec 2020 17:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预备中产、农民工与“人才”的居住境遇】长租公寓爆雷事件似乎把年轻白领这一受过高等教育的预备中产群体“打回原形”，这些年轻人在城市承认系统中的“被除名”，与近年来在城中村消亡过程中被驱赶的“从不具名”的底层流动人口形成了对照。]]></title>
-            <link>http://mp.weixin.qq.com/s/2KnYuoJsGgyauZAM1ienEQ</link>
-            <guid>45b69d409618cde954b8e28f1cc4af08</guid>
-            <pubDate>Sun, 13 Dec 2020 17:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
