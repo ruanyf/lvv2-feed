@@ -18,8 +18,8 @@ const newFeed = new Feed({
   language: 'zh-CN',
   generator: 'Lvv2 feed generator',
   feedLinks: {
-    json: 'https://ruanyf.github.io/rss.json',
-    rss: 'https://ruanyf.github.io/rss.xml'
+    json: 'https://ruanyf.github.io/lvv2-feed/rss.json',
+    rss: 'https://ruanyf.github.io/lvv2-feed/rss.xml'
   },
 });
 
