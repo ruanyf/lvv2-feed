@@ -4,11 +4,45 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 14 Dec 2020 14:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2020 16:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[超越无形死神：第一位突破音障的飞行员查克·耶格尔]]></title>
+            <link>http://www.gcores.com/articles/131540</link>
+            <guid>d86c0ffd3416d25110ebd50456c99c5f</guid>
+            <pubDate>Tue, 15 Dec 2020 00:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《巡回检察组》首播测评：又一部《人民的名义》？】《巡回检察组》原来叫《人民的正义》。一度更名为《正义颂》，随后又改名为《正义之名》。但最后播出时，就成了辨识度更低的《巡回检察组》。显然上头虽然允许这部剧播出，但也希望它“低调”播出。]]></title>
+            <link>http://ent.ifeng.com/c/82BlidZr0eb</link>
+            <guid>cca6235f2a7a5251b2a961d66958df86</guid>
+            <pubDate>Tue, 15 Dec 2020 00:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新冠疫苗为人类带来希望，但你知道背后有什么隐忧，又有谁在努力缓解不公平的问题吗？
+
+相关报道： ]]></title>
+            <link>http://www.bbc.com/zhongwen/simp/world-55255774</link>
+            <guid>1c16da7abf1e43785d16038c176e470e</guid>
+            <pubDate>Mon, 14 Dec 2020 23:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[退市新规靴子落地！重点来了： 取消暂停上市、恢复上市，新增财务造假退市量化指标]]></title>
+            <link>http://m.21jingji.com/article/20201214/herald/7bc66c317859b01276096d01ae860eac.html</link>
+            <guid>4b26002517050cd9d25069745272acc8</guid>
+            <pubDate>Mon, 14 Dec 2020 23:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿斯图里亚斯地区位于西班牙西北部，与卡斯蒂利亚高原之间隔着坎塔布连山脉。
+这是一片充满反差的土地，这里曾是工业和矿业重镇，如今则被称为“自然天堂”。这里有大片森林和基本未受破坏的海岸线，田园文化遗迹清晰可见。
+]]></title>
+            <link>http://nyti.ms/2W3MyP3</link>
+            <guid>13d8b2947dd37752d339e0a8cb27a37c</guid>
+            <pubDate>Mon, 14 Dec 2020 22:40:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[千不该万不该，不该和福建人斗奶茶…]]></title>
             <link>http://www.guokr.com/article/458906/</link>
@@ -509,36 +543,6 @@
             <link>http://mp.weixin.qq.com/s/2KnYuoJsGgyauZAM1ienEQ</link>
             <guid>45b69d409618cde954b8e28f1cc4af08</guid>
             <pubDate>Sun, 13 Dec 2020 17:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为了当海淀妈妈，我从500强辞职】她从通用电气离职，在黑暗中努力和摸索了三年之后，儿子花生成功“上岸”。她将自己的经验和儿子努力的过程一一记录成书，就取名《上岸》。]]></title>
-            <link>http://www.huxiu.com/article/399474.htmlf=chouti</link>
-            <guid>3a1362881e7612e78c8ab7798c56d430</guid>
-            <pubDate>Sun, 13 Dec 2020 16:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国王室甄嬛传又更新！曾经闹出过全裸给狗庆生的第三任妻子西拉米，在被废黜后被勒令削发为尼……但最近，泰国国王似乎准备再把她接回来，这会让三个女人形成一个三足鼎立的局势，让后宫在明面上稳定下来……]]></title>
-            <link>http://mp.weixin.qq.com/s/EFB5TSDzc7oGXokAtDNDrQ</link>
-            <guid>a3fbc8ae9a13aa95f24a626f1577a423</guid>
-            <pubDate>Sun, 13 Dec 2020 16:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄道十二宫杀手密码51年后被破解，来自两位程序员与数学家通力合作】谈到Z340密码为何会悬而未决50多年，破解者之一Blake表示是因为：密码的阅读方向太晦涩，以至于找到它的唯一方法是，使用复杂的软件对许多候选答案进行大规模搜索，才能有效解决谐音替代密码。]]></title>
-            <link>http://www.qbitai.com/2020/12/20435.html</link>
-            <guid>73c530cd1aad6868b13c9ee8d31c519d</guid>
-            <pubDate>Sun, 13 Dec 2020 16:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本一镇女议员声称被“镇长”性侵后，她却被全镇的人投票除名了】在草津町，拥护町长和町议会的选民们自有他们的道理。有许多选民认为他们不能理解新井祥子的说辞，她的言论败坏了草津町的名声，不配当公务员。但在日本的其他地方，更多人表示难以理解。]]></title>
-            <link>http://www.allnow.com/post/5fd59938b96d232650aab291</link>
-            <guid>d452a6e642ba70d80c3f7895cf4d3998</guid>
-            <pubDate>Sun, 13 Dec 2020 15:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【从好耶停工停产，谈广告公司兴衰魔咒】成立于1998年的好耶，当年可是互联网广告的早期探索者，唯一一家在互联网泡沫中活到今天的网络广告先驱公司，好耶倒闭不单是一个疫情落在行业上的悲剧，它更意味着一个时代正在远去。]]></title>
-            <link>http://mp.weixin.qq.com/s/w_ukC61v1qtF-w2bVwxRjg</link>
-            <guid>6f0adef5a6927c4a792ca277f95450eb</guid>
-            <pubDate>Sun, 13 Dec 2020 15:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
