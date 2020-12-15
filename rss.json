@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "c9240e7013daf1568c95ae7b7240d060",
+            "content_html": "",
+            "url": "http://www.cb.com.cn/index/show/dsx/cv/cv1332671277/p/s.html",
+            "title": "【协定里的中国】尽管相比于CPTPP，RCEP有着鲜明的“更包容、更具灵活性、更务实”的中国风格，但这并不影响对CPTPP是一个自由贸易开放程度更高的自贸协定的判断。不管拜登就任美国总统后，美国是否会重新加入CPTPP，现在英国已经公开表态要加入CPTPP，如果中国不能正面面对，那么，CPTPP将会重新起到TPP时的战略作用。",
+            "date_modified": "2020-12-16T06:10:01.000Z"
+        },
+        {
             "id": "af2029eac9d1e2b470ebe4a389bbfae4",
             "content_html": "",
             "url": "http://www.pearvideo.com/video_1711756",
@@ -613,13 +620,6 @@
             "url": "http://weibo.com/2214257545/JyihjfhDJ",
             "title": "【风靡90年代的小玩具：霍伯曼球】设计师查克·霍伯曼出品的一系列“玩具球”是上世纪末最受欢迎的玩具之一。通过特别设计的装置，可以变化几十倍的体积。除了在玩具领域的衍生品外，“霍伯曼球”的原理还被广泛应用在工业、设计和医疗领域，例如心脏支架的设计。",
             "date_modified": "2020-12-14T17:50:01.000Z"
-        },
-        {
-            "id": "0170af5e2379099800956ae6e99ba3fc",
-            "content_html": "",
-            "url": "http://gouhuo.qq.com/content/detail/4_20201214164903_52Ls4HUdM",
-            "title": "CDPR 官方发布了声明为《赛博朋克 2077》没能充分主机版的表现而致歉并表示将会继续修复 bug 和崩溃问题、优化体验。文中提到本周内还有会补丁推出，而在接下来的 1 月、2 月将会陆续进行大型更新。同时如果玩家对游戏在主机上的表现不满意，数字版将可以联系 PSN/Xbox 退款。",
-            "date_modified": "2020-12-14T17:45:01.000Z"
         }
     ]
 }
