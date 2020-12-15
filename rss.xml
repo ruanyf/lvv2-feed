@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 15 Dec 2020 02:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[近日，南京市市场监管局发布《电商“菜品社区团购”合规经营告知书》，在全省范围内率先规范社区团购市场。《告知书》重点强调了“有序竞争”和“诚信经营”两个关键词，要求平台经营者不得以不正当竞争方式获取交易机会或竞争优势，并因此损害其他经营者或消费者合法权益，尤其不得以低于成本的价格实施低价倾销。]]></title>
+            <link>http://jsnews.jschina.com.cn/nj/a/202012/t20201212_2688120.shtml</link>
+            <guid>54c11d0b42921e4c6e17685c4533fd3b</guid>
+            <pubDate>Tue, 15 Dec 2020 11:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【来自26年前的电波：窦唯的《黑梦》与《赛博朋克2077》】@左耳朵耗子：Cyberpunk 2077主线任务，做完“我心如火”，接着来个“黑梦”，然后再来个“高级动物”…翻译组致敬窦唯无疑了…]]></title>
             <link>http://www.gcores.com/articles/131729</link>
@@ -103,12 +109,6 @@
 </link>
             <guid>fe3e252d8df73d94ca2924b8f4c91424</guid>
             <pubDate>Tue, 15 Dec 2020 06:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[熊猫珍贵的原因找到了]]></title>
-            <link>http://weibointl.api.weibo.com/share/189963126.htmlweibo_id=4582037401116424</link>
-            <guid>26c4318a0efcdbc12723f67ea06c56cc</guid>
-            <pubDate>Tue, 15 Dec 2020 05:10:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【代驾的光荣】规矩且体面地挣钱，代驾为这个职业感到光荣。他们活跃于深夜，也正被这深夜改变。]]></title>
@@ -540,12 +540,6 @@
             <link>http://new.qq.com/omn/20201213/20201213A0CKS600.html</link>
             <guid>d096df373171456e64cc32b2b575099c</guid>
             <pubDate>Mon, 14 Dec 2020 00:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑大一附院一科室主任被实名举报回扣、高利贷】尽管部分医生收取回扣的事例已是业界潜规则，司法部门整治医生收受贿赂的案件也屡见不鲜。但直接举报医生、并列出详尽账目的方式发布在网络上，却极其罕见。当畸形的利益同盟体瓦解后，医药代表、生意人和医生王静最终撕破脸。]]></title>
-            <link>http://mp.weixin.qq.com/s/F2Utisqg088UcqOiU56cfQ</link>
-            <guid>2e33787200878c2b22a5570be69d0593</guid>
-            <pubDate>Sun, 13 Dec 2020 23:35:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

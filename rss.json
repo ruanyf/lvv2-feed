@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "54c11d0b42921e4c6e17685c4533fd3b",
+            "content_html": "",
+            "url": "http://jsnews.jschina.com.cn/nj/a/202012/t20201212_2688120.shtml",
+            "title": "近日，南京市市场监管局发布《电商“菜品社区团购”合规经营告知书》，在全省范围内率先规范社区团购市场。《告知书》重点强调了“有序竞争”和“诚信经营”两个关键词，要求平台经营者不得以不正当竞争方式获取交易机会或竞争优势，并因此损害其他经营者或消费者合法权益，尤其不得以低于成本的价格实施低价倾销。",
+            "date_modified": "2020-12-15T11:10:01.000Z"
+        },
+        {
             "id": "fa65f839a9ad6da8e06a9d9fa201a650",
             "content_html": "",
             "url": "http://www.gcores.com/articles/131729",
@@ -109,13 +116,6 @@
             "url": "http://www.xiaoyuzhoufm.com/episode/5fd740dadee9c1e16d315a3ds=eyJ1IjoiNWVjY2ZkY2YyODM3YjIwODVkMDA2MWVlIn0=\n",
             "title": "我们在他墓前读诗，纪念这个 14 年前离世的少年",
             "date_modified": "2020-12-15T06:10:02.000Z"
-        },
-        {
-            "id": "26c4318a0efcdbc12723f67ea06c56cc",
-            "content_html": "",
-            "url": "http://weibointl.api.weibo.com/share/189963126.htmlweibo_id=4582037401116424",
-            "title": "熊猫珍贵的原因找到了",
-            "date_modified": "2020-12-15T05:10:02.000Z"
         },
         {
             "id": "f0149d2baecac0dc1ac0703debb2f2b9",
@@ -599,13 +599,6 @@
             "url": "http://new.qq.com/omn/20201213/20201213A0CKS600.html",
             "title": "【新冠下，F1走过的这一年：一个特殊年份，一个情理之中的剧本】经历了疫情的考验，见证了许多新老赛道的出现，以及各种出乎意料的“剧本”，20赛季终于以一场“平淡无奇”的比赛收场。",
             "date_modified": "2020-12-14T00:10:01.000Z"
-        },
-        {
-            "id": "2e33787200878c2b22a5570be69d0593",
-            "content_html": "",
-            "url": "http://mp.weixin.qq.com/s/F2Utisqg088UcqOiU56cfQ",
-            "title": "【郑大一附院一科室主任被实名举报回扣、高利贷】尽管部分医生收取回扣的事例已是业界潜规则，司法部门整治医生收受贿赂的案件也屡见不鲜。但直接举报医生、并列出详尽账目的方式发布在网络上，却极其罕见。当畸形的利益同盟体瓦解后，医药代表、生意人和医生王静最终撕破脸。",
-            "date_modified": "2020-12-13T23:35:01.000Z"
         }
     ]
 }
