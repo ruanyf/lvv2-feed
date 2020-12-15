@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 15 Dec 2020 14:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 16:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧盟发布科技巨头监管新规】《数字市场法案》草案同时规定，在5年内被罚款3次的大型科技公司，将被列为“惯犯”，欧盟将采取行动，强制分拆他们业务。新规如果以目前的形式获得通过成为法律，将成为世界上针对大型科技公司最严格的监管规定之一。]]></title>
+            <link>http://wallstreetcn.com/articles/3613624</link>
+            <guid>a28c45097ad2fd0273d65a2c041ba4cc</guid>
+            <pubDate>Wed, 16 Dec 2020 00:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[给大家拆解一下《教父》里的求人之道]]></title>
+            <link>http://mp.weixin.qq.com/s/sXEmt0rJE5y2-5YhWWGISQ</link>
+            <guid>c798cce11942a1b1d178b6fd95c2f913</guid>
+            <pubDate>Tue, 15 Dec 2020 23:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[短视频诱导借贷引恶评，京东金融致歉：存在严重价值观问题，系团队管理不善导致违规上线]]></title>
+            <link>http://www.jiemian.com/article/5408265.html</link>
+            <guid>ae55838b0132c2425890dac8f01cd61e</guid>
+            <pubDate>Tue, 15 Dec 2020 22:55:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[有你中意的吗？专业摩托车媒体《Cycle World》评选出2020全球十佳摩托车]]></title>
             <link>http://mp.weixin.qq.com/s/Af67qTGW7UrNig0FRJ1jhQ</link>
@@ -528,48 +546,6 @@
             <link>http://www.thepaper.cn/newsDetail_forward_10387737</link>
             <guid>3cecd6dcee222b221f5e04bae1917acb</guid>
             <pubDate>Mon, 14 Dec 2020 16:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[内蒙人最搞笑的就是，喜欢说草好不好。哪怕是火车上认识的，一个内蒙人一旦知道你要来他家了，他就会开始分析现在的草好不好，有没有去年好。我说这个事情除了你们没有人在意，我们又不是去吃草的。]]></title>
-            <link>http://weibo.com/5873034077/JykQUpWPz</link>
-            <guid>1fbb7e882622bcdf0a5de96f09ff87d8</guid>
-            <pubDate>Mon, 14 Dec 2020 16:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西安机场的三种免费套餐】西部机场集团是我国乃至全球服务好的民航企业，可能没有之一。尤其是在它的大本营咸阳国际机场，其过夜中转服务不仅提供免费的住宿、餐饮和寄存，还可以享受免费的机场大巴和观光游。]]></title>
-            <link>http://mp.weixin.qq.com/s/qYMxYORZ0iI6wpdqB4C1AA</link>
-            <guid>d535419e57ace7439859808ea1535989</guid>
-            <pubDate>Mon, 14 Dec 2020 15:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【司机为救婴儿连闯红灯，事后家属拒作证，警方取消处罚】公安部新闻中心官方微博@中国警方在线 称：经过核实，警察蜀黍已经取消了对司机艾师傅的处罚。我们不能让好人做了好事之后，还寒了心！]]></title>
-            <link>http://static.cdsb.com/micropub/Articles/202012/98a7f3eb0a15e8766aa3e6bf32564674.html</link>
-            <guid>bf377472b5a3c0c4be233618b01eb10f</guid>
-            <pubDate>Mon, 14 Dec 2020 15:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首位登上月球的女性即将诞生】18名宇航员被选中参加NASA计划重返月球表面的任务“阿尔忒弥斯(Artemis)”，包括9名女性和9名男性，他们预计将于2024年登陆月球表面，整个任务将耗资280亿美元。]]></title>
-            <link>http://www.ngchina.com.cn/science/space/9935.html</link>
-            <guid>e77c3425b1fc55256bd9a6ceb4f353c3</guid>
-            <pubDate>Mon, 14 Dec 2020 15:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【寻找可橙：矫正治疗风波背后，跨性别女孩的自救行动】可橙与另一位原籍山东的跨性别女孩“烤鱼”被家长强制送往矫正治疗的风波，引起社交媒体极大关注。这些跨性别者，通常被家长以诱骗或强制手段，送往缺乏资质的教育与医疗机构，强制进行“性别矫正”教育，甚至被电击、强制用药、监禁和体罚。]]></title>
-            <link>http://www.allnow.com/post/5fd622a9c84b905ab2b38e1b</link>
-            <guid>eddb98403b85bd17e7d7504c95b6c7d7</guid>
-            <pubDate>Mon, 14 Dec 2020 15:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[温州：年底前市级单位办公区域气温在3℃以下时方可开空调]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_10387734</link>
-            <guid>e3c92d48189dcf51ed5f0354dc7e119d</guid>
-            <pubDate>Mon, 14 Dec 2020 15:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民币涨势不由人】多位经营传统劳动型密集外贸出口企业负责人与业务员表示，人民币升值到6.5关口已触及企业承压底线，利润空间压缩至负。即便是能够利用进口部分抵消汇率影响的大型外贸企业，压力也不小。]]></title>
-            <link>http://m.21jingji.com/article/20201214/herald/278ce6f527d38c12300842b53f3446df.html</link>
-            <guid>097419d6c37e19fdee3429d505650853</guid>
-            <pubDate>Mon, 14 Dec 2020 14:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
