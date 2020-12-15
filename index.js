@@ -48,6 +48,7 @@ const newFeed = new Feed({
       'meipin.im',
       'video.weibo.com',
       'video.h5.weibo.cn',
+      'weibointl.api.weibo.com',
       't.cn',
       'wap.newsmth.net',
       'www.yystv.cn',
