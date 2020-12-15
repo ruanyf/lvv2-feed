@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 15 Dec 2020 18:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 20:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[重庆江北，一建筑工地现2匹“打工骡”，与林立高楼格格不入引市民围观。施工方称工地高低落差70米，用现代设备和人工都有弊端，2匹骡子帮忙驮建材是最好的方案。俩骡子9月进场，每天工作8小时，月入45000元。]]></title>
+            <link>http://www.pearvideo.com/video_1711756</link>
+            <guid>af2029eac9d1e2b470ebe4a389bbfae4</guid>
+            <pubDate>Wed, 16 Dec 2020 04:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上周末，美国著名的艺术电影品牌CC宣布7碟《王家卫的世界》4K修复版蓝光套装将于2021年3月23日发行。包括：《旺角卡门》《阿飞正传》《重庆森林》《堕落天使》《春光乍泄》《花样年华》《2046》，加长版的《爱神之手》则会被收录进花絮内。]]></title>
+            <link>http://mp.weixin.qq.com/s/kBcn3iwwQ0ngy1QeFvh-zg</link>
+            <guid>c98ec54f7eba91e1f308dee6ff4a37c5</guid>
+            <pubDate>Wed, 16 Dec 2020 03:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【年底北京的饭局，不聊房聊车】美丽新世界就在眼前，但是奔向美丽新世界的路上，电动车的股价先飞上了天。上车的人恐惧，没上车的人焦虑。]]></title>
             <link>http://mp.weixin.qq.com/s/Tmsm7US8OYeEooFhJIiYaQ</link>
@@ -540,12 +552,6 @@
             <link>http://gouhuo.qq.com/content/detail/4_20201214164903_52Ls4HUdM</link>
             <guid>0170af5e2379099800956ae6e99ba3fc</guid>
             <pubDate>Mon, 14 Dec 2020 17:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[必须认识到，人的生殖器本来就是用来繁殖，大部分人只要能生育就合格了。能让异性春心荡漾的，这种只是少数，也就是被称为骚货，狐狸精的。有些所谓平等的权利，并不是对每个人都有用，有了你也用不上。小地方女人整天喊着要大几把，给你一根又怎么样，也就是生个娃，你不具备骚货的身体条件，这种东西你也消受不了，对吧]]></title>
-            <link>http://weibo.com/1620723217/JyjWk3uAs</link>
-            <guid>7dbcefbc6f12a04e89c875a491660a59</guid>
-            <pubDate>Mon, 14 Dec 2020 17:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
