@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 15 Dec 2020 16:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 18:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【年底北京的饭局，不聊房聊车】美丽新世界就在眼前，但是奔向美丽新世界的路上，电动车的股价先飞上了天。上车的人恐惧，没上车的人焦虑。]]></title>
+            <link>http://mp.weixin.qq.com/s/Tmsm7US8OYeEooFhJIiYaQ</link>
+            <guid>ff773086f9354edb3967d58827a42428</guid>
+            <pubDate>Wed, 16 Dec 2020 02:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[买不起香奈儿、看不上地摊货，新中产爱上国产千元包]]></title>
+            <link>http://www.allnow.com/post/5fd843dfc84b905ab2b390db</link>
+            <guid>9e67f1fead7e04956ebfcf41babb7749</guid>
+            <pubDate>Wed, 16 Dec 2020 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟发布科技巨头监管新规】《数字市场法案》草案同时规定，在5年内被罚款3次的大型科技公司，将被列为“惯犯”，欧盟将采取行动，强制分拆他们业务。新规如果以目前的形式获得通过成为法律，将成为世界上针对大型科技公司最严格的监管规定之一。]]></title>
             <link>http://wallstreetcn.com/articles/3613624</link>
@@ -534,18 +546,6 @@
             <link>http://weibo.com/1620723217/JyjWk3uAs</link>
             <guid>7dbcefbc6f12a04e89c875a491660a59</guid>
             <pubDate>Mon, 14 Dec 2020 17:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【足协主席：金元足球吞噬中国足球，还不觉醒难道良心已死？】球员与俱乐部之外的第三方签订合同，俱乐部与球员直系亲属签订经济合同，球员收取合同外价值超过一万元人民币的现金或者物品等行为，都必须向足协申报。俱乐部薪酬超支罚分，如果发现有俱乐部和球员签订阴阳合同，俱乐部直接降级，涉事球员禁赛24个月。]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_10384569</link>
-            <guid>9b96f75d3931ae141652696c2fff48e1</guid>
-            <pubDate>Mon, 14 Dec 2020 17:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纪念｜约翰·勒卡雷：在秘密世界之外，为更大的世界建造剧院】他的冷战惊悚小说细腻入微，情节错综复杂，通过将西方和苏联间谍描绘成一个充满背叛和个人悲剧的腐朽体系中道德妥协的齿轮，将间谍小说提升到了艺术的高度。]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_10387737</link>
-            <guid>3cecd6dcee222b221f5e04bae1917acb</guid>
-            <pubDate>Mon, 14 Dec 2020 16:35:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
