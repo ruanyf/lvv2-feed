@@ -4,11 +4,45 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 15 Dec 2020 01:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2020 02:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【来自26年前的电波：窦唯的《黑梦》与《赛博朋克2077》】@左耳朵耗子：Cyberpunk 2077主线任务，做完“我心如火”，接着来个“黑梦”，然后再来个“高级动物”…翻译组致敬窦唯无疑了…]]></title>
+            <link>http://www.gcores.com/articles/131729</link>
+            <guid>fa65f839a9ad6da8e06a9d9fa201a650</guid>
+            <pubDate>Tue, 15 Dec 2020 10:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌昨天挂是因为磁盘满了。。。。]]></title>
+            <link>http://v2ex.com/t/735514#reply6</link>
+            <guid>fd7f62c8b3ff085dfbe457afe1dca684</guid>
+            <pubDate>Tue, 15 Dec 2020 10:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普宣布司法部长威廉·巴尔将离职】在美国选举人团确认拜登胜选后不久，特朗普发推宣布司法部长威廉·巴尔将于圣诞节前离职。巴尔此前表示，没有迹象表明2020年大选存在大规模欺诈行为。特朗普对他的这一表态，以及针对“通俄门”起源的调查进展缓慢等非常不满。]]></title>
+            <link>http://world.huanqiu.com/article/416gC9CVVzE</link>
+            <guid>b374812c4b011fceedf734aa0128a3ed</guid>
+            <pubDate>Tue, 15 Dec 2020 09:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本汉字能力检定协会宣布，最能反映2020年世态民情的年度汉字为“密”，理由是许多人因新冠疫情而有意识避开“三密”——密闭、密集、密切接触。
+
+投票总数超过20万票，“密”获得2.8万票。
+
+图为清水寺住持森清范，在高1.5米、… ]]></title>
+            <link>http://twitter.com/bbcchinese/status/1338650379114967040</link>
+            <guid>39b2c53024fc5a2e2f98006832b5b85a</guid>
+            <pubDate>Tue, 15 Dec 2020 09:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[王栎鑫宣布和吴雅婷离婚，知情人曝离婚原因：女方家暴男方]]></title>
+            <link>http://www.sohu.com/a/438229433_120781357scm=1004.780752318059708416.0.0.0</link>
+            <guid>da84af243a52b89fe370109eeecd985a</guid>
+            <pubDate>Tue, 15 Dec 2020 09:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple Watch新增有氧适能检测，随时了解自己的心肺健康]]></title>
             <link>http://tech.qq.com/a/20201215/003842.htm</link>
@@ -512,37 +546,6 @@
             <link>http://mp.weixin.qq.com/s/F2Utisqg088UcqOiU56cfQ</link>
             <guid>2e33787200878c2b22a5570be69d0593</guid>
             <pubDate>Sun, 13 Dec 2020 23:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谁在购买Vintage？]]></title>
-            <link>http://www.tmtpost.com/4890483.html</link>
-            <guid>542e174d14d4a8314ce638b859cbb180</guid>
-            <pubDate>Sun, 13 Dec 2020 23:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新冠疫苗：美国周一开始首轮接种，医疗工作者和养老院居民为优先群体
-]]></title>
-            <link>http://bbc.in/37dTQpN</link>
-            <guid>8474d7430c6e629d33bc8390e9e3ca2b</guid>
-            <pubDate>Sun, 13 Dec 2020 22:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和欧盟同意继续进行英国脱欧贸易谈判】 英国首相约翰逊和欧盟委员会主席冯德莱恩同意允许英国脱欧贸易谈判在周日的最后期限之后继续进行。]]></title>
-            <link>http://www.guancha.cn/internation/2020_12_13_574427.shtml</link>
-            <guid>956d8a26c15bbb28e24e34da18ea8d56</guid>
-            <pubDate>Sun, 13 Dec 2020 22:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今年3月，中国驻德国大使馆工作人员得知，一位海德堡大学医院的教授和家人疑似感染新冠肺炎，并伴有明显症状，但德国境内有效药品已断供，情急之下，他只能求助于中方。中国驻德国大使吴恳联系到浙江一家医药企业，后者决定赠送40盒药物，并于3月底将这批药物运抵德国。而这位教授，正是约翰·拉贝的孙子托马斯·拉贝。]]></title>
-            <link>http://weibo.com/1708575033/JyeTq5ZMu</link>
-            <guid>3e8526f9f135daaf8e508d81e8bf4510</guid>
-            <pubDate>Sun, 13 Dec 2020 22:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【解码社区团购：互联网巨头惦记的不是那几捆白菜】拼多多的崛起，除了让巨头们看到了下沉市场的潜力，更进一步坚定了他们挖掘私域流量的信心//@开水族馆的生物男：说跟菜市场摊贩、小水果店抢生意绝对没毛病。人家个体户除了是媒体眼中“不体面”辛苦钱之外，几乎每个都靠自己买上了房，打工人不靠父母补贴、几个做得到？]]></title>
-            <link>http://mp.weixin.qq.com/s/ytwHy9rLymLFYACpO4kRTg</link>
-            <guid>f7d0313d967177bdc47b0a50ecbc494f</guid>
-            <pubDate>Sun, 13 Dec 2020 21:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
