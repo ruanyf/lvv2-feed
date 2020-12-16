@@ -4,11 +4,65 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 15 Dec 2020 22:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2020 01:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[硅谷最特立独行的富豪离开：去夏威夷做桃花岛主]]></title>
+            <link>http://www.cnbeta.com/articles/tech/1066313.htm</link>
+            <guid>e69f88e25755cc19670634d344f4e826</guid>
+            <pubDate>Wed, 16 Dec 2020 09:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果超强新功能上线！它打开了 iPhone 摄影的新大门]]></title>
+            <link>http://www.ifanr.com/1386122utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+            <guid>3e08698a3ff1ba55b7b83f316772bdc7</guid>
+            <pubDate>Wed, 16 Dec 2020 08:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【知名影城全国暂时“下线”！没能撑过大洗牌 你办理的会员卡、年卡该咋办？】还有半个月，2020年就将过去。从全线停摆到逐步复苏，电影院线在这不平凡的一年里，可以说是经历了生与死的洗礼。]]></title>
+            <link>http://finance.eastmoney.com/a/202012161738255934.html</link>
+            <guid>375228b46b1402d81831869b627c3d71</guid>
+            <pubDate>Wed, 16 Dec 2020 08:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【9岁孤女已被解除限制消费令，养母和外公发声：希望重审清楚】8年前，女孩陈蔓（化名）的父亲杀害她的母亲和外婆后卖房，买主付了55万没能过户。因无力替父还款，近日法院向陈蔓发出限制消费令引起热议。12月15日晚，陈蔓外公接到金水区法院通知：解除限制高消费令。]]></title>
+            <link>http://www.pearvideo.com/video_1711871</link>
+            <guid>ce5f5d6d29d6ef7f3d0480c4d44e678f</guid>
+            <pubDate>Wed, 16 Dec 2020 08:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[四川一国际货运航班驾驶员确诊新冠肺炎 曾于12日参加300人婚宴]]></title>
+            <link>http://m.21jingji.com/article/20201215/herald/671b20fc835ac604eca33471f375db07.html</link>
+            <guid>e2579e78c6e7f20ba8ce50c39df3c002</guid>
+            <pubDate>Wed, 16 Dec 2020 07:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[夸人时只会说卧槽牛逼？别丢人了！进来看我是咋夸的！]]></title>
+            <link>http://mp.weixin.qq.com/s/iwxZ2Nu3y9KLQ40RAe3I9Q</link>
+            <guid>bbe5dbc3291a9791f8882e74bb45eb77</guid>
+            <pubDate>Wed, 16 Dec 2020 07:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人工智能2分钟写一首歌，音乐人如何竞争？】2020年，人工智能在音乐领域的应用前所未有的活跃：国内外的音乐人纷纷与AI合作发布歌曲、AI驱动的虚拟DJ和女团出道、人工智能歌曲大赛举办、19万人在网上观看了“AI埃米纳姆”Diss马克·扎克伯格……]]></title>
+            <link>http://mp.weixin.qq.com/s/q0M_ylWk2fsW5is40Bra5g</link>
+            <guid>3db2a66258c5506bc51ad5e669a9bebb</guid>
+            <pubDate>Wed, 16 Dec 2020 07:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【涉足轻食代餐：年轻人想“躺瘦”，元气森林想“躺赢”？】田园主义的不少推广文案中可以看见“100%真全麦粉”的字眼，不过询问官方客服后得知，其全麦面包的全麦粉含量在85%以上。]]></title>
+            <link>http://mp.weixin.qq.com/s/YRXpOEdY_YcPLWzZ8MFTBA</link>
+            <guid>cd8a726cfa490fdd67e90b162b20bc4b</guid>
+            <pubDate>Wed, 16 Dec 2020 07:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kubernetes移除Docker？]]></title>
+            <link>http://mp.weixin.qq.com/s/Dv6uLqFuu3XKZPNd3RVo_A</link>
+            <guid>f9e38d2b86b2a9de7eaad7b4d39c7d1e</guid>
+            <pubDate>Wed, 16 Dec 2020 06:35:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【协定里的中国】尽管相比于CPTPP，RCEP有着鲜明的“更包容、更具灵活性、更务实”的中国风格，但这并不影响对CPTPP是一个自由贸易开放程度更高的自贸协定的判断。不管拜登就任美国总统后，美国是否会重新加入CPTPP，现在英国已经公开表态要加入CPTPP，如果中国不能正面面对，那么，CPTPP将会重新起到TPP时的战略作用。]]></title>
             <link>http://www.cb.com.cn/index/show/dsx/cv/cv1332671277/p/s.html</link>
@@ -494,64 +548,6 @@
             <link>http://m.k.sohu.com/d/503292501</link>
             <guid>e6607a70806b1a85f4716de6661f89bb</guid>
             <pubDate>Mon, 14 Dec 2020 19:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#讣告 约翰·勒卡雷的小说以冷战为背景，代表作包括《柏林谍影》、《锅匠，裁缝，士兵，间谍》。在他笔下，情报行动是非难辨，而间谍往往只是被腐朽系统支配的齿轮。他打破了外界对间谍的幻想，并将这一类型小说提升到了艺术的高度。
-勒卡雷周六… ]]></title>
-            <link>http://cn.nytimes.com/obits/20201214/john-le-carre-dead/utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</link>
-            <guid>84192bebbfae04d4fc311cd5f3c0dc3b</guid>
-            <pubDate>Mon, 14 Dec 2020 19:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河 北 人 土 鳖 窝 囊 之 谜]]></title>
-            <link>http://mp.weixin.qq.com/s/dCGLgL9oq7zmz3IrHB_cQw</link>
-            <guid>4339d9af2cb2dd7707813b4394f2b215</guid>
-            <pubDate>Mon, 14 Dec 2020 19:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[系列商标火线解封，重庆啤酒80亿重大资产重组倒计时？]]></title>
-            <link>http://m.21jingji.com/article/20201214/herald/245ac6c11bc16442fd13f16470c6be49.html</link>
-            <guid>daa040253255ccb27be79d6d42967912</guid>
-            <pubDate>Mon, 14 Dec 2020 18:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@丧失书宇兽：本人从事保险行业后]]></title>
-            <link>http://www.douban.com/people/89098041/status/3212537121/</link>
-            <guid>f4ec63de649969d68d9ff7c587e4e24c</guid>
-            <pubDate>Mon, 14 Dec 2020 18:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一个江苏商人的十年政府生意：引科技人才，获政府补贴，项目多数烂尾]]></title>
-            <link>http://mp.weixin.qq.com/s/gzPHm1ltXGUGGBsUtjKWwQ</link>
-            <guid>8c6cb1ed5272522498a5daf1f3eaf7f5</guid>
-            <pubDate>Mon, 14 Dec 2020 18:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[街里邻居还是挺重要的存在。比如我今天一口气一下子处理掉三个闲置家具，全送给楼下水果店老板了。老板上门来取，一般来讲男性上门我都是谨慎的，但是水果店老板人真的好，放心。上门的路上跟我说，你要是有啥需要帮忙的，换个灯泡、修个家具，你就叫我。水果店是副业，我主业是开汽车修理的！]]></title>
-            <link>http://www.douban.com/people/hackey/status/3212079642/</link>
-            <guid>d30e76f7269d2597f6cf8b712c2c4817</guid>
-            <pubDate>Mon, 14 Dec 2020 18:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【VS Code可以用来谈恋爱了…】23岁的程序员Ben Awad在VS Code里打造一个约会软件VSinder。这款插件一上线，就快速赢得程序员们的认可，GitHub上已收获800 Star，3天的下载量超过9000次。]]></title>
-            <link>http://www.qbitai.com/2020/12/20443.html</link>
-            <guid>ae20430a674182214cfd9cd088ea9725</guid>
-            <pubDate>Mon, 14 Dec 2020 17:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这位从未被捕的凶手在1960年代用刀枪杀害多人，令当年旧金山湾区陷入恐慌。
-
-他大开杀戒期间，给报馆发出密码信件，该信最近终于被几位专家破解。原来他当年写下了这段文字⋯⋯
-]]></title>
-            <link>http://bbc.in/3nhDlia</link>
-            <guid>80f72d68f3ad64663e701cb0e5032c01</guid>
-            <pubDate>Mon, 14 Dec 2020 17:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风靡90年代的小玩具：霍伯曼球】设计师查克·霍伯曼出品的一系列“玩具球”是上世纪末最受欢迎的玩具之一。通过特别设计的装置，可以变化几十倍的体积。除了在玩具领域的衍生品外，“霍伯曼球”的原理还被广泛应用在工业、设计和医疗领域，例如心脏支架的设计。]]></title>
-            <link>http://weibo.com/2214257545/JyihjfhDJ</link>
-            <guid>2cc84a469c7d38a62ce324c979831d7d</guid>
-            <pubDate>Mon, 14 Dec 2020 17:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
