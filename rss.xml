@@ -4,11 +4,53 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 16 Dec 2020 02:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2020 04:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【百度归来：市值重回600亿美元】一则百度即将要造车的消息，让这家中国搜索引擎巨头的股价大涨近14%，刷新2019年4月以来新高，市值直接冲回了600亿美元。就在此番大涨之际，百度也获得了牛市女皇Cathrine Wood的加持。]]></title>
+            <link>http://awtmt.com/articles/3613691</link>
+            <guid>b927797d4e3bbd1b316147840f44389b</guid>
+            <pubDate>Wed, 16 Dec 2020 12:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鸿蒙系统手机版】搭载鸿蒙系统的华为P40演示机，在系统UI方面与EMUI11基本保持一致。此版本为面向开发者的beta版本，面向消费者的UX应该会有后续适配，当下第一步已经OK了，就是底层方面已经做到替换和无感过度。]]></title>
+            <link>http://m.weibo.cn/1769228100/4582718992027171</link>
+            <guid>d892585c2e8570701c9f0b41b4c8d98b</guid>
+            <pubDate>Wed, 16 Dec 2020 12:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【被VC婉拒、成为公众笑料…本周荣登纳指的Peloton太励志了】在荣登纳斯达克100指数的当天，Peloton 市值达到357亿美元，是去年上市时的4倍还多。考虑到疫情前它已经创造了一种邪教式的文化氛围，聚集了一群数量不算多（也有上百万）但消费能力较高的核心用户，它在疫情后的表现预计也不会有太多下滑。]]></title>
+            <link>http://mp.weixin.qq.com/s/hrQ9MJVABA2NCdPq6qh3OA</link>
+            <guid>2568f0fa88583042ea141a8b913c59f1</guid>
+            <pubDate>Wed, 16 Dec 2020 11:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天（16日）上午，长征八号遥一运载火箭在中国文昌航天发射场完成技术区相关工作后，垂直转运至发射区，计划于12月底择机实施首次飞行试验任务。]]></title>
+            <link>http://m.news.cctv.com/2020/12/16/ARTIIZGuGZREOAVbPqAqkwBQ201216.shtml</link>
+            <guid>2d9067b379af334a3901d7ca0bdd8749</guid>
+            <pubDate>Wed, 16 Dec 2020 11:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在这个艰难的年份里，更多韩国女性选择结束生命】如果要认识到问题真正的严重性，韩国对自杀的看法需要有一个巨大的转变。崔雪莉和具荷拉等韩国女星在去年年底的自杀事件，释放了一波年轻粉丝心中积压着的情绪，很多在此之后发生的自杀事件显然属于年轻人的模仿。]]></title>
+            <link>http://www.allnow.com/post/5fd8c5f1b96d232650aab53c</link>
+            <guid>d5e95bb65a53cc10519de60b4e5cd001</guid>
+            <pubDate>Wed, 16 Dec 2020 11:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[直击“抢煤”现场：不赊销，拉煤先交80%订金]]></title>
+            <link>http://www.yicai.com/news/100878169.html</link>
+            <guid>b322f79bfd81489b5a231acf90cbb3c0</guid>
+            <pubDate>Wed, 16 Dec 2020 11:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中芯国际：目前正积极与梁孟松核实其真实辞任之意愿】此次中芯国际董事会表决通过关于委任副董事长、执行董事的议案，其中董事梁孟松无理由投弃权票。 12月16日周二早盘，中芯国际A股低开4.16%，报56元。H股暂停交易。]]></title>
+            <link>http://www.nbd.com.cn/articles/2020-12-16/1572905.html</link>
+            <guid>64e3ae6db686a7dd4c64bf027b2ed8c1</guid>
+            <pubDate>Wed, 16 Dec 2020 10:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[我关注的一个家伙，镇痔学博士，去年听他说，已经离开了学术圈，做起了教人如何做数据分析的独立学者，这倒不让我吃惊，让我吃惊是，前几天他和一位合伙人开始了一门生意：包办婚姻，不是一般的婚介，不提供相亲服务，而是直接给觅偶者指定配偶，好多人都把这当笑话听，不过他们自己好像还挺有信心。]]></title>
             <link>http://weibo.com/1400461002/JyHbAkT6k</link>
@@ -501,54 +543,6 @@
             <link>http://ent.ifeng.com/c/82BlidZr0eb</link>
             <guid>cca6235f2a7a5251b2a961d66958df86</guid>
             <pubDate>Tue, 15 Dec 2020 00:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新冠疫苗为人类带来希望，但你知道背后有什么隐忧，又有谁在努力缓解不公平的问题吗？
-
-相关报道： ]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/world-55255774</link>
-            <guid>1c16da7abf1e43785d16038c176e470e</guid>
-            <pubDate>Mon, 14 Dec 2020 23:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[退市新规靴子落地！重点来了： 取消暂停上市、恢复上市，新增财务造假退市量化指标]]></title>
-            <link>http://m.21jingji.com/article/20201214/herald/7bc66c317859b01276096d01ae860eac.html</link>
-            <guid>4b26002517050cd9d25069745272acc8</guid>
-            <pubDate>Mon, 14 Dec 2020 23:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿斯图里亚斯地区位于西班牙西北部，与卡斯蒂利亚高原之间隔着坎塔布连山脉。
-这是一片充满反差的土地，这里曾是工业和矿业重镇，如今则被称为“自然天堂”。这里有大片森林和基本未受破坏的海岸线，田园文化遗迹清晰可见。
-]]></title>
-            <link>http://nyti.ms/2W3MyP3</link>
-            <guid>13d8b2947dd37752d339e0a8cb27a37c</guid>
-            <pubDate>Mon, 14 Dec 2020 22:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[千不该万不该，不该和福建人斗奶茶…]]></title>
-            <link>http://www.guokr.com/article/458906/</link>
-            <guid>93a87480484d6bb937092452c87473bf</guid>
-            <pubDate>Mon, 14 Dec 2020 22:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一名澳大利亚参议员呼吁，在中国对澳大利亚葡萄酒、牛肉、海鲜、木头和煤碳等不同产品加征关税或禁止入口等措施之际，澳大利亚应该采取反制措施，对铁矿资源采取惩罚性征税，但有关建议遭现任资源局长凯斯‧皮特（Keith Pitt）否决。
-]]></title>
-            <link>http://bbc.in/3oPvtEP</link>
-            <guid>fcfc9e4578dccd62210d5beb617f8383</guid>
-            <pubDate>Mon, 14 Dec 2020 22:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《华尔街日报》评论版发表了一篇op-ed，作者是位83岁的白人男性Joseph Epstein。他呼吁不要在拜登老婆Jill Biden的名字前使用Dr.的称谓，认为她2007年在特拉华大学拿的教育学博士学位比较水。他表示，Dr. Jill Biden这个称呼听起来像“欺诈”，“很滑稽”。]]></title>
-            <link>http://n.eastday.com/pnews/1607912525022883</link>
-            <guid>75a5a8ddce5e8fc7f122c122ec6fbfc7</guid>
-            <pubDate>Mon, 14 Dec 2020 21:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一，选举人团成员将在各自的州聚集，为选举总统正式投票。通常情况下，这不过是为11月大选结果盖上橡皮图章的正式手续。
-但今年的情况不同。投票如何进行？特朗普团队的施压会影响到投票结果吗？我们总结并回答了六个引人关注的问题。]]></title>
-            <link>http://nyti.ms/3mhxND5</link>
-            <guid>e65376f878e6d66b21b6547e1e259ba3</guid>
-            <pubDate>Mon, 14 Dec 2020 21:48:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
