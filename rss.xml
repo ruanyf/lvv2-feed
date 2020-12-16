@@ -4,11 +4,43 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 16 Dec 2020 10:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2020 12:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[贝多芬的耳聋之谜]]></title>
+            <link>http://m.weibo.cn/detail/4582753032734758</link>
+            <guid>b095d97a94d331ffb24457ddf9e0ac80</guid>
+            <pubDate>Wed, 16 Dec 2020 20:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#摩登情爱 父亲去世后，我总在吃鸡块时想起他。对垃圾食品的喜爱曾是我们之间快乐的秘密和爱的絮语。
+我曾为我那英语蹩脚、嗜赌成瘾、离异的蓝领父亲感到羞耻，如今我终于开始试着理解他的痛苦和笨拙的爱。
+]]></title>
+            <link>http://cn.nytimes.com/style/20201216/modern-love-junk-food-was-our-love-language/utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</link>
+            <guid>4b677f47255896d72ada9b79d4d16636</guid>
+            <pubDate>Wed, 16 Dec 2020 19:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一场危机后，“女魔头”Anna Wintour升职了】她不仅没有被年初以来的舆论压力打倒，还被升任为传媒巨头康泰纳仕集团首席内容官和全球编辑总监，同时继续负责《Vogue》的相关业务。Wintour的职位变动只是集团大规模改组的一部分。]]></title>
+            <link>http://mp.weixin.qq.com/s/9NTKuolnMvJFsXIdk1IPSg</link>
+            <guid>031e5e7c4e5717e6a0043f2ad8c2a100</guid>
+            <pubDate>Wed, 16 Dec 2020 19:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中芯国际“师徒大战”开打】熟悉蒋、梁二人的业界高层指出，梁孟松直接在董事会上对蒋尚义开战的做法完全不令人意外，这就是他标准的做事风格。当初他会愤而离开台积电与今日中芯国际董事会发生的“辞职风暴”有异曲同工之妙。]]></title>
+            <link>http://mp.weixin.qq.com/s/wfYVH-tRCk094O-y0SbdxA</link>
+            <guid>ad782e70e9ab70fe193f858e622ff514</guid>
+            <pubDate>Wed, 16 Dec 2020 19:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国发现首例野生水貂感染新冠病毒】美国农业部发布警告称，在对美国犹他州爆发疫情的皮毛养殖场周围的野生动物进行筛查的过程中，检测到一只野生水貂携带的病毒呈阳性。美国农业部动植物检疫处在报告中表示，目前没有证据表明新冠病毒已经在养殖场周围的野生动物种群中传播，但有必要采取进一步防疫措施。]]></title>
+            <link>http://www.ngchina.com.cn/news/9939.html</link>
+            <guid>44ed6fc463946341f4b4aafaa5d479f1</guid>
+            <pubDate>Wed, 16 Dec 2020 19:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[我老丈母娘真是不到黄河心不死，孜孜不倦的上当受骗的老Baby了，自从我认识我媳妇之后，她们家踩雷的事快两双手数不清了]]></title>
             <link>http://weibo.com/1672202934/JyKeLiSiG</link>
@@ -520,44 +552,6 @@
             <link>http://luxe.co/post/130632</link>
             <guid>61833c82d831ff51bb386e9c6e570a54</guid>
             <pubDate>Tue, 15 Dec 2020 11:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一些人声称，当今中国必须像满族部队一样行动，准备通过控制中国周边的关键海域，以在地缘政治敌对圈实现“入关”。
-一直在关注“入关学”兴起的新西兰汉学家白杰明表示，这种历史对比反映出人们“对中国的伟大民族地位及其世界地位”的焦虑。 
-]]></title>
-            <link>http://nyti.ms/3a5Khew</link>
-            <guid>0153eaf2ae0c5b8ae621586afb3db5d5</guid>
-            <pubDate>Tue, 15 Dec 2020 11:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“人脸识别第一案”：没有胜诉的胜诉】一审判决后，野生动物世界依然沿用仅能通过人脸识别入园的格式条款，这使得这桩诉讼某种程度上，成为“没有胜诉的胜诉”。法院仅支持了删除自己照片在内的面部特征这一诉求，郭兵决定上诉。]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_10390737</link>
-            <guid>2cfe9e9b236f014ca41f5b96af6ce3cc</guid>
-            <pubDate>Tue, 15 Dec 2020 11:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[近日，南京市市场监管局发布《电商“菜品社区团购”合规经营告知书》，在全省范围内率先规范社区团购市场。《告知书》重点强调了“有序竞争”和“诚信经营”两个关键词，要求平台经营者不得以不正当竞争方式获取交易机会或竞争优势，并因此损害其他经营者或消费者合法权益，尤其不得以低于成本的价格实施低价倾销。]]></title>
-            <link>http://jsnews.jschina.com.cn/nj/a/202012/t20201212_2688120.shtml</link>
-            <guid>54c11d0b42921e4c6e17685c4533fd3b</guid>
-            <pubDate>Tue, 15 Dec 2020 11:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【来自26年前的电波：窦唯的《黑梦》与《赛博朋克2077》】@左耳朵耗子：Cyberpunk 2077主线任务，做完“我心如火”，接着来个“黑梦”，然后再来个“高级动物”…翻译组致敬窦唯无疑了…]]></title>
-            <link>http://www.gcores.com/articles/131729</link>
-            <guid>fa65f839a9ad6da8e06a9d9fa201a650</guid>
-            <pubDate>Tue, 15 Dec 2020 10:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌昨天挂是因为磁盘满了。。。。]]></title>
-            <link>http://v2ex.com/t/735514#reply6</link>
-            <guid>fd7f62c8b3ff085dfbe457afe1dca684</guid>
-            <pubDate>Tue, 15 Dec 2020 10:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普宣布司法部长威廉·巴尔将离职】在美国选举人团确认拜登胜选后不久，特朗普发推宣布司法部长威廉·巴尔将于圣诞节前离职。巴尔此前表示，没有迹象表明2020年大选存在大规模欺诈行为。特朗普对他的这一表态，以及针对“通俄门”起源的调查进展缓慢等非常不满。]]></title>
-            <link>http://world.huanqiu.com/article/416gC9CVVzE</link>
-            <guid>b374812c4b011fceedf734aa0128a3ed</guid>
-            <pubDate>Tue, 15 Dec 2020 09:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
