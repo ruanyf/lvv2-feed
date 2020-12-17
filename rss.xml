@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 17 Dec 2020 14:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2020 16:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【豆瓣2020年度电影榜单】桃桃林林 ：今年电影榜单都有冠名了啊，可以。]]></title>
+            <link>http://movie.douban.com/annual/2020</link>
+            <guid>65bc039da70a6f0c66d1fcaa8b6663c7</guid>
+            <pubDate>Fri, 18 Dec 2020 00:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对话跟谁学陈向东：不再恐惧】一个没烧过大钱的人，要开始烧钱；一个不喜欢亏损的人，要学会忍受亏损。]]></title>
+            <link>http://www.latepost.com/news/dj_detailid=468</link>
+            <guid>6b92bd69e4c456743d1d57d9a6572142</guid>
+            <pubDate>Fri, 18 Dec 2020 00:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天价药入医保，会击穿医保大盘子吗？】“从个人情感来说，我当然希望每个人都能得到帮助。我也会私下提供帮助。”但涉及到政策发布或者执行，就得严格按照标准。罕见病用药一旦进入医保，在没有其他保险覆盖前提下，是没办法将其调整出目录的，“把别人的救命钱断掉，人家会找我拼命的”。]]></title>
+            <link>http://mp.weixin.qq.com/s/0IJBuWb6YKwaScd7Wo_3cA</link>
+            <guid>04c2716535d99bdcde55e597cdf9f8ff</guid>
+            <pubDate>Thu, 17 Dec 2020 23:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【复旦大学】重读资本论-王德峰]]></title>
+            <link>http://b23.tv/zMeegh</link>
+            <guid>8a6d3f4bf45956afd560aeb332f027c1</guid>
+            <pubDate>Thu, 17 Dec 2020 22:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【劳斯莱斯为什么不爱拼多多？】“我们在拼多多没有任何广告合作和销售渠道，他们的合作其实就是拿着你的钱来我们店里买车，然后再转卖给你赚差价。当然，也有可能他从我们这里买了之后赔钱卖给你，当做给自己打广告。”]]></title>
             <link>http://www.allnow.com/post/5fd9ed94ac587d46bf6c8c15</link>
@@ -533,39 +557,6 @@
             <link>http://mp.weixin.qq.com/s/9NTKuolnMvJFsXIdk1IPSg</link>
             <guid>031e5e7c4e5717e6a0043f2ad8c2a100</guid>
             <pubDate>Wed, 16 Dec 2020 19:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中芯国际“师徒大战”开打】熟悉蒋、梁二人的业界高层指出，梁孟松直接在董事会上对蒋尚义开战的做法完全不令人意外，这就是他标准的做事风格。当初他会愤而离开台积电与今日中芯国际董事会发生的“辞职风暴”有异曲同工之妙。]]></title>
-            <link>http://mp.weixin.qq.com/s/wfYVH-tRCk094O-y0SbdxA</link>
-            <guid>ad782e70e9ab70fe193f858e622ff514</guid>
-            <pubDate>Wed, 16 Dec 2020 19:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国发现首例野生水貂感染新冠病毒】美国农业部发布警告称，在对美国犹他州爆发疫情的皮毛养殖场周围的野生动物进行筛查的过程中，检测到一只野生水貂携带的病毒呈阳性。美国农业部动植物检疫处在报告中表示，目前没有证据表明新冠病毒已经在养殖场周围的野生动物种群中传播，但有必要采取进一步防疫措施。]]></title>
-            <link>http://www.ngchina.com.cn/news/9939.html</link>
-            <guid>44ed6fc463946341f4b4aafaa5d479f1</guid>
-            <pubDate>Wed, 16 Dec 2020 19:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我老丈母娘真是不到黄河心不死，孜孜不倦的上当受骗的老Baby了，自从我认识我媳妇之后，她们家踩雷的事快两双手数不清了]]></title>
-            <link>http://weibo.com/1672202934/JyKeLiSiG</link>
-            <guid>b11b83dd4d2c5b330d371cef58111180</guid>
-            <pubDate>Wed, 16 Dec 2020 18:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自从中澳两国爆发政治冲突以来，北京当局已对澳大利亚牛奶、牛肉、葡萄酒和其它产品，采取了加征关税等惩罚措施。
-
-而澳大利亚终于首次反击。
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/business-55329290at_custom1=[post type]&amp;at_custom4=182569EC-3F72-11EB-9BB1-073B3A982C1E&amp;at_custom3=BBC Chinese&amp;at_medium=custom7&amp;at_campaign=64&amp;at_custom2=twitter</link>
-            <guid>09e7aebe9423bc9f0f74fdcf9272a3f2</guid>
-            <pubDate>Wed, 16 Dec 2020 18:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我被字节跳动给骗了…]]></title>
-            <link>http://www.weibo.com/1807849870/JyIcUc5jh</link>
-            <guid>173a6b4d8993e852c4d7f017b0888285</guid>
-            <pubDate>Wed, 16 Dec 2020 18:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
