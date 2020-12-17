@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 17 Dec 2020 16:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2020 18:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美团、饿了么外卖狂奔背后：料理包全面潜入你的胃】随着餐饮外卖的狂奔，具有标准化、出餐快、成本可控等优点的料理包被广泛应用于餐饮业。除了外卖，料理包也正广泛进入连锁快餐店、正餐店、街边小店的堂食产品，以及家庭餐桌。仅参考餐饮外卖的增速，预计国内料理包市场规模就有望保持超10%的增速。]]></title>
+            <link>http://awtmt.com/articles/3613926</link>
+            <guid>3f09b131fa9e84ba809513334952c04f</guid>
+            <pubDate>Fri, 18 Dec 2020 02:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沈阳阳光儿童村遭强拆，20年持续收养女犯子女及少年犯】阳光儿童村租用集体土地建设，没有在相关部门备案，属无证房屋，经评估，该区域当前征收补偿价约600万元，但儿童村提出4000万元的补偿要求，且要求进行异地安置，双方最终没有达成共识。运行近20年的阳光儿童村已成历史，付广荣和她的“孩子们”命运何往？]]></title>
+            <link>http://mp.weixin.qq.com/s/rWBodfqKj8yndzmM_iJ9NA</link>
+            <guid>94eedba028267c17ed7b3d8f53c75fe6</guid>
+            <pubDate>Fri, 18 Dec 2020 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【豆瓣2020年度电影榜单】桃桃林林 ：今年电影榜单都有冠名了啊，可以。]]></title>
             <link>http://movie.douban.com/annual/2020</link>
@@ -551,12 +563,6 @@
             <link>http://cn.nytimes.com/style/20201216/modern-love-junk-food-was-our-love-language/utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</link>
             <guid>4b677f47255896d72ada9b79d4d16636</guid>
             <pubDate>Wed, 16 Dec 2020 19:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一场危机后，“女魔头”Anna Wintour升职了】她不仅没有被年初以来的舆论压力打倒，还被升任为传媒巨头康泰纳仕集团首席内容官和全球编辑总监，同时继续负责《Vogue》的相关业务。Wintour的职位变动只是集团大规模改组的一部分。]]></title>
-            <link>http://mp.weixin.qq.com/s/9NTKuolnMvJFsXIdk1IPSg</link>
-            <guid>031e5e7c4e5717e6a0043f2ad8c2a100</guid>
-            <pubDate>Wed, 16 Dec 2020 19:35:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
