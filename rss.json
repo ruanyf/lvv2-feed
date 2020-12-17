@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "82fae426f7670a855da87fd6c3fb4e08",
+            "content_html": "",
+            "url": "http://mp.weixin.qq.com/s/ZS8SupQTH8VYjfByR59uZA",
+            "title": "@卡夫卡松饼君 是一名正在波士顿大学读研的留学生，她将自己被确诊肺癌晚期后的生活录成了一系列视频，希望能用自己的经历鼓励到大家。虽然，松饼君最后一次更新视频是在今年八月，但从她经常更新的微博里，我们还是能看到她依旧是那个乐观小姐姐。然而前几天，卡夫卡松饼君最终还是没能战胜病魔，不幸去世了。",
+            "date_modified": "2020-12-18T03:10:02.000Z"
+        },
+        {
             "id": "3f09b131fa9e84ba809513334952c04f",
             "content_html": "",
             "url": "http://awtmt.com/articles/3613926",
@@ -620,20 +627,6 @@
             "url": "http://weibo.com/1692991713/JyKCG4CPg",
             "title": "@莫登楼楼长：起码人家言行一致，表里如一，知行合一。//@海棠坨坨：然而就像周玄毅说的真诚是最没有价值的美德，左冷禅还真没比岳不群高尚，李逵也是表里如一的典范了，说他是个人都勉强活脱脱一只野兽，简单粗暴的知行合一又哪里比矛盾纠结的悲悯更有人性了",
             "date_modified": "2020-12-16T20:50:01.000Z"
-        },
-        {
-            "id": "b095d97a94d331ffb24457ddf9e0ac80",
-            "content_html": "",
-            "url": "http://m.weibo.cn/detail/4582753032734758",
-            "title": "贝多芬的耳聋之谜",
-            "date_modified": "2020-12-16T20:10:02.000Z"
-        },
-        {
-            "id": "4b677f47255896d72ada9b79d4d16636",
-            "content_html": "",
-            "url": "http://cn.nytimes.com/style/20201216/modern-love-junk-food-was-our-love-language/utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
-            "title": "#摩登情爱 父亲去世后，我总在吃鸡块时想起他。对垃圾食品的喜爱曾是我们之间快乐的秘密和爱的絮语。\n我曾为我那英语蹩脚、嗜赌成瘾、离异的蓝领父亲感到羞耻，如今我终于开始试着理解他的痛苦和笨拙的爱。\n",
-            "date_modified": "2020-12-16T19:56:11.000Z"
         }
     ]
 }

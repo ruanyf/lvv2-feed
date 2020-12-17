@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 17 Dec 2020 18:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2020 20:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[@卡夫卡松饼君 是一名正在波士顿大学读研的留学生，她将自己被确诊肺癌晚期后的生活录成了一系列视频，希望能用自己的经历鼓励到大家。虽然，松饼君最后一次更新视频是在今年八月，但从她经常更新的微博里，我们还是能看到她依旧是那个乐观小姐姐。然而前几天，卡夫卡松饼君最终还是没能战胜病魔，不幸去世了。]]></title>
+            <link>http://mp.weixin.qq.com/s/ZS8SupQTH8VYjfByR59uZA</link>
+            <guid>82fae426f7670a855da87fd6c3fb4e08</guid>
+            <pubDate>Fri, 18 Dec 2020 03:10:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美团、饿了么外卖狂奔背后：料理包全面潜入你的胃】随着餐饮外卖的狂奔，具有标准化、出餐快、成本可控等优点的料理包被广泛应用于餐饮业。除了外卖，料理包也正广泛进入连锁快餐店、正餐店、街边小店的堂食产品，以及家庭餐桌。仅参考餐饮外卖的增速，预计国内料理包市场规模就有望保持超10%的增速。]]></title>
             <link>http://awtmt.com/articles/3613926</link>
@@ -549,20 +555,6 @@
             <link>http://weibo.com/1692991713/JyKCG4CPg</link>
             <guid>f7989098d66dac96879d11a5986ad465</guid>
             <pubDate>Wed, 16 Dec 2020 20:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝多芬的耳聋之谜]]></title>
-            <link>http://m.weibo.cn/detail/4582753032734758</link>
-            <guid>b095d97a94d331ffb24457ddf9e0ac80</guid>
-            <pubDate>Wed, 16 Dec 2020 20:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#摩登情爱 父亲去世后，我总在吃鸡块时想起他。对垃圾食品的喜爱曾是我们之间快乐的秘密和爱的絮语。
-我曾为我那英语蹩脚、嗜赌成瘾、离异的蓝领父亲感到羞耻，如今我终于开始试着理解他的痛苦和笨拙的爱。
-]]></title>
-            <link>http://cn.nytimes.com/style/20201216/modern-love-junk-food-was-our-love-language/utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</link>
-            <guid>4b677f47255896d72ada9b79d4d16636</guid>
-            <pubDate>Wed, 16 Dec 2020 19:56:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
