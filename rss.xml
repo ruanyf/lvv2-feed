@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 17 Dec 2020 20:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2020 22:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特写丨义乌“灭”灯】夜幕之下，21世纪经济报道记者来到义乌国际商贸城斜对面的KFC时，恰逢两位疑似街道工作人士入店向店员要求，到年底外面招牌灯不能开。]]></title>
+            <link>http://m.21jingji.com/article/20201217/herald/5ba5e0ef8c9894339f4936ceb450cabc.html</link>
+            <guid>2efcc92fb38f84ed79cffc2a40b8de64</guid>
+            <pubDate>Fri, 18 Dec 2020 05:10:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@卡夫卡松饼君 是一名正在波士顿大学读研的留学生，她将自己被确诊肺癌晚期后的生活录成了一系列视频，希望能用自己的经历鼓励到大家。虽然，松饼君最后一次更新视频是在今年八月，但从她经常更新的微博里，我们还是能看到她依旧是那个乐观小姐姐。然而前几天，卡夫卡松饼君最终还是没能战胜病魔，不幸去世了。]]></title>
             <link>http://mp.weixin.qq.com/s/ZS8SupQTH8VYjfByR59uZA</link>
@@ -549,12 +555,6 @@
             <link>http://m.21jingji.com/article/20201216/herald/9f199d31eca309157cce83f9c4cb4ade.html</link>
             <guid>5e7375020bfafe6d4501fd52f6262bc6</guid>
             <pubDate>Wed, 16 Dec 2020 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@莫登楼楼长：起码人家言行一致，表里如一，知行合一。//@海棠坨坨：然而就像周玄毅说的真诚是最没有价值的美德，左冷禅还真没比岳不群高尚，李逵也是表里如一的典范了，说他是个人都勉强活脱脱一只野兽，简单粗暴的知行合一又哪里比矛盾纠结的悲悯更有人性了]]></title>
-            <link>http://weibo.com/1692991713/JyKCG4CPg</link>
-            <guid>f7989098d66dac96879d11a5986ad465</guid>
-            <pubDate>Wed, 16 Dec 2020 20:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
