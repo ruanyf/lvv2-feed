@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 18 Dec 2020 20:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2020 22:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[人游离于现实之外，事物的意义就会飘散丨燕京书坊]]></title>
+            <link>http://www.allnow.com/post/5fdc92c43db9cc34ddebfe50</link>
+            <guid>03b91ef7d446b2d91ad46bde9d60c7ed</guid>
+            <pubDate>Sat, 19 Dec 2020 05:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【谁掀开了电动车的遮羞布】很显然，所有的矛头都指向同一个东西——磷酸铁锂电池，那么这个去年被誉为将能击溃三元锂电池的“英雄”，怎么突然不行了呢？]]></title>
             <link>http://www.huxiu.com/article/400680.htmlf=chouti</link>
@@ -506,24 +512,6 @@
             <link>http://new.qq.com/omn/20201217/20201217A06AMV00.htmlpgv_ref=aio2015&amp;ptlang=2052</link>
             <guid>3a2cd90d0b4c3fd899ddc4d2538aaaf2</guid>
             <pubDate>Thu, 17 Dec 2020 17:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗永浩售假的核心信息是，如此大流量的一个销售渠道，卖的不只是源头供货商，而是被中介转了三手四手的商品。如此来看，互联网哪里是一次伟大的去中介的革命，这分明是中介裂变复制的温床啊。某种意义上，中介除了意味着流通渠道的利润，还意味着秘密。中介的生命力有多强，也部分说明了，这个热衷买卖的市场里秘密有多多。]]></title>
-            <link>http://weibo.com/1726294583/JyLkk8e7H</link>
-            <guid>ffcd13ee4960b9412858b5cadae52084</guid>
-            <pubDate>Thu, 17 Dec 2020 16:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微信又来一波改版，直接把整个公众号关注页面   菜单栏都改了]]></title>
-            <link>http://mp.weixin.qq.com/s/R9Hy4zLqbPBI0aGJBnt4Rw</link>
-            <guid>f24297ad255a147b17f8ccc23b35a041</guid>
-            <pubDate>Thu, 17 Dec 2020 16:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[如何读懂中央经济工作会议？]]></title>
-            <link>http://wallstreetcn.com/articles/3613893</link>
-            <guid>7be540df3b12ea5a1014f89395fa7aca</guid>
-            <pubDate>Thu, 17 Dec 2020 16:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
