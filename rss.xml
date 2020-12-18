@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 18 Dec 2020 16:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2020 18:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【辛巴背后“神秘豪爷”】一纸逮捕通知书，快手主播辛巴背后“神秘富豪”浮出水面。由此曝光一起涉及2000名宝妈，金额多达十亿的非法集资案。]]></title>
+            <link>http://mp.weixin.qq.com/s/HTSuK7SxlEjhYIyQSllQ1w</link>
+            <guid>c09212f153132b1e5bdd399fa5b68d8e</guid>
+            <pubDate>Sat, 19 Dec 2020 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2亿年轻人租房实录：有人住了10个月青旅，有人搬进公司休息室]]></title>
             <link>http://36kr.com/p/1015931587622025</link>
@@ -512,18 +518,6 @@
             <link>http://www.allnow.com/post/5fda024834eaf461e07fd37a</link>
             <guid>222dc8550ee18e2cc9d163637f5adbf2</guid>
             <pubDate>Thu, 17 Dec 2020 15:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创始人离世近两年，时尚集团高管层对峙仍在继续】自2019年11月以来，时尚集团现有高管团队仍在缺少董事会决议的基础上擅自作出公司重要人事任命；该集团大股东因无法了解财务情况，要求对公司进行审计的要求未能实现。]]></title>
-            <link>http://www.jiemian.com/article/5413651.html</link>
-            <guid>972c776193720db3ab53a97ec33b86b5</guid>
-            <pubDate>Thu, 17 Dec 2020 15:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第18届“新财富最佳分析师”榜单揭晓后，整理78位新财富三甲分析师的最新观点]]></title>
-            <link>http://m.21jingji.com/article/20201216/herald/63ee90859c42d073849252b84759a104.html</link>
-            <guid>92b5d51178066bfa65a61b8bc829d8cb</guid>
-            <pubDate>Thu, 17 Dec 2020 14:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
