@@ -50,6 +50,7 @@ const newFeed = new Feed({
       'video.h5.weibo.cn',
       'weibointl.api.weibo.com',
       't.cn',
+      'twitter.com',
       'wap.newsmth.net',
       'www.yystv.cn',
     ];
