@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 19 Dec 2020 20:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2020 22:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“已读”功能上热搜的背后：QQ的本质是一座线上主题乐园】从区隔于商务化的 MSN，到区隔于长辈云集的微信，QQ一直是年轻一代的社交乌托邦。一言以蔽之，QQ 在功能创新上没有包袱。]]></title>
+            <link>http://mp.weixin.qq.com/s/kNxh1_fzHOBjYXYpRY-skg</link>
+            <guid>e79a57c96b7f2dbad3cd48688073d2e2</guid>
+            <pubDate>Sun, 20 Dec 2020 05:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【B站音乐区｜从顶部到车尾】前B站音乐区主编——清水浊流，畅聊音乐区这些年的盛衰荣辱。《普通DISCO》出圈后，这个分区中的内容似乎也逐渐变得“普通”起来。伴随着新一批观众群涌入B站，曾贵为B站“顶流”音乐区却沦落至如今稿件均播放倒数第一名。]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/5fcc4152dee9c1e16d588725</link>
@@ -20,12 +26,6 @@
             <link>http://www.toutiao.com/a6907757579309875719/</link>
             <guid>67091b062d89ab3e31544c55f60db6ee</guid>
             <pubDate>Sun, 20 Dec 2020 03:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华盛顿“最狡猾政客”终于不装了】“权宜之约”是当今共和党的核心。比如2017年共和党推进的税改就是个典型例子。它通过降低企业税奖励了共和党最大的捐助者。这项立法在民主党和共和党中间选民中都不受欢迎，但是为了赢得选举，共和党的两派形成了联盟，这就像特朗普与麦康奈尔的关系一样：互相憎恶，但彼此需要。]]></title>
-            <link>http://mp.weixin.qq.com/s/a3LEqi_Wi1ltEryc6vkJGw</link>
-            <guid>00a47c3bb510b0a7e01ea74ec8da230f</guid>
-            <pubDate>Sun, 20 Dec 2020 00:35:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
