@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 20 Dec 2020 20:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 22:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国率先禁止英客机入境  ]]></title>
+            <link>http://rfi.my/6xVb.t</link>
+            <guid>09943fd7b886c941b607b19e9b6a0e03</guid>
+            <pubDate>Mon, 21 Dec 2020 06:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【女性向游戏，正成为拉人公会的新型“杀猪盘”】一款冒用版号的山寨游戏，无法在正规渠道上架和买量的情况下选择了恶意拉人。女玩家往往缺乏“传奇私服”等游玩经验，对“游戏托”依靠人情的方式缺少抵抗力。一个成熟的拉人公会，一个月能轻松做到100万充值。像这样的“寄生游戏”，已经成为黑灰产业中不可或缺的一部分。]]></title>
+            <link>http://mp.weixin.qq.com/s/WJRJyi2oiF1-lTW0yMhkXQ</link>
+            <guid>26b27a519afef09c5ca24dda9e028b90</guid>
+            <pubDate>Mon, 21 Dec 2020 05:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【重庆300个民宿房东故事：疫情之下，有人离场，有人悄悄收了几十套房】随着国内疫情逐步被控制，房东们发现预约日历上的订单又渐渐开始恢复了。五一长假和十一长假的战绩虽不如去年辉煌，但好歹还是让房东们吃下一颗定心丸——“这生意还是能做的”。]]></title>
             <link>http://news.ifeng.com/c/82Gxl6M3UMw</link>
@@ -38,30 +50,6 @@ via
             <link>http://www.instagram.com/reel/CI_HCgsHG-O/igshid=1lozkllzyzyuw</link>
             <guid>8b9adba33a2f7bb8aa0fbfb07a427071</guid>
             <pubDate>Mon, 21 Dec 2020 01:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拥有和驾驶一架P-51“野马”战斗机到底要花多少钱？】综合考虑燃料、维护、机库和保险所有费用后，估计“野马”的操作成本为平均每飞行小时约1100美元。]]></title>
-            <link>http://kong.afwing.vip/aircraft/2365.html</link>
-            <guid>4699b3e720211d9a86783e03a450a125</guid>
-            <pubDate>Mon, 21 Dec 2020 00:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄浦江上的游泳国手：救人和游泳完全不一样】28岁的蒋海琦，人生被划分为两个阶段，但都和水打交道。在2012年伦敦奥运会中为中国摘下男子200米自由泳接力赛铜牌，那是该项目中国首枚奖牌，他的队友包括孙杨。“下水救人和游泳完全不一样。”]]></title>
-            <link>http://page.om.qq.com/page/O06PkrSxEKOVRhAdUnQZ7TIA0</link>
-            <guid>d7d0d6709091dfc540c4d7c87ec10d27</guid>
-            <pubDate>Sun, 20 Dec 2020 23:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国防参谋长：要想战胜中俄，必须以彼之道还施彼身  ]]></title>
-            <link>http://rfi.my/6xSX.t</link>
-            <guid>75d16059056216ce0371cce1f1055b72</guid>
-            <pubDate>Sun, 20 Dec 2020 23:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦敦宣布紧急封锁，大量民众连夜“出逃”】在英国发现的一种新冠病毒新变种，传染性比普通的新冠病毒高70%。伦敦以及英格兰东南部和英格兰东部的部分地区将从周日（20日）上午开始实施最高级别“4级”的封锁限制。荷兰、比利时、意大利等国宣布自20日起暂停来自英国的航班或列车至少24小时。]]></title>
-            <link>http://mp.weixin.qq.com/s/EFLas6QpP8Eh0R5ZaNLwUA</link>
-            <guid>e26c82bc0a45625cce8dcaf2fa98d154</guid>
-            <pubDate>Sun, 20 Dec 2020 23:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
