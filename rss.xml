@@ -4,11 +4,41 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 20 Dec 2020 06:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 08:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧盟“原则上”同意与中国达成投资协议，有望于年底敲定]]></title>
+            <link>http://www.jiemian.com/article/5424592.html</link>
+            <guid>871eb7bf6f2a316a352e16d292a54038</guid>
+            <pubDate>Sun, 20 Dec 2020 16:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长春市民吐槽“零下20摄氏度排长队缴社保费” 社保局回应】很多个体参保人员都习惯在年底集中缴费导致人流量激增，其实，长春去年开始推行社保网上办、掌上办，仍有市民选择到现场办理。]]></title>
+            <link>http://news.hangzhou.com.cn/shxw/content/2020-12/20/content_7877072.html</link>
+            <guid>21654ae25c12a5d233201e58e26194f7</guid>
+            <pubDate>Sun, 20 Dec 2020 15:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三浦春马遗作，《凪的新生活》编剧，看完我把购物车全删了]]></title>
+            <link>http://mp.weixin.qq.com/s/a4BxA5EWNJ-Q6VY1ClpnIA</link>
+            <guid>f1ab4c83e020ce1b30e4e2b719e1c9c9</guid>
+            <pubDate>Sun, 20 Dec 2020 15:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【量子力学导致基因突变？科学家们掌握了一些证据】量子世界是否支配一些基本的生物过程，学术界还有相当大的争议。]]></title>
+            <link>http://mp.weixin.qq.com/s/KBimp803zOC4kk9wzu9mfg</link>
+            <guid>de9cb93ca3b1f5eaabbca504198d2831</guid>
+            <pubDate>Sun, 20 Dec 2020 15:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【880万瓶茅台哄抢真相：没人喝，都想倒卖】虽然近期有几百万瓶的飞天茅台投向市场，但飞天茅台的一批价很稳定：12月9日到12月16日期间，飞天茅台原箱一批价在2830元左右，散瓶在2420元左右。价格最低的是12月12日，散瓶降到2330元，但后来很快又升了回来。]]></title>
+            <link>http://www.aicaijing.com.cn/overviewarticle_id=4878</link>
+            <guid>5e37a7df0a1a6986194781382fb82681</guid>
+            <pubDate>Sun, 20 Dec 2020 14:50:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[前两天读了伯南克的《大萧条》，是部论文集，写得很好，清楚明了，是我这外行在这一主题上读到过最有说服力的东西，留下的疑点也最少。大萧条的首要原因是一战结束后恢复金本位的过程导致的严重货币收缩。金本位下，实际上不存在最终贷款人，所以一旦市场信心开始动摇，所有人——包括央行——都被迫加入了对黄金的挤兑。]]></title>
             <link>http://weibo.com/1400461002/JyKj45ohO</link>
@@ -134,12 +164,6 @@
             <link>http://www.xiaoyuzhoufm.com/episode/5fcc4152dee9c1e16d588725</link>
             <guid>fe43e730f7066e6c4dca1827e9d75eaf</guid>
             <pubDate>Sun, 20 Dec 2020 04:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五元女子宿舍：在泛滥的同情和关注之后，它默默关闭了】12月，在又一轮网上的热炒之后，这间宿舍被孙世清兑了出去。为何如此突然出兑，孙世清不愿多谈，只是说，“身体原因，想歇一歇”。住在宿舍里的人们，从此四散天涯。]]></title>
-            <link>http://www.toutiao.com/a6907757579309875719/</link>
-            <guid>67091b062d89ab3e31544c55f60db6ee</guid>
-            <pubDate>Sun, 20 Dec 2020 03:10:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
