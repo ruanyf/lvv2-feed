@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 20 Dec 2020 16:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 18:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【哪一个中二少年不想拥有一把属于自己的光剑呢】所需材料：rgb灯带，灯槽，esp8266开发版WIFI模块，锂电池和充电模块（也可以用充电宝代替）。这些是最基本的，如果为了美观，你也可以买一些微积木拼个外壳。]]></title>
+            <link>http://www.coolapk.com/feed/23605568shareKey=NjliZDJhY2FlZDNlNWZkZjRmZDY~</link>
+            <guid>a22c50b670de4d708c88b34e0246dfbd</guid>
+            <pubDate>Mon, 21 Dec 2020 02:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[豆瓣2020年度读书榜单]]></title>
+            <link>http://book.douban.com/annual/2020</link>
+            <guid>cf7f18fd54ec5405ea62c6bf24f897db</guid>
+            <pubDate>Mon, 21 Dec 2020 01:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[肥皂泡结冰的过程
+
+#犀利而无用的知识
+
+via 
+
+ ]]></title>
+            <link>http://www.instagram.com/reel/CI_HCgsHG-O/igshid=1lozkllzyzyuw</link>
+            <guid>8b9adba33a2f7bb8aa0fbfb07a427071</guid>
+            <pubDate>Mon, 21 Dec 2020 01:16:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【拥有和驾驶一架P-51“野马”战斗机到底要花多少钱？】综合考虑燃料、维护、机库和保险所有费用后，估计“野马”的操作成本为平均每飞行小时约1100美元。]]></title>
             <link>http://kong.afwing.vip/aircraft/2365.html</link>
@@ -38,18 +62,6 @@
             <link>http://www.toutiao.com/i6907798596985504269/</link>
             <guid>5b47d9ce398478c62b1d2d9d46684988</guid>
             <pubDate>Sun, 20 Dec 2020 22:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【名创优品做了家潮玩店，我们在店里看到的不只是盲盒】 开业当天的 TOP TOY，3 小时卖了 15 万的潮玩。门口的人流量和排队等候的人群，让人想起了 10 年前的手机店、5 年前的奶茶店、2 年前的球鞋店。]]></title>
-            <link>http://www.ifanr.com/1387375</link>
-            <guid>1cd360d55e7d111d9983179d4f3b14e4</guid>
-            <pubDate>Sun, 20 Dec 2020 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[藏着32个神仙菜馆的下饭剧，《江湖菜馆》竟然还没火？]]></title>
-            <link>http://mp.weixin.qq.com/s/jXjmzx8Mn312zrNH9wl2vw</link>
-            <guid>4b908ed28f76980b2ad6b686a16432b4</guid>
-            <pubDate>Sun, 20 Dec 2020 21:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
