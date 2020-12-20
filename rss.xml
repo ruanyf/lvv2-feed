@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 20 Dec 2020 18:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 20:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【重庆300个民宿房东故事：疫情之下，有人离场，有人悄悄收了几十套房】随着国内疫情逐步被控制，房东们发现预约日历上的订单又渐渐开始恢复了。五一长假和十一长假的战绩虽不如去年辉煌，但好歹还是让房东们吃下一颗定心丸——“这生意还是能做的”。]]></title>
+            <link>http://news.ifeng.com/c/82Gxl6M3UMw</link>
+            <guid>788bb695eea8c0c0454f925a274eeab1</guid>
+            <pubDate>Mon, 21 Dec 2020 04:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【哪一个中二少年不想拥有一把属于自己的光剑呢】所需材料：rgb灯带，灯槽，esp8266开发版WIFI模块，锂电池和充电模块（也可以用充电宝代替）。这些是最基本的，如果为了美观，你也可以买一些微积木拼个外壳。]]></title>
             <link>http://www.coolapk.com/feed/23605568shareKey=NjliZDJhY2FlZDNlNWZkZjRmZDY~</link>
@@ -56,12 +62,6 @@ via
             <link>http://mp.weixin.qq.com/s/EFLas6QpP8Eh0R5ZaNLwUA</link>
             <guid>e26c82bc0a45625cce8dcaf2fa98d154</guid>
             <pubDate>Sun, 20 Dec 2020 23:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资本的镰刀会逼死印度农民吗】莫迪18日下午通过视频方式出席在中央邦举行的“农民福利”大型活动，表示政府已将约1600亿卢比（1卢比约合人民币0.1元）陆续分发至中央邦约350万农民的银行账户中。这位印度总理在讲话中双手合十，敦促反对党“停止对农民的误导”。]]></title>
-            <link>http://www.toutiao.com/i6907798596985504269/</link>
-            <guid>5b47d9ce398478c62b1d2d9d46684988</guid>
-            <pubDate>Sun, 20 Dec 2020 22:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
