@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 20 Dec 2020 01:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 02:45:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【王慧文退休，谁来打赢美团的第三次命运之战】王兴将美团未来的增长引擎押注在三个业务上：发力本地实物电商的美团闪购、还在探索中的美团买菜，以及定下“百日千城”目标的美团优选。其中，美团优选被放在了第一位。]]></title>
+            <link>http://36kr.com/p/1017057185936776</link>
+            <guid>b06bbc3a4492a6ba348ed51215a28337</guid>
+            <pubDate>Sun, 20 Dec 2020 10:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果的平板霸主地位，靠iPad 9来巩固】第八代iPad近期出现大面积缺货，这可是三个月前苹果秋季发布会上公开的新品，理应没有任何理由会导致缺货，有传闻搭载A13芯片的第九代iPad即将在2021年上半年上市，如果苹果是为了给新款让路、不积压太多库存而控制iPad 8生产量，这一切似乎也都说得过去了。]]></title>
+            <link>http://www.tmtpost.com/4901215.html</link>
+            <guid>fe828e4170670219135bff250fd179e7</guid>
+            <pubDate>Sun, 20 Dec 2020 10:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国制裁，苹果下架 这家伊朗网约车公司活了下来】国际制裁推动了Snapp几乎完全自给自足。2017年底，当谷歌开始从伊朗撤出服务后，Snapp决定建立一个新的内部导航系统，以打破对谷歌地图的依赖。并且通过上架RadickRadio挂羊头卖狗肉，它表面看来像一个音乐App，一旦接上伊朗IP地址登录，就会变成叫车应用。]]></title>
             <link>http://mp.weixin.qq.com/s/VoHlBhv6fiIiG7jNVQTHnQ</link>
