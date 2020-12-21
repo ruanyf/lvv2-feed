@@ -4,11 +4,59 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 21 Dec 2020 04:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2020 06:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【985高校青年教师，身不由己追热点】新入职的老师没有编制，只签三年或六年的预聘合同，到期时“非升即走”，对比美国顶尖高校教师每年只发一篇论文的平均状况，不少学校给出了三年发表五篇核心期刊论文的指标。一所南方高校仅一个学院就在短短几年内新招了40多人，至今只有两位成功“上岸”。]]></title>
+            <link>http://mp.weixin.qq.com/s/ADxeZ8ltXEsIwZAC5pYYsQ</link>
+            <guid>64fbcbbcb759ce27021b4f16b5c36ee2</guid>
+            <pubDate>Mon, 21 Dec 2020 14:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国首个mRNA新冠疫苗生产车间奠基】该新型冠状病毒mRNA疫苗(ARcoVax)由中国人民解放军军事科学院军事医学研究院、苏州艾博生物科技有限公司与云南沃森生物技术股份有限公司共同研制。该疫苗于2020年6月19日获得中国国家药品监督管理局批准的药物临床试验批件，目前处于临床试验阶段。]]></title>
+            <link>http://www.chinanews.com/gn/2020/12-21/9367367.shtml</link>
+            <guid>cb671b31f7bbcbbdc230fcf35bdf6e5e</guid>
+            <pubDate>Mon, 21 Dec 2020 14:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一年以后，何伟的非虚构写作课怎么样了】学生B写自己105岁的曾祖父，文章里一直说 great grandfather。Peter 说这是英语的问题，可以找个替代，如果是我自己写，会解释一下，直接用你平时叫的“太爷”（Taiye），这样更简洁。有小孩儿问外国人能准确读出 Taiye 吗，Peter 说，大不了就以为他是侃爷（Kanye West）咯。]]></title>
+            <link>http://mp.weixin.qq.com/s/olG2CAmlX-r44ORvEzgeEQ</link>
+            <guid>bde47d7eb56710b0a14e67f647c26c79</guid>
+            <pubDate>Mon, 21 Dec 2020 13:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[庭审现场，劳荣枝低头、哭泣、悔罪，称自己也是受害人]]></title>
+            <link>http://mp.weixin.qq.com/s/E20Se6CDc4_894Hxwo6JjQ</link>
+            <guid>909def8eac35bca24a23cc93774eb16a</guid>
+            <pubDate>Mon, 21 Dec 2020 13:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甲午年，媒体制造了一个巨大的「信息茧房」】对这批图文新闻，中文网络世界广泛流传一种错误的解读，将之视为清廷官方刻意为之的宣传。实际情况是：这批画作不是执行清廷规定动作的产物，相反，它们全部来自民间，是民间自发生产出来的东西。]]></title>
+            <link>http://mp.weixin.qq.com/s/DkVhc3U2zmPGfePPjTt35Q</link>
+            <guid>66227feb55703a5dcc88e6711a35e370</guid>
+            <pubDate>Mon, 21 Dec 2020 13:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间20日，美国国会参议院多数党领袖麦康奈尔表示，参众两院达成了一项大约9000亿美元的新冠救济法案。法案计划包括向个人直接支付600美元，以及给每个受疫情影响而失业的美国人每周提供300美元补助。据悉，这项法案的敲定历时将近9个月。]]></title>
+            <link>http://www.guancha.cn/internation/2020_12_21_575263.shtml</link>
+            <guid>a5d67721476c80ddc46ca6dc4d9a2212</guid>
+            <pubDate>Mon, 21 Dec 2020 13:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[忘记庆祝一下捷径社区的第 1000 万下载了 ]]></title>
+            <link>http://sharecuts.cn</link>
+            <guid>fd5e3caa83c528c6dbb1027e149f9b1f</guid>
+            <pubDate>Mon, 21 Dec 2020 13:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 超简明的 eBPF 说明和示例。通过 eBPF 你可以将一段程序代码绑定到指定的内核函数上，当该函数被调用的时候，就会在内核沙盒内运行你注入的代码。 #学习 ]]></title>
+            <link>http://filipnikolovski.com/posts/ebpf/</link>
+            <guid>572adf7c69159a65a47f8299629b1cfd</guid>
+            <pubDate>Mon, 21 Dec 2020 12:44:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[刑法修正案草案拟修改，将低龄未成年人犯罪虽未致人死亡，但属于“以特别残忍手段致人重伤造成严重残疾”，情节恶劣的情形增加规定可依法追究刑事责任。]]></title>
             <link>http://www.xinhuanet.com/legal/2020-12/21/c_1126886747.htm</link>
@@ -74,54 +122,6 @@
             <link>http://www.guancha.cn/internation/2020_12_21_575250.shtml</link>
             <guid>3e3e29ee6f8827f7cefdcfd320a385ed</guid>
             <pubDate>Mon, 21 Dec 2020 10:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020-2021年度北京市青少年短道速滑联赛第一站，U8组500米四分之一决赛。8岁的马子惠在发令枪响后刚出发就不慎摔倒，但她没有犹豫，爬起来就追了上去，在鼓励声中紧紧咬住，成功弯道超越…最终进入决赛夺得冠军。]]></title>
-            <link>http://haokan.baidu.com/vpd=wisenatural&amp;vid=4052611900246420964</link>
-            <guid>bf752b162608d5aeae2da2bc25d08f16</guid>
-            <pubDate>Mon, 21 Dec 2020 10:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[95后都开始离婚了？]]></title>
-            <link>http://mp.weixin.qq.com/s/OyKkjEf76QwQlxVLExyBCw</link>
-            <guid>e3f5e4a9f7717172a86ec899a6b2ee4b</guid>
-            <pubDate>Mon, 21 Dec 2020 09:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧中投资协定可望一举成功  ]]></title>
-            <link>http://rfi.my/6xVT.t</link>
-            <guid>7c7eead4a27f6eb99c403534cafe264a</guid>
-            <pubDate>Mon, 21 Dec 2020 09:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[昨日，中国海军山东舰航母编队顺利通过台湾海峡，赴南海相关海域开展训练。山东舰入列服役一年来，顺利完成舰载机起降、实际使用武器、作战系统调试等任务，编队体系作战能力在试验训练中不断提升。这次组织山东舰航母编队跨区机动训练，是根据年度计划作出的正常安排，今后我们还将根据训练需要继续组织类似行动。]]></title>
-            <link>http://new.qq.com/omn/20201221/20201221A02B6800.html</link>
-            <guid>f23d04e5197a215f270d9c648f6b069f</guid>
-            <pubDate>Mon, 21 Dec 2020 09:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其，天降大旱】旱灾是见证了这片土地上无数文明兴衰的老问题，如今人类减轻旱灾损失的能力越来越强，但随着人口膨胀、气候变化，旱灾也正变得越来越来频繁，这场人与自然的拉锯战还会继续下去。]]></title>
-            <link>http://mp.weixin.qq.com/s/P3Rp2MefSGTupgAvg0gRcQ</link>
-            <guid>1cbd825d69da2f97f9b56468040aab1c</guid>
-            <pubDate>Mon, 21 Dec 2020 09:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[继两天前支付宝下架银行互联网存款产品后，包括腾讯理财通、京东金融、度小满金融、携程金融、陆金所、天星金融等平台已跟风下架互联网存款产品。这是非法集资吗？//@艾锐遥小屁孩：孙局长的讲话把线上代销的问题解剖得非常透彻了]]></title>
-            <link>http://mp.weixin.qq.com/s/WXLJOvidNSl-t7v-shVwKw</link>
-            <guid>147dc849bdf648b68536da08c85053ec</guid>
-            <pubDate>Mon, 21 Dec 2020 09:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020十大科技动图：想拍出大片效果？你需要的只是给肥皂泡打束激光]]></title>
-            <link>http://mp.weixin.qq.com/s/_kyDkBMxOOwhLwNCb9-rWw</link>
-            <guid>bbc7323cc25a35ff167cc236fa99714a</guid>
-            <pubDate>Mon, 21 Dec 2020 08:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江浙兴起两头婚：男不娶女不嫁，孩子随父姓也随母姓】近年来，在江浙一带悄然兴起一种新的婚姻形式——两头婚，这种婚姻既不属于男娶女嫁，也不属于女招男入赘。小夫妻成家后依旧与双方原生家庭保持一定“黏性”，通常各住各家。他们一般会生育两个小孩，第一个随父姓，由男方抚养为主，第二个随母姓，由女方抚养为主。]]></title>
-            <link>http://user.guancha.cn/main/content?id=433098</link>
-            <guid>09fe9c46bc667e34aba4f61f75d82748</guid>
-            <pubDate>Mon, 21 Dec 2020 08:35:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
