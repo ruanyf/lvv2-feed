@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 21 Dec 2020 17:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2020 18:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【辩护与回忆：傅高义与「学术企业家」现象】傅高义的去世，代表着自费正清时代以来美国那辈东亚学研究者时代的最终谢幕。“这批人不仅是学者，也是战后美国对东亚政策制定的实际参与者与见证者。”]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/5e4ee557418a84a04667384c</link>
+            <guid>89dcf8ddf20f62305b297a24760f9a9a</guid>
+            <pubDate>Tue, 22 Dec 2020 02:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【柏林不信特斯拉】德国第二大党社民党就指责特斯拉正在侵蚀德国成功的基石：社会市场经济模式，并质疑特斯拉一直在强调自己对于环保和地球未来负担责任的同时，却对企业的社会责任闭口不提。]]></title>
+            <link>http://m.21jingji.com/article/20201221/herald/1b34411909cc6c87eb3291e7a39711be.html</link>
+            <guid>a5744e6074a5c896cd1570ab1be2cda6</guid>
+            <pubDate>Tue, 22 Dec 2020 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[不能再嘲笑问出“万青哪张专辑最好听”的人了]]></title>
             <link>http://mp.weixin.qq.com/s/tZkqZQG2MIY5HGSfBdUjiQ</link>
@@ -68,12 +80,6 @@
             <link>http://m.weibo.cn/status/4583579097760708</link>
             <guid>c8848dfb32d0a5dd9e5e919145a0210a</guid>
             <pubDate>Mon, 21 Dec 2020 20:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【月租2390，也可以合租住复式】在上海莘庄工作快3年，第四次搬家，入住体验算是最好的一次。楼上楼下各两户，二楼主卧自带卫生间，二楼次卧的我相当于拥有独卫。租金2390元/月，堪比捡漏。看房当天，我甚至查了同小区内的复式二手房，报价1300万，默默地退出APP，觉得这个价格更香了。要说硬伤，那只能是首次出租了。]]></title>
-            <link>http://www.douban.com/note/788338118/</link>
-            <guid>8f185fb076b288b8098a657d2faa3b91</guid>
-            <pubDate>Mon, 21 Dec 2020 20:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
