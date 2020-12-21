@@ -4,11 +4,41 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 21 Dec 2020 08:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2020 10:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[如何在中世纪做一个小有名气（不被打死）的猎魔人]]></title>
+            <link>http://www.gcores.com/articles/130015</link>
+            <guid>85abaf82d83d62b1666a7f909f094390</guid>
+            <pubDate>Mon, 21 Dec 2020 18:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一档近期最快乐的综艺节目】普通人的生活，不会全程高能，也不会永远一潭死水。偶尔盼望走运中到小奖，或者遇到《梦想改造家》这样的节目满足心愿。无论有没有一时好运，平凡的生活里仍有在意的那些人和事，仍然期待着意外之喜。]]></title>
+            <link>http://mp.weixin.qq.com/s/fXJPE9XW24KB57HA7rLGTA</link>
+            <guid>764bfc85d840ca78d0946c0eb6bbcbc1</guid>
+            <pubDate>Mon, 21 Dec 2020 18:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【凤凰卫视是中年男人的司令部】 中年男人和政治话题，仿佛磁铁的两极，一旦接触就难舍难分。对他们而言，在观看凤凰卫视时，他们能体会到cosplay知名学者、军队指挥官的快乐。]]></title>
+            <link>http://mp.weixin.qq.com/s/9cYCN9OaHMccIeBCobZ0Gw</link>
+            <guid>e5dbf4ffa2eb60db9b40d3431de78ac1</guid>
+            <pubDate>Mon, 21 Dec 2020 18:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谁在编织大学生有偿实习暗网】这张暗网里看起来没有受害者。大学生付费购买实习机会，是应对竞争压力的应激反应；机构和个人则觉得有利可图，最终他们联手挤走了更多普通人。]]></title>
+            <link>http://mp.weixin.qq.com/s/_rGM_XmyiLlbOHPtmQKZoA</link>
+            <guid>7e0c8f5f55bd33e3a902e0f6809908e7</guid>
+            <pubDate>Mon, 21 Dec 2020 17:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南京信息工程大学回应“外卖员被抬出校园”：其未经允许入校]]></title>
+            <link>http://www.thepaper.cn/newsDetail_forward_10475676</link>
+            <guid>f5b0dd5100d66c9e1c74c614daf55f4e</guid>
+            <pubDate>Mon, 21 Dec 2020 17:35:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[网友投稿。今后大家行驶在路上自求多福吧，有不少人自发地违反辅助驾驶使用规定并以此为荣。虽说他烂命一条，但撞到你了你也没办法不是。]]></title>
             <link>http://m.weibo.cn/2142777533/4584500723459531</link>
@@ -68,36 +98,6 @@
             <link>http://mp.weixin.qq.com/s/DkVhc3U2zmPGfePPjTt35Q</link>
             <guid>66227feb55703a5dcc88e6711a35e370</guid>
             <pubDate>Mon, 21 Dec 2020 13:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间20日，美国国会参议院多数党领袖麦康奈尔表示，参众两院达成了一项大约9000亿美元的新冠救济法案。法案计划包括向个人直接支付600美元，以及给每个受疫情影响而失业的美国人每周提供300美元补助。据悉，这项法案的敲定历时将近9个月。]]></title>
-            <link>http://www.guancha.cn/internation/2020_12_21_575263.shtml</link>
-            <guid>a5d67721476c80ddc46ca6dc4d9a2212</guid>
-            <pubDate>Mon, 21 Dec 2020 13:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[忘记庆祝一下捷径社区的第 1000 万下载了 ]]></title>
-            <link>http://sharecuts.cn</link>
-            <guid>fd5e3caa83c528c6dbb1027e149f9b1f</guid>
-            <pubDate>Mon, 21 Dec 2020 13:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 超简明的 eBPF 说明和示例。通过 eBPF 你可以将一段程序代码绑定到指定的内核函数上，当该函数被调用的时候，就会在内核沙盒内运行你注入的代码。 #学习 ]]></title>
-            <link>http://filipnikolovski.com/posts/ebpf/</link>
-            <guid>572adf7c69159a65a47f8299629b1cfd</guid>
-            <pubDate>Mon, 21 Dec 2020 12:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[刑法修正案草案拟修改，将低龄未成年人犯罪虽未致人死亡，但属于“以特别残忍手段致人重伤造成严重残疾”，情节恶劣的情形增加规定可依法追究刑事责任。]]></title>
-            <link>http://www.xinhuanet.com/legal/2020-12/21/c_1126886747.htm</link>
-            <guid>4d2a82bd2efd4ac3f2ac8a88f44b285b</guid>
-            <pubDate>Mon, 21 Dec 2020 12:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多国停飞往返英国的航班】从12月20日起，意大利、比利时、荷兰等欧洲国家相继决定停飞往返英国的国际航班，比利时也同时停止了往返伦敦的欧洲之星特快火车。]]></title>
-            <link>http://wisburg.com/viewpoint/732374</link>
-            <guid>46f97b5316dfb8ca2569ddd3f55d0ae9</guid>
-            <pubDate>Mon, 21 Dec 2020 12:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
