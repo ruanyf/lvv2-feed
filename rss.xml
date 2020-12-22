@@ -4,11 +4,47 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 22 Dec 2020 08:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 10:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场监管总局联合商务部22日召开规范社区团购秩序行政指导会，阿里、腾讯、京东、美团、拼多多、滴滴6家互联网平台企业参加。为严格规范社区团购经营行为，会议要求互联网平台企业严格遵守“九不得”。]]></title>
+            <link>http://www.xinhuanet.com/fortune/2020-12/22/c_1126893383.htm</link>
+            <guid>b3aa0f89bb263e4e11f614b94ca73567</guid>
+            <pubDate>Tue, 22 Dec 2020 18:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周五来一颗，周末随时应战：长效伟哥会颠覆中国 ED 市场吗？】尽管在零售端，西地那非仍然稳坐王者地位，但随着他达拉非的降价和推广，目前，它在公立医疗机构的市场份额已经反超西地那非。中国抗 ED 药物市场的龙争虎斗，也许才刚刚开始。]]></title>
+            <link>http://mp.weixin.qq.com/s/NLwKhhFR9zIo9zMXKnAA4Q</link>
+            <guid>05d11f687eed0ff253759dcf79d368c8</guid>
+            <pubDate>Tue, 22 Dec 2020 17:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【当郭敬明和于正被111名创作者联名抵制，背后是众怒，还是热度？】“这年头搞抵制搞出瘾来了吧。95%的人近年来一部拿得出手的作品都没有，吃着一二十年前的老本还什么联名。替他们脸红，匪夷所思。咋没看到豆瓣年度前十的编剧、导演、制片出来联名呢？都动动脑子吧。”]]></title>
+            <link>http://www.allnow.com/post/5fe1a2dc90494460daa1e878</link>
+            <guid>159e2650da53544f21dd56ebd12273ee</guid>
+            <pubDate>Tue, 22 Dec 2020 17:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大连市全面开展新冠病毒核酸检测工作：做到应检尽检、不漏一户、不落一人]]></title>
+            <link>http://m.news.cctv.com/2020/12/22/ARTIFusYjcKTmmWUX3o31ozU201222.shtml</link>
+            <guid>4e5c282624417ffe94a893fe74233e98</guid>
+            <pubDate>Tue, 22 Dec 2020 17:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万青新专辑国内数字销售平台为网易独家，22 元买断，为啥在 Spotify 却能免费听？]]></title>
+            <link>http://weibo.com/1410364817/JzBxtC7GQ</link>
+            <guid>879299293f82ddf344c1fd1d3b6002e7</guid>
+            <pubDate>Tue, 22 Dec 2020 17:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【软银逆转：不变的孙正义】2020 年 3 月 19 日，软银股价屡破近三年新低。9 个月过去，软银股价达到 2000 年互联网泡沫以来最高点。反转之剧烈就是资本市场与现实经济间鸿沟的缩影。]]></title>
+            <link>http://www.latepost.com/news/dj_detailid=470</link>
+            <guid>d03c8cffb737ca4cc4638ffe659a670c</guid>
+            <pubDate>Tue, 22 Dec 2020 17:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[亚洲首批辉瑞疫苗运抵新加坡！李显龙称是“期待已久的礼物”]]></title>
             <link>http://m.21jingji.com/article/20201222/herald/4d948d94a17e3010efce8694194a6205.html</link>
@@ -32,12 +68,6 @@
             <link>http://wisburg.com/viewpoint/732395</link>
             <guid>2872e48acd77aea40f52af77bd18ffe0</guid>
             <pubDate>Tue, 22 Dec 2020 16:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新冠一周年，不该被忘记的“野生”志愿者们]]></title>
-            <link>http://www.allnow.com/post/5fe0573741c39f76c9f9b1cf</link>
-            <guid>005f17d93c70eb19c31a2b9d8b268629</guid>
-            <pubDate>Tue, 22 Dec 2020 15:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
