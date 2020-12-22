@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 22 Dec 2020 18:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 20:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[押沙龙：好好说说秦国]]></title>
+            <link>http://mp.weixin.qq.com/s/sxgEwt0QvO65GeVjlB-tDw</link>
+            <guid>11ece2595f24b682039d5159859316b6</guid>
+            <pubDate>Wed, 23 Dec 2020 04:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[星爷日语吹替小合集
 声优属实非常给力了，不一样的风味
@@ -60,24 +66,6 @@
             <link>http://mp.weixin.qq.com/s/MyQhtwiarTIItrtebpv-mw</link>
             <guid>dc9bb18805fdcdb162ce070aa0311b40</guid>
             <pubDate>Tue, 22 Dec 2020 23:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12月23日（明天）起，旅客通过铁路12306网站、手机App、自动售票机等渠道购买京沪高铁、成渝高铁指定车次车票时，如需提供“静音车厢”服务，可根据系统提示自愿选择购买“静音车厢”车票，“静音车厢”设在3号车厢（二等座车）。]]></title>
-            <link>http://mp.weixin.qq.com/s/DA9sBsFNHBGOOAvwREdDVw</link>
-            <guid>d3265c56c6c520a65c0dc78ff31c8fd0</guid>
-            <pubDate>Tue, 22 Dec 2020 22:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《Coldplay酷玩乐队二十年音乐是与非》16分钟。Coldplay大概是最后一个全球级的乐队天团，坐稳乐队顶流二十年无人可以真正撼动。这条视频梳理了Coldplay这二十年来在音乐上的进化，一步一步走到今天，他们哪儿做对了，哪儿做错了，也从侧面反映了这二十年来，世界范围内主流乐队文化的变迁。]]></title>
-            <link>http://m.weibo.cn/status/4584295635619718</link>
-            <guid>7a573a2f5534fbc3baa841e794d9da02</guid>
-            <pubDate>Tue, 22 Dec 2020 22:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同事被分手，因为女友知道他有房贷…】400万房子，首付三成，利率按照5.39%，30年还款。我帮他算了一下每月是15705元，一年大概是188460。同事每月税后加公积金，大约能剩下1000多元（首付还有几十是借的）]]></title>
-            <link>http://bbs.hupu.com/39916259.html</link>
-            <guid>eb8ff051264e9c79b7fc0189c5cd3dd8</guid>
-            <pubDate>Tue, 22 Dec 2020 21:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
