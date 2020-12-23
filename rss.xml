@@ -4,16 +4,28 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 23 Dec 2020 20:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2020 22:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[终于娶上媳妇的民工阿庆，死了丨人间]]></title>
+            <link>http://ml/0ce128c54c10ba50219fca6cb5c697d0.html</link>
+            <guid>5d4827b6d1f5e63cc23a204f451130f1</guid>
+            <pubDate>Thu, 24 Dec 2020 06:10:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[周迅离婚：结婚就像打个卡，打完也未必再来了]]></title>
             <link>http://ml/e68242d8ddc14be23054d125a7d9c821.html</link>
             <guid>1e68a197a8a88da4bf6b34dd2117f815</guid>
             <pubDate>Thu, 24 Dec 2020 02:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为什么 CP 能成为内娱的特效药？】目前真人 CP 的热度上升未见颓势，商业资本对真人 CP 的剥削却愈发无所不用其极。也许 CP 文化只是面临着与所有亚文化渐渐进入主流媒体舆论场域一样的挑战。]]></title>
+            <link>http://ml/cb187f044364e83767d0718969745d05.html</link>
+            <guid>ea11d0cc2abe40b77e8f91cac51efad8</guid>
+            <pubDate>Thu, 24 Dec 2020 05:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[刚刚度过68岁生日的宫本茂接受《纽约客》专访。他透露自己前段时间一直待在大阪环球影城，为主题公园的景点和游乐设施做规划。还参与了手游的开发。他认为任天堂的领导团队者正在变得年轻化，发展方向确保了公司的精神能继续传承下去。“现在我完全专注于继续寻找新体验。”]]></title>
@@ -63,30 +75,6 @@
             <link>http://ml/d119b1fab3d2b30caf29c033f95b1f83.html</link>
             <guid>d2a78cf3190a28785799870000835854</guid>
             <pubDate>Wed, 23 Dec 2020 22:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京所有的流调都看得我想哭。望京打工仔早八晚九跨城通勤，34岁的顺义人三代住在70平房子里，并且在考研。​​​//@噗叽噗叽O_o：我看这个流调觉得他好惨，周末小孩也要去上早教，从顺义到海淀上班，地铁出行，在职参加考研，考研之前还要去宁波出差。这下他研也考不了了。]]></title>
-            <link>http://weibo.com/3005083064/JzOdYDmTp</link>
-            <guid>5102e06462b57510d2e536075f8d428b</guid>
-            <pubDate>Wed, 23 Dec 2020 22:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【降价之谜——揭秘特斯拉中国的汽车推销术】多位销售回忆，原本很多顾客到门店里，至少还愿意沟通，甚至夸赞产品的设计或者科技感，后来，进到门店里首先表示的就是质疑，问会不会继续降价，指责销售骗人提车，然后再降价。]]></title>
-            <link>http://ml/0e98f9e612d36bfa2ef427ce2b894157.html</link>
-            <guid>1364b8661e65903a7cdbbb41d9449ef1</guid>
-            <pubDate>Wed, 23 Dec 2020 22:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“死宅恶心“还是”女拳凶猛“？：当代女性主义和萌系御宅文化的对立和反思】在已跻身日本标志性文化的今天，以萌绘为代表的御宅文化仍在遭到包括女性主义在内的各种主流文化的偏见和歧视。尽管也许是出于无意，“萌绘不适合公共场所”的话语，在御宅们看来，就是企图将御宅再次边缘化、透明化的最直接的讯息。]]></title>
-            <link>http://ml/386f42469b5afac8f688a2e52ee037cf.html</link>
-            <guid>8ce8361f07e9a423710baae18f90112e</guid>
-            <pubDate>Wed, 23 Dec 2020 21:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美团收拢生鲜战线，聚焦社区团购；字节成立大健康业务部门，教育业务也有进展]]></title>
-            <link>http://ml/275250576478bb39e4115511f50b3a18.html</link>
-            <guid>708dfa731a8abec23a417517b9e1d34d</guid>
-            <pubDate>Wed, 23 Dec 2020 21:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
