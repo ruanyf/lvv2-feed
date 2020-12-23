@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 23 Dec 2020 18:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2020 20:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -26,6 +26,18 @@
             <link>http://ml/71310c0ffa99cdf6f97cb96c75b64eef.html</link>
             <guid>cb917869874eb7ce086f20cc8256376e</guid>
             <pubDate>Thu, 24 Dec 2020 00:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【从Nike手中夺下Fear of God，adidas在打什么算盘？】Fear of God已经改变了人们看待整个潮流品类的方式，在潮流文化全面入侵时装界的当下，“潮牌化”不仅为品牌带来更多街头元素和穿衣风格，而是形成了一套在整个时尚行业蔓延渗透的运营方法论。]]></title>
+            <link>http://ml/002cec65db5b2cca78483b7ff65cb3fe.html</link>
+            <guid>4603fde168c8aaf105d30b0c0c7cc778</guid>
+            <pubDate>Thu, 24 Dec 2020 04:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【图灵奖得主、深度学习教父Bengio的AI公司，都不得不「2折出售」了】这家高度炒作的公司与其在实际创建软件业务方面的成绩并不相符，”这些人得到了世界上所有的资源，拥有疯狂的早期融资，有背后的顶级人才库，有世界上最支持风险投资的政府之一。但却成为了一个笑话。“]]></title>
+            <link>http://ml/a2f10dfab311384c7194a0dca1654c7f.html</link>
+            <guid>6ea561bc008c2bd84b4f4b5380c6ec97</guid>
+            <pubDate>Thu, 24 Dec 2020 03:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[宪法律师：法律禁止彭斯接受来自欺诈性认证州的选举人票
@@ -75,12 +87,6 @@
             <link>http://ml/275250576478bb39e4115511f50b3a18.html</link>
             <guid>708dfa731a8abec23a417517b9e1d34d</guid>
             <pubDate>Wed, 23 Dec 2020 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我们找了三位离婚人士，聊聊离婚到底需不需要冷静期]]></title>
-            <link>http://ml/da36cf222f1d09f3f986e899e22b02f7.html</link>
-            <guid>8a359efffc8f65ec8bfc076492f1dec3</guid>
-            <pubDate>Wed, 23 Dec 2020 20:35:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
