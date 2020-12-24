@@ -33,7 +33,11 @@ const newFeed = new Feed({
 
 
   feed.items.forEach((item) => {
-    let link = 'http://' + item.link.substr(27);
+    let link = item.link;
+    if (!link.includes('instant.lvv2.com')) {
+      link = 'http://' + item.link.substr(27);
+    }
+
     const hostname = (new URL(link)).hostname;
 
     const urlFilterArr =[
