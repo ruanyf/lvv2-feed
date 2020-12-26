@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 26 Dec 2020 18:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 20:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【《赛博朋克2077》在《辐射4》未竟的道路上继续前行】要是没有之前那些整活过度的宣传和那完全可以用作坡度测试器的本世代主机表现，仅凭眼下游戏的内容量和演出质量，它就足以成为本世代的绝赞收官了。]]></title>
+            <link>https://instant.lvv2.com/html/9429c284a899e10d479e6b38e76e5c67.html</link>
+            <guid>6dbcf2fb8556702068c83281d9cd4b1e</guid>
+            <pubDate>Sun, 27 Dec 2020 04:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巧了，沙赫特也是红鼻头!
 
@@ -69,36 +75,6 @@
             <link>https://instant.lvv2.com/html/7eb5f1f8baa930cf6aabb97c3fac27bc.html</link>
             <guid>a1bec5ff6dd7ad4e47b9d83d9a0239fd</guid>
             <pubDate>Sat, 26 Dec 2020 22:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前几天不少人说北京流调这位34岁的青年有多惨，我有点不同意见。路都是自己选的，选择安逸没毛病，但也别这么自我感觉良好悲天悯人，这么说人家不合适。人家就算混不下去了，房子一卖回老家，也算是小小的衣锦还乡，日子肯定比不少人舒服。]]></title>
-            <link>http://weibo.com/2090591961/JAeQAFJC9</link>
-            <guid>24b08d460c897cf802e54345205145d9</guid>
-            <pubDate>Sat, 26 Dec 2020 22:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波司登羽绒服，为啥还是有点“土”？】波司登唯一让我感知到它“高端”气息，只有涨了2000块吧。小红书一位小姐姐晒波司登杨幂同款，评论高赞是“你好像一颗红腰子啊”，妹子用“哈哈哈哈哈”掩饰尴尬。]]></title>
-            <link>https://instant.lvv2.com/html/90af99974157a0cf5549aa6cfaa4ebc5.html</link>
-            <guid>457fb894493b060bb5ef20e8978616db</guid>
-            <pubDate>Sat, 26 Dec 2020 22:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[主人晒出了自家喵小时候跟现在的照片... ]]></title>
-            <link>http://www.pinterest.jp/abregeilla/cat-verse/</link>
-            <guid>49f6a4bbc5bd5c348c08204e717e99f4</guid>
-            <pubDate>Sat, 26 Dec 2020 21:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 一个中年人的游戏观】如果父亲还在，他会不会也喜欢上战地？我甚至可以请先生给他配一台八核CPU的电脑，他会不会眯起眼睛盯着屏幕打一晚上，就像小时候摆弄红警那样？不…不，他大概还是会玩红警，战地再好，新玩意儿再妙，我猜他最后还是会去玩红警。]]></title>
-            <link>https://instant.lvv2.com/html/5b25c196af96079f7c89952e86e6804d.html</link>
-            <guid>30ddb51551420ba9f2cebe628f6e046e</guid>
-            <pubDate>Sat, 26 Dec 2020 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国冷战时期著名的双面间谍乔治·布莱克26日去世，终年98岁。在1944年至1961年期间，布莱克曾担任英国的秘密间谍，后被起诉为前苏联刺探军情而被判入狱42年。1966年他从伦敦越狱，之后一直生活在莫斯科。]]></title>
-            <link>https://instant.lvv2.com/html/3e24b1ccef5e748de5e28d907dd082dc.html</link>
-            <guid>4b5809209cb556678056e85442be25e9</guid>
-            <pubDate>Sat, 26 Dec 2020 21:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
