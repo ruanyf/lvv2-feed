@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 28 Dec 2020 18:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 20:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[松下将为特斯拉生产的这款大电池，直径翻倍、成本减半]]></title>
+            <link>https://instant.lvv2.com/html/d48181a8c85eb26458c2a59555125001.html</link>
+            <guid>91935222fb67f0e81293405fbccbb3b6</guid>
+            <pubDate>Tue, 29 Dec 2020 04:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本茑屋书店到中国，你真去看书，就输了】杭州天目里作为一块新兴办公园区，因为引入了茑屋书店，人气暴增。上海上生·新所同样如此，老建筑被改造重修后，历经巅峰、过气，这一次再度迎来热潮。]]></title>
             <link>https://instant.lvv2.com/html/ce37eabaacd9d2b6a7e65a669d5861a3.html</link>
@@ -71,30 +77,6 @@
             <link>https://instant.lvv2.com/html/ed79a265f13d97cc531dd8202bd85890.html</link>
             <guid>b708311ae2345c297d329a7da78c066d</guid>
             <pubDate>Mon, 28 Dec 2020 23:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我希望每天都能拍妹，没有别的想法，只是为了我的心情愉悦]]></title>
-            <link>https://instant.lvv2.com/html/e7868e41f15944a8bd5ca379036a74b9.html</link>
-            <guid>7395c9909829572a7ea9435d70947883</guid>
-            <pubDate>Mon, 28 Dec 2020 22:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米11正式发布：里外均称得上旗舰，售价维持3999】小米11包装提供两种版本，标准版不含充电器和数据线，套装版带有价值99元的55W氮化镓充电器和数据线，价格相同。]]></title>
-            <link>https://instant.lvv2.com/html/67e9ee434dc2fe5f46597b63c302d887.html</link>
-            <guid>af4f0641241911206f018da09448daf6</guid>
-            <pubDate>Mon, 28 Dec 2020 22:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[关乎14亿中国人的“谈判” 是怎样进行的？]]></title>
-            <link>https://instant.lvv2.com/html/deb712e6b02dc971334c452ab6ac0d25.html</link>
-            <guid>d55f9bd35b27d0ebfca17e864813e817</guid>
-            <pubDate>Mon, 28 Dec 2020 22:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闲鱼交易上百次后，我总结出了「不翻车宝典」]]></title>
-            <link>https://instant.lvv2.com/html/970785e84a369b822016f6f557432920.html</link>
-            <guid>8c69b6f07d94befef9240c570a7d2847</guid>
-            <pubDate>Mon, 28 Dec 2020 17:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
