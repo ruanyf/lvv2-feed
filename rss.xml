@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 29 Dec 2020 17:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2020 19:00:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -35,6 +35,18 @@
             <link>https://instant.lvv2.com/html/e267d46084ecf1ef067abfe2526e9760.html</link>
             <guid>6622bc2cd694d33a62cd06b72b754fa2</guid>
             <pubDate>Tue, 29 Dec 2020 22:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏定价的面相学：价格能反映游戏质量吗？]]></title>
+            <link>https://instant.lvv2.com/html/cac7283f67b52a95d198435e7c2daad0.html</link>
+            <guid>80d21e128539d3b8290c75580e37da8d</guid>
+            <pubDate>Wed, 30 Dec 2020 02:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7年，距离台湾，仅剩68海里】12月26日，福州至平潭铁路开通，同时中国首座公铁两用跨海大桥——平潭海峡公铁大桥投入使用，福州至平潭最快35分钟可达。]]></title>
+            <link>https://instant.lvv2.com/html/969d08a116ca529622d692ddbacfb28a.html</link>
+            <guid>7b51b16b601fa21f00cf5ba55010bc19</guid>
+            <pubDate>Wed, 30 Dec 2020 01:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【杨笠被骂，早晚的事儿】聚拢话题给了杨笠很多传播上的便利，但在公关看来也带了三个明显问题：1）敏感性，有很大的风控问题；2）束缚性，容易产生刻板印象；3）局限性，无法延展、延伸。杨笠与这个母题“束缚”在一起了——找你，就是想让你讲这个；你只有讲这个，才会有人继续找你。这样的营销“爆一个”，早晚要还的。]]></title>
@@ -119,24 +131,6 @@
             <link>https://instant.lvv2.com/html/16e7a23b72cda8b464064e7730a1dde0.html</link>
             <guid>c1f505ad887816149f9a15b3e053738c</guid>
             <pubDate>Tue, 29 Dec 2020 18:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【脑机革命：马斯克向左，陈天桥向右】脑机革命，未来是会以马斯克的对大脑“炸开城墙”式直接展开，还是以陈天桥的对大脑“特洛伊木马”式借道展开？]]></title>
-            <link>https://instant.lvv2.com/html/31299e0c63dfae6b5732aaee40e81f1e.html</link>
-            <guid>75db9ae4ec0348e552cd2b79ce044808</guid>
-            <pubDate>Tue, 29 Dec 2020 14:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油管知名搞事频道CUT，邀请了几对“前情侣”，单独询问每个人对上一段感情的看法——“你们怎么认识的？”“你们为什么要分开？”“谁对分手更加难过？”“你会怀念ta的什么？”这个采访内容给人一种感觉：就是西方文化对“人性欲望”的部分接纳得比较自然，或者说羞耻感会少一些。]]></title>
-            <link>http://m.weibo.cn/status/4587428055090653</link>
-            <guid>997935708b2e370b38200bf3d58b2011</guid>
-            <pubDate>Tue, 29 Dec 2020 18:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海、广州人在滑雪上花大钱】比钓鱼更花钱的滑雪项目，光购置装备就要两万多。入门之后，有人开始挑战更高级的玩法，比如平花、刻滑等。]]></title>
-            <link>https://instant.lvv2.com/html/d959cb4e5903209d03f70b6a80c3aaf2.html</link>
-            <guid>fee87c1bccf6ae1356d4568a77f9aaaf</guid>
-            <pubDate>Tue, 29 Dec 2020 18:20:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
