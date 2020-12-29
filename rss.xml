@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 29 Dec 2020 20:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2020 22:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[孙志新：秦汉时代的政治模式和文化认同]]></title>
+            <link>https://instant.lvv2.com/html/521c7d324b5c8ee9f583f2f18ab6f936.html</link>
+            <guid>87057127067f13561e301e7c61bd3ea9</guid>
+            <pubDate>Wed, 30 Dec 2020 06:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荆州“关公雕像搬移工程”公告：将投资四千万元拆后异地安装]]></title>
+            <link>https://instant.lvv2.com/html/73044a36932a51591a159a4514c49828.html</link>
+            <guid>bccbf4969b80dd0576abce15dbc9e20b</guid>
+            <pubDate>Wed, 30 Dec 2020 06:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Invent &amp; Wander ：完全算不上传记但还算本好书】简单的感受是：如果你一直关注亚马逊，特别是如果你每年都留意阅读Bezos给股东的信，我觉得这本书对你的意义就非常不大了。]]></title>
+            <link>https://instant.lvv2.com/html/0b99545522132de33f70c73e6d487c9d.html</link>
+            <guid>c7664a3200ba72fcaa5431589a572601</guid>
+            <pubDate>Wed, 30 Dec 2020 05:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2020，我们还能坚持一下】虽然并不忍心在这样的环境下裁员，但这一阶段，公司活下去最重要。公司把原来的办公室退掉了，现在在政府提供的众创空间办公，每月成本控制在10万元以内。]]></title>
             <link>https://instant.lvv2.com/html/3747382bdd7364c4d1ba08a977a6748d.html</link>
@@ -83,30 +101,6 @@
             <link>https://instant.lvv2.com/html/3587794c0f8dd01da65a61a5c26230ca.html</link>
             <guid>bc64f9ff8fad1e89aaa30861bfc47a1c</guid>
             <pubDate>Tue, 29 Dec 2020 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报！蒋凡被终止认定c类高层次人才】刚刚杭州社保局给我打电话，说由于很多很多人打电话来举报蒋凡，现在他已经被终止认定c类高层次人才了。]]></title>
-            <link>https://instant.lvv2.com/html/940a9bdd6f9d1943ab928ba2e01bf71d.html</link>
-            <guid>094947976deeaae418f84be63f4fb3db</guid>
-            <pubDate>Tue, 29 Dec 2020 17:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“飞跃”鞋恩怨史：民族品牌到底归谁？】随着飞跃的“翻红”，飞跃品牌在商标方面的历史遗留问题也被揭开。目前共有四家公司在做几乎同样logo、同样款式的飞跃鞋，各家都称自己做的是正版飞跃，拥有合法商标，几家中国公司还认为只有自己有权做飞跃市场。]]></title>
-            <link>https://instant.lvv2.com/html/8958769664abeda0c47506606a1c03c2.html</link>
-            <guid>fb809cb3b0f7490cd6d96fec21fd08d7</guid>
-            <pubDate>Tue, 29 Dec 2020 21:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[时尚界泰斗，意大利裔法籍服装设计师皮尔·卡丹去世，终年98岁]]></title>
-            <link>https://instant.lvv2.com/html/9ac91fb73c8cc6983ef5351e8db8158c.html</link>
-            <guid>ec6e94b02d2a0982b2fbb823cc9b85e3</guid>
-            <pubDate>Tue, 29 Dec 2020 20:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界军武图鉴：卡迭石战役（上）】公元前1274年，埃及和赫梯都正值鼎盛时期。近百年以来，为争夺叙利亚的霸权，两国之间一直摩擦不断。此次两位国王都“御驾亲征”倾国而来。使卡迭石之战成为三千年前两个超级大国间的摊牌之战，也是人类历史上第一场有详细记录的战役。]]></title>
-            <link>https://instant.lvv2.com/html/c564e5da04fa4c0c8c36a755458e0539.html</link>
-            <guid>c4e6169f1405161e76022a88c496737f</guid>
-            <pubDate>Tue, 29 Dec 2020 20:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
