@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 29 Dec 2020 19:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2020 20:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -20,6 +20,12 @@
             <link>https://instant.lvv2.com/html/dc1c54dd05bed37ccaa1a3d421a66348.html</link>
             <guid>d701180dd608e690a4b505c52af74ef6</guid>
             <pubDate>Wed, 30 Dec 2020 00:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斥资390亿元，宁德时代投建三个电池制造基地]]></title>
+            <link>https://instant.lvv2.com/html/737f5b0386273142b6ec114a2f0cc13f.html</link>
+            <guid>ac1f888633e253db932136316aa3e93d</guid>
+            <pubDate>Wed, 30 Dec 2020 03:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[写的很好的一个知乎帖《忽悠的原理与技巧
@@ -101,36 +107,6 @@
             <link>https://instant.lvv2.com/html/c564e5da04fa4c0c8c36a755458e0539.html</link>
             <guid>c4e6169f1405161e76022a88c496737f</guid>
             <pubDate>Tue, 29 Dec 2020 20:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【感染后邻居搬走，7岁女儿不想再提疫情】又一个冬天到了，武汉百步亭社区恢复了一种嘈杂、充满烟火气、又秩序井然的日常生活。]]></title>
-            <link>https://instant.lvv2.com/html/ab3e66f533dc98693d5d2b00ac1dbb33.html</link>
-            <guid>44e9bbf82a811c31cf03571ba7a35ab9</guid>
-            <pubDate>Tue, 29 Dec 2020 19:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[好像是主人特意装的改进型猫爬架... ]]></title>
-            <link>http://imgur.com/t/cat/OsQaf2l</link>
-            <guid>97615a97ff3ca0bb6256a79082fa03e1</guid>
-            <pubDate>Tue, 29 Dec 2020 19:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开一间外卖快餐店能挣多少钱？】前几天在肠粉店吃粉碰到一服务员，他年纪估摸50多， 精神矍铄、目光炯炯，气场不一般，一聊原来之前开过专做外卖渠道、只有厨房没有门面的小店，一开始每个月还能挣5、6000，外卖平台提佣金后生意从盈利转亏损，后来一盘算还倒亏7万，只好做起服务员。]]></title>
-            <link>https://instant.lvv2.com/html/2a7e414fa54399df5167b7b8daef22de.html</link>
-            <guid>238f0a4dbe2ea2314c0b71e8848d0d50</guid>
-            <pubDate>Tue, 29 Dec 2020 19:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【弄巧成拙，LV推出牛皮瑜伽垫引争议】尽管牛皮材质主要出现在瑜伽垫的肩带上，但依然在印度教中掀起舆论风波。印度教环球协会主席Rajan Zed在一个声明中直言，把两者结合到一起是对印度教文化的冒犯，要求Louis Vuitton正式道歉并停止发售相关产品。]]></title>
-            <link>https://instant.lvv2.com/html/8fd9ec5666db81ccf88963f3831d06e0.html</link>
-            <guid>0fed5ed94111214ae883e6dc480ee910</guid>
-            <pubDate>Tue, 29 Dec 2020 19:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【违反防疫规定逃离瑞士，几百名英国滑雪客被骂惨了】因变异新冠病毒蔓延，瑞士规定在其与英国“禁航令”生效前抵达的英国游客也需隔离。瑞士滑雪胜地韦尔比耶方面证实，隔离令下达后，420名英国游客中约200人只隔离一天就“趁夜色不告而别”了；当地媒体称，“逃跑”游客或达350人，其中一些人“已经出现在法国”。]]></title>
-            <link>https://instant.lvv2.com/html/16e7a23b72cda8b464064e7730a1dde0.html</link>
-            <guid>c1f505ad887816149f9a15b3e053738c</guid>
-            <pubDate>Tue, 29 Dec 2020 18:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
