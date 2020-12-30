@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 30 Dec 2020 20:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2020 22:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -26,6 +26,12 @@
             <link>https://instant.lvv2.com/html/e449d53722f8fcd7e2864027fda05fae.html</link>
             <guid>55ea071e42260368aa0f23b54af2eb5d</guid>
             <pubDate>Thu, 31 Dec 2020 00:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2020年债市“魔幻”江湖：债券违约破1600亿，“信仰冲击”下防风险成第一要务]]></title>
+            <link>https://instant.lvv2.com/html/ac40e025248581467f812653114bfcd8.html</link>
+            <guid>6890bcd928c1c53dd4acbb21bbfa7354</guid>
+            <pubDate>Thu, 31 Dec 2020 06:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2020年12月30日，中欧领导人共同宣布如期完成中欧投资协定谈判]]></title>
@@ -158,18 +164,6 @@
             <link>https://instant.lvv2.com/html/8515a930c6e1cfba53b993052e07cc2d.html</link>
             <guid>7332a2e60261ecebd38276033fe8790e</guid>
             <pubDate>Wed, 30 Dec 2020 17:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【捋清了！顺义疫情传播链分析】根据流行病学调查及基因测序结果，初步判断此次疫情感染来源为12月28日报告新增的1例境外输入无症状感染者。该患者为某男，28岁，印度尼西亚籍，长期在印度尼西亚生活。]]></title>
-            <link>https://instant.lvv2.com/html/b26b021f12e4d44772c3ff6a91eaaf59.html</link>
-            <guid>504e6b4c5da51a915ca726340da05300</guid>
-            <pubDate>Wed, 30 Dec 2020 16:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【过关政策收紧：香港入境深圳要提前预约】自2021年1月5日上午10:00时起，由香港经深圳湾口岸入境时，必须持有“健康驿站房间网上预约系统”生成的通关当日有效的预约确认单，入境后接受14天集中隔离医学观察。]]></title>
-            <link>https://instant.lvv2.com/html/8f031b207b4813048fe249e4653a37d8.html</link>
-            <guid>e0ed6e319bddde42bae4b43c96ceb992</guid>
-            <pubDate>Wed, 30 Dec 2020 16:35:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
