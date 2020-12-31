@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 31 Dec 2020 17:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2020 18:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -135,12 +135,6 @@
             <link>https://instant.lvv2.com/html/c8cbb924978188d7aa0324ee610fe1aa.html</link>
             <guid>2536a271581b2d274005690362e51f3f</guid>
             <pubDate>Thu, 31 Dec 2020 18:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港终审法院裁决撤销黎智英保释，黎须即时还押候讯，等候明年2月1日上诉聆讯]]></title>
-            <link>https://instant.lvv2.com/html/bda2f7e050ed3981fb895ec110cae2a6.html</link>
-            <guid>59528236ad59841d53fb617d641a6b67</guid>
-            <pubDate>Thu, 31 Dec 2020 18:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
