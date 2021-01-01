@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 01 Jan 2021 14:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 17:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【神利，一家80%会员复购率的四线城市便利店】如果你知道它们还在做免费借伞、低价干洗衣服的会员增值服务；做着北上广大厂企业才会做的异业合作；联合当地餐饮业做跨行业的会员积分共享。你会震惊，这不就是借着一线城市的优秀商业方法论，做着四线城市日常本地生活的降维打击吗？]]></title>
+            <link>https://instant.lvv2.com/html/9dfb4a581e90bd0cd51c16c8fee3adb1.html</link>
+            <guid>dd25c3b4184f227fcabaecd170bfcbc8</guid>
+            <pubDate>Sat, 02 Jan 2021 01:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[指尖上的奇妙旅程：第15届上海新年模型交流赛全纪录]]></title>
+            <link>http://weibo.com/ttarticle/p/showid=2309404588669464871416</link>
+            <guid>27458c04aba07e0b69cf0f21084d6628</guid>
+            <pubDate>Sat, 02 Jan 2021 00:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张玉环的2020年：学会了微信和骑电动车，两层楼房已开建】出狱5个月的张玉环正在努力适应新生活，两个儿子放弃了原来的职业成为网红，开始从事直播带货，生活正在逐步向好。]]></title>
+            <link>https://instant.lvv2.com/html/d29b668a3e897f6c2994376b0af47f38.html</link>
+            <guid>e9fc5c400d38e29a0517bea9246aa983</guid>
+            <pubDate>Fri, 01 Jan 2021 22:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新马高铁协议终止，新加坡要求马来西亚作出赔偿】当地时间1月1日，新加坡和马来西亚两国总理公署发表联合声明指出，新冠肺炎疫情冲击马来西亚经济，马来西亚政府对新马高铁计划提出数项调整。两国政府针对这些调整展开数次会谈，但无法达成协议。协议在2020年12月31日最后期限后正式失效。]]></title>
             <link>https://instant.lvv2.com/html/f0af12b5eb5f7b9f9d75d9c8e0b34545.html</link>
@@ -86,24 +104,6 @@
             <link>https://instant.lvv2.com/html/55758c4a193c705da9b4e9287d021cb3.html</link>
             <guid>5bd89f6991d7f200e9a5e5bc0e9972c7</guid>
             <pubDate>Fri, 01 Jan 2021 17:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一审败诉，亚马逊判赔 7646 万元，不可使用 AWS 名称]]></title>
-            <link>https://instant.lvv2.com/html/6ab3c9b60ffe0829cf3c5680b8da9825.html</link>
-            <guid>b971d6094dd245da1888b37e677db568</guid>
-            <pubDate>Fri, 01 Jan 2021 17:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[从一个圆角矩形开始， 和大家聊一聊， 关于曲线的那些事。]]></title>
-            <link>https://instant.lvv2.com/html/f256b211967d1bd0528907d970194d7f.html</link>
-            <guid>9d0942de337d5b7ef01fe6c660cf2d89</guid>
-            <pubDate>Fri, 01 Jan 2021 16:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度“抗中神剧”《加勒万河谷》开拍，然而前线的印军已经撑不住了……]]></title>
-            <link>https://instant.lvv2.com/html/8cbaa26384a09073fb1770d47c397b88.html</link>
-            <guid>dcb69292d268bec6584b7ff52ae1faae</guid>
-            <pubDate>Fri, 01 Jan 2021 12:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
