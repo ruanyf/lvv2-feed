@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 01 Jan 2021 17:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 18:58:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,12 @@
             <link>https://instant.lvv2.com/html/9dfb4a581e90bd0cd51c16c8fee3adb1.html</link>
             <guid>dd25c3b4184f227fcabaecd170bfcbc8</guid>
             <pubDate>Sat, 02 Jan 2021 01:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【抖音博主素颜出镜支持的“反容貌焦虑”是在反啥？】进入2020年12月，抖音上掀起了一阵“#反容貌焦虑”风潮，许多博主通过发布短视频展示自己素颜和真实的身材状况，呼吁女性直面真实的自己，勇敢地对普遍存在的“容貌焦虑”说不。]]></title>
+            <link>https://instant.lvv2.com/html/d83a62e5fb4dc0e8b5e1075ea58168a9.html</link>
+            <guid>c7b2011db1b9ad566c9214785a83698c</guid>
+            <pubDate>Sat, 02 Jan 2021 02:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[指尖上的奇妙旅程：第15届上海新年模型交流赛全纪录]]></title>
@@ -86,24 +92,6 @@
             <link>https://instant.lvv2.com/html/07096e7c4d4c2b586927562b66715d3c.html</link>
             <guid>88b0ca00c57da603636c924c0e85c07e</guid>
             <pubDate>Fri, 01 Jan 2021 18:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[整理了一下《冀西南林路行》中其他音乐人的信息，发现吸收了很多年轻的优秀乐手，长笛手尚不到20岁]]></title>
-            <link>http://www.douban.com/review/13098365/dt_dapp=1</link>
-            <guid>10d1dd05f335b2520133cbc5b310386e</guid>
-            <pubDate>Fri, 01 Jan 2021 18:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[浙江大伯把消毒液当白酒连喝四五天 医生惊了：30ml就能致死，他为什么喝下200多ml还能救回来？]]></title>
-            <link>https://instant.lvv2.com/html/e19eadd24ff2185855c4757549224a76.html</link>
-            <guid>e8c1b2b63acbb6848487285b78f494d2</guid>
-            <pubDate>Fri, 01 Jan 2021 12:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《送你一朵小红花》何以评分两极化】好评者认为，《小红花》情节感人温馨，男女主的爱情太美好；另一方面，似乎也是因为这两点，不少人在豆瓣打一星，“为了鸡汤而鸡汤，比《上海堡垒》还烂”，“换着不同的噱头讲爱情”。]]></title>
-            <link>https://instant.lvv2.com/html/55758c4a193c705da9b4e9287d021cb3.html</link>
-            <guid>5bd89f6991d7f200e9a5e5bc0e9972c7</guid>
-            <pubDate>Fri, 01 Jan 2021 17:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
