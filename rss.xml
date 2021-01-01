@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 01 Jan 2021 01:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 02:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -62,18 +62,6 @@
             <link>http://gouhuo.qq.com/content/detail/0_20201231231600_V5SpQULKu</link>
             <guid>1b58b55316cc21167743862727ab3243</guid>
             <pubDate>Fri, 01 Jan 2021 03:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普要办派对、伦敦取消烟花秀：疫情下各国如何跨年？】纽约时代广场新年倒计时不对外开放、伦敦泰晤士河烟花秀取消、法国派10万警察上街防止民众聚会、东京明治神宫关门、曼谷关闭娱乐场所、南非延长宵禁…从北半球到南半球，众多国家将迎来一个与往年截然不同的跨年夜。]]></title>
-            <link>https://instant.lvv2.com/html/d71bf6107fd0f5110f7101b1fe40b5a2.html</link>
-            <guid>8b6baa26073e6d94768b1662fa07f942</guid>
-            <pubDate>Fri, 01 Jan 2021 01:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020最受欢迎的100个家，你最爱哪一个？]]></title>
-            <link>https://instant.lvv2.com/html/0a32e28442fd9a8c7f7fc7264f4e25dd.html</link>
-            <guid>f8a980c15f4ea34c64f13f815d6bc436</guid>
-            <pubDate>Fri, 01 Jan 2021 00:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
