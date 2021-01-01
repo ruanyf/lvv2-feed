@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 01 Jan 2021 18:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2021 20:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://instant.lvv2.com/html/9dfb4a581e90bd0cd51c16c8fee3adb1.html</link>
             <guid>dd25c3b4184f227fcabaecd170bfcbc8</guid>
             <pubDate>Sat, 02 Jan 2021 01:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【24年了，大家都没忘记玉置浩二】如果说中岛美雪是养活当时华语音乐特别是港台音乐半壁江山的老祖母，那么，另一半江山，毫无疑问就是由玉置浩二和他的乐队「安全地带」撑起来的。]]></title>
+            <link>https://instant.lvv2.com/html/9e7927665a0b399fc553dc60054c7b72.html</link>
+            <guid>81728c8346adad0ef982a7eab0acd85e</guid>
+            <pubDate>Sat, 02 Jan 2021 04:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[不能编程、烧钱、没用？潘建伟直播回应“九章”量子计算争议]]></title>
+            <link>https://instant.lvv2.com/html/3c20a7a7ea2996d13434b006d19e2744.html</link>
+            <guid>1a035d81e11b8d2e50e8bcb888bc0234</guid>
+            <pubDate>Sat, 02 Jan 2021 03:10:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【抖音博主素颜出镜支持的“反容貌焦虑”是在反啥？】进入2020年12月，抖音上掀起了一阵“#反容貌焦虑”风潮，许多博主通过发布短视频展示自己素颜和真实的身材状况，呼吁女性直面真实的自己，勇敢地对普遍存在的“容貌焦虑”说不。]]></title>
@@ -86,12 +98,6 @@
             <link>https://instant.lvv2.com/html/87adec1e13e5421e0fb5f9fcff0f7f48.html</link>
             <guid>1ed4d49f93d3c6d7949d4baf43728c42</guid>
             <pubDate>Fri, 01 Jan 2021 19:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津首推人脸识别禁采令之后】禁止采集人脸识别信息的消息，首先在天津市文化村社区“炸了锅”。这个用人脸识别门禁系统已经管理了近三年的社区，居委会不得不“迅速反应”，重新以微信群、贴通告、广播等方式通知小区全体居民，在12月31日之前，请大家自行决定是否继续使用人脸识别进出小区。]]></title>
-            <link>https://instant.lvv2.com/html/07096e7c4d4c2b586927562b66715d3c.html</link>
-            <guid>88b0ca00c57da603636c924c0e85c07e</guid>
-            <pubDate>Fri, 01 Jan 2021 18:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
