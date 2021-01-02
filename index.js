@@ -2,11 +2,12 @@ const Parser = require('rss-parser');
 const Feed = require('feed').Feed;
 const crypto = require('crypto');
 const fs = require('fs/promises');
+const process = require('process');
 
 const FeedUrl = 'https://lvv2.com/rss';
 
 let parser = new Parser({
-  timeout: 1000,
+  timeout: 3000,
   headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'},
   maxRedirects: 5,
 });
@@ -34,6 +35,9 @@ const newFeed = new Feed({
 
   feed.items.forEach((item) => {
     let link = item.link;
+
+    if (link.length < 27) return;
+
     if (!link.includes('instant.lvv2.com')) {
       link = 'http://' + item.link.substr(27);
     }
@@ -87,4 +91,7 @@ const newFeed = new Feed({
     throw err;
   }
 
-})();
+})().catch(err => {
+  console.log(err);
+  process.exit(1);
+});
