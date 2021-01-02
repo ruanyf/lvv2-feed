@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 02 Jan 2021 20:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2021 22:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[钟永丰和林生祥，是二十余年来台湾客家民谣最顶尖的一对拍档。钟永丰探索出一条方言入诗、入歌的独特门径。在林生祥与钟永丰的合作中，皆由钟永丰先出想法和歌词，再由林生祥谱曲。新专辑《野莲出庄》以米食、野果、野菜及蔬食为概念和线索，写出11种不同的食物过程，勾勒了一幅农村日常的食物（植物）民族志。]]></title>
+            <link>https://instant.lvv2.com/html/e334d0c42b434019fcf21d1d12b9233f.html</link>
+            <guid>7a08b8f33876b87fff8088fb0e316393</guid>
+            <pubDate>Sun, 03 Jan 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【解读中国足协国际级裁判报名：步入正轨！】国际足联公布了2021年国际级裁判员名单引发中国球迷热议，保留沈寅豪的国际级，撤掉非精英的顾春含和王竞，让王迪回归国际级，新报上金京元，多年来足协终于没有再浪费这7个国际级名额，而是最大限度的利用了这些名额，让正确的人出现在了正确的位置上。]]></title>
+            <link>https://instant.lvv2.com/html/cdd60836af707e247147bcf08929868d.html</link>
+            <guid>468c43617c24b09313ae33950f934ab9</guid>
+            <pubDate>Sun, 03 Jan 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[印尼男护士和确诊新冠的同性患者在医院发生关系，事后还把现场照公开炫耀，这下悲剧了……​​​]]></title>
             <link>https://instant.lvv2.com/html/f4cd601d9a65efd038709a360765e87e.html</link>
@@ -62,36 +74,6 @@
             <link>https://instant.lvv2.com/html/9ac502591649fa0c8fab71d1f0b34d59.html</link>
             <guid>c925b34b6742ef5b4f766d060b9be556</guid>
             <pubDate>Sat, 02 Jan 2021 22:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1月4日起院线不得再排映晴雅集和沐浴之王 ​​​​]]></title>
-            <link>http://107cine.com/stream/133295</link>
-            <guid>91028996d81eeb865960c88da0a5b047</guid>
-            <pubDate>Sat, 02 Jan 2021 22:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大连理工研二女生校内被撞身亡，肇事司机曾任大连工业大学校长]]></title>
-            <link>https://instant.lvv2.com/html/c6fd9d646f59b197d470e4e3adf3783d.html</link>
-            <guid>a02b55bbd70bffc08fcc9c88a6f5e394</guid>
-            <pubDate>Sat, 02 Jan 2021 21:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[王府井地下佛像摄影大赏]]></title>
-            <link>http://weibo.com/6822912415/JAZNHAgTd</link>
-            <guid>a386ba5176cbafe16ab3f8aca3b7ca88</guid>
-            <pubDate>Sat, 02 Jan 2021 21:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开年第一天小鹏“如约”激光雷达，特斯拉继续“降价”打击】特斯拉在自动驾驶一直保持着极为激进的研发路线，对于其它车企，在算法不足以支撑更高级别自动驾驶功能的前提下，用多种雷达与传感器的硬件组合打出“安全牌”，是对消费者负责任的选择。但对于特斯拉来说，如何使用性价比最高的零件创造更大的效益才是目标。]]></title>
-            <link>https://instant.lvv2.com/html/a40b0324ea94deb0eb8a9ad13d409e07.html</link>
-            <guid>56c41e68dcde22df642764d664af8b17</guid>
-            <pubDate>Sat, 02 Jan 2021 21:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[不懂就问，现在新农村都是这样的居住条件吗]]></title>
-            <link>http://bbs.hupu.com/40149578.html</link>
-            <guid>f2abe89c6357a6c43df2c937a1ccbda7</guid>
-            <pubDate>Sat, 02 Jan 2021 20:56:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
