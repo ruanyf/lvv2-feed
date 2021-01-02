@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 02 Jan 2021 18:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2021 20:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[印尼男护士和确诊新冠的同性患者在医院发生关系，事后还把现场照公开炫耀，这下悲剧了……​​​]]></title>
+            <link>https://instant.lvv2.com/html/f4cd601d9a65efd038709a360765e87e.html</link>
+            <guid>398d8b8385aaf4114c767d1e293c90f3</guid>
+            <pubDate>Sun, 03 Jan 2021 04:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北极科考：我们为什么要在北极呆上一年？】2019年9月，一艘载满科学家和物资的破冰船开到北极地区大约北纬85度的地方，深入海冰后关掉引擎，与一块巨大的浮冰冻在一起，洋流就会带着这艘船和浮冰一起漂流到北极中心，待上一整年。]]></title>
+            <link>https://instant.lvv2.com/html/c29613481f44c55cc203e51fd61397c7.html</link>
+            <guid>e4a22ecfae95ee69f08e9fe66fbdcca9</guid>
+            <pubDate>Sun, 03 Jan 2021 03:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【喊了26年的河南建业，变成了洛阳龙门】河南建业从省队变成市队，郑州航海体育场也面临搬迁到洛阳的命运。此前河南建业官方发布了十个新名字的候选，河南球迷也热情澎湃地讨论选哪个更好，然而在2020年最后一天，河南建业宣布的新名字，不是十个候选之一。]]></title>
             <link>https://instant.lvv2.com/html/f5c5a9487d3729d675730ea2bbc8524d.html</link>
@@ -80,12 +92,6 @@
             <link>http://bbs.hupu.com/40149578.html</link>
             <guid>f2abe89c6357a6c43df2c937a1ccbda7</guid>
             <pubDate>Sat, 02 Jan 2021 20:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有一群人每年都会举办一场「欺骗眼睛大赛」]]></title>
-            <link>https://instant.lvv2.com/html/97af22026772212024a66f9064f97948.html</link>
-            <guid>41e90e2bbc423cb2dfd33021dd6f4861</guid>
-            <pubDate>Sat, 02 Jan 2021 20:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
