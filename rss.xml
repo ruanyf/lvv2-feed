@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 02 Jan 2021 17:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2021 18:58:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【喊了26年的河南建业，变成了洛阳龙门】河南建业从省队变成市队，郑州航海体育场也面临搬迁到洛阳的命运。此前河南建业官方发布了十个新名字的候选，河南球迷也热情澎湃地讨论选哪个更好，然而在2020年最后一天，河南建业宣布的新名字，不是十个候选之一。]]></title>
+            <link>https://instant.lvv2.com/html/f5c5a9487d3729d675730ea2bbc8524d.html</link>
+            <guid>790595104d28de5995ac2017f181ee27</guid>
+            <pubDate>Sun, 03 Jan 2021 02:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[谢科晋级梦百合杯决赛，成为中国首个闯进世界围棋大赛的“00后”]]></title>
             <link>https://instant.lvv2.com/html/5564567a6c2a6f7d173dde73c9524d23.html</link>
@@ -80,12 +86,6 @@
             <link>https://instant.lvv2.com/html/97af22026772212024a66f9064f97948.html</link>
             <guid>41e90e2bbc423cb2dfd33021dd6f4861</guid>
             <pubDate>Sat, 02 Jan 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果、索尼、亚马逊都看中的Wondery究竟是谁？】亚马逊宣布收购播客初创公司Wondery，预计该交易将使该公司的估值达3亿美元以上。Wondery是仅存的几家独立播客之一，在创立的近五年时间里，Wondery大量炮制颇有特色的叙事化风格播客，并开辟了从播客到好莱坞的影视化改编之路。]]></title>
-            <link>https://instant.lvv2.com/html/9af08e580ae2c159e185ba5137b20e36.html</link>
-            <guid>4e71001417c8084e1a5eaf6bc2bd1471</guid>
-            <pubDate>Sat, 02 Jan 2021 19:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
