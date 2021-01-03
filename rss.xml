@@ -4,16 +4,28 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 03 Jan 2021 18:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 20:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【《赛博朋克2077》不过是赛博朋克的低劣复制品】赛博朋克曾经作为一个重要的反资本主义小说流派脱颖而出。如今，它已经沦为一种看上去酷的复古美学，以至于很容易被埃隆·马斯克这样的富人挪用，向怀旧的X世代推销受《银翼杀手》启发的丑陋卡车。]]></title>
+            <link>https://instant.lvv2.com/html/5bcd0b0283cd1f8e3c79e935eabd7bc4.html</link>
+            <guid>cfc8652b75a0aefd3a0a7c6a80f0743a</guid>
+            <pubDate>Mon, 04 Jan 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[传言：拼多多98年女员工，加班回家路上猝死]]></title>
             <link>https://Lvv2.com/t/2795244</link>
             <guid>740af011f0ce790ee0fe8ddf3ad315ec</guid>
             <pubDate>Mon, 04 Jan 2021 00:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【疫情中崛起的生鲜电商Weee!】疫情期间，华人生鲜电商Weee!脱颖而出，在2020年上半年一共融资8500万美元。公司创始人Larry Liu分享了自己的创业经历以及对行业的思考。他最敬佩沃尔玛的创始人Sam Walton，如果有可能的话，想做一辈子的Weee!]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/5f3f20d89504bbdb777365dc</link>
+            <guid>9f833a584705c89043fe7592b3149ef2</guid>
+            <pubDate>Mon, 04 Jan 2021 03:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【2021箱根驿传往路激战】目前日本疫情仍不容乐观，但一年一度的东京箱根间往复大学驿传竞走依然坚持举办，今年已是第九十七届。主办方根据防疫，也指定了很多规则，比如尽量不要去现场加油，比赛中不允许吐口水等等。]]></title>
@@ -92,12 +104,6 @@
             <link>https://instant.lvv2.com/html/d4d49be9b5bc08959b13ae488e93096c.html</link>
             <guid>cb76988adca0668ebb72fc69686f2cde</guid>
             <pubDate>Sun, 03 Jan 2021 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据2020年12月25日的国外商业卫星图像显示，中国南沙群岛永暑礁的机场跑道上，出现了一架中国空军的运-20“鲲鹏”大型运输机。这也是运-20运输机在南沙岛礁机场的首次亮相。]]></title>
-            <link>https://instant.lvv2.com/html/1fa5bd26d3eb7d66fff1866c00be626b.html</link>
-            <guid>13d6274e5a1ee65b42f9e27f17013cb4</guid>
-            <pubDate>Sun, 03 Jan 2021 19:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

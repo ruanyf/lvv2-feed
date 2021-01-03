@@ -6,11 +6,25 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "cfc8652b75a0aefd3a0a7c6a80f0743a",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/5bcd0b0283cd1f8e3c79e935eabd7bc4.html",
+            "title": "【《赛博朋克2077》不过是赛博朋克的低劣复制品】赛博朋克曾经作为一个重要的反资本主义小说流派脱颖而出。如今，它已经沦为一种看上去酷的复古美学，以至于很容易被埃隆·马斯克这样的富人挪用，向怀旧的X世代推销受《银翼杀手》启发的丑陋卡车。",
+            "date_modified": "2021-01-04T04:08:11.000Z"
+        },
+        {
             "id": "740af011f0ce790ee0fe8ddf3ad315ec",
             "content_html": "",
             "url": "https://Lvv2.com/t/2795244",
             "title": "传言：拼多多98年女员工，加班回家路上猝死",
             "date_modified": "2021-01-04T00:08:11.000Z"
+        },
+        {
+            "id": "9f833a584705c89043fe7592b3149ef2",
+            "content_html": "",
+            "url": "http://www.xiaoyuzhoufm.com/episode/5f3f20d89504bbdb777365dc",
+            "title": "【疫情中崛起的生鲜电商Weee!】疫情期间，华人生鲜电商Weee!脱颖而出，在2020年上半年一共融资8500万美元。公司创始人Larry Liu分享了自己的创业经历以及对行业的思考。他最敬佩沃尔玛的创始人Sam Walton，如果有可能的话，想做一辈子的Weee!",
+            "date_modified": "2021-01-04T03:08:21.000Z"
         },
         {
             "id": "8f7cc503d4959d952919b53340bb6d31",
@@ -102,13 +116,6 @@
             "url": "https://instant.lvv2.com/html/d4d49be9b5bc08959b13ae488e93096c.html",
             "title": "技术宅硬核跨年，DIY墨水屏日历：自动刷新位置、天气，随机播放2000多条「毒鸡汤」",
             "date_modified": "2021-01-03T20:08:11.000Z"
-        },
-        {
-            "id": "13d6274e5a1ee65b42f9e27f17013cb4",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/1fa5bd26d3eb7d66fff1866c00be626b.html",
-            "title": "据2020年12月25日的国外商业卫星图像显示，中国南沙群岛永暑礁的机场跑道上，出现了一架中国空军的运-20“鲲鹏”大型运输机。这也是运-20运输机在南沙岛礁机场的首次亮相。",
-            "date_modified": "2021-01-03T19:48:12.000Z"
         }
     ]
 }
