@@ -36,9 +36,11 @@ const newFeed = new Feed({
   feed.items.forEach((item) => {
     let link = item.link;
 
-    if (link.length < 27) return;
+    if (!link) return;
 
-    if (!link.includes('instant.lvv2.com')) {
+    if (link.length <= 27) {
+      // no operation;
+    } else if (!link.includes('instant.lvv2.com')) {
       link = 'http://' + item.link.substr(27);
     }
 
