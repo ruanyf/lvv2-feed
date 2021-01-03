@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 03 Jan 2021 10:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 10:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -134,12 +134,6 @@
             <link>https://instant.lvv2.com/html/e57c2502ffba0b8211712b7d8b5afc36.html</link>
             <guid>4d16137ac8151dad52a689825116524b</guid>
             <pubDate>Sun, 03 Jan 2021 12:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为什么有这么多人爱看游戏枪械的演示视频？】一些老外把这些视频称作“Gun Porn”，推测是因为它们会提供一种仅用言语很难表述的奇妙体验。游戏中枪械射击与装填的动作异常熟练，配合经过降噪处理的枪声，能够带给观众类似于流水线与液压机视频中能够得到的视听体验，非常解压，还能有效治疗强迫症。]]></title>
-            <link>https://instant.lvv2.com/html/673604d542bd3021dd403a1bf7e19320.html</link>
-            <guid>dce5baab3900c809ca8bd5b77abf52e0</guid>
-            <pubDate>Sun, 03 Jan 2021 12:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
