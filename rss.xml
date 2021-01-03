@@ -4,11 +4,43 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 03 Jan 2021 01:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 02:59:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【广州首批防疫系统公交电车上线】该系统一键自动消菌，弥散型雾化消毒液30秒覆盖全车。车内使用的物表消毒液为中性消毒产品，具备持久物理抗菌、无毒、无腐蚀、环保、可接触人体皮肤的特点。车上配备的人脸识别测温仪则可以对乘客体温进行测量、乘车信息进行记录，对健康情况进行语音提示，无需司机干预。]]></title>
+            <link>https://instant.lvv2.com/html/4ed00b9a8cada9bb08fa0f0fdc853129.html</link>
+            <guid>01191099355dc261ad1d773e77251640</guid>
+            <pubDate>Sun, 03 Jan 2021 10:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【任正非最新内部讲话：华为要收缩企业业务，继续做减法】“我们不可能简单采取阿里、亚马逊……一样的道路，我们没有那么多钱，他们有用不完的美国股市的钱。我们如何发展，要找出一条路来，而不是简单模仿。”]]></title>
+            <link>http://wallstreetcn.com/articles/3615654</link>
+            <guid>d97176516cb7950a47310124fe9e8d99</guid>
+            <pubDate>Sun, 03 Jan 2021 10:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[时尚COSMO x 罗云熙 x 完美日记
+
+  ]]></title>
+            <link>http://h5.xinpianchang.com/article/index.htmlid=11096524&amp;from=search_post</link>
+            <guid>28d3affe91a015ab057c12743b95be19</guid>
+            <pubDate>Sun, 03 Jan 2021 10:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[最难挑战，西红市首富终极版，如果让你在北京一个月花光300亿，恐怕没人能做到吧]]></title>
+            <link>http://bbs.hupu.com/40159842.html</link>
+            <guid>84932666b29fcd77a56a5e8ac8b3c116</guid>
+            <pubDate>Sun, 03 Jan 2021 10:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@光头怪博士：看到一个很有趣的视觉可视化项目，来自数据科学家Andrei Kashcha的city-roads项目：很简单，就是输入一个地址，可以把这个行政区域内的道路用很简洁的形式画出来。最后的结果还挺艺术的。提供了PNG和SVG下载格式，我打算把自己住过的地方都画一下，将来印出来挂墙上。]]></title>
+            <link>http://github.com/anvaka/city-roads</link>
+            <guid>210496ef866d02d4632d7a157d93bef8</guid>
+            <pubDate>Sun, 03 Jan 2021 09:48:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在医院靠下跪制服了三个保安都拉不住的精神崩溃的患者]]></title>
             <link>https://instant.lvv2.com/html/27e845efd8fbc8df686995bff6d9d5e5.html</link>
@@ -104,12 +136,6 @@
             <link>https://instant.lvv2.com/html/f4cd601d9a65efd038709a360765e87e.html</link>
             <guid>398d8b8385aaf4114c767d1e293c90f3</guid>
             <pubDate>Sun, 03 Jan 2021 04:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北极科考：我们为什么要在北极呆上一年？】2019年9月，一艘载满科学家和物资的破冰船开到北极地区大约北纬85度的地方，深入海冰后关掉引擎，与一块巨大的浮冰冻在一起，洋流就会带着这艘船和浮冰一起漂流到北极中心，待上一整年。]]></title>
-            <link>https://instant.lvv2.com/html/c29613481f44c55cc203e51fd61397c7.html</link>
-            <guid>e4a22ecfae95ee69f08e9fe66fbdcca9</guid>
-            <pubDate>Sun, 03 Jan 2021 03:08:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
