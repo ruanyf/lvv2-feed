@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 07 Jan 2021 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2021 03:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【纽交所朝令夕改，两次反转后决意摘牌中国三大电信运营商】根据彭博社的报道，纽交所这次让中国三大电信运营上摘牌的决定，受到了美国财政部部长 Steven Mnuchin 的施压。这或许反映了在特朗普任期的最后时刻，美国政府在应对中国立场上正在进行的斗争。]]></title>
+            <link>https://instant.lvv2.com/html/6cf012b64c7b92edd45ff198b47868a4.html</link>
+            <guid>31e90f99b194d38d8fa2d667613a5c2a</guid>
+            <pubDate>Thu, 07 Jan 2021 10:56:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[揭秘中国第一家人体冷冻中心：山东银丰生命科学研究院]]></title>
+            <link>https://instant.lvv2.com/html/4b7302deb08aa49beee1a40762090228.html</link>
+            <guid>0e05bd2c9e4400e69bc7b97596af548c</guid>
+            <pubDate>Thu, 07 Jan 2021 10:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我是如何在美国对抗996的（上）]]></title>
+            <link>https://instant.lvv2.com/html/ad34785a1cfe01af469ce73fafef171d.html</link>
+            <guid>737efd74c3cc56c195d28eb759b8f6b1</guid>
+            <pubDate>Thu, 07 Jan 2021 10:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四个月支持率下跌35%，抗疫不利的锅日本首相逃不掉？】即使防疫政策开始紧缩，菅义伟也似乎很难挽救自己的支持率。日本经济新闻社在12月25到27日的电话民调显示，在不支持内阁的理由中，“缺乏领导力”高达48%，其次是“政策不好”，占36%。]]></title>
+            <link>https://instant.lvv2.com/html/66038163d73976eafe170928431c9364.html</link>
+            <guid>168eac45390dfbf9d5a8c3177a0756c3</guid>
+            <pubDate>Thu, 07 Jan 2021 09:48:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【两年多了，邓飞想和大家说的话】两年前，我遭遇攻击，更有人匿名指称：2009年，我曾在北京对一名女实习生实施骚扰，导致其夺门逃出宾馆，夜奔街头。匿名文章在我照片上打X，并要求我退出公益界。//@voiceyaya：法院对这种指控他人的话语要求太严，“不足以令人毫不迟疑的认定为实”。个人对事件的判断倾向于相信何谦。]]></title>
             <link>https://instant.lvv2.com/html/915de4071040093ae766613fc84b8995.html</link>
@@ -80,28 +104,6 @@
             <link>https://instant.lvv2.com/html/8675c28e6e6cd669c185592ad9fcc7ad.html</link>
             <guid>d6bd263fa71031ffc2a30805e52f53fd</guid>
             <pubDate>Thu, 07 Jan 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[还记得《太吾绘卷》里的斗蛐蛐游戏吗？这“国粹”竟然还有全国电视大赛]]></title>
-            <link>https://instant.lvv2.com/html/e1e156e6787be0640c6527aba6d24eab.html</link>
-            <guid>241ffa6b61cdb6cd459c37b6e71b8f9e</guid>
-            <pubDate>Thu, 07 Jan 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本北海道的电话亭
-
-场景特别魔幻。更神奇的是，人手一部手机的 2021 年了，路边还有公用电话亭
-
-via  ]]></title>
-            <link>http://thisisnthappiness.com/post/639320357837455360/call-me-tak-taktatata</link>
-            <guid>863b7c1960d31918f0adbd2e6f638d20</guid>
-            <pubDate>Thu, 07 Jan 2021 04:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我的医学知识全都来自网络，看病时却那么自信】我国目前还是“结核大国”，在这样的背景下，识别和治疗潜伏结核能大大降低感染再激活的几率，从而保护个体健康；更能尽量阻止潜伏结核悄悄转为活动性肺结核，从而保护公众健康。]]></title>
-            <link>https://instant.lvv2.com/html/27dd2f35edf8c2a1beee191234e13c40.html</link>
-            <guid>b760edb73182f02b9bc0e67ba08b0f9c</guid>
-            <pubDate>Thu, 07 Jan 2021 04:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
