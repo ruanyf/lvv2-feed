@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 09 Jan 2021 18:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 20:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[颤抖吧，你看左逼还没坐下来呢就开始要抢大家手上的枪支弹药了！H.R.127  ]]></title>
+            <link>http://www.congress.gov/bill/117th-congress/house-bill/127r=17&amp;s=1</link>
+            <guid>2de63fed46a78ca294a21a28091b879e</guid>
+            <pubDate>Sun, 10 Jan 2021 04:22:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[禅房国际歌]]></title>
+            <link>http://b23.tv/rw7Szr</link>
+            <guid>75f6bd483d9f6dda72b57864c1e1129b</guid>
+            <pubDate>Sun, 10 Jan 2021 04:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北8天新增新冠感染354人，农村疫情形势为何严峻？】此次疫情的主要特征即病例集中在村庄，而村庄毗邻机场。根据确诊病例的行程轨迹，高频“场景”是婚宴、葬礼、村活动；高频词为“自行服药”、“村诊所”，这些特征显示，农村由于个体防护意识的相对薄弱和医疗资源的相对落后，成为新冠病毒的一个新突破口。]]></title>
+            <link>https://instant.lvv2.com/html/04436a98bc951dcd0066bd66597618f5.html</link>
+            <guid>ced98b76507f456ac3a65b67e8bf767f</guid>
+            <pubDate>Sun, 10 Jan 2021 03:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【蔚来纯电轿车44.8万开卖！最远续航1000公里，能实现吗？】本次NIO Day最大的亮点，莫过于蔚来终于将自己的首款纯电车型ET7提上了日程，该车将会在2022年一季度交付，补贴前售价为44.8～52.6万元。]]></title>
             <link>http://chedongxi.com/p/242123.html</link>
@@ -113,12 +131,6 @@
             <link>https://Lvv2.com/t/2806271</link>
             <guid>54516ae7a3b3dba2ed70f73c1aa58fef</guid>
             <pubDate>Sat, 09 Jan 2021 19:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《人生七年》系列纪录片导演迈克尔·艾普特于1月7日去世，享年79岁。从1964年起，迈克尔·艾普特就开始记录来自英国各地不同社会阶层的14个7岁儿童的成长过程及人生经历。2019年，《人生七年》播出了第九个续集。]]></title>
-            <link>https://instant.lvv2.com/html/2bfe122e0009998c0ed46ed8b5755781.html</link>
-            <guid>b40f1db9e2f935409aa36cf4b42a1402</guid>
-            <pubDate>Sat, 09 Jan 2021 19:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
