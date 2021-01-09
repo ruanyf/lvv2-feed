@@ -4,11 +4,25 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 09 Jan 2021 17:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 18:56:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【蔚来纯电轿车44.8万开卖！最远续航1000公里，能实现吗？】本次NIO Day最大的亮点，莫过于蔚来终于将自己的首款纯电车型ET7提上了日程，该车将会在2022年一季度交付，补贴前售价为44.8～52.6万元。]]></title>
+            <link>http://chedongxi.com/p/242123.html</link>
+            <guid>fb50757cd813ab8bb8ad2ab40d917759</guid>
+            <pubDate>Sun, 10 Jan 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[珍珠不在海边。如果您想要一个，就必须潜水 
+
+球鞋: @Sneaker_Nyame ()  谢谢 很快康复，匿名❤️ ]]></title>
+            <link>http://thesneakernyame.com/</link>
+            <guid>77f70f1e1638734d4188cca1a391d7e6</guid>
+            <pubDate>Sun, 10 Jan 2021 01:56:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[冷冷的蕃薯
  ]]></title>
@@ -105,30 +119,6 @@
             <link>https://instant.lvv2.com/html/2bfe122e0009998c0ed46ed8b5755781.html</link>
             <guid>b40f1db9e2f935409aa36cf4b42a1402</guid>
             <pubDate>Sat, 09 Jan 2021 19:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石家庄：小果庄村共有村民4721人，其中信教群众122人，信仰基督教，该村不是天主教聚集村；网上传言的“欧美神父在藁城传教”不符合事实。疫情暴发前，一些信教群众曾在该村一户人家里有过聚集活动，同其他聚集活动一样，容易造成疫情扩散，但目前没有证据表明疫情源头同宗教聚集有直接关系。]]></title>
-            <link>https://instant.lvv2.com/html/252ffdd0ea56f8dca8a8f47d24ba5235.html</link>
-            <guid>c49f66d3e27748c84a4436e4c00e3567</guid>
-            <pubDate>Sat, 09 Jan 2021 19:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两次嫖娼后失足女不再理他，老汉自首并举报]]></title>
-            <link>https://instant.lvv2.com/html/39dc55fdfe2c3cde308a00c45ab6ff53.html</link>
-            <guid>a4124847a76891849e354c0ba22e0308</guid>
-            <pubDate>Sat, 09 Jan 2021 13:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【信用卡透支利率限制取消】随着各类消费贷款产品利率的下调，信用卡透支利率慢慢成了高利率的典型代表，取消限制之后，信用卡透支利率大概率是要往下走的。]]></title>
-            <link>https://instant.lvv2.com/html/66a59e0f43f4fa85db30a101298974f9.html</link>
-            <guid>c402457c7b2dede9847bb86f2bacfa14</guid>
-            <pubDate>Sat, 09 Jan 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼一架波音737-500飞机从雅加达起飞后失联]]></title>
-            <link>https://Lvv2.com/t/2806172</link>
-            <guid>7a7a928733965d6850df24b7db07af32</guid>
-            <pubDate>Sat, 09 Jan 2021 18:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
