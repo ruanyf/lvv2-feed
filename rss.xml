@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 09 Jan 2021 01:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 03:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[现在可以正式追加谥号了]]></title>
+            <link>https://Lvv2.com/t/2805481</link>
+            <guid>b2405f01ef5d1e50cd028f356fefec72</guid>
+            <pubDate>Sat, 09 Jan 2021 10:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sony推出了一款氛围灯音箱，LSPX-S2，售价高达3500RMB]]></title>
+            <link>https://Lvv2.com/t/2805451</link>
+            <guid>2244bcbfbaac5ec66ba60da7edc1e120</guid>
+            <pubDate>Sat, 09 Jan 2021 10:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[近日，俄罗斯一匹母狼闯入农家，咬死两只狗、咬伤一匹马，当它准备攻击另一只狗时，主人克里沃舍耶夫冲了出来，与母狼在雪地里搏斗，并在被咬住胳膊时趁机将狼扑倒，用双手勒死了它。事后，医生给受伤的人牲都接种了狂犬疫苗。分析人士称，狼的这种攻击行为极有可能是自然栖息地缺乏食物或身患狂犬病所致。]]></title>
+            <link>http://n.miaopai.com/media/bt-XDQhGTPA2EKM~U0xAzW3rene4VYBG</link>
+            <guid>478ece98e482f62dc9aa686ced447055</guid>
+            <pubDate>Sat, 09 Jan 2021 09:48:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[床总与幕僚讨论了在大统领任期最后几天内大赦自己的想法——这是一项宪法赋予总统的不受限权力，极端情况：如果床总在任期最后几天，冷不防掏出手枪砰砰两枪打死周拜灯和哈里斯，之后走回麦克风前宣布大赦自己，然而转头就去打高尔夫，美帝作为一个法治国家，后面究竟该如何是好？]]></title>
             <link>http://weibo.com/1555113427/JCa80h9ci</link>
@@ -63,24 +81,6 @@
             <link>https://instant.lvv2.com/html/6fe62b7f7d592d0d593330251202df82.html</link>
             <guid>0126dee904b0ad2d82c79a266652ced1</guid>
             <pubDate>Sat, 09 Jan 2021 05:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港公布了一份内地就业计划】香港受雇、派到内地工作、月薪18000港元起、含在职培训，可选企业包括长江集团、太古集团、中华电力、中银香港、信和置业、汇丰银行..1月8日，港府公布“大湾区青年就业计划”细则，鼓励在香港及大湾区有业务的企业，聘请及派驻本地大学毕业生到大湾区内地城市工作，名额2000个。]]></title>
-            <link>https://instant.lvv2.com/html/5a1dbaee1d478db077000a529a85e914.html</link>
-            <guid>dd2c33d39dce0eae9d9aa98b1baa3801</guid>
-            <pubDate>Sat, 09 Jan 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粉丝用爱能发多少电？中文播客世界的打赏机制观察】现在播客打赏主要存在两种形式，独立型与平台型。打赏终究无法养活一档播客。创作者太多，太分散，而有钱人更倾向于把钱投资在回报巨大的项目中，而不是好内容本身。或者说，好内容在这个时代的回报价值被远远低估，其中一个重要原因则是其回报无可量化。]]></title>
-            <link>https://instant.lvv2.com/html/813b7098e585f197c8b1f69875e8c0b1.html</link>
-            <guid>a3cc74c51b6ad77714536c94cba05fd4</guid>
-            <pubDate>Sat, 09 Jan 2021 03:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[来自美国得克萨斯州达拉斯的三名白人女性创建了品牌The Mahjong Line，给有着悠久历史的麻将牌改头换面，致力于“让追求精致的时髦女郎也能爱上这项传统的棋牌游戏”。结果一番“魔改”引来大批华裔批评，最终道歉关网站。]]></title>
-            <link>https://instant.lvv2.com/html/8cae480c38690fc0aa20e87f63132e76.html</link>
-            <guid>727b3e6ac3c201bad8aee42d6a18fc8a</guid>
-            <pubDate>Sat, 09 Jan 2021 02:09:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
