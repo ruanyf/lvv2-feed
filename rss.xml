@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 10 Jan 2021 20:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 22:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国会大厦暴乱后，跪着打扫垃圾的韩裔议员在美国红了】事件发生后的第二日清晨，安迪·金继续在国会大厦周围附近散步，打扫着现场，这里仍散落着碎玻璃和其他残骸。]]></title>
+            <link>https://instant.lvv2.com/html/3688350aa7702116cac939253a17924e.html</link>
+            <guid>264e814da8e290d8433589d120fa9442</guid>
+            <pubDate>Mon, 11 Jan 2021 06:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浅谈九龙城寨的前世与今生】九龙城寨虽已不在，其文化影响将一直流传下去。]]></title>
+            <link>http://api.xiaoheihe.cn/v3/bbs/app/api/web/sharelink_id=51671884</link>
+            <guid>5ed9ca193ee590249129d19c2a08f9b6</guid>
+            <pubDate>Mon, 11 Jan 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蔚来的固态电池凭什么这么能打？】根据发布会介绍，新电池能够在性能上取得大突破，主要来源于三项工艺：“原位固化固液电解质”、“无机预锂化硅碳负极”、“纳米级包覆超高镍正极”，而其似乎与特斯拉在2020电池日提出的几大电池技术（干电极+硅碳负极+超高镍）异曲同工。]]></title>
+            <link>http://www.cls.cn/detail/659615</link>
+            <guid>45c250405d9654e2c7487faeb0982053</guid>
+            <pubDate>Mon, 11 Jan 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【贫困县崛起的“宇宙第一修脚帝国”】修脚行业的一大痛点是不好招人，员工流动性大。2014年，紫阳县政府与远元集团开展合作，由政府牵头开办修脚足浴技能培训班，郑远元有贫困县的合作基础，“给他源源不断地送人”。截至2019年7月，该县在外从事修脚行业的人数超过4万人，全国每3个修脚师中就有一个来自紫阳县。]]></title>
             <link>https://instant.lvv2.com/html/f2ec9f21aab79cba20bf3f9c94cbea58.html</link>
@@ -101,18 +119,6 @@ via
             <link>https://instant.lvv2.com/html/12b9bed60680b06d7f02fcf9d541379c.html</link>
             <guid>32eb2563c8ad80592e7042ee9d3e3767</guid>
             <pubDate>Sun, 10 Jan 2021 20:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河北石家庄高邑县一小区居民韩某某（66岁，退休前系县公安局副局长）不戴口罩，强行外出，其现已被行拘，党内严重警告]]></title>
-            <link>https://instant.lvv2.com/html/4ccde53ca96d3521d5562949da126968.html</link>
-            <guid>f3cdf8712ebf6885e9b84102229603d2</guid>
-            <pubDate>Sun, 10 Jan 2021 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[社畜都是金句学家]]></title>
-            <link>https://Lvv2.com/t/2808038</link>
-            <guid>8ac0f43c301863811334f0b921274174</guid>
-            <pubDate>Sun, 10 Jan 2021 19:48:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
