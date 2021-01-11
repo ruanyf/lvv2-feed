@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 11 Jan 2021 18:57:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2021 20:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,12 @@
             <link>https://instant.lvv2.com/html/511a80930d31b2478a8756e8b0902987.html</link>
             <guid>c2dc30f7154dce95c39080898656494e</guid>
             <pubDate>Tue, 12 Jan 2021 00:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【产业化进展不顺，固态电池能否如期装入蔚来ET7？】考虑到完整的供应链成型、工艺体系成熟、产能建设足够，以及足够的路试时间，2024年会是一个相对乐观的半固态电池大规模应用时间节点，至于全固态，可能要到2030年。]]></title>
+            <link>https://instant.lvv2.com/html/d614802aa9e6448c2d6c035555456d87.html</link>
+            <guid>38bf948d0e078c1b5e142eac097175ae</guid>
+            <pubDate>Tue, 12 Jan 2021 04:08:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@来去之间：上周烤火把羽绒服给烤了个大洞，老丈母娘花了28块钱给修好了，把俺给惊了。。。]]></title>
@@ -107,36 +113,6 @@
             <link>https://instant.lvv2.com/html/91affd9427a1b9db923aac792de78f15.html</link>
             <guid>44240fd5bbd1165e214c0056e74160d4</guid>
             <pubDate>Mon, 11 Jan 2021 21:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪超级混动发布了]]></title>
-            <link>https://Lvv2.com/t/2809958</link>
-            <guid>e1550b7ce716f098a449d9fc59d7d38c</guid>
-            <pubDate>Mon, 11 Jan 2021 21:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《关于我正在走诉讼程序离婚回家拿衣服却发现电脑文件被删游戏机全套被卖鼠标键盘被毁这件事》]]></title>
-            <link>https://Lvv2.com/t/2809695</link>
-            <guid>f1ca787e4be56c2fb5c7614b1797aa68</guid>
-            <pubDate>Mon, 11 Jan 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PayPal 全资控股国付宝，有望成为首家外资全资控股支付机构]]></title>
-            <link>https://instant.lvv2.com/html/adec9d1b44959fbd2cadd19eeeb969f1.html</link>
-            <guid>32f59a2c70c52d306303a51cd0cba26a</guid>
-            <pubDate>Mon, 11 Jan 2021 21:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科学家用「冰」做了辆科考机器车，南极火星都能跑】来自费城宾夕法尼亚大学GRASP实验室的科学家用“冰”做了一一辆能自己给自己换轮子、修外壳的科考车。未来更大的冰车可以承载重要的考察任务，去南极或者火星上进行考察探索。]]></title>
-            <link>https://instant.lvv2.com/html/04aca7f6d15da1958f2034f9cb0ef2b9.html</link>
-            <guid>291655be33180ae2bdf9c8405492fe0a</guid>
-            <pubDate>Mon, 11 Jan 2021 20:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈哈哈哈其实昨晚最严谨的是陈豪！全场唯一一个不带透明口罩带医用口罩的人！！]]></title>
-            <link>https://Lvv2.com/t/2809888</link>
-            <guid>f19195d9666f0a287f1c7728fcecdac5</guid>
-            <pubDate>Mon, 11 Jan 2021 20:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
