@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 11 Jan 2021 17:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2021 18:57:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -20,6 +20,12 @@
             <link>https://Lvv2.com/t/2810093</link>
             <guid>9cc84a451a6094c648fe5c216b082c85</guid>
             <pubDate>Mon, 11 Jan 2021 23:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝鲜劳动党八大简评】金正恩时期党代会开始制度化、例行化。在党中央恢复书记局和书记处，政务局和政务处被废除。]]></title>
+            <link>https://instant.lvv2.com/html/835d656e55e383defab1748f2fdf0f6f.html</link>
+            <guid>7027aea50d2cb23cc553a07fbea82d1a</guid>
+            <pubDate>Tue, 12 Jan 2021 02:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[草……当场去世]]></title>
@@ -131,30 +137,6 @@
             <link>https://Lvv2.com/t/2809888</link>
             <guid>f19195d9666f0a287f1c7728fcecdac5</guid>
             <pubDate>Mon, 11 Jan 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荆门“啤酒大王”李大红去世，此前在博鳌超级医院术后脑死亡】1月11日，澎湃新闻从李大红的亲属处获悉，李大红于1月9日在解放军总医院（301医院）海南医院去世。李大红的亲属告诉澎湃新闻，李大红与海南博鳌超级医院的医疗纠纷，目前还在协调处理中。]]></title>
-            <link>https://instant.lvv2.com/html/7d80acf1f4619d94f55bd5466cd10185.html</link>
-            <guid>f64596e00c7e97f38c61088bddc727b5</guid>
-            <pubDate>Mon, 11 Jan 2021 20:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逃离996的年轻人，上海硕士情侣打了8年零工】自2013年本科毕业后，剑云的生活便是在打零工、备考、读书中度过的。后来三观契合的剑云与倩倩成为了男女朋友，在并肩端盘子的日子里，他们一个考上了考古专业的专业硕士，另一个则考取了比较文学的学术硕士。]]></title>
-            <link>https://instant.lvv2.com/html/32b70686fc715b09d771fceb4fed19ba.html</link>
-            <guid>1d9ba948b14d8cd368ff433375cdf2c7</guid>
-            <pubDate>Mon, 11 Jan 2021 13:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【从「真土」到「真香」，摇粒绒到底是怎么上位的？】潮流文化的加成和大牌背书为摇粒绒的“洗白”走出了扎实的一步。而摇粒绒进一步的逆袭，大概就是在看到无数鲜肉小花穿着摇粒绒在机场带货的时候了。在移动互联网的信息高速公路上，我们呈现出一种在消费上极度追求和呼唤“高效”，在审美上则无限趋同的态势。]]></title>
-            <link>https://instant.lvv2.com/html/ec4135502e93c5e2b9e78de0b9024a72.html</link>
-            <guid>a329f5acd9a327262a9ee42deb8da86d</guid>
-            <pubDate>Mon, 11 Jan 2021 19:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雪中的勒热夫纪念馆】我们之前的关注点大多集中在大的士兵雕塑上，比较少注意到下面的展示墙。其实这个展示墙是镂空的，而上面的人物是实的，所以下雪后，雪直接就能勾勒出士兵的形象。另外，这个镂空不是简单的镂空，它上面是有字的，写下的是在勒热夫战役中牺牲的英雄的名字。]]></title>
-            <link>http://m.weibo.cn/detail/4591923841207468</link>
-            <guid>72a995d6c6249583e28138d86e62d32a</guid>
-            <pubDate>Mon, 11 Jan 2021 19:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
