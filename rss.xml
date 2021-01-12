@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 12 Jan 2021 17:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2021 19:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[战术小姐姐还是要看TRN]]></title>
+            <link>https://Lvv2.com/t/2812153</link>
+            <guid>4bc8453afd27bff1e54b2417329d422f</guid>
+            <pubDate>Wed, 13 Jan 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[游族投毒案迎来后续，婚生子与“私生子”争遗产，《三体》未来成迷]]></title>
             <link>https://instant.lvv2.com/html/c514e821d0123bff7e77308c2b3dcf6d.html</link>
@@ -146,36 +152,6 @@
             <link>https://instant.lvv2.com/html/08b78a6cc574b94cc55bb539a25d5497.html</link>
             <guid>e2a1b6687624d058616e00647a87b1d1</guid>
             <pubDate>Tue, 12 Jan 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【幼儿园教师荒：高压低薪，“图啥？”】李米毕业于某一本师范大学的学前教育专业，这是这所民办幼儿园最稀缺的，在家长会上算是园里的活招牌。本科毕业的学历并没给李米带来任何实质性的好处，她的工资只有3500元。“你没有经验，现在是在学习阶段，还不能当主班老师，也不能给你高的工资。”]]></title>
-            <link>http://www.toutiao.com/i6916777859340124680/</link>
-            <guid>6d2d62ca69c3a6c58e72f32c3356131b</guid>
-            <pubDate>Tue, 12 Jan 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普时代的抗议艺术与艺术家们：美国艺术反而变“差”了？】简单、直接、出格、刻薄，似乎成为了这场反特朗普艺术运动的特定形容词。特朗普的上台深深震撼着美国知识分子和艺术家的内心，这种梦魇般的景象使得艺术家拥有着太多的愤怒和情绪，以至于艺术家们使用最极端的形式来讽刺和咒骂特朗普。]]></title>
-            <link>https://instant.lvv2.com/html/9a749809ee45ce2c1667bdc9050c1d1c.html</link>
-            <guid>2397152c36141a26f614d00914940ebb</guid>
-            <pubDate>Tue, 12 Jan 2021 18:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈冠：冲出大凉山，一位90后支教老师的极限奔波】千哈博爱小学，是一所藏在四川大凉山深处、2600米海拔的支教学校。这里是整个凉山彝族自治州最后实现脱贫攻坚的7个县之一，但天南海北汇聚而成的支教团队，让孩子们的眼里不只有身后的大山，更有山外的世界。校长陈冠通过开展“平价”的体育活动，让24个孩子走出了大山。]]></title>
-            <link>https://instant.lvv2.com/html/54eed88fe5148ee3be0f0d0f7dac144d.html</link>
-            <guid>f48159db01fa093d4ef3b45d4c414184</guid>
-            <pubDate>Tue, 12 Jan 2021 18:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这萨摩耶怎么熊里熊气的]]></title>
-            <link>http://m.weibo.cn/status/4592496456506054</link>
-            <guid>7f4ff10a0cbb135501e8a124e79d61e4</guid>
-            <pubDate>Tue, 12 Jan 2021 18:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微信红包封面有多疯狂？有人愿花258元买，有人月赚几十万]]></title>
-            <link>https://instant.lvv2.com/html/07d1e64e65601cd4d6f70ff1f8c700ad.html</link>
-            <guid>672feea88d8fe3da82eb19367f62a194</guid>
-            <pubDate>Tue, 12 Jan 2021 17:57:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
