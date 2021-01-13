@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 13 Jan 2021 17:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2021 19:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://Lvv2.com/t/2813546</link>
             <guid>5f19aed6367e92e609108c850a201636</guid>
             <pubDate>Wed, 13 Jan 2021 20:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高通14亿美元收购芯片公司Nuvia】当前，高通的芯片大多使用直接从Arm获得授权的计算内核，而Nuvia的内核使用Arm的底层架构，但都是定制设计。对高通而言，使用更多定制的核心设计（苹果也采取了类似举措），可能会在短期内降低一些Arm的授权成本。从长期角度讲，也更容易转向竞争对手的架构。]]></title>
+            <link>https://instant.lvv2.com/html/263da4d12e532abe284962bae8c20544.html</link>
+            <guid>78cf7b150d707f7fa6f549959dcd3de7</guid>
+            <pubDate>Thu, 14 Jan 2021 03:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法官拒绝人情官司遭同乡杀害，嫌犯曾因殴打领导被辞退】嫌疑人因为不满公司调岗，持木棍打了公司副总裁，公司决定辞退她，经一审、二审该嫌疑人都败诉了，最后上诉到高院再审，请被害人帮忙打招呼被拒，杀害了被害人。]]></title>
+            <link>https://instant.lvv2.com/html/2cc691bb339b132dbd2323a1a5c99abb.html</link>
+            <guid>9c8655409a0366dd46d95aec728a9e9b</guid>
+            <pubDate>Thu, 14 Jan 2021 02:08:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【我在拼多多的三年】希望学弟学妹们千万不要去拼多多。不是墙倒众人推才来发帖，2020年12月9日递交的辞呈。2018年入职前，轩辕（常用名 flanker）说：”我去了一个创业公司，缺人，岗位很适合你，你要不要来，创立者是一些上交和浙大的。”在被蚂蚁金服的offer放鸽子之后，就去了。我认为pdd变差，是从2019开始的。]]></title>
@@ -126,30 +138,6 @@
             <link>https://instant.lvv2.com/html/6c38ebd48f44bb496955a5ac4c4c5ae4.html</link>
             <guid>78c868160a0f29ca6bd48a0333b59934</guid>
             <pubDate>Wed, 13 Jan 2021 19:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小牛资本被立案侦查，深圳警方已掌握全量投资人数据]]></title>
-            <link>https://instant.lvv2.com/html/7a0c0d4661607f4258b005ec0b26e3c9.html</link>
-            <guid>3def124df6b41577ed78fcf4ad674d7d</guid>
-            <pubDate>Wed, 13 Jan 2021 19:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拆解《教父》：那一出开枪打人的戏里，藏着一部职场指南]]></title>
-            <link>https://instant.lvv2.com/html/407331b17457a2223cf6bf236002aecd.html</link>
-            <guid>d9cc7ec26c6c03598af0705306673cc4</guid>
-            <pubDate>Wed, 13 Jan 2021 19:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[年入50万的男孩子参加上海本地的相亲大会，会怎么样？]]></title>
-            <link>http://bbs.hupu.com/40435577.html</link>
-            <guid>2821a402cf770dc0106badf8a4bcc13f</guid>
-            <pubDate>Wed, 13 Jan 2021 09:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1月13日上午，由西南交通大学研发的高速磁悬浮工程样车在成都下线，这是中国研发的第二款高速磁悬浮列车，也是世界上首款采用高温超导技术的1:1磁浮工程样车。]]></title>
-            <link>https://instant.lvv2.com/html/a8fb6f27ee5145c682586b3691e9320c.html</link>
-            <guid>da32cfc31df6c322b2f782827cefb906</guid>
-            <pubDate>Wed, 13 Jan 2021 18:56:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
