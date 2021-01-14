@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 14 Jan 2021 19:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 20:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VS Code 已经彻底统治市场了。 ]]></title>
+            <link>http://2020.stateofjs.com/zh-hans/other-tools/</link>
+            <guid>8d78e51a3ff9d842ecf2258acff86965</guid>
+            <pubDate>Fri, 15 Jan 2021 04:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[985 二代「内卷」真的不可避免吗？]]></title>
+            <link>https://instant.lvv2.com/html/a1956bbd0640c85cade042694890f319.html</link>
+            <guid>a5e8ee97bd4106bb8d314421f6fdd785</guid>
+            <pubDate>Fri, 15 Jan 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我的笑点真的不堪一击：取一个听起来像韩国人，实际上是中国人的名字]]></title>
+            <link>https://Lvv2.com/t/2815314</link>
+            <guid>77279d30eaf2c807ffae28dc4fada1ca</guid>
+            <pubDate>Thu, 14 Jan 2021 21:24:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[给播单加点儿「新东西」——少数派们的年度声音内容推荐]]></title>
             <link>https://instant.lvv2.com/html/f43a793363bf06491db97b480262040d.html</link>
@@ -76,12 +94,6 @@
             <pubDate>Thu, 14 Jan 2021 21:48:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[我的笑点真的不堪一击：取一个听起来像韩国人，实际上是中国人的名字]]></title>
-            <link>https://Lvv2.com/t/2815314</link>
-            <guid>77279d30eaf2c807ffae28dc4fada1ca</guid>
-            <pubDate>Thu, 14 Jan 2021 21:24:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[【北京文化的危险游戏】业务能力不及别人的北京文化，寄托于资本操作一步登天，但多人联手的资本游戏，风险在于“和则赢，斗则输”，当“分赃”不均，娄晓曦式的人物便会引爆手中的炸弹。]]></title>
             <link>https://instant.lvv2.com/html/934ff773eec7ce60e74240f97ba57ca9.html</link>
             <guid>9467e0e9c57ab9597628a9a37c16335c</guid>
@@ -92,18 +104,6 @@
             <link>https://instant.lvv2.com/html/836ab667cf89e31465c4930b22757199.html</link>
             <guid>330aa45aa15409041e7a3db12c0f1614</guid>
             <pubDate>Thu, 14 Jan 2021 20:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳打响第一枪：探索创投公司上市】除了落户奖励等“常规动作”，还有一系列利好“募投管退”的举措，包括探索社保基金、年金依照国家有关规定开展权益类投资试点；政府引导基金适度放宽子基金中财政资金、国有成分资金及社会化个人投资人的出资限制；奖励创投机构投早投小投科技......堪称沉甸甸。]]></title>
-            <link>https://instant.lvv2.com/html/a078c52d8ab44cc2514f3e7cbb567f27.html</link>
-            <guid>4aab4278358bd766c5883be7122d0198</guid>
-            <pubDate>Thu, 14 Jan 2021 20:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙芯IPO幕后事：中国芯六大家族的艰难“成人礼”】无芯之痛的大背景里，顶着“国产CPU”的光环，龙芯中科大概率会复刻2020年7月中芯国际上市首日暴涨的盛况。“人人都上市，为什么不呢？”]]></title>
-            <link>https://instant.lvv2.com/html/2ae123beb3d4c18e2b1002ce105d2b2e.html</link>
-            <guid>1350f908185b5cd7d45833ba9438e950</guid>
-            <pubDate>Thu, 14 Jan 2021 20:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
