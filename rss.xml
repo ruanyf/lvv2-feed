@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 14 Jan 2021 17:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 19:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[给播单加点儿「新东西」——少数派们的年度声音内容推荐]]></title>
+            <link>https://instant.lvv2.com/html/f43a793363bf06491db97b480262040d.html</link>
+            <guid>5dacd7f4efa2181bcc3ea547e7384748</guid>
+            <pubDate>Fri, 15 Jan 2021 03:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“起底”爱港人士及港警资料的乱港网站“香港编年史”，上周起在香港地区出现无法浏览的情况。据路透社报道，网络供应商香港宽频1月14日证实，已经根据香港国安法封锁“香港编年史”。《南华早报》等多家港媒则称，这是香港警方首次引用香港国安法，要求网络供应商封锁某个网站。]]></title>
+            <link>https://instant.lvv2.com/html/45d8b29477fd3f8989a5ad1a90422b20.html</link>
+            <guid>46128b55ee2ae8512dc75897565feb81</guid>
+            <pubDate>Fri, 15 Jan 2021 02:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【台积电发布十年来“最佳季报”】5纳米先进制程的产品令台积电尝尽利润甜头，净利润攀升至39.5%之高。台积电财务长黄仁昭、总裁魏哲家在四季报发布后对投资人表示，该公司2021年资本开支预计为250亿至280亿美元。]]></title>
             <link>https://instant.lvv2.com/html/daf1f826caca2780e26737e2f55008bb.html</link>
@@ -92,24 +104,6 @@
             <link>https://instant.lvv2.com/html/2ae123beb3d4c18e2b1002ce105d2b2e.html</link>
             <guid>1350f908185b5cd7d45833ba9438e950</guid>
             <pubDate>Thu, 14 Jan 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津3份大桥道雪糕样本新冠检测呈阳性】该批货品生产原料包括新西兰奶粉、乌克兰乳清粉等进口食品；涉事企业直接接触货品工作人员分别按规定于1月7日、10日进行了定期核酸检测，检测结果均为阴性。]]></title>
-            <link>https://instant.lvv2.com/html/228df55b2b2e115c2ae01d879561c59d.html</link>
-            <guid>3e79fd9ae8588181b73fce4ffece50a4</guid>
-            <pubDate>Thu, 14 Jan 2021 19:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年底诈骗高发，全国直男请警惕身边的“女记者”】网恋的世界总是里充斥着谎言，从杀猪盘，到假名媛，再到钓直男，有来有回的骗局里，骗子和受害者的角色总在不停地转换…]]></title>
-            <link>https://instant.lvv2.com/html/890dd6189439390f6283d380365d423c.html</link>
-            <guid>8050b843ebbd48cd6a5172e950bfad62</guid>
-            <pubDate>Thu, 14 Jan 2021 19:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小说里的情节！两中介杀害客户，藏尸门店墙内20年]]></title>
-            <link>https://instant.lvv2.com/html/f39819b3d0b48bc5aba4962fccd8486a.html</link>
-            <guid>107193e3fce70dfc2f5400bf8337b099</guid>
-            <pubDate>Thu, 14 Jan 2021 19:08:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
