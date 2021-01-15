@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 15 Jan 2021 19:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2021 21:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[对话20位顶级投资人：关于2021的创业、投资、危与机，我们只能帮你到这了 | 氪记]]></title>
+            <link>https://instant.lvv2.com/html/deaae25790b515a2da1e6ca88f93460b.html</link>
+            <guid>3649d3a6a08ea265b416860be101ae56</guid>
+            <pubDate>Sat, 16 Jan 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[三个疑难杂症患者自述：我害怕别人把我看作异类 | 故事FM]]></title>
             <link>https://instant.lvv2.com/html/3b191faeb05e7fb60f10f7520024ea93.html</link>
@@ -123,36 +129,6 @@
             <link>http://m.weibo.cn/detail/4593672228184444</link>
             <guid>a339799e1cac2819b1576d22d1850871</guid>
             <pubDate>Fri, 15 Jan 2021 19:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳一“瓷娃娃”摔伤后去世 亲友质疑：无障碍通道坡度过大】11日下午，小苹在坐轮椅通过无障碍通道上马路边的人行道时，因为无障碍通道坡度过大导致轮椅翻倒，并于当日被医院诊断出特重型颅脑损伤等，14日下午，小苹在坚持了多日后还是离开了人世。多名小苹的残障朋友表示，无障碍通道的坡度约为40度。]]></title>
-            <link>https://instant.lvv2.com/html/33ddd977e4cee3533fc6235af7e23206.html</link>
-            <guid>044b57ea4370d63b4fbd808da0e221c2</guid>
-            <pubDate>Fri, 15 Jan 2021 19:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消防队长温柔一踹】“队长，我错了，这是我对象……”消防员在站岗，女友前来看望，队长发现后上演温暖一踹。最后…队长上岗了。]]></title>
-            <link>http://www.iesdouyin.com/share/video/6917820793871305998/region=CN&amp;mid=6917821490457021197&amp;u_code=h4k0lg4f&amp;titleType=title&amp;did=40665651731&amp;iid=2163494573323068&amp;timestamp=1610701578&amp;app=aweme&amp;utm_campaign=client_share&amp;utm_medium=ios&amp;tt_from=copy&amp;utm_source=copy</link>
-            <guid>e6cd00cee225d59cb344b8e5b3791eaf</guid>
-            <pubDate>Fri, 15 Jan 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最近本地学生跳楼事件：老师干预学生恋爱，学生跳楼，她妈妈听到这个消息赶到学校途中车祸去世，她爸爸听到这个消息后也跳楼了. 这个老师这辈子都走不出阴影吧.]]></title>
-            <link>https://Lvv2.com/t/2816135</link>
-            <guid>3e980d71b733f972fd147c7fd28ffb67</guid>
-            <pubDate>Fri, 15 Jan 2021 10:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“牛市女皇”点名美股下一个爆点：太空探索板块】Ark Invest提交的文件显示，其“太空探索ETF”将专注于那些“引领、赋能或受益于地球表面以外的技术赋能产品和/或服务”的公司。]]></title>
-            <link>http://wallstreetcn.com/articles/3617030</link>
-            <guid>7e868d1c1a615d2d12e97ac5156e0912</guid>
-            <pubDate>Fri, 15 Jan 2021 18:40:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星巴克推15元早餐套餐，这能让它从对手那里抢到更多客人吗？】早前在上海和台州两地试点推出的15元起早餐，未来将覆盖江浙沪和深圳所有门店。这款早餐套餐在每日10点半前供应，餐品包括一杯蒸汽奶饮品加一份早餐食品，食品可选项有14款，比如培根芝士蛋堡、肉松佛卡恰、鸡肉芝士三明治等等，售价为15元或19元。]]></title>
-            <link>https://instant.lvv2.com/html/c178b24feb4c711118de57074554c7f9.html</link>
-            <guid>b17a381babf81418e54ce97a409ec29d</guid>
-            <pubDate>Fri, 15 Jan 2021 18:24:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
