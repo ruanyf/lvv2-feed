@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 16 Jan 2021 20:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 23:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,25 @@
             <link>https://instant.lvv2.com/html/62656a648ddc84ed992dbfe44325da69.html</link>
             <guid>c0ff57c69b98c46d6fc745967b682379</guid>
             <pubDate>Sun, 17 Jan 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2) 重症患者数
+ ]]></title>
+            <link>http://www3.nhk.or.jp/news/special/coronavirus/data-all/</link>
+            <guid>c5a6bab0f734ee7efa2d93ae8e0e57f9</guid>
+            <pubDate>Sun, 17 Jan 2021 06:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[山东栖霞金矿爆炸事故救援：尝试向井下投放食物和荧光棒]]></title>
+            <link>https://instant.lvv2.com/html/3a47c11d346dd4c4bd9d005dad1c6a3a.html</link>
+            <guid>4675a7327e743f962025d0291f90f1ad</guid>
+            <pubDate>Sun, 17 Jan 2021 06:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《赛博朋克2077》的灾难性开发内幕】2018 年 E3 令人惊艳的演示「几乎完全是假的」，实际上当时连游戏玩法系统和低层代码这种基础的东西都尚未最终确定，但「为了做这个演示就浪费了几个月」。]]></title>
+            <link>http://weibo.com/ttarticle/p/showid=2309404594037423210655</link>
+            <guid>ee79d5611232f2a325450242c930c073</guid>
+            <pubDate>Sun, 17 Jan 2021 05:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【全网封杀特朗普，最大的赢家可能是个俄罗斯人】从不吝于攻击自己美国同行的杜罗夫对此评论道：“我听说Facebook有一个单独的部门在试图研究为什么Telegram如此受到欢迎，我很高兴帮助Facebook省下这笔支出并免费分享我们的秘密：尊重你的用户。”]]></title>
@@ -99,30 +118,6 @@
             <link>http://www.toutiao.com/a6917921713594581512/</link>
             <guid>5d596e78532fda0dfc4b8e49d6036f8c</guid>
             <pubDate>Sat, 16 Jan 2021 21:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这狗我认识，高考的时候坐我旁边]]></title>
-            <link>http://www.iesdouyin.com/share/video/6917803105048448268/region=CN&amp;mid=6917803237793909512&amp;u_code=h4k0lg4f&amp;titleType=title&amp;did=40665651731&amp;iid=2163494573323068&amp;timestamp=1610780077&amp;app=aweme&amp;utm_campaign=client_share&amp;utm_medium=ios&amp;tt_from=copy&amp;utm_source=copy</link>
-            <guid>fee34826f69bc862c93bc6973d4e430f</guid>
-            <pubDate>Sat, 16 Jan 2021 20:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以前很崇拜正经人，就是那种参与社会运转的工作，企业啊银行啊律所啊的上班族。觉得我们行业不正经，是虚的，是旁观社会运转的，艺术应该是一种表达而不是职业。]]></title>
-            <link>https://Lvv2.com/t/2818762</link>
-            <guid>bf74a20526bd3679682197d3cf518ef2</guid>
-            <pubDate>Sat, 16 Jan 2021 20:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石秀：朋友戴绿帽子了，怎么办？]]></title>
-            <link>https://instant.lvv2.com/html/9d459c12c38e8065c6619e63b0694242.html</link>
-            <guid>a6c44de9f9317f312b0ebc1d7f95cf16</guid>
-            <pubDate>Sat, 16 Jan 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[编号44的猛禽火箭发动机，已经从星舰SN9上拆出，运回了安装车间。]]></title>
-            <link>http://www.easyzoom.com/imageaccess/0e752ea039ae4c0ba91d51fafc253772</link>
-            <guid>dada9e9ff3e6ba287333754e146ed322</guid>
-            <pubDate>Sat, 16 Jan 2021 20:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
