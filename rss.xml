@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 16 Jan 2021 17:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 19:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【35岁程序员，早到的中年危机】一个有家室、35岁、在职场不上不下的程序员，他会面临一种什么样的处境？苏建祥曾算过，一旦自己失业，家里能支撑多久，结果让人悲观——他说，自己是属于那种失业不起的职场人。]]></title>
+            <link>https://instant.lvv2.com/html/62656a648ddc84ed992dbfe44325da69.html</link>
+            <guid>c0ff57c69b98c46d6fc745967b682379</guid>
+            <pubDate>Sun, 17 Jan 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉散户的造富故事】39岁的Jason DeBolt无妻无子，却满仓特斯拉。七年来，他不断买入，平均成本只有58美元。就在上周，DeBolt在社交媒体上公开庆祝了特斯拉股票为自己带来的巨额财富，持仓市值高达11944889.23美元。]]></title>
+            <link>https://instant.lvv2.com/html/2a5eaced792637d9f365c953ed89c92f.html</link>
+            <guid>0eb5717bd210e740811f1deb61842cb1</guid>
+            <pubDate>Sun, 17 Jan 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[右翼在线政治杂志American Thinker发出道歉声明，承认几个作者在它的杂志上发表有关多米诺公司参与选举舞弊的文章纯粹虚假，毫无事实根据。
+ ]]></title>
+            <link>http://www.americanthinker.com/blog/2021/01/statement.html</link>
+            <guid>8f5e9532320b1c96fc86fe2d1811dcbb</guid>
+            <pubDate>Sun, 17 Jan 2021 02:56:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【瑞幸教会咖啡行业的事】2021年，中国很有可能会增加5000家咖啡店，但不知道招牌上写的是谁的名字。]]></title>
             <link>https://instant.lvv2.com/html/60e60b46d47022552803fff70c01086e.html</link>
@@ -122,18 +141,6 @@
             <link>https://instant.lvv2.com/html/56a1a507d5c43bced8f3a284d4bc366b.html</link>
             <guid>a5d0c184199350f76eab67e9022fdac6</guid>
             <pubDate>Sat, 16 Jan 2021 19:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“媒体报道大部分都在围绕一二线城市白领、程序员、海淀妈妈这种话题走，好像他们就是这个社会的主流。我觉得这是对社会的一种错误认知。所以我想做一些关于底层的报道，至少让大家看到他们。”]]></title>
-            <link>http://weibo.com/1191965271/JDkx81reK</link>
-            <guid>a20c5d5c62dca6abfebd93999ae43f68</guid>
-            <pubDate>Sat, 16 Jan 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[抵抗力再强也要做核酸检测呦，来，啊~]]></title>
-            <link>https://Lvv2.com/t/2818490</link>
-            <guid>454f3895ed0acb07db2d311cda8c7d94</guid>
-            <pubDate>Sat, 16 Jan 2021 18:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
