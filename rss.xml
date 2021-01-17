@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 17 Jan 2021 11:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 13:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Github Trending中的几个项目描绘了国内程序员日常：考公务员、996、抢茅台、刷算法、整健康码]]></title>
+            <link>https://Lvv2.com/t/2820151</link>
+            <guid>e00fd89cf1c4978c571c05adf9e95957</guid>
+            <pubDate>Sun, 17 Jan 2021 19:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民国时期这种事情这么不注意保密呢]]></title>
+            <link>https://Lvv2.com/t/2820200</link>
+            <guid>1a0906080383a8f9c2676fc10058a8c8</guid>
+            <pubDate>Sun, 17 Jan 2021 19:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[你是否看到一只鸡？（via 西竹书院）]]></title>
             <link>https://Lvv2.com/t/2820052</link>
@@ -16,10 +28,46 @@
             <pubDate>Sun, 17 Jan 2021 17:24:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[周杰伦胖了好多，看起来莫名觉得搞笑可爱，要不是旁边站着昆凌，真以为是别人在模仿周杰伦。]]></title>
+            <link>https://Lvv2.com/t/2820043</link>
+            <guid>afa4fa55e2ce8b08838578f8e86a81e2</guid>
+            <pubDate>Sun, 17 Jan 2021 17:16:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[只要有流量，钱是真好赚（骗）]]></title>
             <link>http://book.douban.com/review/13142410/</link>
             <guid>ff5f95a77d66fa94944143f14d623717</guid>
             <pubDate>Sun, 17 Jan 2021 15:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【字节跳动硬件业务调整：原锤子团队被合并，暂停手机，聚焦教育】这意味着字节跳动按下了手机业务暂停键，人们可能再也看不到新一代坚果（锤子）手机了。]]></title>
+            <link>https://instant.lvv2.com/html/881b05e27faf697a8b3744f8ad06c538.html</link>
+            <guid>3129477d925baecaadff74af20979fb7</guid>
+            <pubDate>Sun, 17 Jan 2021 20:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Science出台新政，旗下部分期刊论文立即免费，无需作者付费】长期以来，欧美出版机构形成了「金色 OA」和「绿色 OA」两种开放获取阵营。金色 OA 允许你的文章的最终版本在出版后立即被所有人自由和永久地访问，但作者需要支付一大笔费用。绿色 OA 价格低廉，在禁运期后，你的文章将完全无障碍被获取，无需额外费用。]]></title>
+            <link>https://instant.lvv2.com/html/9cfe18d4927f939dbaf26a26c0967c5b.html</link>
+            <guid>cb58a1a86677b68290d960699ccba318</guid>
+            <pubDate>Sun, 17 Jan 2021 20:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北邢台：核酸检测机构瞒报3例阳性 责任人被控制】因检测能力有限，隆尧县第二轮核酸检测任务委托济南华曦医学检验有限公司承担，该公司收集点负责人翟某在样本尚未检测完成、未知已完成检测数量和结果的情况下，于1月14日向县卫健局谎报送检样本全部为阴性，1月16日又报告发现有阳性样本。]]></title>
+            <link>https://instant.lvv2.com/html/5ef3a4c4b2f790b1bc10d5ffc1c80acd.html</link>
+            <guid>997d9dea21f9dd2e21bd03ed92ace053</guid>
+            <pubDate>Sun, 17 Jan 2021 20:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[猫妈妈这个上色可以的... ]]></title>
+            <link>http://br.pinterest.com/pin/458945018271803285/</link>
+            <guid>d80f970ce415028da825f3068f578609</guid>
+            <pubDate>Sun, 17 Jan 2021 19:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【如果能去说脱口秀，我想说说我过不上性生活的事】在看了一些推上素人小视频之后，我开始害怕被偷拍…… 对于被偷拍的恐惧，进一步推高了我对性生活质量的要求。我开始希望过那种，如果我在过的过程中被偷拍了，偷拍视频放到推上，观众朋友们会羡慕我，而不是同情我，的性生活。]]></title>
+            <link>https://instant.lvv2.com/html/b04dc46f4d7131557675d05a378ccb2d.html</link>
+            <guid>ef07272d5351ec3b793fc3f982bb78ed</guid>
+            <pubDate>Sun, 17 Jan 2021 19:24:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[华邮用14分钟的视频综合图解、录影录音资料详细描述了1月6日暴徒冲击国会41分钟惊心动魄的完整经过。可在华邮网站上完整观看。同时我也将它分段放上来。
@@ -51,12 +99,6 @@
             <link>https://instant.lvv2.com/html/5d860a9d83d88d16c96f66a74c684ce2.html</link>
             <guid>5d665b27f5da063ccf728b3c8dfec745</guid>
             <pubDate>Sun, 17 Jan 2021 17:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周杰伦胖了好多，看起来莫名觉得搞笑可爱，要不是旁边站着昆凌，真以为是别人在模仿周杰伦。]]></title>
-            <link>https://Lvv2.com/t/2820043</link>
-            <guid>afa4fa55e2ce8b08838578f8e86a81e2</guid>
-            <pubDate>Sun, 17 Jan 2021 17:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[日本人气插画师焦茶于去年6月因意外事故去世，年仅25岁]]></title>
@@ -153,51 +195,6 @@
             <link>https://instant.lvv2.com/html/7a9c5a0d56fbc2ad984be6483df019b8.html</link>
             <guid>774dd76effe60c3e00ebf5efc29b72ab</guid>
             <pubDate>Sun, 17 Jan 2021 13:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富士康、麦格纳两个代工皇帝走到台前，对新造车意味着什么】马斯克在评价苹果造车时还曾随便揶揄了一把，“你不能走进富士康这样的供应商说，嘿，给我造台车”。汽车界的“代工皇帝”麦格纳，将是富士康争取苹果汽车代工业务时的一个强大竞争对手。]]></title>
-            <link>https://instant.lvv2.com/html/8545ab3fa5644010d0189cf310171005.html</link>
-            <guid>160e8979347fe393909c4a903f1730a2</guid>
-            <pubDate>Sun, 17 Jan 2021 13:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中科院研究生被刺案始末】很难确认，周凯旋到底是因为什么原因将谢雕锁定为目标的。高三时，周凯旋、谢雕和另外7个同学住同一间寝室，他们所在的班级是垫江中学理科实验班，寝室里大家学习都很好，谢雕是寝室长。即使知道周凯旋上大学后有诸多不顺，但高中同学几乎没有得到过周凯旋请求帮助的信号。]]></title>
-            <link>http://www.toutiao.com/i6917456428781339148/</link>
-            <guid>1d7ccf8760d68dc328538c5c58fae26c</guid>
-            <pubDate>Sun, 17 Jan 2021 12:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[网民炮轰“自己制定的SOP，自己违反”！
-#星洲日报 #sinchew 
-首相在脸书上载与州务大臣及首长进行的国安会（MKN）紧急状态会议的照片，最后2张照片竟然成“亮点”。
- ]]></title>
-            <link>https://instant.lvv2.com/html/c2a5c98e0fa9151a30a4b033854e09a8.html</link>
-            <guid>fa21cea627924fba0c1e92ae4583a5a7</guid>
-            <pubDate>Sun, 17 Jan 2021 12:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一个不够用... ]]></title>
-            <link>http://zh-cn.facebook.com/CutestPetInTheWorld/photos/</link>
-            <guid>a1eb06307cda9b34fbe8183f9c38772a</guid>
-            <pubDate>Sun, 17 Jan 2021 12:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“洋垃圾”全球版图变革：出口国自救】2018年，中国拒收“洋垃圾”的第二年，“洋垃圾填埋场”转移到了东南亚。东南亚国家之所以成为“接盘者”或许有两方面原因，一是繁忙的港口提供了便利，二是执法漏洞。三年间，东南亚国家也发出禁令，垃圾出口国纷纷展开自救，“洋垃圾”进出口的国际版图已经大变。]]></title>
-            <link>https://instant.lvv2.com/html/68eae64fe3389c9457c4e51fb9f9d0a6.html</link>
-            <guid>ab4c930900dc9f125fe7cc79f064e940</guid>
-            <pubDate>Sun, 17 Jan 2021 12:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【90后夫妻白手起家，在农村开超市的经历】位置在公婆家的村口，两边隔着50米还有两家超市，踩点之后与家人商量决心要干。一年纯利润除去吃喝拉撒养娃，一年能落下18-20万差不多。疫情以后就少了一些14-15万，不过也很满足，最近还开了分店，三四线城市要求不能太高。]]></title>
-            <link>http://bbs.tianya.cn/post-enterprise-1581408-1.shtml</link>
-            <guid>58ca29f1d7064017ef3f1abd150e8db9</guid>
-            <pubDate>Sun, 17 Jan 2021 12:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江疫情：年关将至，防疫面临“大考”？】21世纪初，望奎县时任领导亲赴大连考察，决定把大连作为劳务输出基地，原因是其气候适宜、饮食习惯与望奎接近、政策环境宽松。年关将至，城乡之间流动加大，人们从城市中返乡，在防控薄弱的村镇聚集，最终又回到城市中。而这，给了病毒从乡村反扑城市的缝隙。]]></title>
-            <link>http://www.toutiao.com/i6918151942548111880/</link>
-            <guid>f1bc8c109ef5fc05c909905caa68c7e0</guid>
-            <pubDate>Sun, 17 Jan 2021 11:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
