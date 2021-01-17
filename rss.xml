@@ -4,16 +4,28 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 17 Jan 2021 17:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 19:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[南京一高校紧急通知，部分课题组采购的进口培养基可能携带新冠病毒]]></title>
+            <link>http://mp.weixin.qq.com/s/5uDkIftrS_Spodi4MKAGwQ</link>
+            <guid>fa27e463c564cbc63e364184eb758b46</guid>
+            <pubDate>Mon, 18 Jan 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Github Trending中的几个项目描绘了国内程序员日常：考公务员、996、抢茅台、刷算法、整健康码]]></title>
             <link>https://Lvv2.com/t/2820151</link>
             <guid>e00fd89cf1c4978c571c05adf9e95957</guid>
             <pubDate>Sun, 17 Jan 2021 19:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【绍兴亲母杀子：房门外仍残留斑驳血迹 其母当天在河边被抓】从外人看来，楼家是一个令人羡慕的家庭，有在市人民医院做主任医师的父亲，还有在绍兴一中上学的儿子。而楼迪女的职业尚不清楚。遇害人楼某杰在班里学生成绩中上，但从去年9月开始请假休学，浙江今年1月高考选考，楼某杰也没参加高考选课考试。]]></title>
+            <link>http://www.toutiao.com/i6918660856880546307/</link>
+            <guid>bf15aa6ca501e0b7c88bb7bb979152dd</guid>
+            <pubDate>Mon, 18 Jan 2021 02:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[民国时期这种事情这么不注意保密呢]]></title>
@@ -128,19 +140,6 @@
             <link>https://instant.lvv2.com/html/b04dc46f4d7131557675d05a378ccb2d.html</link>
             <guid>ef07272d5351ec3b793fc3f982bb78ed</guid>
             <pubDate>Sun, 17 Jan 2021 19:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华邮用14分钟的视频综合图解、录影录音资料详细描述了1月6日暴徒冲击国会41分钟惊心动魄的完整经过。可在华邮网站上完整观看。同时我也将它分段放上来。
- ]]></title>
-            <link>http://www.washingtonpost.com/investigations/2021/01/16/video-timeline-capitol-siege/arc404=true</link>
-            <guid>f3e38e9d1d20c8e56954a331de3c88f5</guid>
-            <pubDate>Sun, 17 Jan 2021 18:48:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[那些年，被亦舒欺骗的女郎们]]></title>
-            <link>https://instant.lvv2.com/html/86d27590325d9c662b39ec6487f8d5a4.html</link>
-            <guid>5282f927c545cc007b4c5249df9ead0b</guid>
-            <pubDate>Sun, 17 Jan 2021 18:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
