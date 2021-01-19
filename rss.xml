@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 19 Jan 2021 17:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2021 19:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1999年，当微软前去收购任天堂]]></title>
+            <link>https://instant.lvv2.com/html/2de7af1cbcc51ec2dc02fdf9c537865e.html</link>
+            <guid>0e2487287c067a9226d98525ca622c32</guid>
+            <pubDate>Wed, 20 Jan 2021 03:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHK宣布，松本润将主演2023年的大河剧《どうする家康》（《怎么办，家康》），饰演德川家康。编剧由古沢良太担任，松本润也是第五位担任大河剧主演的杰尼斯艺人。]]></title>
+            <link>https://instant.lvv2.com/html/4c5cd2f7b2115ee785f019b23d39421a.html</link>
+            <guid>3a8725909d8020c19f3483483e27584c</guid>
+            <pubDate>Wed, 20 Jan 2021 02:08:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在国企坐办公室，我开始怀念修风车的日子丨寻业中国]]></title>
             <link>https://instant.lvv2.com/html/0038a346d3eda91fbf0ce94ced85a751.html</link>
@@ -122,42 +134,6 @@
             <link>http://wallstreetcn.com/articles/3617553</link>
             <guid>fa79c7330dbeb0c12527d5198696900c</guid>
             <pubDate>Tue, 19 Jan 2021 19:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自己动手装修改造毛坯房出租屋（附装修及room tour视频）】我自己动手做了卫生间的防水和自流平，全屋刷地坪漆，接了除风扇灯之外所有灯。一共花了1.1w左右，如果请工人做大概翻倍（当然质量也更好）。我把需要师傅做的活都集中在一天，两个师傅一共支付了900元。这套方案不适合所有人，但它是我目前的最优解。]]></title>
-            <link>https://instant.lvv2.com/html/c3fd60216a78fd1d6b03f0ceb4ea6010.html</link>
-            <guid>2bade7dd50827fe25af469c3d37f11fd</guid>
-            <pubDate>Tue, 19 Jan 2021 19:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PRADA集团已终止与郑爽女士的所有合作关系]]></title>
-            <link>http://weibo.com/5813211408/JDVfpsNqH</link>
-            <guid>fe2c4da95a24fec197d840e18c1be4fa</guid>
-            <pubDate>Tue, 19 Jan 2021 18:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四年红蓝两次翻转：作为美国大选风向标的宾夕法尼亚伊利郡】2016年，伊利的选民打破过去24年的习惯，第一次转投共和党总统，当时特朗普只在这个铁锈带小镇中赢了希拉里1957票，宾州也意外翻红。今年拜登最终战胜特朗普的差距比四年前更小，1417票和1%之差。宾州也在四年后重新回到蓝营。]]></title>
-            <link>http://www.toutiao.com/i6919121208877351427/</link>
-            <guid>303df246389577db063cc5d1a834f1a9</guid>
-            <pubDate>Tue, 19 Jan 2021 18:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[额……本阿弗莱克和Ana de Armas分手后，垃圾工人已经把摆放在大本家门口的Ana纸牌扔了……]]></title>
-            <link>https://Lvv2.com/t/2823458</link>
-            <guid>672bce79ac313b73c9774512d9fdba2f</guid>
-            <pubDate>Tue, 19 Jan 2021 18:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微信公开课 PRO 来了】在微信十周年之际，今年的微信公开课 Pro 版也拉开了序幕，回顾了微信过去一年来的变化，也描绘下一个十年的蓝图。]]></title>
-            <link>https://instant.lvv2.com/html/63b66028f6696d82ded6a63db3f29c3e.html</link>
-            <guid>34adb792dc9d8a79cffcdd31bf8b8fa9</guid>
-            <pubDate>Tue, 19 Jan 2021 18:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[柳长风：日本传统几大头部商会安全部门太沙雕了，我无法理解他们的脑回路。渗透测试发现某页面后台密码暴露在公网半年多，他们的解决方案是：1.就更新密码进行了长达3个小时的讨论，并觉得高强度随机密码领导不好记。2.检查入侵痕迹，就是在日志中筛查有没有外国ip用改密码进行了登录就完事了。]]></title>
-            <link>https://Lvv2.com/t/2823426</link>
-            <guid>bfe7db2e3b34bec7387f44c95d7c5da6</guid>
-            <pubDate>Tue, 19 Jan 2021 18:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
