@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 22 Jan 2021 17:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2021 19:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>http://m.weibo.cn/status/4596249376348406</link>
             <guid>eba98eda208fdcc1cd8bbb4377eb1029</guid>
             <pubDate>Fri, 22 Jan 2021 20:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【买电动车还得充会员，这是个好开端吗？】以无人驾驶为愿景，从现在开始，构建一套属于属于自动驾驶的商业模式，也许车企是时候开始着手准备了。]]></title>
+            <link>https://instant.lvv2.com/html/f74d440a3ef4c0042405805a4936db2e.html</link>
+            <guid>886765c36462a0233570db312eafb557</guid>
+            <pubDate>Sat, 23 Jan 2021 03:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张一鸣砸向春晚的钱，不是给你的】现阶段，字节跳动的电商消费场景已经搭建完毕，抖音支付首要作用是完善其电商消费环节，提升用户体验的同时，规避监管风险。在未获得牌照前，短视频平台做电商需要用第三方支付平台承接支付服务，面临合规风险，即监管在支付领域重点关注的“二清”模式。]]></title>
+            <link>https://instant.lvv2.com/html/a706eab86c737960c237683c3dc69bbd.html</link>
+            <guid>9891fd3e95567b7cc1f774a40d23c79e</guid>
+            <pubDate>Sat, 23 Jan 2021 02:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[墨茶Official 事件贴吧有人扒可能会反转……]]></title>
@@ -104,18 +116,6 @@
             <link>https://instant.lvv2.com/html/60a61559ce0ccaaaf06d2bc0550cc0c8.html</link>
             <guid>6aede398afe83f396daaa65c6ce588ee</guid>
             <pubDate>Fri, 22 Jan 2021 09:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[把下流诗写遍香港街头，却没人扒得出他是谁]]></title>
-            <link>https://instant.lvv2.com/html/49e6ee05376d8c2acab12a2a2f5c9af5.html</link>
-            <guid>01a1954f1b1a3a470dca6886e231480d</guid>
-            <pubDate>Fri, 22 Jan 2021 19:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本最大的广告集团电通，已经开始考虑出售位于东京都港区的总部大楼，预计出售金额达到3000亿日元。一旦交易成立，将是日本东京历史上最大规模的不动产交易之一。大楼出售后，电通集团计划租用大部分，总部不会搬迁。]]></title>
-            <link>https://instant.lvv2.com/html/b84d561927f6744aa02741b95dfa2092.html</link>
-            <guid>64e74e07a93476a9836856b66f98c118</guid>
-            <pubDate>Fri, 22 Jan 2021 18:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
