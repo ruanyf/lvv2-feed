@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 23 Jan 2021 19:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 20:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【18年了，中国人再次打通东北】京哈高铁全线建成通车，也是继18年前秦沈客运专线通车以来，中国人打通的第二条连通关内外的高速铁路工程。]]></title>
+            <link>https://instant.lvv2.com/html/a52ce8c8e8efc4040224d75bff8c58fe.html</link>
+            <guid>eb40bbddf4dda9202c4691d11d086d7c</guid>
+            <pubDate>Sun, 24 Jan 2021 04:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新的一年，“逃离”媒体ing】李皙寅是前财经记者。他在2021年新年后，离开了媒体老东家，跳槽到一家初创企业工作。]]></title>
             <link>https://instant.lvv2.com/html/6388b178cfd0d16d754ba080cfa3b2e5.html</link>
@@ -140,12 +146,6 @@
             <link>http://v.douyin.com/JvLrKUb/</link>
             <guid>eaa226fa53f160877fc10d01ca4c7093</guid>
             <pubDate>Sat, 23 Jan 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“傲娇”的新消费创始人：我可以随时把某些头部机构叫来聊半小时】当“抢到热门项目”愈来愈成为一家机构的竞争力之一，为拿到优质项目，投资人们要面对项目方的“无视”，经受头部机构的“打压”，和产业基金巨头成为“劲敌”。]]></title>
-            <link>https://instant.lvv2.com/html/ceacb508eb8b98b4432c34202f02bc94.html</link>
-            <guid>12d571bf1f8c02bc9f01d554080d714e</guid>
-            <pubDate>Sat, 23 Jan 2021 18:24:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
