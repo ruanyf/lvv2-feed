@@ -4,11 +4,32 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 24 Jan 2021 20:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 23:00:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【弹劾案审判推迟两周，特朗普又要上演“胜利大逃亡”？】特朗普弹劾案也可以算是民主党人手中的筹码：通过推迟特朗普弹劾案的审判日期，拜登和舒默至少可以在短时间里换来共和党人对内阁确认工作的支持。]]></title>
+            <link>https://instant.lvv2.com/html/f0f5d5b88007eda575df95ca5e66db5c.html</link>
+            <guid>4469753a4912a249a80f9499ac8f803f</guid>
+            <pubDate>Mon, 25 Jan 2021 06:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大连农妇“临时照看”刑拘人员子女六年，孩子8岁因“黑户”无法上学】形成户口困境的主要原因，一方面是他母亲进监狱之前，没有给孩子办理好户口；另一方面是，当初应该由法定的救助机关民政部门来负责安置张天宝，派出所进行配合，年迈的农村老太太显然没有能力对孩子进行抚养安置和办理手续。]]></title>
+            <link>http://www.toutiao.com/i6921169570556281352/</link>
+            <guid>65e4be76043fd3941dbe563150fa2585</guid>
+            <pubDate>Mon, 25 Jan 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[重读了几遍建硕十五年前的文章。
+好的思想穿越时间。
+
+ ]]></title>
+            <link>http://home.wangjianshuo.com/cn/20060513_ecieae.htm</link>
+            <guid>798147545e4af1fafdfc9a8ae464e00e</guid>
+            <pubDate>Mon, 25 Jan 2021 05:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【埃塞俄比亚内战两月，总理阿比频遭质疑】战争之下是难民之殇，埃塞俄比亚北部提格雷州的平民们如今正饱受饥饿威胁。但自始至终，埃塞政府都强调，这是对提格雷州的“执法行动”而非“内战”。这使得人道主义救援在“互不干涉内政”原则下受到阻碍。]]></title>
             <link>https://instant.lvv2.com/html/bfb221c59e860f275cf62070a5dc0ff6.html</link>
@@ -68,24 +89,6 @@
             <link>https://instant.lvv2.com/html/e0649b2543f2839614bdedb87a49b840.html</link>
             <guid>952186a97df15cffc5d3ddb164a1bc52</guid>
             <pubDate>Sun, 24 Jan 2021 22:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部正在权衡是否要实施一项特赦计划：美国高校那些同国外合作的教授披露外国的资金，但不必担心受到惩罚。该议案正在讨论中，以此确定美国科研经费国外来源的范围，并帮助美国联邦调查局只聚焦到那些对美国国家安全构成威胁的人，而不是整个华人学者群体。]]></title>
-            <link>https://instant.lvv2.com/html/d954eed5657ceda47e6c8ca63896f4ca.html</link>
-            <guid>c52998d6cc6b745101fdf2974de543d5</guid>
-            <pubDate>Sun, 24 Jan 2021 22:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉林通化：即日起居民基本生活物资按每户5天需求量供应“蔬菜包”]]></title>
-            <link>https://instant.lvv2.com/html/68df4cb7892401b3c2c41d3b64e51d75.html</link>
-            <guid>00a517588f6a2b0ce4ffaf403f36f9f8</guid>
-            <pubDate>Sun, 24 Jan 2021 21:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中疾控：新冠疫苗接种环境中的病毒核酸来源于疫苗液，不具传染性】针对在新冠疫苗接种单位的环境标本（注射室、留观室和外部走廊的桌面、墙面、门把手）检测到新冠病毒核酸阳性，初步判定，接种环境中的病毒核酸来源于疫苗液。由于灭活疫苗中的病毒核酸已没有活性，因此，并不具有传染性，公众不必恐慌。]]></title>
-            <link>https://instant.lvv2.com/html/23d79dd77da55d62f65a64a6afe07848.html</link>
-            <guid>24f1b929694336f9056b3cfaa6646684</guid>
-            <pubDate>Sun, 24 Jan 2021 21:08:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
