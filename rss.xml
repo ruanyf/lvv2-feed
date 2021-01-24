@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 24 Jan 2021 19:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 20:59:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【埃塞俄比亚内战两月，总理阿比频遭质疑】战争之下是难民之殇，埃塞俄比亚北部提格雷州的平民们如今正饱受饥饿威胁。但自始至终，埃塞政府都强调，这是对提格雷州的“执法行动”而非“内战”。这使得人道主义救援在“互不干涉内政”原则下受到阻碍。]]></title>
+            <link>https://instant.lvv2.com/html/bfb221c59e860f275cf62070a5dc0ff6.html</link>
+            <guid>f704a177d0334d6b74f11fa0629f4f38</guid>
+            <pubDate>Mon, 25 Jan 2021 04:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从制海舰到F-35B，美国短垂战斗机研发记]]></title>
+            <link>http://kong.afwing.vip/aircraft/2368.html</link>
+            <guid>61b3e5470eb9a14cc86f0c7b43dd00f0</guid>
+            <pubDate>Mon, 25 Jan 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一个玩家的“臆想”，成了全国人民的灵异故事】整个“潘博文事件”，多半只是一篇虚构的故事被传播开来，然后意外成了全国网民的谈资。原作者自己也做了一篇分析，认为这是一次验证了“睡眠效应”的事件，即随着时间推移，高可信度消息的说服力会越来越低，而低可信度消息的说服力反而会越来越高。]]></title>
             <link>https://instant.lvv2.com/html/4121b2719c1e2b844938c9f4abc76d3b.html</link>
@@ -74,32 +86,6 @@
             <link>https://instant.lvv2.com/html/23d79dd77da55d62f65a64a6afe07848.html</link>
             <guid>24f1b929694336f9056b3cfaa6646684</guid>
             <pubDate>Sun, 24 Jan 2021 21:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[火花思维完成超 4 亿美元 E 轮融资，在线小班课模式初步验证]]></title>
-            <link>https://instant.lvv2.com/html/0e3ec1861acfc50bf144c18b213ce2e3.html</link>
-            <guid>12b0555cb4a10af340a427918ec84c2a</guid>
-            <pubDate>Sun, 24 Jan 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX的世界纪录一箭143星是这样安装的。图源：Ben Cooper]]></title>
-            <link>https://Lvv2.com/t/2832311</link>
-            <guid>f68bf852afb71ce083b0595089bfddf6</guid>
-            <pubDate>Sun, 24 Jan 2021 20:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[长大了还不知道要怎么受气... ]]></title>
-            <link>http://www.pinterest.jp/aishachaudhry12/</link>
-            <guid>05a85eafca2d7df4f62ad06947302b20</guid>
-            <pubDate>Sun, 24 Jan 2021 20:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“为什么要在MCO 2.0后、浪费这23天后才建议这么做？”
-#星洲日报 #sinchew
- ]]></title>
-            <link>https://instant.lvv2.com/html/bcf6798079f13b064e9d26c2fd49d85b.html</link>
-            <guid>d37cbd0d8a18da90247c08dd486c87b6</guid>
-            <pubDate>Sun, 24 Jan 2021 19:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
