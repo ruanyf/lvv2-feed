@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 27 Jan 2021 18:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2021 20:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[不要 4 万 8 ，只要 3 万 9，富士一亿像素中画幅带回家！]]></title>
+            <link>https://instant.lvv2.com/html/fb60fb407a8be8674af2bbf26de5b1ca.html</link>
+            <guid>5ac1fec98d2ac1faf9411af85820e492</guid>
+            <pubDate>Thu, 28 Jan 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一千年前小孩子画的画】敦煌文献P.2622《吉凶书仪》，记载当时关于婚丧嫁娶的书札体式、典礼仪注。而背面却被孩子当做“草稿纸”，习书练字，画了一排小动物，还标注“此是XX”，可爱至极//@文正X忠武：我见那正襟危坐的画古今有别，小孩子的涂鸦却能今古共赏]]></title>
+            <link>https://Lvv2.com/t/2837839</link>
+            <guid>d0c53e479af6f3b48ce4416a705bb043</guid>
+            <pubDate>Thu, 28 Jan 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【劳荣枝“在人间”】在法庭上，劳荣枝抓住每一次发言的机会，插播离开法子英后的生活片段。她讲述的生活轻松而积极，看起来对成为“雪莉”的自己充满留恋。成为雪莉时，她没有身份证，但靠着男朋友，她基本上不用工作，她从舞蹈群里找到了酒吧兼职，她养了两条狗，她弹钢琴、拉小提琴、画画，她还会卖房、卖车、卖酒。]]></title>
             <link>https://instant.lvv2.com/html/c0974676e59cdcda2fa8022dee622eeb.html</link>
@@ -170,30 +182,6 @@
             <link>https://instant.lvv2.com/html/74fb80a71ca5496658af03b16658cf0a.html</link>
             <guid>6613a5c157bbb1d0f170019037476bb3</guid>
             <pubDate>Wed, 27 Jan 2021 16:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【不要裸聊】2020年12月1日至今不到两个月时间里，江宁公安全局共接报裸聊诈骗报警243起，受害人均为男性……]]></title>
-            <link>https://Lvv2.com/t/2837161</link>
-            <guid>067f5c02c9758dd1702c987c77cb2aaa</guid>
-            <pubDate>Wed, 27 Jan 2021 16:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超10万人死于新冠，约翰逊：政府已经做了一切能做的】当记者多次问及为什么英国的新冠死亡人数如此之高，以及他和政府本可以采取哪些不同的做法时，约翰逊拒绝回答这个问题。]]></title>
-            <link>https://instant.lvv2.com/html/743b58ca3fee6701b95f03881bff3c60.html</link>
-            <guid>bfb29da9e70cef6fae518035f353cfb4</guid>
-            <pubDate>Wed, 27 Jan 2021 16:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国特种部队军营爆出丑闻，一名飞行技术员将自己的女朋友“偷渡”到基地内，并藏匿在军营房间衣柜中长达两周时间。由于其他士兵抱怨房间内不断飘出异味，基地一队士官强行进入了该房间，并在衣柜内发现了这名蜷缩在飞行技术员制服后面的裸体女子。]]></title>
-            <link>https://instant.lvv2.com/html/cfbc4d9cd37c9c1c89724788437e201b.html</link>
-            <guid>21880e2f10034e5dbf14d3aa68b88aa2</guid>
-            <pubDate>Wed, 27 Jan 2021 16:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[习近平女儿习明泽化名楚晨，因为身份泄密，24名网民集体获刑；”恶俗维基”站长牛腾宇被指控主犯遭判14年 -  ]]></title>
-            <link>http://chinanewscenter.com/archives/24131</link>
-            <guid>af543568ad1da138f3874161c2385df1</guid>
-            <pubDate>Wed, 27 Jan 2021 16:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
