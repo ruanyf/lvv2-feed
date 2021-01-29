@@ -4,15 +4,21 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 29 Jan 2021 17:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2021 18:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[又到周末晚上了，可以多点空闲聊天。今天看到Vox出了一期 “梅斯梅尔学说”的视频，这也是我一直想写的话题之一，所以简单翻译了一个字幕给大家。因为这个事件在科学史上非常重要——现在在医学实验中作为基本法则的对照、盲法这两种方法，历史上最早的应用实例大概就是这个事件。]]></title>
+            <link>http://m.weibo.cn/detail/4598804013909665</link>
+            <guid>5ad85f8f8859ece580f506c66c2fb9cd</guid>
+            <pubDate>Sat, 30 Jan 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【券商为什么要限制散户交易】由于散户的疯狂，美国证券存托与清算公司要求包括Robinhood在内的券商提供高额抵押，以防止做空一方追加保证金的速度赶不上股价上涨。Robinhood周四晚上紧急从从其现有投资者那里筹集超过10亿美元的资金。]]></title>
-            <link>http://wallstreetcn.com/articles/3618928</link>
-            <guid>543b6c5c57d4fea581baa40c833e2b63</guid>
+            <link>https://instant.lvv2.com/html/d29207d0b3e485e9938d01238a05ad70.html</link>
+            <guid>bea0c5adf30f0567db7af7a19d6bef5b</guid>
             <pubDate>Sat, 30 Jan 2021 01:08:11 GMT</pubDate>
         </item>
         <item>
@@ -160,36 +166,6 @@
             <link>https://instant.lvv2.com/html/dd6efc807ecff41682c15357797b5b26.html</link>
             <guid>8321162d387815da7cc5b5a097e3426c</guid>
             <pubDate>Fri, 29 Jan 2021 17:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海航集团：债权人因我集团不能清偿到期债务，申请法院对我集团破产重整]]></title>
-            <link>https://instant.lvv2.com/html/b0f16f81e14b0491a65ed3bc45b33ddf.html</link>
-            <guid>a11286ab9f1b05aafb85111a32da2d23</guid>
-            <pubDate>Fri, 29 Jan 2021 17:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一命二运三风水，“玄学”炒股靠谱吗？】近两年，随着指数偏离《报告》趋势，越来越多的星座、奇门命理大师对其进行抨击，但这并没有浇灭人们对《报告》的期待和讨论热情。]]></title>
-            <link>https://instant.lvv2.com/html/729a5cd99c3f5c0c6df8177cd2dac532.html</link>
-            <guid>e517138a516c996bd989dd42f88553f0</guid>
-            <pubDate>Fri, 29 Jan 2021 17:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油价“二连涨”：加满一箱油多花3块钱]]></title>
-            <link>http://wap.peopleapp.com/article/6124884/6033019</link>
-            <guid>1608334518db73de8d011279f400c526</guid>
-            <pubDate>Fri, 29 Jan 2021 17:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[外交部宣布，不再承认BNO作为旅行证件及身份证明。]]></title>
-            <link>https://instant.lvv2.com/html/f28ea2f04e66fed22cd7c4f3a849c50c.html</link>
-            <guid>f1a7b6ee7c592c194cc6f0d6c19e92eb</guid>
-            <pubDate>Fri, 29 Jan 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“北溪2号”停工与“俄罗斯天然气化”加速：普京的蓝色燃料之战】2021年开局这两件事的并发，也许意味着俄罗斯的内政外交政策的“内倾”。“到2030年，‘天然气公司’一定100%地完成技术条件许可的俄罗斯天然气化。”米勒还向普京保证，“各地区天然气化将不用居民付费。”]]></title>
-            <link>https://instant.lvv2.com/html/dee977ca7637d354863a4bfc1584a5fd.html</link>
-            <guid>d06891133a746d7cf8aa9fb0c9fa722a</guid>
-            <pubDate>Fri, 29 Jan 2021 17:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
