@@ -4,15 +4,45 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 30 Jan 2021 02:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 04:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[昨天说滚珠镶嵌，有人说了另一种看不到抓手的全宝石镶嵌。应该是梵克雅宝的“隐秘式镶嵌”（mystery setting）。它的官网上就有很多介绍和过程，可以自己去看。]]></title>
+            <link>https://Lvv2.com/t/2841722</link>
+            <guid>91eb2340ab29d0deb68cc181aa752381</guid>
+            <pubDate>Sat, 30 Jan 2021 12:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西大科研团队最新研究成果登上《自然》杂志 推动揭示糖尿病等复杂遗传病的分子机制]]></title>
+            <link>https://instant.lvv2.com/html/5fef228307921910b817096267c2ae07.html</link>
+            <guid>a48dfb67472b094a46781f3a05f9f4c7</guid>
+            <pubDate>Sat, 30 Jan 2021 12:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[向散户低头！美国知名做空机构香橼放弃20年老本行，宣布不再发布做空报告]]></title>
+            <link>https://instant.lvv2.com/html/b1145807c6d8c23744d04597e2a07e87.html</link>
+            <guid>45b3b25a87984e064b0333caaeab4b82</guid>
+            <pubDate>Sat, 30 Jan 2021 11:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【明星代言P2P责任定性：不可推卸 需配合监管开展网贷清退】部分网贷机构为牟取不正当利益，聘请知名演艺人员、公众人物作为广告代言人，利用其影响力吸引投资人购买非法金融产品。上述广告代言人未尽到合理的审查义务，作出不实宣传，对损害结果的发生和扩大存在过错，并负有不可推卸的责任。]]></title>
+            <link>https://instant.lvv2.com/html/65850ab157d7848652c9418f3fdbbdc6.html</link>
+            <guid>43f3a2c32ebce2acfcc197019400c30a</guid>
+            <pubDate>Sat, 30 Jan 2021 11:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[社区团购中场战事：七月拐点]]></title>
+            <link>https://instant.lvv2.com/html/399b09dfcd27abed0180110af95039b1.html</link>
+            <guid>82bd5cec6bb52e987670c876d07f9a31</guid>
+            <pubDate>Sat, 30 Jan 2021 11:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[生锈、风干、溶解：这位波兰艺术家的画作，怕是要成为你今晚的梦魇]]></title>
-            <link>http://www.gcores.com/articles/133535</link>
-            <guid>655614bfa6b0e07b02728f0d8793be9e</guid>
+            <link>https://instant.lvv2.com/html/7734e27f800fb0cfe81f3624b4b3817b.html</link>
+            <guid>af7a9674472f417d4a87b948d232a819</guid>
             <pubDate>Sat, 30 Jan 2021 10:48:11 GMT</pubDate>
         </item>
         <item>
@@ -110,18 +140,6 @@
             <link>https://instant.lvv2.com/html/3bd1f475af5971f7046e59a49d0bcb09.html</link>
             <guid>1d8fda39b2dca28aa779c3590d21ab4a</guid>
             <pubDate>Sat, 30 Jan 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[带领散户击败华尔街，这位硅谷富豪还想推翻加州州长]]></title>
-            <link>https://instant.lvv2.com/html/ad3e5be15b89fe002943869438f64296.html</link>
-            <guid>54f77b72517d15c048656c411bd9c935</guid>
-            <pubDate>Sat, 30 Jan 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[又到周末晚上了，可以多点空闲聊天。今天看到Vox出了一期 “梅斯梅尔学说”的视频，这也是我一直想写的话题之一，所以简单翻译了一个字幕给大家。因为这个事件在科学史上非常重要——现在在医学实验中作为基本法则的对照、盲法这两种方法，历史上最早的应用实例大概就是这个事件。]]></title>
-            <link>http://m.weibo.cn/detail/4598804013909665</link>
-            <guid>5ad85f8f8859ece580f506c66c2fb9cd</guid>
-            <pubDate>Sat, 30 Jan 2021 02:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
