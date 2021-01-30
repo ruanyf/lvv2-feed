@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 30 Jan 2021 17:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 18:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【隅田川、三顿半…这些小众咖啡品牌是怎么火的？】咖啡行业再现了产品创新的“时光机理论”。这次，中国消费者的强劲需求，让一种七八年前诞生于日本的小众产品登堂入室了。]]></title>
+            <link>https://instant.lvv2.com/html/4e821d27e8671d4da0d5183c7417b0a0.html</link>
+            <guid>49161bba06d2d8a15c444a6858ad8343</guid>
+            <pubDate>Sun, 31 Jan 2021 02:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“安信之王”高天国盛衰记】高天国醉心于自融，通过安信信托为自己与友人的各种项目融了巨额资金，然而，这些项目很多出现了挪用资金、估值过高等严重问题，大量募集资金有去无返。当经济增长周期切换之时，安信信托的兑付危机终于爆发。]]></title>
+            <link>https://instant.lvv2.com/html/3070d2f0456e1d5bd3fd7d2216744199.html</link>
+            <guid>c613f54f283749b43f3442c0878791a6</guid>
+            <pubDate>Sun, 31 Jan 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【被骂出轨三年多，陈翔澄清“挤痘一夜”】三年多前的事情，陈翔竟然做到了精确到秒的记录。不知道的还以为这是他的流调报告。]]></title>
             <link>https://instant.lvv2.com/html/d61da6765e09c1ae6ffeb2c130d7d24d.html</link>
@@ -110,24 +122,6 @@
             <link>https://instant.lvv2.com/html/d546187170aed370270be8a39e9ed888.html</link>
             <guid>31c0817d6cf6d76931c69f65e21aa8b0</guid>
             <pubDate>Sat, 30 Jan 2021 17:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[低风险地区人员春节返乡须集中隔离？地方防控政策“层层加码”现象待解]]></title>
-            <link>https://instant.lvv2.com/html/8a58707b6056a74dec3d6ca9f55091c1.html</link>
-            <guid>92db1e6186f91f659bcc02323e7f8fd3</guid>
-            <pubDate>Sat, 30 Jan 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州中院院长：法院已对“毒保姆”陈宇萍执行死刑]]></title>
-            <link>https://instant.lvv2.com/html/5ba687f6b670a6274d611659ea0d1c3f.html</link>
-            <guid>629fad09444077dbdc6849cf480fd2e4</guid>
-            <pubDate>Sat, 30 Jan 2021 17:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文科博士生眼里的资料管理、阅读和笔记系统]]></title>
-            <link>https://instant.lvv2.com/html/6c1a2cbf85c2d7d9db6cf99cb04bada2.html</link>
-            <guid>f8510a70fcb575023d8de1ed130ae98d</guid>
-            <pubDate>Sat, 30 Jan 2021 16:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
