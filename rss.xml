@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 31 Jan 2021 18:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 20:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中央网信办部署加强全平台网络传播秩序管理]]></title>
+            <link>https://instant.lvv2.com/html/05888ff2874cbe875ddd4508d60d6259.html</link>
+            <guid>da93a43f73e705b85eff2e5d784c636a</guid>
+            <pubDate>Mon, 01 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【碎怂男反扑未遂，飒女子锤进地心】99%的人做不到和吸血家庭恩断义绝，陈翔如果有点正常的思考能力，就该知道：一个能对付渣爹的女孩子，对付个把渣男不跟随堂测验似的？毛晓彤锤陈翔后的朋友圈，发了一张杨笠的脱口秀截图，精准对应连日来的剧情，这姑娘幽默感也可以。]]></title>
             <link>https://instant.lvv2.com/html/00d7ea80912caaec6146f5229c2801b3.html</link>
@@ -92,30 +98,6 @@
             <link>https://instant.lvv2.com/html/f6b17a0f268ce582a5aeb210850d265a.html</link>
             <guid>95d66d82116018d4cec6c4a083dda145</guid>
             <pubDate>Sun, 31 Jan 2021 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贾浅浅爆红，突显诗坛乱象】作为大学文学院的副教授和文学博士，贾浅浅的文字基本功和学养，简直让人大跌眼镜。]]></title>
-            <link>https://instant.lvv2.com/html/a03014d40740e4a8a8ba6af2c97b0c5f.html</link>
-            <guid>aadf377fcc47a55853ff04d65a1c85ab</guid>
-            <pubDate>Sun, 31 Jan 2021 19:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【60万人参与，云游戏+AI+直播《Rival Peak》在FB火了】一个名为《Rival Peak》的类游戏互动真人秀在Facebook直播中大火，直播的左上角会出现当天的目标以及当前可进行的行为，需要观众在有限时间内进行选择，然后进行统计，以此影响角色的行为和故事的走向。 ​]]></title>
-            <link>https://instant.lvv2.com/html/716034b2603f5fa85e2919da2e1aebf3.html</link>
-            <guid>a0b60db7ac9eab0ee7490248b7f8ad58</guid>
-            <pubDate>Sun, 31 Jan 2021 19:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院确定中成药、生物类似药纳入集采，医保局：不必再公关】集采启动要满足品种积累到一定的数量，同时满足医保目录内临床必须、用药量大、金额高，才形成集采的触发机制。]]></title>
-            <link>https://instant.lvv2.com/html/e1ec39f97bcdef1adc9246184c87ec46.html</link>
-            <guid>988d3c7e503a1d6f4a1f6395b9d51e16</guid>
-            <pubDate>Sun, 31 Jan 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【用了60年的去屑成分ZPT被欧盟禁用，还能放心洗头吗？】欧盟消费者安全科学委员会2020年发布的关于吡硫翁锌（ZPT）的结论中表示，含有浓度小于1% ZPT的洗发水是安全的。但是ZPT对水生生物有胚胎毒性，并且去屑功能也有其他可替代的成分，因此这次被欧盟列入了化妆品禁用物质清单。]]></title>
-            <link>https://instant.lvv2.com/html/03075c60c57df6ce647c80bde114e5a2.html</link>
-            <guid>5cccff1e3fc0c55117d30fbbdd8f60f5</guid>
-            <pubDate>Sun, 31 Jan 2021 18:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
