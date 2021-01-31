@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 31 Jan 2021 20:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 22:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chrome 88 支持新的 CSS 属性`aspect-ratio`，可以设置容器的长宽比。 ]]></title>
+            <link>http://web.dev/aspect-ratio/</link>
+            <guid>c8d8923a92a2fff0e37ca423a9e01281</guid>
+            <pubDate>Mon, 01 Feb 2021 06:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[脱欧后英国加紧“抱团”，下周将申请加入CPTPP]]></title>
+            <link>https://instant.lvv2.com/html/4a9b60ddede643e1471cceb0c66da9eb.html</link>
+            <guid>2eca239c7dffbe915f853d0cf9d1c7cd</guid>
+            <pubDate>Mon, 01 Feb 2021 05:08:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中央网信办部署加强全平台网络传播秩序管理]]></title>
             <link>https://instant.lvv2.com/html/05888ff2874cbe875ddd4508d60d6259.html</link>
@@ -74,30 +86,6 @@
             <link>https://instant.lvv2.com/html/cd647278c5ab00cc1814e119230e1fb9.html</link>
             <guid>a1d423e5e5d8b755c7353257c494f733</guid>
             <pubDate>Sun, 31 Jan 2021 21:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【寂寞身后事：川师大坠亡教授庹继光的高光与困顿】律师王才亮说，“我建议他尽快依法维权，但他还是走内部沟通协调的路。”知情人士透露，近年来，庹继光李缨夫妇与成华区政府之间的沟通近乎停滞，政府方面曾多次建议他们，“如果觉得不合适可以走法律途径，大家公对公。”但迄今为止，庹继光夫妇尚未发起过行政诉讼。]]></title>
-            <link>https://instant.lvv2.com/html/d7a73d8844ef9fee660e6c047f1a2fa4.html</link>
-            <guid>77c67fb07f8f57cc364bdaf0ffed8450</guid>
-            <pubDate>Sun, 31 Jan 2021 21:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汪峰换发型玩说唱，回应喧嚣世界的“没有人在乎”】从“飞得更高”到“飞得更远”，汪峰与新时代声音的对抗和相拥，《没有人在乎》也成为了极致的样本。]]></title>
-            <link>https://instant.lvv2.com/html/c5833b5b2eaae2b7a759a70ec517383f.html</link>
-            <guid>f71d3e8195e4a9d1a0190187fce7967e</guid>
-            <pubDate>Sun, 31 Jan 2021 21:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《银魂 THE FINAL》：“后设主义”和“完结欺诈”背后的秘密]]></title>
-            <link>https://instant.lvv2.com/html/2537cd4565e9738ddc40f93929d3a45b.html</link>
-            <guid>37e1317830625c128065e6178fdf7010</guid>
-            <pubDate>Sun, 31 Jan 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Livehouse 和 Club 之间的区别有多大？】不管多优秀的 DJ，他们的宗旨都是让舞池里的人开心；而乐手就不一样，他们会有表达自我的需求，也会有对观众的要求。]]></title>
-            <link>https://instant.lvv2.com/html/f6b17a0f268ce582a5aeb210850d265a.html</link>
-            <guid>95d66d82116018d4cec6c4a083dda145</guid>
-            <pubDate>Sun, 31 Jan 2021 20:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
