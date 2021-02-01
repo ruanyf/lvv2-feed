@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 01 Feb 2021 17:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2021 18:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【厕所标志扭蛋化！“解放的男女”扭蛋1月29日上市】该产品将厕所常见的、却没人在意过的蓝男红女标志立体化，共设置了6种不同的互动姿势。其中有霸气的壁咚、浪漫的“泰坦尼克号”经典动作，也有吵架时的扇耳光。]]></title>
+            <link>https://instant.lvv2.com/html/ad8b22abd2f931a17313bb6b5af69cd8.html</link>
+            <guid>928161078976058bb51abd503d353950</guid>
+            <pubDate>Tue, 02 Feb 2021 01:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[给2020年百大UP主颁完奖，B站越来越挤了]]></title>
             <link>https://instant.lvv2.com/html/79f3b05089e83c9d0469771c0afa7d2d.html</link>
@@ -205,12 +211,6 @@
             <link>https://instant.lvv2.com/html/9768eb2be4b8f92be92b7af3764a6f1b.html</link>
             <guid>7554b08f1a1ec086b60c88138046ed30</guid>
             <pubDate>Mon, 01 Feb 2021 16:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华尔街最近一周“散户干翻对冲基金”的魔幻现实，正式立项要拍电影了！米高梅火速决定筹拍电影《反社交网络》(The Antisocial Network)，剧本来自《纽约时报》畅销作家Ben Mezrich的同名新书提案。]]></title>
-            <link>https://instant.lvv2.com/html/d6a883d10344cf29dad1d0e07d6c79b5.html</link>
-            <guid>2084d239a4187c90f302695d91c0c6a3</guid>
-            <pubDate>Mon, 01 Feb 2021 16:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
