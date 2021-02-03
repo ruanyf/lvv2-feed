@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 03 Feb 2021 17:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2021 18:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“暴打华尔街空头”亲历者：对不起我叛变了，我不能失去这笔钱】WSB用户发帖时带上“钻石之手”表情，就表示你准备抱牢，不害怕任何风险、亏损，长期持有，一直等到目标点位为止，点石成金。]]></title>
+            <link>https://instant.lvv2.com/html/c52607958cb4f16d27de15a7227257b5.html</link>
+            <guid>dadf4a4ebeff7e6b6ab6ba77b9015efb</guid>
+            <pubDate>Thu, 04 Feb 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天孟奶奶给我打了电话，让我告诉大家，她患有尿毒症的女儿在2021年1月31号因为多脏器衰竭去世了，尿毒症透析10年。转她的话：“非常感谢你们对我的帮助，让我又有了家，我和女儿特别感谢你们”。10月份又得到两三万块的云茶叶蛋钱用在了最后抢救和丧葬费”感谢“云·茶叶蛋”的参与者]]></title>
+            <link>https://instant.lvv2.com/html/112e03f3a1b3d3e6adfe7c1aec36c158.html</link>
+            <guid>5a6efa0229144b179e4f7e1aadf51795</guid>
+            <pubDate>Thu, 04 Feb 2021 01:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[上周有9名印度医务工作者在接种印度国产疫苗“病毒之盾”后死亡，另有16人危重住院。 ]]></title>
             <link>http://www.businessinsider.in/politics/india/news/9-people-died-and-16-hospitalised-out-of-2328779-people-vaccinated-till-now-in-india/articleshow/80485548.cms</link>
@@ -190,24 +202,6 @@ CSS Tricks 推出了一个在线工具 Coding Fonts，可以浏览各种不同�
             <link>https://instant.lvv2.com/html/fb6e83c800c69a56b59fa506cd9caf2b.html</link>
             <guid>a2f59ca7eff3b78be370238fa3a8b6dc</guid>
             <pubDate>Wed, 03 Feb 2021 17:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【你的照片到底被多少面部识别系统「偷偷」用过？是时候用这款工具查一查了】多年来，Flickr被许多公司买卖，现在属于照片共享服务公司SmugMug，该公司允许用户在知识共享许可下分享他们的照片。Flickr上的图片构成了大量的面部识别数据集，这些数据集很可能被用于训练世界各地的面部识别系统。]]></title>
-            <link>https://instant.lvv2.com/html/fa3bc42666651bf474f31ec192c182d2.html</link>
-            <guid>95a7f78c4b1b50b8cd5d02674fd434be</guid>
-            <pubDate>Wed, 03 Feb 2021 17:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[留杭过年红包发得还挺快。]]></title>
-            <link>https://Lvv2.com/t/2847970</link>
-            <guid>f0358d0f47a41c503a52776f570d009c</guid>
-            <pubDate>Wed, 03 Feb 2021 17:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专寻即将过期疫苗：美国的“疫苗猎人”们想方设法提前接种】在Facebook小组里，成员相互告知有额外疫苗剂量的药房信息，一些成员甚至跨州前往密西西比州的乡村城镇接种那里的本地居民不想接种的疫苗。“疫苗应该被注射进胳膊里，而不是让它们被浪费。”]]></title>
-            <link>https://instant.lvv2.com/html/6632f22ef6ee1890b862a19edd1ed780.html</link>
-            <guid>6edf1e3315f26fe88ebbfdb8b9d217d6</guid>
-            <pubDate>Wed, 03 Feb 2021 17:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
