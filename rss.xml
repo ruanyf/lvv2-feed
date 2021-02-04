@@ -4,16 +4,28 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 04 Feb 2021 16:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2021 18:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[亚马逊两代CEO：贝索斯和他的“影子”]]></title>
+            <link>https://instant.lvv2.com/html/726453d9b9cfbdf5c8acfff174274451.html</link>
+            <guid>84f0ae8d4958db70e2cf55f751219aa5</guid>
+            <pubDate>Fri, 05 Feb 2021 01:08:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【禁闭挑战30天、奖金10万，这事你干不了】对于这样的挑战，很多人都觉得易如反掌，以至于某音上相关挑战视频下的评论曾超过2.5万。很多人跃跃欲试，觉得这就是现实版的躺赢。但实际上，在被叫停之前，并没有挑战成功的报道。]]></title>
             <link>https://instant.lvv2.com/html/2a35d966e2b8f113460e26b21103465d.html</link>
             <guid>bcdf42e24155afde6e80f827d7365ffd</guid>
             <pubDate>Thu, 04 Feb 2021 18:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2月3日，东京奥运会的第一份防疫手册发布——这是人类奥运历史上第一次发布此类手册，而根据公开的内容来看，其规定也堪称细致。禁止拥抱和握手、禁止乘坐公共交通工具、给运动员助威时只能鼓掌不能呐喊唱歌，就连洗手时间也做了规范…严格的要求，透露了东京奥运会坚持举办的决心。]]></title>
+            <link>https://instant.lvv2.com/html/c069da833a15f30b926e12ffe8df2ce0.html</link>
+            <guid>35289b5b6b03f83909e820f502bc2ee2</guid>
+            <pubDate>Fri, 05 Feb 2021 02:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【“路的尽头是银河”，关于太阳、月亮和星空的36个瞬间】最近，一款专门用以测量天文影像数据的程序PhotoPills发布了36张过去一年该社区用户拍摄的优秀照片，其主题包括太阳、月亮以及星空。Toni Sendra以在西班牙瓦伦西亚捕捉到的“Ω日出帆船照”获得了年度最佳称号和3000美元的现金奖励。]]></title>
@@ -554,18 +566,6 @@
             <link>http://www.toutiao.com/a6924864663666835980/</link>
             <guid>e573b860556681417a384aeeb71f03cc</guid>
             <pubDate>Thu, 04 Feb 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球最“莽”韩国散户：砸盘看华尔街，拉盘看韩国人】受美国GME狂热的大战影响，日前，韩国股民联盟有近30000名投资者在网上签署请愿书，并在市中心举行示威，呼吁永久禁止卖空股票。这些散户投资者将该运动称为“K-streetbets”。]]></title>
-            <link>https://instant.lvv2.com/html/6718302aa746412ce4a5471a60cd2cac.html</link>
-            <guid>b135ef117207cfad128a199f3b0bddee</guid>
-            <pubDate>Thu, 04 Feb 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音一年带货超 5000 亿元，将启动跨境电商业务】 5000 多亿交易总额中，只有 1000 多亿元是达人们通过抖音自有电商平台抖音小店卖出，另外 3000 多亿元的交易是从直播间和短视频跳转到其他电商平台完成交易。]]></title>
-            <link>https://instant.lvv2.com/html/66f528edf2db04a242c190165e26b854.html</link>
-            <guid>9505eea59e35795f40fb95459d3376b1</guid>
-            <pubDate>Thu, 04 Feb 2021 04:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
