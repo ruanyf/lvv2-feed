@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 06 Feb 2021 18:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 20:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[由谷歌前任CEO埃里克·施密特（Eric Schmidt）领导的智库发表了一份报告，建议华盛顿在科技领域针对中国开展“非对称竞争”（asymmetric competition），并认为两国在科技领域的“分叉”（bifurcation）有利于美国。]]></title>
+            <link>https://instant.lvv2.com/html/677765c8a15028148487e4cbdac08fb1.html</link>
+            <guid>fbc5a9233329256cf52cf40375672a86</guid>
+            <pubDate>Sun, 07 Feb 2021 04:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[这是一篇写给小白的激光雷达文章]]></title>
+            <link>https://instant.lvv2.com/html/4cfc37ba36e42c55ff1945f365d6b5d3.html</link>
+            <guid>21d19006cb1928144798c888801250fd</guid>
+            <pubDate>Sun, 07 Feb 2021 03:08:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[雪梨郭敬明“试水”，电竞俱乐部也入局？| 青3创4公司盘点]]></title>
             <link>https://instant.lvv2.com/html/a44d8664a040bd361affc0832451f6b1.html</link>
@@ -502,24 +514,6 @@
             <link>http://m.weibo.cn/detail/4601278494155397</link>
             <guid>e2e2625d852b05a3b12509fbcf7382b7</guid>
             <pubDate>Fri, 05 Feb 2021 19:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为了使用一座球场，他们创造了切尔西】为了满足大家听八卦的需求，我今天就跟大家讲述一段“没有富勒姆就没有切尔西”的故事。]]></title>
-            <link>https://instant.lvv2.com/html/8acba74bfee5bf354a8cdc5ff53169f8.html</link>
-            <guid>09b8b1d1750137bb27d6a7c11d54b40a</guid>
-            <pubDate>Fri, 05 Feb 2021 19:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年在异乡，24位中国打工人在非洲过年实录】这个工地的24个中国人都是技术工人，负责施工、测量、机械等。技术性比较高的工作只能中国人自己干。不太需要技术的工作，一个中国人可以带领几个、甚至十几、二十个本地人一起干。]]></title>
-            <link>https://instant.lvv2.com/html/049324d56deb3c41fc965cf81adf4cb6.html</link>
-            <guid>e1f98e1387e925b73ab3044e62259d84</guid>
-            <pubDate>Fri, 05 Feb 2021 19:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫里森表示，1.5亿剂疫苗将“不仅可以为澳大利亚人接种，还能确保我们在这一地区尽自己的一份力量”。]]></title>
-            <link>https://instant.lvv2.com/html/7cac9c21c67ee7554359378730a7540a.html</link>
-            <guid>2b9f657724fe43be3eb95d1368dc5b8a</guid>
-            <pubDate>Fri, 05 Feb 2021 19:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
