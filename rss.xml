@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 06 Feb 2021 16:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 18:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[雪梨郭敬明“试水”，电竞俱乐部也入局？| 青3创4公司盘点]]></title>
+            <link>https://instant.lvv2.com/html/a44d8664a040bd361affc0832451f6b1.html</link>
+            <guid>c435fa96fc33c68371fbc7b88149f0ae</guid>
+            <pubDate>Sun, 07 Feb 2021 02:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《音乐之声》让他家喻户晓，他却对此嗤之以鼻】在普卢默七十年的职业生涯中，很长时间他都在反抗一种既定的标准，为此迷失过，也沉寂过。待到韶华不再、白发满镜之时，才终于赢来初心不易的回报。]]></title>
+            <link>https://instant.lvv2.com/html/80c82da4dbdc84c2b101cd8e25e2c7c8.html</link>
+            <guid>152c7d5c9089cab2f16e1648a56b6b4e</guid>
+            <pubDate>Sun, 07 Feb 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[因为一个帕金森大叔手抖拿不出小药丸的吐槽，陌生网友们联合在一起，进行了一场默契的药瓶打造接力...]]></title>
             <link>https://instant.lvv2.com/html/ce84175721be7b4c0b701535c40d8477.html</link>
@@ -508,18 +520,6 @@
             <link>https://instant.lvv2.com/html/7cac9c21c67ee7554359378730a7540a.html</link>
             <guid>2b9f657724fe43be3eb95d1368dc5b8a</guid>
             <pubDate>Fri, 05 Feb 2021 19:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞幸咖啡在美申请破产保护，回应：系公司重组重要步骤】瑞幸方面表示，瑞幸咖啡称，正在与其利益相关者就公司财务债务重组进行谈判。公司在中国的所有门店仍在营业并为客户提供服务，预计对日常运营没有重大影响。公司和门店运营稳定、经营一切正常。]]></title>
-            <link>https://instant.lvv2.com/html/88750a4fd7462ad6e717144b6da8ec7a.html</link>
-            <guid>8c23df051cd43183de05cd28fa7d1f56</guid>
-            <pubDate>Fri, 05 Feb 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传苹果最快2022年发布MR头显，售价将高达3000美元】传闻中的苹果混合现实（MR）头显可能带有一套高端眼球追踪和手势追踪传感器，8K屏幕，摄像头以及可更换的头带，并采用类似护目镜的设计。]]></title>
-            <link>https://instant.lvv2.com/html/f6e0be0ef843e468e5be97d58eb7c7ef.html</link>
-            <guid>770f2d2e8720a2e1ee07c0e15b302b67</guid>
-            <pubDate>Fri, 05 Feb 2021 18:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
