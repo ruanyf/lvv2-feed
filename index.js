@@ -39,7 +39,7 @@ const newFeed = new Feed({
     if (!link) return;
 
     if (link.length <= 27) {
-      // no operation;
+      return;
     } else if (!link.includes('instant.lvv2.com')) {
       link = 'http://' + item.link.substr(27);
     }
