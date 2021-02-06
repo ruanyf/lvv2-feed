@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 06 Feb 2021 10:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 12:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,45 @@
             <link>https://instant.lvv2.com/html/7195c94d348cc12acaf280eea7f3a667.html</link>
             <guid>029ba97635c04fff943e611efb486695</guid>
             <pubDate>Sat, 06 Feb 2021 15:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊对「打工人」动手：接受10小时大夜班，否则走人】在新的工作流程下，直接取消了白天的班次，所有分拣准备岗位都是“大夜班”，从凌晨1：20，一直工作到中午11：50。这种工作方式，就是亚马逊管理层说的“大循环”（Megacycle）。而亚马逊员工称这种工作方式为“graveyard shift”，墓地式轮班。]]></title>
+            <link>https://instant.lvv2.com/html/92a7166e142c9edd45abaf3ce35d2334.html</link>
+            <guid>08cb13867da4623d256e6c9823b8165c</guid>
+            <pubDate>Sat, 06 Feb 2021 20:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#一周热门 拼多多员工猝死事件：中国年轻人只能“拿命换钱”？
+]]></title>
+            <link>https://instant.lvv2.com/html/455e9558c804280a277115dd2ba1ee54.html</link>
+            <guid>f3535cb5c0f51dce61b442992783577c</guid>
+            <pubDate>Sat, 06 Feb 2021 19:42:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明天（2月7日）是中国官方宣布武汉眼科医生、疫情吹哨人之一李文亮去世一周年的日子，今天有大批中国网民发起悼念。多名网民到李文亮个人微博留言，形容他是“一个平凡的英雄”、“人民不会忘记他”及“希望他的家人一切都好”等。 ]]></title>
+            <link>https://instant.lvv2.com/html/55502abaf5c542c1c4cd72f951ae19cd.html</link>
+            <guid>277322cf550cdefe78acddb279e896f5</guid>
+            <pubDate>Sat, 06 Feb 2021 19:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央社报道，台湾无党籍高雄市议员黄捷罢免案今天投票，根据高雄市选委会初步统计，不同意票6万多票，高于同意的5万多票，罢免案不通过。
+
+有关黄捷罢免案的更多报道： ]]></title>
+            <link>https://instant.lvv2.com/html/3d3801582b9aa81ec319136be7a23ceb.html</link>
+            <guid>6d775052b86ee9340de194a13cc885b7</guid>
+            <pubDate>Sat, 06 Feb 2021 19:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海新房摇号首次采用“计分排序”】2月6日，上海新一轮楼市调控“沪十条”中有关新房摇号的新规正式落地实施。闵行区“永康城浦上雅苑”、宝山区“经纬城市绿洲家园三期”、嘉定区“峰范嘉苑”等3处楼盘作为“沪十条”实施以来新开的楼盘，全部采用计分制，优先满足“无房家庭”自住购房需求。]]></title>
+            <link>https://instant.lvv2.com/html/1c01e260435b4eade923edbe2147b4cd.html</link>
+            <guid>7bad9f6649a3fcb3afaa22ae89b0a529</guid>
+            <pubDate>Sat, 06 Feb 2021 19:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球芯片短缺蔓延】芯片短缺的局面不再局限于汽车，智能手机、游戏机生产商同样叫苦不迭，这有可能是数年来最严重的一次半导体短缺危机。]]></title>
+            <link>https://instant.lvv2.com/html/ce5ba96f702945c58a02c348fc4d35c4.html</link>
+            <guid>2ba711a287c065afe31dd047085125ef</guid>
+            <pubDate>Sat, 06 Feb 2021 18:48:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【久旱逢甘雨！南方将迎大范围降雨过程，利于缓和旱情】中央气象台发布消息称，预计2月7日至10日，云南南部和东部、贵州南部及江南中南部、华南自西向东有一次较强降雨过程，上述地区有中到大雨。]]></title>
@@ -476,48 +515,6 @@
             <link>http://www.acfun.cn/face-catcher</link>
             <guid>5deadb2b7eb62d4522906e6c6f524d52</guid>
             <pubDate>Fri, 05 Feb 2021 16:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【劣迹艺人惩戒复出程序业内首次明确】中国演出行业协会5日发布新制定的《演出行业演艺人员从业自律管理办法》。根据办法，“劣迹艺人”将受到协会会员单位1年期限至永久期限的联合抵制，且须在联合抵制期限届满前3个月内提出申请，经同意后才可继续从事演出活动。]]></title>
-            <link>https://instant.lvv2.com/html/3e6124d26f9ba16315c06c692ba6bec0.html</link>
-            <guid>bfea40b5a22de0486887e2fbb52fcaec</guid>
-            <pubDate>Fri, 05 Feb 2021 16:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“亚洲毒王”谢志乐落网，“金三角”毒根依旧难除】“他搅乱了一个本就庞大的市场，并令其更加庞大。他之于毒品产业，就像优步之于运输，或者奈飞之于电影。他看到了一个机会，就抓住它，并彻底改变了整个市场。”]]></title>
-            <link>https://instant.lvv2.com/html/bddf9fa982e262f5e81d84fd70634432.html</link>
-            <guid>a68396edcab35a24fe7642f04954f741</guid>
-            <pubDate>Fri, 05 Feb 2021 15:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[暴雪官方透露多款「魔兽」手游正在深度开发中]]></title>
-            <link>https://instant.lvv2.com/html/99209b4066267606359f873127208f06.html</link>
-            <guid>6bae01cbbd4901c7ce7132b3a77b9f3c</guid>
-            <pubDate>Fri, 05 Feb 2021 15:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车终止与中企间的合作
-
-福特汽车（Ford）在2017年与众泰汽车达成协议，将组建1家新合资公司，近日有媒体报导，双方已经决定终止电动车合资计画，原因是近年来中国电动汽车行业和政府政策都发生重大变化。
-]]></title>
-            <link>http://www.reuters.com/article/us-fordmotor-china-zotye/ford-motor-terminates-electric-vehicle-plans-with-chinas-zotye-idUSKBN2A409A</link>
-            <guid>4095c07a81543d218ee02f668c1fe168</guid>
-            <pubDate>Fri, 05 Feb 2021 15:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉汽车（北京）有限公司召回部分进口Model S、Model X】部分车辆装载有eMMC多媒体存储卡，当硬件达到寿命极限的损耗时，可能导致中央显示屏软件功能故障。特斯拉曾于 2 月 2 日宣布，由于受到美国NHTSA的压力，“自愿”召回所有存在触摸屏问题的13.49万辆，均为加州弗里蒙特工厂于2012年至2018年生产。]]></title>
-            <link>http://www.samr.gov.cn/zw/zh/202102/t20210205_325916.html</link>
-            <guid>ebcdc7ad23adbe8d2b7b1f0cce9c853d</guid>
-            <pubDate>Fri, 05 Feb 2021 15:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三年前，让娜的身份证和驾照不再有效，社会保险号码被取消，健康保险也终止了。在法庭及政府机构的纪录中，她已经“死了”。
-
-过去三年，她仍在说服法国当局在法律上把她“复活”。到底她可以如何证明自己仍然活着？
-]]></title>
-            <link>https://instant.lvv2.com/html/57ca3e1f5d3aac9eb837e0f00eaf8afa.html</link>
-            <guid>e784a686247ba4a27e24030bf979c8ca</guid>
-            <pubDate>Fri, 05 Feb 2021 15:22:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
