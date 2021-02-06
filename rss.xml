@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 06 Feb 2021 20:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 22:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我准备永久拉黑这项家务】我们想赶在换季之前，让你彻底告别这场周而复始的苦差。]]></title>
+            <link>https://instant.lvv2.com/html/f0493bf38473a484126c55d898adb824.html</link>
+            <guid>fa6646a7208070cf1cd0d6a3444c4ffa</guid>
+            <pubDate>Sun, 07 Feb 2021 06:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#一周精选 自从澳洲政府推进立法要求谷歌为原创新闻付费，谷歌就威胁要退出澳洲，届时澳洲人可能就要用VPN访问谷歌了。十年前谷歌退出中国，反而促进中国的科技产业建立起完善的生态系统。]]></title>
+            <link>https://instant.lvv2.com/html/8ec034cef14ad255c0ff4ab940ce3c35.html</link>
+            <guid>a2586039a70df4fcfecd69ec9c29b341</guid>
+            <pubDate>Sun, 07 Feb 2021 05:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全民公敌在中国的最后三个月]]></title>
+            <link>http://weibo.com/1907166177/JFV49j6jw</link>
+            <guid>0a5cb2b9c1f4952417a0025cbe25b829</guid>
+            <pubDate>Sun, 07 Feb 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[由谷歌前任CEO埃里克·施密特（Eric Schmidt）领导的智库发表了一份报告，建议华盛顿在科技领域针对中国开展“非对称竞争”（asymmetric competition），并认为两国在科技领域的“分叉”（bifurcation）有利于美国。]]></title>
             <link>https://instant.lvv2.com/html/677765c8a15028148487e4cbdac08fb1.html</link>
@@ -501,19 +519,6 @@
             <link>https://instant.lvv2.com/html/c65bae1f68b82343fa0a2e6f608f3b19.html</link>
             <guid>6895175554565bfde529acbb40cc9f9a</guid>
             <pubDate>Fri, 05 Feb 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有学者认为，中国一带一路的重点“正从传统的基建转向高科技合作和数字化服务”。
-]]></title>
-            <link>https://instant.lvv2.com/html/d3c4e047be284186f684c72789b60d4f.html</link>
-            <guid>d5d1831d169c9f36852400009bd34e0e</guid>
-            <pubDate>Fri, 05 Feb 2021 19:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“我再也不爬这么高啦————”]]></title>
-            <link>http://m.weibo.cn/detail/4601278494155397</link>
-            <guid>e2e2625d852b05a3b12509fbcf7382b7</guid>
-            <pubDate>Fri, 05 Feb 2021 19:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
