@@ -4,11 +4,25 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 08 Feb 2021 16:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2021 18:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2月4日，加利福尼亚州棕榈谷庞大的42工厂试飞的一架U-2“蛟龙夫人”高空侦察机引起了航空迷的注意。摄影师Matt Hartman刚好使用照相机拍摄到了高空侦察机的照片。通过这组照片，可以发现机身下方的“Q舱”安装了先进的全景成像传感器。]]></title>
+            <link>https://instant.lvv2.com/html/7f56d7a4ce387ade15be563ddec72c2b.html</link>
+            <guid>d84f685b76ed29e0720250595a93eb58</guid>
+            <pubDate>Tue, 09 Feb 2021 01:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登表示，上任后还未与习近平通话。不过拜登称自己“很了解他”，他解释称，自己作为副总统时与习近平相处时间超过任何一位世界领导人。
+他评价习近平“非常聪明”、“非常强硬”，“而且——我的意思不是批评而是事实——他骨子里并无民主。”
+]]></title>
+            <link>https://instant.lvv2.com/html/ea0887cdbf0b1bb38a6b4049a9408e21.html</link>
+            <guid>2353d31c16c90c55cb61e39007d356b7</guid>
+            <pubDate>Tue, 09 Feb 2021 01:00:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[澳大利亚华裔记者成蕾在被中国当局拘押数月之后，以向海外提供中国国家机密的罪名被正式逮捕。]]></title>
             <link>https://instant.lvv2.com/html/387a4e577dd238e29005e8dca9c6b21a.html</link>
@@ -504,24 +518,6 @@
             <link>https://instant.lvv2.com/html/000fbe20525c2896054784a52a3de860.html</link>
             <guid>7684dbf1f00575f95fbd1b9fa365d249</guid>
             <pubDate>Mon, 08 Feb 2021 08:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丹麦计划在海上建造一个巨型的能源岛，作为海上风力发电的控制中心。]]></title>
-            <link>https://instant.lvv2.com/html/d78afc97e9825048c32bf02e0775610b.html</link>
-            <guid>1448b5a05be64af897faf600fe036c62</guid>
-            <pubDate>Mon, 08 Feb 2021 07:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯利康疫苗对南非发现的变种病毒“效果有限”】莫德纳疫苗的早期试验结果表明，该疫苗仍然可以有效对抗南非发现的变种病毒，Novavax和强生新冠疫苗尚未得到批准，但数据显示它们也能为南非发现的变种病毒提供一定程度上的保护。]]></title>
-            <link>https://instant.lvv2.com/html/2e2c247946f41e0c8619629a431991d9.html</link>
-            <guid>f56933afa76ecdc575a61adb10c44f8f</guid>
-            <pubDate>Mon, 08 Feb 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挖坟这个链接，给没看过这条谣言的推油。]]></title>
-            <link>https://instant.lvv2.com/html/17e51195f4f1d1dd631b94bcc7a92d59.html</link>
-            <guid>13e5ce47a8bfff6d972f46829556dc59</guid>
-            <pubDate>Mon, 08 Feb 2021 06:56:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
