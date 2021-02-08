@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 08 Feb 2021 20:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2021 22:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国最长高铁正式开通】2月8日上午9点50分，随着G8305次复兴号动车组从徐州东站始发，开往连云港站，徐州至连云港的徐连高铁正式开通运营。这标志着，作为我国“八纵八横”高速铁路网最长横向通道的连云港至乌鲁木齐高速铁路，正式全线贯通。]]></title>
+            <link>https://instant.lvv2.com/html/07e76597ff15a6b2753741e8f94a2914.html</link>
+            <guid>95659ca3c530e59301a32e0d8a14ee85</guid>
+            <pubDate>Tue, 09 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【辛辛苦苦从广东带到山东的鸡被准公公糟蹋了】而且是剁成小块，丢进酱油水里，煮成了一锅完全看不出鸡样的酱油色黑暗料理！！说是他们山东的名菜蛾子炖鸡。]]></title>
+            <link>https://instant.lvv2.com/html/c2e3e3c5835f4975e8cc04aa67143685.html</link>
+            <guid>98bc3728da6ed72ac1c7b0668213cef7</guid>
+            <pubDate>Tue, 09 Feb 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北京二环268㎡豪宅：身价百亿，家徒四壁】Sic 张思川，2011 年她和先生唐岩共同创立了「陌陌」，三年后在纳斯达克交易所挂牌上市。2017 年 Sic 创办 PUPUPULA，投身儿童家居设计，一切从头开始。而在工作之外，她也是两个孩子的妈妈。]]></title>
             <link>https://instant.lvv2.com/html/d6f4ec5870282470511e23a24dc79d15.html</link>
@@ -518,12 +530,6 @@
             <link>http://weibo.com/1768828574/K0UUsrhc5</link>
             <guid>8ed5d0b01621309765b37e4b4426f374</guid>
             <pubDate>Mon, 08 Feb 2021 09:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[喝酒一时爽，一直喝酒就…忍饥挨饿急诊里躺…]]></title>
-            <link>https://instant.lvv2.com/html/f503fe61b025e05506efe81b9349cf62.html</link>
-            <guid>569370589e2384394effcc29c1606a65</guid>
-            <pubDate>Mon, 08 Feb 2021 09:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
