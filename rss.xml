@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 09 Feb 2021 20:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2021 22:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“女人话太多”，东京奥组委会长歧视女性引风波】作为对森喜朗歧视言论的抗议，连日来包括知名主持人在内的2名奥运圣火火炬手已经宣布退出圣火传递，约390名奥运会志愿者主动辞去志愿者工作。]]></title>
+            <link>https://instant.lvv2.com/html/0baafe4c29421640af6cc857002e0e0e.html</link>
+            <guid>502f079a7c4088f24e570c8b033891f5</guid>
+            <pubDate>Wed, 10 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[四岁的阿兹卡（Azka）已经习惯说一句新学的话：“我爸爸走了。”对一个小男孩来说，这五个字过于沉重。]]></title>
+            <link>https://instant.lvv2.com/html/f71f06173fb8f453b4faed1093d33784.html</link>
+            <guid>c9b0991143cea2142eff72f60456af6d</guid>
+            <pubDate>Wed, 10 Feb 2021 05:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小屏机没有未来？】近期多份报告指出 iPhone 12 mini 因需求疲软即将停产，更是让小屏手机的需求再次受到质疑。]]></title>
+            <link>https://instant.lvv2.com/html/d1a0cb6a533f64163c47887176b0bb45.html</link>
+            <guid>d580e087533090017f4a642d21a53b62</guid>
+            <pubDate>Wed, 10 Feb 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【《剑与远征》团队瓜分1.9亿？莉莉丝新制度：项目利润全额分红】在游戏行业里，研发团队核心成员跑路，甚至成功团队被连锅端走的案例实在太多。除了创业和内部矛盾，「钱没给够」往往是最直接的因素。像是某头部公司CEO就认为，留住核心团队只有一个办法：满足他们的需求。]]></title>
             <link>https://instant.lvv2.com/html/416924f291e446c8474de7180a03bb22.html</link>
@@ -530,20 +548,6 @@
             <link>https://instant.lvv2.com/html/8dbd0cb09d36be7e06b514fd385b1a46.html</link>
             <guid>e261e0d347a2b3c0c2ea0a573c3ee222</guid>
             <pubDate>Tue, 09 Feb 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2月4日，加利福尼亚州棕榈谷庞大的42工厂试飞的一架U-2“蛟龙夫人”高空侦察机引起了航空迷的注意。摄影师Matt Hartman刚好使用照相机拍摄到了高空侦察机的照片。通过这组照片，可以发现机身下方的“Q舱”安装了先进的全景成像传感器。]]></title>
-            <link>https://instant.lvv2.com/html/7f56d7a4ce387ade15be563ddec72c2b.html</link>
-            <guid>d84f685b76ed29e0720250595a93eb58</guid>
-            <pubDate>Tue, 09 Feb 2021 01:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登表示，上任后还未与习近平通话。不过拜登称自己“很了解他”，他解释称，自己作为副总统时与习近平相处时间超过任何一位世界领导人。
-他评价习近平“非常聪明”、“非常强硬”，“而且——我的意思不是批评而是事实——他骨子里并无民主。”
-]]></title>
-            <link>https://instant.lvv2.com/html/ea0887cdbf0b1bb38a6b4049a9408e21.html</link>
-            <guid>2353d31c16c90c55cb61e39007d356b7</guid>
-            <pubDate>Tue, 09 Feb 2021 01:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
