@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 09 Feb 2021 18:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2021 20:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【《剑与远征》团队瓜分1.9亿？莉莉丝新制度：项目利润全额分红】在游戏行业里，研发团队核心成员跑路，甚至成功团队被连锅端走的案例实在太多。除了创业和内部矛盾，「钱没给够」往往是最直接的因素。像是某头部公司CEO就认为，留住核心团队只有一个办法：满足他们的需求。]]></title>
+            <link>https://instant.lvv2.com/html/416924f291e446c8474de7180a03bb22.html</link>
+            <guid>0c923c282aa71845f88c5c8ee0420c6b</guid>
+            <pubDate>Wed, 10 Feb 2021 04:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“点燃”下沉市场的烟花生意】从工厂生产端传导至快手、抖音、视频号以及微商群里的销售端，电子烟花悄悄点燃了下沉市场的热情。]]></title>
+            <link>https://instant.lvv2.com/html/20421fff9fd65a6e1478efa245611d2c.html</link>
+            <guid>38735227ec8fb5db442385f8b2ddaf1f</guid>
+            <pubDate>Wed, 10 Feb 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【除了油腻，黄段子还有别的故事】荤段子今天早已是油腻中年男的标配，但它曾经也附带着更引人同情的价值，拥有过更不招人喜欢的对立面。]]></title>
             <link>https://instant.lvv2.com/html/d3a6fab4570d7b0f72387d030d63592c.html</link>
@@ -532,18 +544,6 @@
             <link>https://instant.lvv2.com/html/ea0887cdbf0b1bb38a6b4049a9408e21.html</link>
             <guid>2353d31c16c90c55cb61e39007d356b7</guid>
             <pubDate>Tue, 09 Feb 2021 01:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚华裔记者成蕾在被中国当局拘押数月之后，以向海外提供中国国家机密的罪名被正式逮捕。]]></title>
-            <link>https://instant.lvv2.com/html/387a4e577dd238e29005e8dca9c6b21a.html</link>
-            <guid>e32481d0eb8998f115a0317f4402b064</guid>
-            <pubDate>Tue, 09 Feb 2021 00:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《吐槽大会5》：此次改版是脱胎换骨，还是形式主义？】《吐槽大会》后面几季口碑下滑，根本上是在“吐槽”上出了问题。观众对它最大的质疑是，“吐槽大会”成“洗白大会”。李诞也并不讳言，“其实节目已经做不下去了…没意思，太难看了。”]]></title>
-            <link>https://instant.lvv2.com/html/b7167cc43dc858b06987c5c519e4e754.html</link>
-            <guid>41fce63bc0dfe6e158fa809e9108c153</guid>
-            <pubDate>Tue, 09 Feb 2021 00:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
