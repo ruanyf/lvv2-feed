@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 10 Feb 2021 16:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 18:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【自西徂东：秦国崛起的四级跳】从牧马起家的附庸，到雄踞西北的大国，再到以虎狼之师扫荡六合的强秦，六百余年间，秦人枕戈待旦，不断东进。“九都八迁”的背后，西犬丘、雍城、栎阳、咸阳，秦国跃迁进程中最重要的四个节点，折射出这个尚武民族如何通过不屈不挠的迁徙、蚕食、扩张，从而吞吐八荒，席卷宇内。]]></title>
+            <link>https://instant.lvv2.com/html/15d0079045fd82c33a2d2c4096f8af44.html</link>
+            <guid>38aeacb8b16d3ed80803478a6a6545f7</guid>
+            <pubDate>Thu, 11 Feb 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[最会玩的前NASA工程师Mark Rober，制造了一个能踢“任意球”（定踢）的机器人，并用它与NFL定踢最远纪录保持者Matt Prater同场竞技，最终毫无悬念地战胜了人类。]]></title>
+            <link>http://m.weibo.cn/detail/4603126768473058</link>
+            <guid>08a1d13c4b316a55546b238116a9553c</guid>
+            <pubDate>Thu, 11 Feb 2021 01:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【神奇豹子在哪里】华北豹是中国独有的豹属亚种，曾广泛活跃于北京、河北、山西、陕西等地。上世纪九十年代，最后一批有明确记录的华北豹消失于北京后，当地多次盛传出现豹的脚印、咬痕甚或真身，但始终没有实证。现在，科学家们想把华北豹引回北京。]]></title>
             <link>https://instant.lvv2.com/html/2be86e87c708c05acc88d863ac61b4fd.html</link>
@@ -526,12 +538,6 @@
             <link>https://instant.lvv2.com/html/0ca7a33caf82b501a341192984187125.html</link>
             <guid>853bccd9ab97d43be4b74396b17d3063</guid>
             <pubDate>Tue, 09 Feb 2021 19:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亲子鉴定后，那些崩溃的男人]]></title>
-            <link>https://instant.lvv2.com/html/c04dfa3ca27d00f6ed7e5e5229ab7327.html</link>
-            <guid>7b21762b57254c46144fd4c18a768652</guid>
-            <pubDate>Tue, 09 Feb 2021 15:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
