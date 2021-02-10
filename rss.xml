@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 10 Feb 2021 01:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 02:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【HiFi发烧之驴唇不对马嘴】很多人认为耳机像录音师混音师一样可以“调音”，不同的音乐需要特定的耳机去回放。但实际上，盲听实验发现这种说法并不靠谱。更不存在某种奇怪音染的耳机更适合听某种类型音乐的现象。]]></title>
+            <link>https://instant.lvv2.com/html/95c468cc679a862b34c07601a84f55c9.html</link>
+            <guid>7fa859e3edbf187017716b847564a622</guid>
+            <pubDate>Wed, 10 Feb 2021 10:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微信状态还可以这样玩】腾讯在视频号上发起了一场许愿直播，用户可以在直播中许愿，点亮“星空”中的一颗星，还可以在星空背景中手绘，完成许愿的用户即可获得限时“福”字状态。与此同时，B站、小红书、抖音、微博等平台上也相继出现大批素材类账号，甚至催生出一套完整的商业变现模式。]]></title>
+            <link>https://instant.lvv2.com/html/99c4436b9cfdee2cc0ce03c4491b2fbd.html</link>
+            <guid>eff717348423769fdd264c09ebfb69d4</guid>
+            <pubDate>Wed, 10 Feb 2021 09:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全息技术上的大突破：首次用纠缠光子成功创建全息图像]]></title>
+            <link>https://instant.lvv2.com/html/7921acdcf25fef270a45c1e2027e3c46.html</link>
+            <guid>d43d307b3724468d6ad52e9ebed97c3f</guid>
+            <pubDate>Wed, 10 Feb 2021 09:40:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国参议院再次开审特朗普弹劾案，投票确认弹劾案审理合宪】目前参议院议席50-50，假设所有民主党参议员投票支持弹劾，民主党依然需要17名共和党人一起投票支持才可以给特朗普定罪。在早些时候就弹劾审判是否违宪的投票中，只有五名共和党人“倒戈”，这一投票或预示了大部分共和党参议员在弹劾案审判中的意向。]]></title>
             <link>https://instant.lvv2.com/html/d6836bd16cbc1ed113f6cfeb809d9292.html</link>
@@ -520,30 +538,6 @@
             <link>https://instant.lvv2.com/html/a2bc965cf4016d0a586b7a3992e445eb.html</link>
             <guid>f9d963e77f47cfdf69c106abd5c61b84</guid>
             <pubDate>Tue, 09 Feb 2021 09:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孖展、暗盘、一手党……港股“打新”的别样江湖】港股实施的是优先保证一户一签的普惠分配政策，对散户相对比较友好，会优先满足一手中签，之后再进行配股。因此，“一个账户只打一手”成为很多港股投资者的打新策略，这群人自称“一手党”。]]></title>
-            <link>https://instant.lvv2.com/html/8c85af2b3c9f546df8efb5056485a2b0.html</link>
-            <guid>dbaa6b1fa4435e7bb9ab1cce4f612bc0</guid>
-            <pubDate>Tue, 09 Feb 2021 08:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[那些年，我在异乡度过的春节 | 故事FM]]></title>
-            <link>https://instant.lvv2.com/html/5518faf5eccb92b15be5c3662f0d7829.html</link>
-            <guid>a72a554498c2c4c8d3a77b097e25bb21</guid>
-            <pubDate>Tue, 09 Feb 2021 08:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周掉粉100万，B站“动画区”一哥Lexburner为何引起公愤？】Lex“背叛”动画区的背后，其实是B站UP主的生态变化以及头部UP主“饭圈化”带来的影响。当Lex说出“我给了其他up主6年的时间，没有一个超过我的。”这种话时，让人清楚地感受到了他的膨胀，给人一种非常“傲慢”的感觉。]]></title>
-            <link>https://instant.lvv2.com/html/4a521cfec6654582dbd7147e77484277.html</link>
-            <guid>0f3d3d44b8b8ece651cf59e82a9450ea</guid>
-            <pubDate>Tue, 09 Feb 2021 08:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【62年前，苏联登山队命丧雪山的那一夜，到底发生了什么？】洛桑联邦理工学院（EPFL）和苏黎世联邦理工学院（ETH Zurich）的两位科学家，提出一种与从前不同的雪崩假说，并用物理模拟实验证明了雪崩发生的可能性。]]></title>
-            <link>https://instant.lvv2.com/html/b2c74b23fefba18fc18405d7b2a6ab22.html</link>
-            <guid>7f0f24389a2ec50aba57a6656b2f4214</guid>
-            <pubDate>Tue, 09 Feb 2021 07:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
