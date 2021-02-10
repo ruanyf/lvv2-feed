@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 10 Feb 2021 20:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 22:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[昨天又找出小时候看过的《小龙人》重新看了一遍，看完后哭的简直比家乡被“利奇马”刮过还要惨。一直在思考为什么会这么悲痛，后来想明白了，打小时起，心里那股悲凉、孤独、觉得这个世界凉薄不堪的印象（以前以为是家庭关系紧张造成的），其实是拜这个电视剧所赐。]]></title>
+            <link>http://movie.douban.com/review/10401808/</link>
+            <guid>a6e9a63c59dba52f1f3596793eba0905</guid>
+            <pubDate>Thu, 11 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登上任后，首次有“罗斯福”号（USS Theodore Roosevelt）和“尼米兹”号（USS Nimitz）两个美国航母打击群同时在南海活动，分析形容这是为了展示新政府继续将对抗中国在南海“不断扩张”的势力。
+]]></title>
+            <link>https://instant.lvv2.com/html/61cb926c9113a1634be1e561be9ce45d.html</link>
+            <guid>68f0dd4a11de4113ae9cdc15e81a7985</guid>
+            <pubDate>Thu, 11 Feb 2021 05:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国米新队徽的样图被证实，已经递交了商标的注册申请】根据意大利媒体此前的报道，国米的新队徽将在三月份实装，届时会邀请众多媒体和名宿举办一个品牌推广活动，苏宁集团希望对国米商标进行重新包装和营销推广，并希望更多投资者进场。]]></title>
+            <link>https://instant.lvv2.com/html/1602d4de4221623ad0e93b5f26a2ecee.html</link>
+            <guid>7fe54dde3b8b5a53e1c6ecfd9c83560f</guid>
+            <pubDate>Thu, 11 Feb 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[你在图中看到了几种颜色？]]></title>
             <link>https://instant.lvv2.com/html/7fd3e5c9be4b3a377d136bc42c062252.html</link>
@@ -516,28 +535,6 @@
             <link>https://instant.lvv2.com/html/00e3631d5860bc57c836aedbe93a37eb.html</link>
             <guid>740db1ed157a00c0985c465e08122cc5</guid>
             <pubDate>Tue, 09 Feb 2021 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【23岁地产员工在酒店身亡 尸检鉴定：七氟烷中毒致死】家属称，她当晚陪同主管吃喝后被带去开房，凌晨发现死于房间。]]></title>
-            <link>https://instant.lvv2.com/html/80aa258f3fc9af89f70e6101b46e0bfe.html</link>
-            <guid>7cb995aa85cf574ef28ebb82065c6d78</guid>
-            <pubDate>Tue, 09 Feb 2021 14:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国驻加尔各答总领事馆向当地华人华侨发放“春节包”，特别是为中资企业留守人员包粽子的事情，被央视新闻、中国新闻社和国际台等多家央媒报道了。
-
-粽子小但手巧，春节包轻祖国关心亲！祝海外华人华侨朋友和中资企业员工平安健康！
-
-]]></title>
-            <link>https://instant.lvv2.com/html/fd8f5df5a68c12358fe20bb434f01575.html</link>
-            <guid>1a22405fd728d190064bf309316bf2e1</guid>
-            <pubDate>Tue, 09 Feb 2021 20:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@庭和：昨晚我差点就跟这世界永别了，非自愿的那种。在不到一分钟的时间里，身体深刻记住了什么叫做一脚踩进鬼门关里。]]></title>
-            <link>http://weibo.com/5209672389/K178biTAV</link>
-            <guid>25d1b4bd8ab6639a443bcee5d1254fb9</guid>
-            <pubDate>Tue, 09 Feb 2021 19:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
