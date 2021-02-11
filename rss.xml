@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 11 Feb 2021 02:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 04:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[掩耳盗铃的最高境界：我不看你，你就看不见我！]]></title>
+            <link>http://m.weibo.cn/detail/4603344263843056</link>
+            <guid>73be3321570f37ffdf340d628e51daaa</guid>
+            <pubDate>Thu, 11 Feb 2021 12:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万事达今年将允许商户接受加密货币支付，或不支持比特币结算。此前万事达用户已可使用加密货币支付，但商户接收到的仍为法币。今年商户将直接接收到加密货币。]]></title>
+            <link>https://instant.lvv2.com/html/7a26f89d1da77c9e3a472b20520066fa.html</link>
+            <guid>ef976d48b640deaeedf68f52e4292c9a</guid>
+            <pubDate>Thu, 11 Feb 2021 11:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[彭博社引述两位消息人士称，美国总统拜登今天将会与中国国家主席习近平通电话。据彭博社报道，通话预计会在美国时间星期三晚上，即北京时间今早进行。]]></title>
             <link>https://instant.lvv2.com/html/c6d99583cc3bd6d8e1f21f54c7e663a5.html</link>
@@ -481,42 +493,6 @@
             <link>https://instant.lvv2.com/html/0baafe4c29421640af6cc857002e0e0e.html</link>
             <guid>502f079a7c4088f24e570c8b033891f5</guid>
             <pubDate>Wed, 10 Feb 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[四岁的阿兹卡（Azka）已经习惯说一句新学的话：“我爸爸走了。”对一个小男孩来说，这五个字过于沉重。]]></title>
-            <link>https://instant.lvv2.com/html/f71f06173fb8f453b4faed1093d33784.html</link>
-            <guid>c9b0991143cea2142eff72f60456af6d</guid>
-            <pubDate>Wed, 10 Feb 2021 05:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小屏机没有未来？】近期多份报告指出 iPhone 12 mini 因需求疲软即将停产，更是让小屏手机的需求再次受到质疑。]]></title>
-            <link>https://instant.lvv2.com/html/d1a0cb6a533f64163c47887176b0bb45.html</link>
-            <guid>d580e087533090017f4a642d21a53b62</guid>
-            <pubDate>Wed, 10 Feb 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《剑与远征》团队瓜分1.9亿？莉莉丝新制度：项目利润全额分红】在游戏行业里，研发团队核心成员跑路，甚至成功团队被连锅端走的案例实在太多。除了创业和内部矛盾，「钱没给够」往往是最直接的因素。像是某头部公司CEO就认为，留住核心团队只有一个办法：满足他们的需求。]]></title>
-            <link>https://instant.lvv2.com/html/416924f291e446c8474de7180a03bb22.html</link>
-            <guid>0c923c282aa71845f88c5c8ee0420c6b</guid>
-            <pubDate>Wed, 10 Feb 2021 04:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“点燃”下沉市场的烟花生意】从工厂生产端传导至快手、抖音、视频号以及微商群里的销售端，电子烟花悄悄点燃了下沉市场的热情。]]></title>
-            <link>https://instant.lvv2.com/html/20421fff9fd65a6e1478efa245611d2c.html</link>
-            <guid>38735227ec8fb5db442385f8b2ddaf1f</guid>
-            <pubDate>Wed, 10 Feb 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【除了油腻，黄段子还有别的故事】荤段子今天早已是油腻中年男的标配，但它曾经也附带着更引人同情的价值，拥有过更不招人喜欢的对立面。]]></title>
-            <link>https://instant.lvv2.com/html/d3a6fab4570d7b0f72387d030d63592c.html</link>
-            <guid>f056f2761ed05686374e47d49e233c8a</guid>
-            <pubDate>Wed, 10 Feb 2021 02:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 为什么有的人特别在乎被冤枉，有的人却能无所谓？是什么原因导致这差别？ 我说来你们都不信，我花了半个多小时仔细的读了这里面几乎每个问答。读完心情更复杂了……]]></title>
-            <link>https://instant.lvv2.com/html/cef037ecf851c5d271d5eb54113f4e13.html</link>
-            <guid>952c443929e80371fbcd9dfe246a7ed8</guid>
-            <pubDate>Wed, 10 Feb 2021 01:26:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
