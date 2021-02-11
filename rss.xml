@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 11 Feb 2021 18:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 20:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【杭州访古—九曜山吴越国弥勒造像】早就听说西湖南岸的九曜山上有一处吴越时期的造像，19年底就去寻访了两次，可是这地方实在难找，只知道在九曜山往四眼井的小路上，去了两次，爬了半天，都从九曜山走到玉皇山了，还是没找到。前几个星期又去了一次，终于找到了。]]></title>
+            <link>http://www.douban.com/note/794173806/</link>
+            <guid>ccb6ca8d9e6ecbb33e9ee576fb3697af</guid>
+            <pubDate>Fri, 12 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[忽然很好奇，打开IMDb电影排行总榜，找到得分最高的十部作品，都是如雷贯耳的绝世名作。筛选了一下，发现1星影评还真是不少。我选了一些经典电影，从下面各挑了一段赞同数较高的1星差评，与大家共享。倒不是要晒奇葩，只是想感慨一下，观影是一个多么主观的体验。]]></title>
             <link>http://weibo.com/1444865141/K1qLx2xvV</link>
@@ -480,12 +486,6 @@
             <link>https://instant.lvv2.com/html/3f6102a18dfe1703901e6de7d154f31b.html</link>
             <guid>e94b4ac4b5be5c9019c95af46646cc08</guid>
             <pubDate>Wed, 10 Feb 2021 18:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克1亿美元“碳捕集悬赏令”官宣 直指碳捕获与再利用】马斯克表示，种树这个办法也不是没想过，但这需要大量的淡水和土地。在 10 到 20 年内，我们需要的是超大规模的工业化技术。以碳捕获为代表的负碳技术，不仅有望缓解气候变化问题，而且具备商业价值，火星大气里 96% 的成分为 CO₂。]]></title>
-            <link>https://instant.lvv2.com/html/3fb9ff23eaa44b4373fdb62a415fe1bc.html</link>
-            <guid>bdc09c342c8ef1117cd64858e6c5c5fa</guid>
-            <pubDate>Wed, 10 Feb 2021 17:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
