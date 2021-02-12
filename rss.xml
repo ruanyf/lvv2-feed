@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 12 Feb 2021 16:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 18:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在美国前总统特朗普弹劾案审讯中，越来越多的证据证明特朗普1月6日在推特上诋毁其副总统彭斯前，已明确知道彭斯已经遭遇安全威胁。
+]]></title>
+            <link>https://instant.lvv2.com/html/1bb8c66c0a706b826fa8ccded817ff47.html</link>
+            <guid>3ebf988999f07e553cbc2a3e65ee0f41</guid>
+            <pubDate>Sat, 13 Feb 2021 02:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉马努金机：会给人类出数学难题的AI来啦】研究人员新构建的一种人工智能（AI）可以生成数学公式，包括一些数学家至今都没能解决的问题。这个AI名叫“拉马努金机”（Ramanujan Machine），研究人员想让它用新的方法计算重要数学常数的精确值，例如π和e。]]></title>
+            <link>https://instant.lvv2.com/html/0cb4a3d4adad9bbbe5cb64fda980dd72.html</link>
+            <guid>984ed1edad7fc43ff8d50d340b37eff8</guid>
+            <pubDate>Sat, 13 Feb 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【庚子鼠年的十大商业败局】这十大商业败局再次提醒我们，敬畏底线、尊重常识，方能基业长久。]]></title>
+            <link>https://instant.lvv2.com/html/819cc45a4f4fd4c15bc08da1a0d237b5.html</link>
+            <guid>9e63a654af763a564904b6653b15a731</guid>
+            <pubDate>Sat, 13 Feb 2021 01:09:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[赛博读书会]]></title>
             <link>http://weibo.com/1689664143/K1y9CdkXq</link>
@@ -452,18 +471,6 @@
             <link>http://headsalon.org/archives/8322.html</link>
             <guid>7d7c226764b21e70570192131369e850</guid>
             <pubDate>Thu, 11 Feb 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【B站引以为傲的上千个文化圈层，正在反噬这个年轻的平台】品牌逃离，已对平台失望的二次元用户有预谋地进行回踩，又被女权主义者盖上了厌女的戳。这场由一次直播引发的闹剧，正在逐渐失控，变成了中文互联网在鼠年的最后一场“无限战争”。]]></title>
-            <link>https://instant.lvv2.com/html/b69180ff25491db8728656871e36aef1.html</link>
-            <guid>25db29016d2702a197b040606b0f1017</guid>
-            <pubDate>Thu, 11 Feb 2021 17:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一人精分，俩人正好，三人轮班，推荐近期的五款双人桌游]]></title>
-            <link>https://instant.lvv2.com/html/039e70ea7b4266a9f344c89a4e5c84df.html</link>
-            <guid>47257456e10def3a4c3e583be15a00c0</guid>
-            <pubDate>Thu, 11 Feb 2021 16:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
