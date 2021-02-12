@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 12 Feb 2021 20:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 22:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -459,18 +459,6 @@
             <link>https://instant.lvv2.com/html/6115d43f769b2030844860cde3349c81.html</link>
             <guid>c5c51cf1c12649b87aba53ba8c3f87ec</guid>
             <pubDate>Thu, 11 Feb 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LVMH 叫停与蕾哈娜合作的时装品牌，同时旗下基金投资1.15亿美元给蕾哈娜的内衣品牌]]></title>
-            <link>https://instant.lvv2.com/html/1ec064491413f998fbaa71a8251ba438.html</link>
-            <guid>861588db66614f57e4be50c6b56ad65d</guid>
-            <pubDate>Thu, 11 Feb 2021 18:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼“宽带侠”为什么会在中国互联网火起来】反审美的视觉设计，魔性洗脑的BGM，这段素材满足了鬼畜恶搞内容应该具备的核心要素；再加上作品内容本身不复杂，并且对各类题材无限兼容，大量形形色色的二创作品在近期井喷，造就了一副万物皆可拉宽带的盛况。]]></title>
-            <link>https://instant.lvv2.com/html/060844463130ac8ccc412b7ae2074c3c.html</link>
-            <guid>db711a7267c4039b9a2a25f8f0aa76f1</guid>
-            <pubDate>Thu, 11 Feb 2021 18:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
