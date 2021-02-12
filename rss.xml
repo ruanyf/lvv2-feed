@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 12 Feb 2021 18:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2021 20:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【放弃高薪和百万股票，那个离开蔚来的年轻人回来了】一切又像回到了创业之初，这家光芒万丈的明星造车公司，又回到了被众人追捧的开场。而个中辛酸，只有经历过的人才会懂。]]></title>
+            <link>https://instant.lvv2.com/html/c297e48ff5d05766d5ed5d8a89f14103.html</link>
+            <guid>3ed7e1dc647effd47bce1c1ed6106bcd</guid>
+            <pubDate>Sat, 13 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“GME逼空”案最大谜团：为何公司不趁股价高位增发股票？】眼看着AMC都通过增发等方式融资10亿，但GameStop却放弃了增发计划，连监管机构都起了疑心。谁能想到，阻碍GME增发的可能是独特的财季截止日期。]]></title>
+            <link>http://wallstreetcn.com/articles/3620307</link>
+            <guid>6cc5d265cb0d8d1e7d245448f8b60ded</guid>
+            <pubDate>Sat, 13 Feb 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在美国前总统特朗普弹劾案审讯中，越来越多的证据证明特朗普1月6日在推特上诋毁其副总统彭斯前，已明确知道彭斯已经遭遇安全威胁。
 ]]></title>
@@ -459,18 +471,6 @@
             <link>https://instant.lvv2.com/html/060844463130ac8ccc412b7ae2074c3c.html</link>
             <guid>db711a7267c4039b9a2a25f8f0aa76f1</guid>
             <pubDate>Thu, 11 Feb 2021 18:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【故宫博物院藏品总目】@新水令: 故宫藏品总目是2013年对外公布的（“三年藏品清理”之前的180万件版），但无检索功能，近期上线的186万新版藏品总目有多种检索功能，使用非常方便。凡故宫文物数字库已对外发布影像的，藏品总目才有影像，数字文物库近期也有更新，目前提供的藏品数字影像为68021件。]]></title>
-            <link>http://zm-digicol.dpm.org.cn/</link>
-            <guid>d1a9734a2b7b21de9a0aaf09c1ac7b0d</guid>
-            <pubDate>Thu, 11 Feb 2021 17:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道德直觉]]></title>
-            <link>http://headsalon.org/archives/8322.html</link>
-            <guid>7d7c226764b21e70570192131369e850</guid>
-            <pubDate>Thu, 11 Feb 2021 17:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
