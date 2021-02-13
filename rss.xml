@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 13 Feb 2021 18:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 20:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【寻找下一个特斯拉暴涨奇迹】Cathie Wood带领她的ARK研究团队提出了15个宏大而前景广阔的投资主题，涉及的领域除了为人熟知的比特币、电动车、无人驾驶之外，还包括深度学习、新一代基因测序、数据中心再创造、虚拟世界等。]]></title>
+            <link>https://instant.lvv2.com/html/ad17bfd7aa18edbedc97f46c854c7d27.html</link>
+            <guid>3faa2c108c033f07b49e187456070b8e</guid>
+            <pubDate>Sun, 14 Feb 2021 04:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[看看《黑袍纠察队》同《坦克世界》的碰撞：赏析漫画《出发》和《堡垒》]]></title>
             <link>https://instant.lvv2.com/html/75b17ba06926e7b465cd3f02f0053672.html</link>
@@ -408,19 +414,6 @@
             <link>https://instant.lvv2.com/html/b87800890aa7b7569021d593a5899071.html</link>
             <guid>9ade40e1bbbc4d424ec6b5a7a4246fb1</guid>
             <pubDate>Fri, 12 Feb 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前总统特朗普任内美军也曾经进行类似演习，分析形容这是为了展示美国新政府继续将对抗中国在南海“不断扩张”的势力。
-]]></title>
-            <link>https://instant.lvv2.com/html/f70313dee2f71e7ebfb28a263d115bb8.html</link>
-            <guid>ad55250cfd1df3d6e022cef805142aef</guid>
-            <pubDate>Fri, 12 Feb 2021 18:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基本常识｜辛苦科普一整年，一台春晚全毁完 ]]></title>
-            <link>https://instant.lvv2.com/html/bc503593928cf172789fffc0c2f1cca3.html</link>
-            <guid>1eed88219d409d00a5208ae44481ab3d</guid>
-            <pubDate>Fri, 12 Feb 2021 18:24:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
