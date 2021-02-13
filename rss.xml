@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 13 Feb 2021 16:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 18:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[看看《黑袍纠察队》同《坦克世界》的碰撞：赏析漫画《出发》和《堡垒》]]></title>
+            <link>https://instant.lvv2.com/html/75b17ba06926e7b465cd3f02f0053672.html</link>
+            <guid>b70df6b24132d8baadce8aaf83b555f0</guid>
+            <pubDate>Sun, 14 Feb 2021 02:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[冰川思享号｜侯虹斌 ：春晚一股浓浓的“爹”味，我尴尬症都犯了！ ]]></title>
             <link>https://instant.lvv2.com/html/21d8d153834b0bfb80fdca1710de762c.html</link>
@@ -415,12 +421,6 @@
             <link>https://instant.lvv2.com/html/bc503593928cf172789fffc0c2f1cca3.html</link>
             <guid>1eed88219d409d00a5208ae44481ab3d</guid>
             <pubDate>Fri, 12 Feb 2021 18:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卖得热闹挣钱少，奈雪的茶净利润率仅0.2% ｜ 招股书详解]]></title>
-            <link>https://instant.lvv2.com/html/de0083021789816083ba0caf7196276b.html</link>
-            <guid>ea6ae28a48151175cc38475a009b3e0b</guid>
-            <pubDate>Fri, 12 Feb 2021 18:08:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
