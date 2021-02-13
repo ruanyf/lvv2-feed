@@ -48,7 +48,7 @@ const newFeed = new Feed({
 
     const urlFilterArr =[
       'www.bilibili.com/video/',
-      'weibo.com/tv/',
+      'weibo.com',
     ];
     for (let n = 0; n < urlFilterArr.length; n++) {
       if (link.includes(urlFilterArr[n])) return;
