@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Feb 2021 02:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 04:36:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[刘长乐：凤凰折翼，老马迷途]]></title>
+            <link>https://instant.lvv2.com/html/f27bc2a3640615c9beca6813aa819220.html</link>
+            <guid>18dc6461b9f73f5a133267dce434ed4c</guid>
+            <pubDate>Sun, 14 Feb 2021 12:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【著名表演艺术家杨在葆去世，享年85岁】杨在葆曾出演电影《红日》《江水滔滔》《从奴隶到将军》《血，总是热的》《代理市长》《原野》等，多次获得金鸡、百花奖。2019年11月23日，杨在葆获第32届中国电影金鸡奖“中国文联终身成就电影艺术家”荣誉。]]></title>
+            <link>https://instant.lvv2.com/html/72eca7e7050162bf9964266fe1811cd5.html</link>
+            <guid>349352737560fdd8c2ca034d7ee920c8</guid>
+            <pubDate>Sun, 14 Feb 2021 10:48:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【消息称特斯拉中国总裁朱晓彤证实将推出更便宜车型，官方回应：谣言，从来没说过】据外媒 CNET 报道，特斯拉中国总裁朱晓彤在接受采访时证实，该公司正在研发一款面向大众市场的更便宜的特斯拉，预计零售价为 16 万元人民币（2.5 万美元）。这款车预计是一款掀背车，将针对中国市场进行本土化设计，但将在全球范围内销售。]]></title>
             <link>https://instant.lvv2.com/html/6f23d67ef69ec0fe1f6d6aa2cec2a228.html</link>
@@ -409,31 +421,6 @@
             <link>http://www.bbc.com/zhongwen/simp/world-55971934at_medium=custom7&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=DDC99E0E-6D24-11EB-8172-93660EDC252D&amp;at_custom3=BBC+Chinese&amp;at_campaign=64&amp;at_custom2=twitter</link>
             <guid>7bf1c83d76c9c3e8229ea69099705e33</guid>
             <pubDate>Sat, 13 Feb 2021 06:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【放弃高薪和百万股票，那个离开蔚来的年轻人回来了】一切又像回到了创业之初，这家光芒万丈的明星造车公司，又回到了被众人追捧的开场。而个中辛酸，只有经历过的人才会懂。]]></title>
-            <link>https://instant.lvv2.com/html/c297e48ff5d05766d5ed5d8a89f14103.html</link>
-            <guid>3ed7e1dc647effd47bce1c1ed6106bcd</guid>
-            <pubDate>Sat, 13 Feb 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“GME逼空”案最大谜团：为何公司不趁股价高位增发股票？】眼看着AMC都通过增发等方式融资10亿，但GameStop却放弃了增发计划，连监管机构都起了疑心。谁能想到，阻碍GME增发的可能是独特的财季截止日期。]]></title>
-            <link>http://wallstreetcn.com/articles/3620307</link>
-            <guid>6cc5d265cb0d8d1e7d245448f8b60ded</guid>
-            <pubDate>Sat, 13 Feb 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“Supreme御用女模”Adrianne Ho，男女通吃的流汗女神靠健身火遍全球]]></title>
-            <link>https://instant.lvv2.com/html/5a44b209f164c254450bae24fe324f9a.html</link>
-            <guid>4c183558e189968658ef2f16e4620271</guid>
-            <pubDate>Fri, 12 Feb 2021 22:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在美国前总统特朗普弹劾案审讯中，越来越多的证据证明特朗普1月6日在推特上诋毁其副总统彭斯前，已明确知道彭斯已经遭遇安全威胁。
-]]></title>
-            <link>https://instant.lvv2.com/html/1bb8c66c0a706b826fa8ccded817ff47.html</link>
-            <guid>3ebf988999f07e553cbc2a3e65ee0f41</guid>
-            <pubDate>Sat, 13 Feb 2021 02:18:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
