@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Feb 2021 14:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 16:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【《Valheim：英灵神殿》到底有什么魔力？】维京题材多人生存新作《Valheim：英灵神殿》Steam首周销量已经超了100万份，本作售价70元，仍处于抢先体验阶段，目前评价是“好评如潮”。​​​]]></title>
+            <link>http://www.leikeji.com/article/36643</link>
+            <guid>0661bc3d88ce1d70a6d924f8326b74fc</guid>
+            <pubDate>Mon, 15 Feb 2021 00:40:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【富士康里的春节：食堂免费年夜饭，留守补贴2400元】2021年农历春节，也是深圳有史以来留深过年人数最多的一次，据深圳商报报道，这个实际管理人口超过2200万人的超大城市，预计有1600万人留下来。]]></title>
             <link>https://instant.lvv2.com/html/756658f04cfa03c292fa0797be70b2c0.html</link>
@@ -430,31 +436,6 @@
             <link>https://instant.lvv2.com/html/d97b3075e27064eb80f242c28bdc8527.html</link>
             <guid>c50dc4de6def45b0c54b7b33e6780ac1</guid>
             <pubDate>Sat, 13 Feb 2021 15:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中共的接班人怪圈；蔡霞：中国政治未来的美国因素；疫情大考：习近平的生死战？……2020年，纽约时报中文网的哪篇原创文章给你留下了最深的印象？
-]]></title>
-            <link>https://instant.lvv2.com/html/04cc98509b81edf05ed0153630b1e743.html</link>
-            <guid>f36d8fbcdb8ecaac31f712e092afa647</guid>
-            <pubDate>Sat, 13 Feb 2021 15:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】去年2月6日晚间，他病危去世的消息引起举国关注与悲痛。一年之后，李文亮的名字已经极少被官方公开提及，但在民间，他被视为在压力下勇于坚守真相的象征，是许多中国人记忆这场疫情的良心标志。]]></title>
-            <link>http://bbc.in/2OosiqMat_medium=custom7&amp;at_campaign=64&amp;at_custom2=twitter&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=D59B7EAC-6D45-11EB-994C-47F6923C408C&amp;at_custom3=BBC+Chinese</link>
-            <guid>4b5a9184d020dbe6e5cd916cf8bd9daa</guid>
-            <pubDate>Sat, 13 Feb 2021 15:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“纽约史上最大犯罪隐瞒之一”】纽约州检察长指控自己州政府人为漏报或者推迟公布养老院的新冠死亡人数，漏报幅度甚至高达50%。按照州政府的统计，如果老人从养老院送去医院后死亡，那么就不计入养老院的新冠死亡统计人数。]]></title>
-            <link>https://instant.lvv2.com/html/cc55bdcbb10146ded83d52457d0dcba7.html</link>
-            <guid>c71e662cf275fc2c0a9439b4e6c0581b</guid>
-            <pubDate>Sat, 13 Feb 2021 15:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国芯片制造商高通已经向联邦贸易委员会、欧盟委员会以及英国和中国等全球范围内类似的监管机构明确表示反对英伟达以 400 亿美元收购芯片设计公司 Arm。值得一提的是，彭博社此前也表示许多科技公司向监管机构提出反对请求，包括谷歌，微软和高通等。]]></title>
-            <link>https://instant.lvv2.com/html/668923fb45eda11bfa73026c619fb439.html</link>
-            <guid>b92f436e6d6e7e411feee8a480195490</guid>
-            <pubDate>Sat, 13 Feb 2021 14:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
