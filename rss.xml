@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Feb 2021 04:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 06:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【弹劾案被判无罪，但共和党领袖称特朗普要对国会暴乱负责】参议院100个席位中，57人投票赞成对特朗普定罪，43人反对，赞成票未达到定罪所需的三分之二多数。其中，50名民主党人全部投票支持定罪，另有7名共和党人“倒戈”，支持定罪。]]></title>
+            <link>https://instant.lvv2.com/html/0222ae15c4f14c81b3d2a7c4aac45ef3.html</link>
+            <guid>c2961b85e33dcef4372c2728bbcc8ad9</guid>
+            <pubDate>Sun, 14 Feb 2021 14:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜仁慕尼黑在脸书上发布多条帖文、用多种语言祝贺多个亚洲国家农历新年快乐，并在祝福语后附上相应国旗。然而，其中一篇用简体写“新年快乐”文字后却附上“青天白日满地红”旗。拜仁慕尼黑官方今晨发博向中国球迷道歉，称这是第三方公司在未与俱乐部沟通的情况下，擅自发布的内容。拜仁会认真总结，严肃处理，引以为戒。]]></title>
+            <link>https://instant.lvv2.com/html/449d8f98068753d5c0fa68b5c5feb69f.html</link>
+            <guid>48e2f415fe3933088fc4707f382beb7e</guid>
+            <pubDate>Sun, 14 Feb 2021 14:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[五条人，广东姑娘，世纪之美。广州草莓音乐节演出]]></title>
+            <link>http://b23.tv/AdyICT</link>
+            <guid>93d61a7df3f0cbc3178c560a85370ddf</guid>
+            <pubDate>Sun, 14 Feb 2021 13:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[牛年大吉话牛子，喜气洋洋闹新春]]></title>
+            <link>https://instant.lvv2.com/html/42babdfc4c0542075763879f2ca5ddca.html</link>
+            <guid>9c9d4ce2eb97533c55a3f2dec55bfe7a</guid>
+            <pubDate>Sun, 14 Feb 2021 13:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[刘长乐：凤凰折翼，老马迷途]]></title>
             <link>https://instant.lvv2.com/html/f27bc2a3640615c9beca6813aa819220.html</link>
@@ -403,24 +427,6 @@
             <link>https://instant.lvv2.com/html/57380037342bdd7cd4e8f9159f2eb0ba.html</link>
             <guid>d8a58dca2b176c01b5674b08c2f26403</guid>
             <pubDate>Sat, 13 Feb 2021 08:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《里世界郊游》：新怪谈也可以是柠檬茶味的]]></title>
-            <link>https://instant.lvv2.com/html/e0630f7282b1cf3aa87c7c4089c244f9.html</link>
-            <guid>3d84910eb75af5068551c298ea2e6a37</guid>
-            <pubDate>Sat, 13 Feb 2021 07:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗：坐拥金山银山的乞丐]]></title>
-            <link>https://instant.lvv2.com/html/b002de7256b9e3ce103b2a5e5a362678.html</link>
-            <guid>6719f47dc4396f57760b6cfee8f064df</guid>
-            <pubDate>Sat, 13 Feb 2021 06:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[农历新年送“鼠”迎“牛”，古往今来，生肖属牛的世界历史人物不少，有些名字至今家喻户晓。]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/world-55971934at_medium=custom7&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=DDC99E0E-6D24-11EB-8172-93660EDC252D&amp;at_custom3=BBC+Chinese&amp;at_campaign=64&amp;at_custom2=twitter</link>
-            <guid>7bf1c83d76c9c3e8229ea69099705e33</guid>
-            <pubDate>Sat, 13 Feb 2021 06:40:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
