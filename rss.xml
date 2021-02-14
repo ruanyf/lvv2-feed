@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Feb 2021 18:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 20:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【他独特的设计，引领了一段高达模型的潮流】如果你是一个高达模型的玩家，想必会对不少产品名中的“Ver.Ka”印象深刻，而这就来源于他笔名的罗马字写法 Katoki Hajime。]]></title>
+            <link>https://instant.lvv2.com/html/e133dd5943a466060fe7209b9335a4c3.html</link>
+            <guid>047bd32f5b07b9e0dadfe20a5264279a</guid>
+            <pubDate>Mon, 15 Feb 2021 04:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储的大萧条PTSD]]></title>
+            <link>https://instant.lvv2.com/html/17f3b1dd6460ed12b24db8fb9053ca28.html</link>
+            <guid>985c6b4e8f3f4146f0f26ebd8787901e</guid>
+            <pubDate>Mon, 15 Feb 2021 03:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[没品+4chan笑话集：一边健身一边撸，还有更棒的点子吗？]]></title>
             <link>https://instant.lvv2.com/html/2ef3c5bc73e1fe7028a07e6cc3b130a9.html</link>
@@ -423,12 +435,6 @@
             <link>https://instant.lvv2.com/html/3e4edb1c5592a2e52fd08ac078d7bc2d.html</link>
             <guid>f27b6e0ce3776a501e30a1b14c557fad</guid>
             <pubDate>Sat, 13 Feb 2021 17:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米 11 Ultra 渲染图出炉】油管博主BenGeskin基于已泄漏的内容制作的小米 11 Ultra渲染图。此前，一位菲律宾油管博主意外放出小米 11 Ultra 上手视频，目前该视频已删除。从图中可以发现，小米 11 Ultra 配备后置三摄，旁边还有一块副屏。]]></title>
-            <link>https://instant.lvv2.com/html/e2dcf52edf38ea8bf5af941bd4106214.html</link>
-            <guid>430873ac499e3a925ade4ccb4c5ab09a</guid>
-            <pubDate>Sat, 13 Feb 2021 16:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
