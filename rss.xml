@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Feb 2021 16:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 18:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[没品+4chan笑话集：一边健身一边撸，还有更棒的点子吗？]]></title>
+            <link>https://instant.lvv2.com/html/2ef3c5bc73e1fe7028a07e6cc3b130a9.html</link>
+            <guid>ca76def055f118171cf56239834c6482</guid>
+            <pubDate>Mon, 15 Feb 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【《Valheim：英灵神殿》到底有什么魔力？】维京题材多人生存新作《Valheim：英灵神殿》Steam首周销量已经超了100万份，本作售价70元，仍处于抢先体验阶段，目前评价是“好评如潮”。​​​]]></title>
             <link>http://www.leikeji.com/article/36643</link>
@@ -423,19 +429,6 @@
             <link>https://instant.lvv2.com/html/e2dcf52edf38ea8bf5af941bd4106214.html</link>
             <guid>430873ac499e3a925ade4ccb4c5ab09a</guid>
             <pubDate>Sat, 13 Feb 2021 16:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】中国国家广播电视总局宣布，不允许BBC世界新闻台继续在中国境内落地，新一年度落地申请不予受理。中国批评BBC采访新冠病毒疫情以及迫害新疆维吾尔族人的报导。
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/world-56036111at_custom1=%5Bpost+type%5D&amp;at_custom3=BBC+Chinese&amp;at_custom4=E5CE8D4A-6D37-11EB-9A38-714716F31EAE&amp;at_medium=custom7&amp;at_campaign=64&amp;at_custom2=twitter</link>
-            <guid>c48ce1ce75acbfebb047c9b101815122</guid>
-            <pubDate>Sat, 13 Feb 2021 16:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“没有人能离开赌场”，炒币韭菜们的戏剧人生]]></title>
-            <link>https://instant.lvv2.com/html/d97b3075e27064eb80f242c28bdc8527.html</link>
-            <guid>c50dc4de6def45b0c54b7b33e6780ac1</guid>
-            <pubDate>Sat, 13 Feb 2021 15:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
