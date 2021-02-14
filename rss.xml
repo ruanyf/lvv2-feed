@@ -4,11 +4,53 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 13 Feb 2021 22:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 01:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[利物浦1比3负于莱斯特城，赛后利物浦主帅克洛普泪洒发布会现场，承认卫冕失败，“我不敢相信，但是的”]]></title>
+            <link>http://www.dongqiudi.com/article/1837564</link>
+            <guid>a69d39c364448e793762fa297d37812e</guid>
+            <pubDate>Sun, 14 Feb 2021 08:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[初一时，一篇青春文学改变了我的命运]]></title>
+            <link>https://instant.lvv2.com/html/f825c1e71719d0e3f5155da0b45f2a7b.html</link>
+            <guid>dc2a8f12ad78aa3e0cb1dcc8b48d2f49</guid>
+            <pubDate>Sun, 14 Feb 2021 08:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[名字起不好，性格也会受影响？命运也会多坎坷？]]></title>
+            <link>http://www.bbc.com/zhongwen/simp/science-56014892at_medium=custom7&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=04C0F15C-6E23-11EB-ABC5-B48B0EDC252D&amp;at_custom3=BBC+Chinese&amp;at_campaign=64&amp;at_custom2=twitter</link>
+            <guid>de4e298814b8de3ab96b222d4608d0d1</guid>
+            <pubDate>Sun, 14 Feb 2021 08:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电视遥控器越来越难用了？这不是你的错觉]]></title>
+            <link>https://instant.lvv2.com/html/766e7706e68b394c718e923b064f52ae.html</link>
+            <guid>3abec925a01571d6053b5940f60803d3</guid>
+            <pubDate>Sun, 14 Feb 2021 08:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间2月13日，欧洲央行前行长马里奥·德拉吉在罗马的奎里纳莱宫宣誓就任意大利总理，他将领导意大利新一届政府。虽然德拉吉本人不隶属任何党派、此前也没有涉足意大利国内政坛，但在正式接受任命前，他获得了从左翼到右翼主要政党的支持。这在政局错综复杂的意大利属于罕见。]]></title>
+            <link>https://instant.lvv2.com/html/6ab23ccdaefb54fa0ecddea2c332f0a6.html</link>
+            <guid>96d21c874d283ca1482db7ba203affc1</guid>
+            <pubDate>Sun, 14 Feb 2021 07:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[那位大范围“统一”了数学和物理学的数学家伊萨多·辛格（Isadore Singe），去世了，终年96岁。他是华人数学巨匠陈省身的弟子，与杨振宁、丘成桐、吴文俊同门。他最重要的贡献，是与证明了黎曼猜想的数学家迈克·阿蒂亚一同提出了阿蒂亚-辛格指数定理。]]></title>
+            <link>https://instant.lvv2.com/html/15684667688e6b59a3b031d6aca261da.html</link>
+            <guid>5d6e1f1d3d714c5d74c579fe0ef33ba2</guid>
+            <pubDate>Sun, 14 Feb 2021 07:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#一周精选 Max的父亲和祖父母积极支持香港政府，因此他不得不向他们隐瞒参与抗议的情况。“我不在的时候，我父亲会谈论他会如何抓我，说如果我坐10年牢也比现在强。” ]]></title>
+            <link>https://instant.lvv2.com/html/302d74db59ebc17c715021a06ecf6ba8.html</link>
+            <guid>da50a2bb5edde8cd2a12db39427fb6a7</guid>
+            <pubDate>Sun, 14 Feb 2021 06:58:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟19国联合攻坚2nm！能振兴欧洲芯片制造业吗？】欧盟正在探索生产10纳米以下芯片，最终实现生产2纳米芯片，旨在减轻对中国台湾、韩国等国家和地区的依赖。]]></title>
             <link>https://instant.lvv2.com/html/540ebf4e7c0e22e3d365b450f76165c1.html</link>
@@ -386,39 +428,6 @@
             <link>https://instant.lvv2.com/html/108cfa76f5f0c3bc1b96788ccb3d9e90.html</link>
             <guid>6207f55ed724440d88200d1b9333dc08</guid>
             <pubDate>Fri, 12 Feb 2021 23:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国剑桥大学的分析显示，加密货币比特币一年耗费的电力超过阿根廷整个国家的用电量。除非比特币币值下滑，否则耗电量不太可能减少。
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/world-56032496at_custom2=twitter&amp;at_campaign=64&amp;at_custom3=BBC+Chinese&amp;at_custom4=555B6D4C-6D22-11EB-A59E-BC660EDC252D&amp;at_custom1=%5Bpost+type%5D&amp;at_medium=custom7</link>
-            <guid>866955232e1732a1f6ab65cdd80c06c2</guid>
-            <pubDate>Fri, 12 Feb 2021 22:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【漫威下一个十年，从《旺达幻视》开始 - 背景解析评测】虽是漫画，但众英雄对于要不要回到原有现实世界的讨论所体现的意义还是很深刻的，最终他们选择回去，哪怕那个现实世界有着更多痛苦。这不得不引用罗曼罗兰的那句名言“世上只有一种英雄主义，就是认清生活的真相之后依然热爱生活。”]]></title>
-            <link>http://movie.douban.com/review/13145883/</link>
-            <guid>e9612cb3405cd37485abfcc540a07a74</guid>
-            <pubDate>Fri, 12 Feb 2021 21:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据一项重大国际试验显示，这种叫司美格鲁肽（semaglutide）的减肥新药每周只需注射一次，再加上遵循饮食与健身的建议效果非常明显。
-
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/science-56029770at_custom4=5F2B148A-6D22-11EB-981B-C57A4D484DA4&amp;at_custom1=%5Bpost+type%5D&amp;at_custom2=twitter&amp;at_medium=custom7&amp;at_campaign=64&amp;at_custom3=BBC+Chinese</link>
-            <guid>072349c4eb802325d461278f9da711cb</guid>
-            <pubDate>Fri, 12 Feb 2021 20:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多所高校通知：开学暂不返校，线上授课！]]></title>
-            <link>https://instant.lvv2.com/html/afc0cb67f95859e2d5f6b8684118dd61.html</link>
-            <guid>59f23b70d601f7a43ab6974e638dcb3d</guid>
-            <pubDate>Fri, 12 Feb 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为戏增肥30斤，刘亚仁又一次拿到青龙奖最佳男主角】当地时间2月9日，刘亚仁凭借电影《无声》（Voice of Silence）获得第41届韩国青龙奖最佳男主角。2015年，他凭借电影《思悼》获过这一殊荣。2016年，他还凭借古装剧《六龙飞天》拿下了百想视帝。三个重量级奖杯在手，放眼韩国85后男演员，无人能出其右。]]></title>
-            <link>https://instant.lvv2.com/html/9cbb3b5d8243a788060395e44b1e0629.html</link>
-            <guid>8a798d3dc837f2d347a0c92fcf51133b</guid>
-            <pubDate>Fri, 12 Feb 2021 19:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
