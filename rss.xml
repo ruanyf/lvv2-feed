@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 15 Feb 2021 20:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2021 22:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【福州民俗剪影】现代化浪潮冲击下，福州的城市空间经历着各种重塑。但无论是写着“美国高考作文科、数学科、英文科考试顺利，蟾宫折桂”的祈福文疏，还是与抗疫、社保下乡宣传标语共同贴在村头巷尾的“补库”（焚化金纸元宝献给村境神明）神榜，普罗大众世代遵从的民间信俗，仍在高楼大厦的夹缝中若隐若现。]]></title>
+            <link>https://instant.lvv2.com/html/1989899d107b63fe23c6da8fee20e1b6.html</link>
+            <guid>e9375afc2072fc9a5edf2f4f5f6aa636</guid>
+            <pubDate>Tue, 16 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白酒季军争夺战】泸州老窖和山西汾酒曾先后夺得新中国白酒行业冠军，如今他们只能遥望贵州茅台和五粮液的背影与洋河股份争夺季军。这场季军赛事已持续十年，洋河始终领先，但觊觎者近来看到了新希望]]></title>
+            <link>https://instant.lvv2.com/html/5ae34e47ddde0fb09ee00675e3bb0548.html</link>
+            <guid>415bfccff09f7bea23f296f9af228071</guid>
+            <pubDate>Tue, 16 Feb 2021 05:08:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【妈！让我进门吧！我保证再也不唱约德尔调了！】约德尔调的特点就是在头声和胸声快速切换，大跨度的音阶产生了一连串的高低起伏的声音，所以歌曲的旋律中都是大跳音阶，在中低音真声和高音假声中间流畅顺滑地转换，并且在假声部分不停留太久，只是点到为止，唱完假声立刻又回到真声。]]></title>
             <link>https://instant.lvv2.com/html/73fea6e877009f864ea7f8c1758313c8.html</link>
@@ -453,18 +465,6 @@
             <link>https://instant.lvv2.com/html/f5c9816031e89ec6146cd35cdd08364d.html</link>
             <guid>c61ea0b23f2726900d08fcc4d664a331</guid>
             <pubDate>Sun, 14 Feb 2021 17:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摄影点评（过去一年的盛世美颜 上集）]]></title>
-            <link>https://instant.lvv2.com/html/78802f715c6e1c3ba1ca40824bd2205f.html</link>
-            <guid>bc7133b76c4a61802c4b57ed3c59f2ce</guid>
-            <pubDate>Sun, 14 Feb 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【潮汕牛肉火锅保姆级教程】@拉瓦铀：个人偏见，所有牛排、刺身、涮肉、炸炒，那些牛都是白死了。我不是美食家，也没打算做，反正米其林法意日我都吃过，也就那样，我没啥出息，我觉得牛就不能活着离开潮汕。]]></title>
-            <link>https://instant.lvv2.com/html/0db9510d34a951b485b78fe710ce024f.html</link>
-            <guid>4dbfeddc7efae45ed824b8c123d5360d</guid>
-            <pubDate>Sun, 14 Feb 2021 17:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
