@@ -4,11 +4,20 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 16 Feb 2021 20:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2021 22:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[微软公司创始人盖茨发布新书《如何避免气候灾难》，是一本应对全球暖化的指引。在倡议环保时，有人会质疑他富豪般的生活，例如他会使用私人飞机。
+
+盖茨如何回应？
+]]></title>
+            <link>http://www.bbc.com/zhongwen/simp/science-56068202at_medium=custom7&amp;at_custom2=twitter&amp;at_campaign=64&amp;at_custom3=BBC+Chinese&amp;at_custom4=C3A7104A-6FFB-11EB-BEEE-7ABC923C408C&amp;at_custom1=%5Bpost+type%5D</link>
+            <guid>922d60f6bec449400d491cb8ea0de2fb</guid>
+            <pubDate>Wed, 17 Feb 2021 05:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【娱乐圈的真朋友】罗晋最铁的哥们是边江，据说睡过上下铺，后来罗晋考上了表演系，边江考上了配音系（和黄渤同班）。同样睡过上下铺的兄弟，还有周一围和张颂文，周一围手机号有亲情号，但是他没加朱丹，加的是张颂文。]]></title>
             <link>https://instant.lvv2.com/html/c37ea94282713f0be91d87cb38db8e07.html</link>
@@ -453,12 +462,6 @@
             <link>https://instant.lvv2.com/html/ece38689cc3c80aa0b561888f5132ab8.html</link>
             <guid>87a7d6731aab53cab0e4bf226234fe3d</guid>
             <pubDate>Mon, 15 Feb 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【学会东北牛奶麻辣烫，你在南极都能就地过年】做东北牛奶麻辣烫，图的就是他比外卖还简单还快。芝麻酱这种异端蘸料都能加进去，除了还有点火锅底料渣渣，已经没有多少四川成分了。]]></title>
-            <link>http://www.douban.com/note/794530836/</link>
-            <guid>174a90d3a571c60cd609caf844a9471e</guid>
-            <pubDate>Mon, 15 Feb 2021 19:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

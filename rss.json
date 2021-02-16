@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "922d60f6bec449400d491cb8ea0de2fb",
+            "content_html": "",
+            "url": "http://www.bbc.com/zhongwen/simp/science-56068202at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom3=BBC+Chinese&at_custom4=C3A7104A-6FFB-11EB-BEEE-7ABC923C408C&at_custom1=%5Bpost+type%5D",
+            "title": "微软公司创始人盖茨发布新书《如何避免气候灾难》，是一本应对全球暖化的指引。在倡议环保时，有人会质疑他富豪般的生活，例如他会使用私人飞机。\n\n盖茨如何回应？\n",
+            "date_modified": "2021-02-17T05:22:21.000Z"
+        },
+        {
             "id": "f8b6ca51f3034c783ceac4a442139193",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/c37ea94282713f0be91d87cb38db8e07.html",
@@ -508,13 +515,6 @@
             "url": "https://instant.lvv2.com/html/ece38689cc3c80aa0b561888f5132ab8.html",
             "title": "大年初一，央视出品的大型文化节目《典籍里的中国》首播，旨在用“戏剧+影视化”的现代方法讲述中国古代的典籍故事，让人们更好地吸收并继承先贤们的思想精华。在第一集《尚书》中，老戏骨倪大红将年逾九旬的“护书人”伏生演绎到极致，让观众们在他娓娓道来的话语中感到鼻头一酸、眼角湿润，沉浸在故事中久久不能忘怀。",
             "date_modified": "2021-02-15T20:24:11.000Z"
-        },
-        {
-            "id": "174a90d3a571c60cd609caf844a9471e",
-            "content_html": "",
-            "url": "http://www.douban.com/note/794530836/",
-            "title": "【学会东北牛奶麻辣烫，你在南极都能就地过年】做东北牛奶麻辣烫，图的就是他比外卖还简单还快。芝麻酱这种异端蘸料都能加进去，除了还有点火锅底料渣渣，已经没有多少四川成分了。",
-            "date_modified": "2021-02-15T19:48:11.000Z"
         }
     ]
 }
