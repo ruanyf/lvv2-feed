@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Feb 2021 12:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 14:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【《李焕英》里的襄樊工厂，人们为啥说着一口东北话？】故事要从东北支援全国三线建设说起。影片中的胜利化工厂原型为东方化工厂，该厂由吉林化工厂援建，隶属五机部。]]></title>
+            <link>https://instant.lvv2.com/html/0aba39779d9c4dbbdcb98722886f4d82.html</link>
+            <guid>147342842ab0027ca788ed4c69f9302d</guid>
+            <pubDate>Wed, 17 Feb 2021 22:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从建国到亡国，库尔德人只用了一年]]></title>
+            <link>https://instant.lvv2.com/html/2595d55a0024964ffa96883cb9ff5090.html</link>
+            <guid>fc31e661c10e0657e25154e6a3bc168d</guid>
+            <pubDate>Wed, 17 Feb 2021 21:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021年，手机行业有哪些值得期待的​「新尝试」？]]></title>
+            <link>https://instant.lvv2.com/html/1175c8621bfdfffb4ad8538ef16be3c0.html</link>
+            <guid>52c851ebc0de06843bf64421f1b87dec</guid>
+            <pubDate>Wed, 17 Feb 2021 21:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[马丁·斯科塞斯在最新一篇文章里写道：电影艺术已沦为“内容”。在流媒体时代，通过算法来“猜你喜欢”，只是依据用户观看的电影来推荐同主题同类型的电影，仅仅是把用户当成消费者而已。这使得“策展”这种分享方式在当下变得毫无意义。我们不能依靠电影产业来照顾电影艺术。]]></title>
             <link>https://instant.lvv2.com/html/fc66a48cd423e5240ba0dd30021bdab6.html</link>
@@ -436,30 +454,6 @@
             <link>https://instant.lvv2.com/html/72467a19c368ceecbce84683f629a554.html</link>
             <guid>95c7dab61c1f2fb62edd5c2fd051d794</guid>
             <pubDate>Tue, 16 Feb 2021 15:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20年前，我是怎么被一家“白宫官网”欺骗的]]></title>
-            <link>https://instant.lvv2.com/html/4989f1800cf1e294f07bb1fd724658d5.html</link>
-            <guid>b132f84b97f45add2fed3ee9cf17f507</guid>
-            <pubDate>Tue, 16 Feb 2021 14:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华人科学家参与研发超级“皮肤贴片”，能实时检测多种健康数据]]></title>
-            <link>https://instant.lvv2.com/html/ae2ed2e91b85d414701e6e9032545358.html</link>
-            <guid>9f97c69c02ee70c75b31dfb96099afc6</guid>
-            <pubDate>Tue, 16 Feb 2021 14:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在加拿大的倡议下，美国等58个国家周一（15日）发表《反对在国与国关系中任意拘押宣言》，反对一些国家把拘押外国公民当作外交筹码。]]></title>
-            <link>https://instant.lvv2.com/html/b3384135e8084d22aa3d6e2642e5aecf.html</link>
-            <guid>877f11c42501dfb38afd19ad7aa46567</guid>
-            <pubDate>Tue, 16 Feb 2021 13:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两种微型电磁发射装置（mini railgun）的实验记录】实验中的轨道支架都是由3D打印获得，对于普通爱好者来说，实验规模小更加容易接受。]]></title>
-            <link>http://www.kechuang.org/t/86428</link>
-            <guid>8e9ee8ac9ddfb2b8d3002647bc52aeb9</guid>
-            <pubDate>Tue, 16 Feb 2021 13:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
