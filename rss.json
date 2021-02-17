@@ -6,6 +6,20 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "d955e9791097601a40a1936878ace5e4",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/61306e4a09c62506deded6b1062d748c.html",
+            "title": "接受慢病毒（lentivirus）基因治疗的多名罕见病患者5年后被诊断白血病。慢病毒的安全性将再次成为焦点。目前并不100%确定白血病和慢病毒技术有关，但肯定会对行业带来很大影响。 ​",
+            "date_modified": "2021-02-18T04:08:11.000Z"
+        },
+        {
+            "id": "9ea26372ac9f0db1aa32979f86039be4",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/63e29b35adcd04e64728ac66efed33b1.html",
+            "title": "【“我深爱Dota2，所以希望它快点死”】从职业战队冠名，到中小主播赞助，再到自媒体、资讯网站的广告位，几乎能在Dota2生态下的所有角落发现菠菜的身影——Dota2和菠菜早已形成了微妙的共生关系。",
+            "date_modified": "2021-02-18T03:08:11.000Z"
+        },
+        {
             "id": "678050f5ff3ff0074de60c802f696469",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/7799dfc6c99a8046bd9ffa30e0928426.html",
@@ -501,20 +515,6 @@
             "url": "https://instant.lvv2.com/html/7c61cc3cff2b145a28358abae39b939d.html",
             "title": "【《孤味》：今年华语片难得的女性群像】本片是许承杰导演的第一部电影，改编自他亲身经历的家事，一个专属于台湾家庭的故事。“我外婆当年的确是跟外公的情人一起办丧礼，外婆一直无法平息怨气、无法原谅离家多年的外公。”",
             "date_modified": "2021-02-16T17:48:11.000Z"
-        },
-        {
-            "id": "a064c7fe928e3b4c88e88b0c3c87199d",
-            "content_html": "",
-            "url": "http://www.bbc.com/zhongwen/simp/chinese-news-56081311at_custom3=BBC+Chinese&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=F8DAAEE6-702F-11EB-BEF6-95DF923C408C&at_medium=custom7",
-            "title": "香港区域法院正式开庭审理一起涉及2019年反对《逃犯条例》修订案示威的案件，因被起诉《香港国安法》罪行而被收押的壹传媒创办人黎智英被列为第一被告。\n",
-            "date_modified": "2021-02-16T17:26:21.000Z"
-        },
-        {
-            "id": "be5baf8ae046f0d6c19f4b93a489269a",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/6a98281a1da122a7059b3020699c41a3.html",
-            "title": "【周小川：数字时代的中国支付体系现代化——DC/EP与数字人民币e-CNY】2016年，人民银行成立了数字货币研究所，用的是过去纸币的印制科学技术研究所的壳子，因为要设立一个机构还需要有编制，这也表明从那时以后就会停止下一代纸币的设计工作。",
-            "date_modified": "2021-02-16T17:24:11.000Z"
         }
     ]
 }

@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Feb 2021 18:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 20:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[接受慢病毒（lentivirus）基因治疗的多名罕见病患者5年后被诊断白血病。慢病毒的安全性将再次成为焦点。目前并不100%确定白血病和慢病毒技术有关，但肯定会对行业带来很大影响。 ​]]></title>
+            <link>https://instant.lvv2.com/html/61306e4a09c62506deded6b1062d748c.html</link>
+            <guid>d955e9791097601a40a1936878ace5e4</guid>
+            <pubDate>Thu, 18 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“我深爱Dota2，所以希望它快点死”】从职业战队冠名，到中小主播赞助，再到自媒体、资讯网站的广告位，几乎能在Dota2生态下的所有角落发现菠菜的身影——Dota2和菠菜早已形成了微妙的共生关系。]]></title>
+            <link>https://instant.lvv2.com/html/63e29b35adcd04e64728ac66efed33b1.html</link>
+            <guid>9ea26372ac9f0db1aa32979f86039be4</guid>
+            <pubDate>Thu, 18 Feb 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【诗人尹东柱国籍之争的背后：中国朝鲜族与韩国公民彼此仇视】韩国社会对中国朝鲜族的歧视呈现一个特点：社会阶层越低的韩国人对中国朝鲜族越歧视。这是直接和利益相挂钩的。相反，阶层越往上，反感度越低。]]></title>
             <link>https://instant.lvv2.com/html/7799dfc6c99a8046bd9ffa30e0928426.html</link>
@@ -448,19 +460,6 @@
             <link>https://instant.lvv2.com/html/7c61cc3cff2b145a28358abae39b939d.html</link>
             <guid>115dd174acb3671e68e7d6cf6bf923b9</guid>
             <pubDate>Tue, 16 Feb 2021 17:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港区域法院正式开庭审理一起涉及2019年反对《逃犯条例》修订案示威的案件，因被起诉《香港国安法》罪行而被收押的壹传媒创办人黎智英被列为第一被告。
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/chinese-news-56081311at_custom3=BBC+Chinese&amp;at_custom2=twitter&amp;at_custom1=%5Bpost+type%5D&amp;at_campaign=64&amp;at_custom4=F8DAAEE6-702F-11EB-BEF6-95DF923C408C&amp;at_medium=custom7</link>
-            <guid>a064c7fe928e3b4c88e88b0c3c87199d</guid>
-            <pubDate>Tue, 16 Feb 2021 17:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周小川：数字时代的中国支付体系现代化——DC/EP与数字人民币e-CNY】2016年，人民银行成立了数字货币研究所，用的是过去纸币的印制科学技术研究所的壳子，因为要设立一个机构还需要有编制，这也表明从那时以后就会停止下一代纸币的设计工作。]]></title>
-            <link>https://instant.lvv2.com/html/6a98281a1da122a7059b3020699c41a3.html</link>
-            <guid>be5baf8ae046f0d6c19f4b93a489269a</guid>
-            <pubDate>Tue, 16 Feb 2021 17:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
