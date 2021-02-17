@@ -4,11 +4,24 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Feb 2021 20:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 22:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[全球市场涨声一片！一文看懂春节假期发生了什么]]></title>
+            <link>https://instant.lvv2.com/html/bd173e86751f852d4d25d46e594ffabb.html</link>
+            <guid>fa49873bc88e8d754fb263436c868c93</guid>
+            <pubDate>Thu, 18 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚经济学家恩戈齐·奥孔约-伊维拉当选世贸组织总干事，结束了该岗位持续半年的真空状态。她是世贸组织首位非洲裔总干事，也是第一位女性担任该职。
+相关报道： ]]></title>
+            <link>http://www.bbc.com/zhongwen/trad/world-56070748</link>
+            <guid>d67417eb1bf7cdcfbe87c54ed98425fc</guid>
+            <pubDate>Thu, 18 Feb 2021 06:02:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[接受慢病毒（lentivirus）基因治疗的多名罕见病患者5年后被诊断白血病。慢病毒的安全性将再次成为焦点。目前并不100%确定白血病和慢病毒技术有关，但肯定会对行业带来很大影响。 ​]]></title>
             <link>https://instant.lvv2.com/html/61306e4a09c62506deded6b1062d748c.html</link>
@@ -442,24 +455,6 @@
             <link>https://instant.lvv2.com/html/66d2c99c196c9dd0955419415d4a7d57.html</link>
             <guid>1ce0194a8d4b43b522e91d314fe68138</guid>
             <pubDate>Tue, 16 Feb 2021 18:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳证券业协会副会长被女下属实名举报，深圳证监局纪委：已启动核查，依规依纪处理】李某向记者表示，在过去半年里，举报信已经在深圳证监局的讯问下几易其稿，自己也是第一次看到举报信原文。此前他知道举报的事情，也冷静地去申诉了，相信局里、纪检单位会有公正、详实的调查。]]></title>
-            <link>https://instant.lvv2.com/html/672a57373f67f3b6d8e6e964df11cdf6.html</link>
-            <guid>2e74ff92cea75a727fa73d822fe2893b</guid>
-            <pubDate>Tue, 16 Feb 2021 18:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#付费精选【比特币兴起反映出美国的衰落】福鲁哈尔：比特币之类的加密货币人气上升，也许是一个新世界秩序的早期信号，美国和美元将在这个新秩序中扮演不太重要的角色。 ]]></title>
-            <link>https://instant.lvv2.com/html/8e90b17326f356e8ff5f9b487f227cf8.html</link>
-            <guid>ea88807f6caa1bfbf729a893b476904d</guid>
-            <pubDate>Tue, 16 Feb 2021 18:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《孤味》：今年华语片难得的女性群像】本片是许承杰导演的第一部电影，改编自他亲身经历的家事，一个专属于台湾家庭的故事。“我外婆当年的确是跟外公的情人一起办丧礼，外婆一直无法平息怨气、无法原谅离家多年的外公。”]]></title>
-            <link>https://instant.lvv2.com/html/7c61cc3cff2b145a28358abae39b939d.html</link>
-            <guid>115dd174acb3671e68e7d6cf6bf923b9</guid>
-            <pubDate>Tue, 16 Feb 2021 17:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
