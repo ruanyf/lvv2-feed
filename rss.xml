@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Feb 2021 14:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 16:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在弹劾审判中被宣布无罪三天后，特朗普发表了一篇长声明对麦康奈尔进行了攻击，称他是“阴沉、沉闷、不苟言笑的政治黑客”，并称如果他继续执政，共和党将在未来遭受损失。]]></title>
+            <link>https://instant.lvv2.com/html/d709ef8b9bed57e1d30e7db06b81b9bc.html</link>
+            <guid>e49aa3f52e7a3eaf2ff8f1e0871c2d1f</guid>
+            <pubDate>Thu, 18 Feb 2021 00:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国宫斗又曝大瓜！泰王新添2宠妃，美貌侍女上位，皇后却失踪]]></title>
+            <link>https://instant.lvv2.com/html/dc3b7e04241b1b951ec54bc9f7a082c3.html</link>
+            <guid>f3e432ac7f0b12b56ca0f47f4884aaa1</guid>
+            <pubDate>Wed, 17 Feb 2021 23:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《小小梦魇2》评测+初步解析：放不下的执念，醒不来的噩梦]]></title>
+            <link>https://instant.lvv2.com/html/b74fab4b63ab30ab7bdee811d9bb79f4.html</link>
+            <guid>57aa59a8837ac39c90b1f11a1c497ee0</guid>
+            <pubDate>Wed, 17 Feb 2021 23:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【《李焕英》里的襄樊工厂，人们为啥说着一口东北话？】故事要从东北支援全国三线建设说起。影片中的胜利化工厂原型为东方化工厂，该厂由吉林化工厂援建，隶属五机部。]]></title>
             <link>https://instant.lvv2.com/html/0aba39779d9c4dbbdcb98722886f4d82.html</link>
@@ -436,24 +454,6 @@
             <link>https://instant.lvv2.com/html/4aff1eea6a8d7b5e6ff37733698e1945.html</link>
             <guid>0de050400436d8601cd68f76f568925e</guid>
             <pubDate>Tue, 16 Feb 2021 17:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安卓之父 Andy Rubin 的 Essential 卖给了裴宇的新创公司 Nothing，此前Nothing宣布将以无线耳塞作为首款产品]]></title>
-            <link>http://cn.engadget.com/carl-pei-nothing-essential-052932430.html</link>
-            <guid>063162c8a241e6a0ed719283668a4e1c</guid>
-            <pubDate>Tue, 16 Feb 2021 16:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟统计局当地时间2月15日表示，中国去年超越美国，成为欧盟最大的贸易伙伴；英国则排在第三位。]]></title>
-            <link>https://instant.lvv2.com/html/78c50304ce7b8cd152c7548f1c3378f0.html</link>
-            <guid>2eabcf26ae6487b92658f6309e19878f</guid>
-            <pubDate>Tue, 16 Feb 2021 15:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【唐探系列换了老歌女神】《唐探1》用了韩宝仪的《往事只能回味》，《唐探2》用了她的《粉红色的回忆》。《唐探3》这次不缺钱各种狂买老歌，却没买韩宝仪，买了邓丽君《路边的野花不要采》。]]></title>
-            <link>https://instant.lvv2.com/html/72467a19c368ceecbce84683f629a554.html</link>
-            <guid>95c7dab61c1f2fb62edd5c2fd051d794</guid>
-            <pubDate>Tue, 16 Feb 2021 15:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
