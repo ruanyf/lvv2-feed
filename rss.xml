@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 18 Feb 2021 14:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2021 16:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[黄光裕开工首日内部讲话：力争用18个月使企业恢复原有的市场地位]]></title>
+            <link>https://instant.lvv2.com/html/fae6ba3a75f0ea55407af84657ffefed.html</link>
+            <guid>a52f40c4d25032a0183562ac967916fa</guid>
+            <pubDate>Fri, 19 Feb 2021 00:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据知情人士透露，吴秀波被女友陈昱霖敲诈案于今年1月底宣判，被告人陈昱霖（真名 陈梦琳）犯敲诈勒索罪，判处有期徒刑三年，缓刑三年，并处罚金人民币十万元。陈昱霖被羁押于朝阳区看守所两年多，目前已经出狱。6天前，陈昱霖还曾在社交平台晒照迎接新年。]]></title>
+            <link>https://instant.lvv2.com/html/e18dae7a50702d9adca55153c2de4192.html</link>
+            <guid>91387bb6105bcd02e15b4d9d829b2ddc</guid>
+            <pubDate>Thu, 18 Feb 2021 23:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[当地时间17日，大西洋城早已停止运营的特朗普酒店和赌场被爆破拆毁。赌场的建筑结构近年来严重退化，部分建筑已经开始剥落。这座大楼由前总统建造，在2016年，被亿万富翁卡尔·伊坎（Carl Icahn）收购。特朗普广场是特朗普众多破产赌场中的最后一家。]]></title>
             <link>https://instant.lvv2.com/html/551d05845c2d849e6261df1e1a9c5f00.html</link>
@@ -500,25 +512,6 @@
             <link>https://instant.lvv2.com/html/63e29b35adcd04e64728ac66efed33b1.html</link>
             <guid>9ea26372ac9f0db1aa32979f86039be4</guid>
             <pubDate>Thu, 18 Feb 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诗人尹东柱国籍之争的背后：中国朝鲜族与韩国公民彼此仇视】韩国社会对中国朝鲜族的歧视呈现一个特点：社会阶层越低的韩国人对中国朝鲜族越歧视。这是直接和利益相挂钩的。相反，阶层越往上，反感度越低。]]></title>
-            <link>https://instant.lvv2.com/html/7799dfc6c99a8046bd9ffa30e0928426.html</link>
-            <guid>678050f5ff3ff0074de60c802f696469</guid>
-            <pubDate>Thu, 18 Feb 2021 02:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一位推特用户写道：“我在得州休斯顿，冷得快死了。没有电，没有暖气，没有水。我有四个小孩......”为什么得州突然出现罕见寒潮？
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/world-56103468at_custom1=%5Bpost+type%5D&amp;at_medium=custom7&amp;at_custom2=twitter&amp;at_campaign=64&amp;at_custom3=BBC+Chinese&amp;at_custom4=9FDA00D4-713E-11EB-BB0F-48830EDC252D</link>
-            <guid>11b722abced069a5ef39b7798d8ba63e</guid>
-            <pubDate>Thu, 18 Feb 2021 00:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在弹劾审判中被宣布无罪三天后，特朗普发表了一篇长声明对麦康奈尔进行了攻击，称他是“阴沉、沉闷、不苟言笑的政治黑客”，并称如果他继续执政，共和党将在未来遭受损失。]]></title>
-            <link>https://instant.lvv2.com/html/d709ef8b9bed57e1d30e7db06b81b9bc.html</link>
-            <guid>e49aa3f52e7a3eaf2ff8f1e0871c2d1f</guid>
-            <pubDate>Thu, 18 Feb 2021 00:08:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
