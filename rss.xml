@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 18 Feb 2021 18:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2021 20:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2021春节旅游收入排行榜：成都吸金第一名，三亚人均消费高]]></title>
+            <link>https://instant.lvv2.com/html/00a4f9e2563cc0054a9d84a0ed6e50f9.html</link>
+            <guid>a9c33a83cf5381417f5b4fab34297469</guid>
+            <pubDate>Fri, 19 Feb 2021 03:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全球「芯片荒」正引发蝴蝶效应】晶圆紧缺导致「多米诺骨牌」效应，覆铜板等原材料、PCB 板（电子元器件的支撑体）、封测、芯片都面临涨价，国产芯片也受到波及，导致供应紧缺、涨价。]]></title>
             <link>https://instant.lvv2.com/html/465cd92ead4b0641662804ddda5baa37.html</link>
@@ -499,13 +505,6 @@
             <link>https://instant.lvv2.com/html/bd173e86751f852d4d25d46e594ffabb.html</link>
             <guid>fa49873bc88e8d754fb263436c868c93</guid>
             <pubDate>Thu, 18 Feb 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚经济学家恩戈齐·奥孔约-伊维拉当选世贸组织总干事，结束了该岗位持续半年的真空状态。她是世贸组织首位非洲裔总干事，也是第一位女性担任该职。
-相关报道： ]]></title>
-            <link>http://www.bbc.com/zhongwen/trad/world-56070748</link>
-            <guid>d67417eb1bf7cdcfbe87c54ed98425fc</guid>
-            <pubDate>Thu, 18 Feb 2021 06:02:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
