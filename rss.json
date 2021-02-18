@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "c4f33dd405fd7904e21c03ab2a2e1ca7",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/465cd92ead4b0641662804ddda5baa37.html",
+            "title": "【全球「芯片荒」正引发蝴蝶效应】晶圆紧缺导致「多米诺骨牌」效应，覆铜板等原材料、PCB 板（电子元器件的支撑体）、封测、芯片都面临涨价，国产芯片也受到波及，导致供应紧缺、涨价。",
+            "date_modified": "2021-02-19T01:08:11.000Z"
+        },
+        {
             "id": "a52f40c4d25032a0183562ac967916fa",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/fae6ba3a75f0ea55407af84657ffefed.html",
@@ -571,20 +578,6 @@
             "url": "http://www.bbc.com/zhongwen/trad/world-56070748",
             "title": "尼日利亚经济学家恩戈齐·奥孔约-伊维拉当选世贸组织总干事，结束了该岗位持续半年的真空状态。她是世贸组织首位非洲裔总干事，也是第一位女性担任该职。\n相关报道： ",
             "date_modified": "2021-02-18T06:02:11.000Z"
-        },
-        {
-            "id": "d955e9791097601a40a1936878ace5e4",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/61306e4a09c62506deded6b1062d748c.html",
-            "title": "接受慢病毒（lentivirus）基因治疗的多名罕见病患者5年后被诊断白血病。慢病毒的安全性将再次成为焦点。目前并不100%确定白血病和慢病毒技术有关，但肯定会对行业带来很大影响。 ​",
-            "date_modified": "2021-02-18T04:08:11.000Z"
-        },
-        {
-            "id": "9ea26372ac9f0db1aa32979f86039be4",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/63e29b35adcd04e64728ac66efed33b1.html",
-            "title": "【“我深爱Dota2，所以希望它快点死”】从职业战队冠名，到中小主播赞助，再到自媒体、资讯网站的广告位，几乎能在Dota2生态下的所有角落发现菠菜的身影——Dota2和菠菜早已形成了微妙的共生关系。",
-            "date_modified": "2021-02-18T03:08:11.000Z"
         }
     ]
 }

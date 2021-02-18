@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 18 Feb 2021 16:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2021 18:35:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【全球「芯片荒」正引发蝴蝶效应】晶圆紧缺导致「多米诺骨牌」效应，覆铜板等原材料、PCB 板（电子元器件的支撑体）、封测、芯片都面临涨价，国产芯片也受到波及，导致供应紧缺、涨价。]]></title>
+            <link>https://instant.lvv2.com/html/465cd92ead4b0641662804ddda5baa37.html</link>
+            <guid>c4f33dd405fd7904e21c03ab2a2e1ca7</guid>
+            <pubDate>Fri, 19 Feb 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[黄光裕开工首日内部讲话：力争用18个月使企业恢复原有的市场地位]]></title>
             <link>https://instant.lvv2.com/html/fae6ba3a75f0ea55407af84657ffefed.html</link>
@@ -500,18 +506,6 @@
             <link>http://www.bbc.com/zhongwen/trad/world-56070748</link>
             <guid>d67417eb1bf7cdcfbe87c54ed98425fc</guid>
             <pubDate>Thu, 18 Feb 2021 06:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[接受慢病毒（lentivirus）基因治疗的多名罕见病患者5年后被诊断白血病。慢病毒的安全性将再次成为焦点。目前并不100%确定白血病和慢病毒技术有关，但肯定会对行业带来很大影响。 ​]]></title>
-            <link>https://instant.lvv2.com/html/61306e4a09c62506deded6b1062d748c.html</link>
-            <guid>d955e9791097601a40a1936878ace5e4</guid>
-            <pubDate>Thu, 18 Feb 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“我深爱Dota2，所以希望它快点死”】从职业战队冠名，到中小主播赞助，再到自媒体、资讯网站的广告位，几乎能在Dota2生态下的所有角落发现菠菜的身影——Dota2和菠菜早已形成了微妙的共生关系。]]></title>
-            <link>https://instant.lvv2.com/html/63e29b35adcd04e64728ac66efed33b1.html</link>
-            <guid>9ea26372ac9f0db1aa32979f86039be4</guid>
-            <pubDate>Thu, 18 Feb 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
