@@ -4,15 +4,51 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 19 Feb 2021 14:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2021 16:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[随着公司新任 CEO 开始精简公司规模，并在混合云计算领域发力，IBM 正在探索出售其 IBM Watson Health（沃森健康）业务的可能性。IBM Watson Health 年收入约为 10 亿美元，但目前尚未实现盈利。]]></title>
+            <link>http://www.infoq.cn/article/dtdOdrJm1aMxC8DWoac2</link>
+            <guid>b5714f94362538b340c9b62f4d7fa258</guid>
+            <pubDate>Sat, 20 Feb 2021 00:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MrVeritas ：司法部出的这套智能法律咨询系统太牛逼了，感觉覆盖99%日常生活中遇到的法律问题。至少从免费法律咨询端这块来说，能把法条按照当事人视角梳理到这个程度真是不容易，甚至律师都可以用来作为primer了。]]></title>
+            <link>http://ai.12348.gov.cn/</link>
+            <guid>bb858de5c78bee4dcecc22cf48188cf3</guid>
+            <pubDate>Sat, 20 Feb 2021 00:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卫国戍边英雄】祁发宝：当兵走阿里]]></title>
+            <link>http://b23.tv/3yg7SG</link>
+            <guid>6151faf304f54f3d9ef4005a42b60374</guid>
+            <pubDate>Sat, 20 Feb 2021 00:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智商税还是真寻祖？基因检测后，朱姓男子被告知自己该姓王】2020年12月，朱之珩应宗亲推荐找到了一个生物科技公司，花费399元对个人特质、祖源等进行基因检测。今年1月他收到了检测结果。他的父系单倍群为O-MFXXXXX（X为隐去原本数字），这种父系单倍群属于鲁浙王氏家族下游之浙江王氏家族。]]></title>
+            <link>https://instant.lvv2.com/html/bf5b001da42bdc30089d23168fac5b33.html</link>
+            <guid>0b8790534a6b4c8d3f970a6b74fd8209</guid>
+            <pubDate>Fri, 19 Feb 2021 23:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《法官大人》：你愿意为了救孩子走多远？】如果对这部剧的期待不是观看缜密的高智商犯罪，法官和黑帮的终极对抗，而是遭遇不幸后不同人的应对，从本能反应到深思熟虑后一条道走到黑的执迷，新奥尔良（及所有混杂之地）的世相，或许更合适。]]></title>
+            <link>https://instant.lvv2.com/html/4d08210c3f572c83b57f91e0da67f1a4.html</link>
+            <guid>cd4184db1937844c72f043fea41ecea0</guid>
+            <pubDate>Fri, 19 Feb 2021 23:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【药监局点名“六味地黄”们修改说明书】早先，“六味地黄”的广告铺满大街小巷。而此次国家药监局发布公告要求六味地黄制剂根据其不良反应评估结果，重修其说明书中的【不良反应】【禁忌】和【注意事项】。]]></title>
+            <link>https://instant.lvv2.com/html/8bf9b3f31be224f92e3447d5002fa3a6.html</link>
+            <guid>1eda341b9df451a497530b9b6f47754f</guid>
+            <pubDate>Fri, 19 Feb 2021 22:48:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【通胀的信号？美国最大雇主沃尔玛要给42万员工加薪】沃尔玛是美国经济的晴雨表。沃尔玛除了给员工涨薪外，也支持联邦最低时薪翻番。工资提高，叠加现金补助，发放给美国民众的钱越来越多了，美国通胀和经济复苏的信号日益彰显。]]></title>
-            <link>http://wallstreetcn.com/articles/3620630</link>
-            <guid>9f8b1cb081fbc3c0f693e4eaef419e56</guid>
+            <link>https://instant.lvv2.com/html/01177111f3f1372bd670220a510fd406.html</link>
+            <guid>d41ab619c28cb8fe7556fcc8cb7695e9</guid>
             <pubDate>Fri, 19 Feb 2021 22:24:21 GMT</pubDate>
         </item>
         <item>
@@ -441,36 +477,6 @@
             <link>https://instant.lvv2.com/html/e18dae7a50702d9adca55153c2de4192.html</link>
             <guid>91387bb6105bcd02e15b4d9d829b2ddc</guid>
             <pubDate>Thu, 18 Feb 2021 23:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间17日，大西洋城早已停止运营的特朗普酒店和赌场被爆破拆毁。赌场的建筑结构近年来严重退化，部分建筑已经开始剥落。这座大楼由前总统建造，在2016年，被亿万富翁卡尔·伊坎（Carl Icahn）收购。特朗普广场是特朗普众多破产赌场中的最后一家。]]></title>
-            <link>https://instant.lvv2.com/html/551d05845c2d849e6261df1e1a9c5f00.html</link>
-            <guid>404c5dc128afdc19c1789709695acc1b</guid>
-            <pubDate>Thu, 18 Feb 2021 22:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“在失去人生前停止游戏吧”——从鹿儿岛县警的推特争端看被舆论场扭曲的“游戏依存症”】将热衷于“玩游戏”断定为一种“精神疾病”——这种明显偏颇的言论很快受到日本游戏爱好者们的猛烈驳斥。最终，对策课也将上述推特内容删除，并对此言论给许多用户带来的不愉快作出了道歉。]]></title>
-            <link>https://instant.lvv2.com/html/438d26549c005f74cf7364da4f74cead.html</link>
-            <guid>b83a6a3bfc62cfd9f4ea3427729f9095</guid>
-            <pubDate>Thu, 18 Feb 2021 22:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【坐在AI模拟器上就能学驾驶，传统驾校教练要被炒了】大约20辆训练车可以在一个3000平方米的传统驾驶中心进行训练，而在几百平方米的空间里放置60多台人工智能驾驶模拟器更具成本效益。目前，使用人工智能模拟器的学生与仅在真实汽车上培训的传统课程学生的通过率基本相同。]]></title>
-            <link>https://instant.lvv2.com/html/060640ab8df95184a7efc7e0cff8c4e4.html</link>
-            <guid>8aab1042fae6b20d006789ca1c87df93</guid>
-            <pubDate>Thu, 18 Feb 2021 21:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[岸本齐史执笔博人传剧本后，剧情继佐助瞎眼后迎来九尾死亡]]></title>
-            <link>https://instant.lvv2.com/html/c3f01aaeab74390d9db683686ea92a5a.html</link>
-            <guid>3b625a5fe2869f4818c59c0f8f43d233</guid>
-            <pubDate>Thu, 18 Feb 2021 21:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为什么李宇春和Lisa能够成为权威时尚大奖评委？】法国时装大奖ANDAM在将大部分高管和资深业界人士列为常任评委的同时，加入了客座评委，使得后者的阵容更加多样化。对于举足轻重的ANDAM大奖而言，2021年的这份多元化评委名单标志着传统守门人和新生代的交棒。]]></title>
-            <link>https://instant.lvv2.com/html/4d1122e5b8c75de855db6c328f56bd6b.html</link>
-            <guid>08e53194761edcd9e689fe95fadc928e</guid>
-            <pubDate>Thu, 18 Feb 2021 20:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
