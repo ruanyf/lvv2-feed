@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 19 Feb 2021 20:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2021 22:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[从CryptoPunk到HashMasks：数字身份艺术品为何爆火？]]></title>
+            <link>https://instant.lvv2.com/html/0cce07f503a9213b11a5bce8d9af0394.html</link>
+            <guid>f0cae3b4262e1c858dd869c9b725bee6</guid>
+            <pubDate>Sat, 20 Feb 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【成就感与无力感】于我而言，17年的深度报道记者生涯，有两种感觉最为刻骨铭心：一种是成就感，一种是无力感，两种感觉相互交织，前者少，后者多。]]></title>
             <link>https://instant.lvv2.com/html/d24b8cd186f5979bab84fc3d7b23be44.html</link>
@@ -483,18 +489,6 @@
             <link>https://instant.lvv2.com/html/00a4f9e2563cc0054a9d84a0ed6e50f9.html</link>
             <guid>a9c33a83cf5381417f5b4fab34297469</guid>
             <pubDate>Fri, 19 Feb 2021 03:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球「芯片荒」正引发蝴蝶效应】晶圆紧缺导致「多米诺骨牌」效应，覆铜板等原材料、PCB 板（电子元器件的支撑体）、封测、芯片都面临涨价，国产芯片也受到波及，导致供应紧缺、涨价。]]></title>
-            <link>https://instant.lvv2.com/html/465cd92ead4b0641662804ddda5baa37.html</link>
-            <guid>c4f33dd405fd7904e21c03ab2a2e1ca7</guid>
-            <pubDate>Fri, 19 Feb 2021 01:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黄光裕开工首日内部讲话：力争用18个月使企业恢复原有的市场地位]]></title>
-            <link>https://instant.lvv2.com/html/fae6ba3a75f0ea55407af84657ffefed.html</link>
-            <guid>a52f40c4d25032a0183562ac967916fa</guid>
-            <pubDate>Fri, 19 Feb 2021 00:40:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
