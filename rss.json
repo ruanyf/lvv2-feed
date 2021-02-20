@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "46cc66b46252164ff41fd923aa7c9fec",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/8a966086125064e6293f824bf8075e86.html",
+            "title": "俄罗斯海军太平洋舰队“基洛夫”级巡洋舰“拉扎列夫海军上将”号（原“伏龙芝”号）将于今年8月在第30修船厂开始拆解，拆解工作预计将在2025年完成。这艘战舰，首次来到远东时，曾威风八面，后来却被“封印”近30年。",
+            "date_modified": "2021-02-21T04:08:11.000Z"
+        },
+        {
             "id": "6a8e063cd9769ec9f0505ce386948e11",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/4352159c7013025086f0112c34b45966.html",
@@ -571,13 +578,6 @@
             "url": "http://www.infoq.cn/article/dtdOdrJm1aMxC8DWoac2",
             "title": "随着公司新任 CEO 开始精简公司规模，并在混合云计算领域发力，IBM 正在探索出售其 IBM Watson Health（沃森健康）业务的可能性。IBM Watson Health 年收入约为 10 亿美元，但目前尚未实现盈利。",
             "date_modified": "2021-02-20T00:48:11.000Z"
-        },
-        {
-            "id": "bb858de5c78bee4dcecc22cf48188cf3",
-            "content_html": "",
-            "url": "http://ai.12348.gov.cn/",
-            "title": "MrVeritas ：司法部出的这套智能法律咨询系统太牛逼了，感觉覆盖99%日常生活中遇到的法律问题。至少从免费法律咨询端这块来说，能把法条按照当事人视角梳理到这个程度真是不容易，甚至律师都可以用来作为primer了。",
-            "date_modified": "2021-02-20T00:16:34.000Z"
         }
     ]
 }
