@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 20 Feb 2021 16:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 18:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[深圳有银行正式发文将二手房参考价作为按揭贷款依据，楼市“变天”在即]]></title>
+            <link>https://instant.lvv2.com/html/4352159c7013025086f0112c34b45966.html</link>
+            <guid>6a8e063cd9769ec9f0505ce386948e11</guid>
+            <pubDate>Sun, 21 Feb 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我站立的地方]]></title>
+            <link>https://instant.lvv2.com/html/ca32f775f3c930e46d1cfdd8cbf72a3d.html</link>
+            <guid>7a1fedcf74ad53033ebfbf6fbc94456e</guid>
+            <pubDate>Sun, 21 Feb 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[城市伤疤系列 | 疯狂揽金之后，启东多了一片“鬼城”]]></title>
             <link>https://instant.lvv2.com/html/291fd77f006d9a660facd5804ab1dce9.html</link>
@@ -498,18 +510,6 @@
             <link>http://ai.12348.gov.cn/</link>
             <guid>bb858de5c78bee4dcecc22cf48188cf3</guid>
             <pubDate>Sat, 20 Feb 2021 00:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卫国戍边英雄】祁发宝：当兵走阿里]]></title>
-            <link>http://b23.tv/3yg7SG</link>
-            <guid>6151faf304f54f3d9ef4005a42b60374</guid>
-            <pubDate>Sat, 20 Feb 2021 00:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智商税还是真寻祖？基因检测后，朱姓男子被告知自己该姓王】2020年12月，朱之珩应宗亲推荐找到了一个生物科技公司，花费399元对个人特质、祖源等进行基因检测。今年1月他收到了检测结果。他的父系单倍群为O-MFXXXXX（X为隐去原本数字），这种父系单倍群属于鲁浙王氏家族下游之浙江王氏家族。]]></title>
-            <link>https://instant.lvv2.com/html/bf5b001da42bdc30089d23168fac5b33.html</link>
-            <guid>0b8790534a6b4c8d3f970a6b74fd8209</guid>
-            <pubDate>Fri, 19 Feb 2021 23:40:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
