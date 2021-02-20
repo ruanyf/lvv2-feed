@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 20 Feb 2021 20:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 22:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【没吃过豆米火锅，不敢说自己爱吃豆子】大自然总是慷概的。豆米，就是在先天条件不足的情况下给贵州人的馈赠。]]></title>
+            <link>https://instant.lvv2.com/html/c1c692ddf33bf95351e4e2b270af2c39.html</link>
+            <guid>296bc0258b94f00fb9901b62e81ce8e1</guid>
+            <pubDate>Sun, 21 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯海军太平洋舰队“基洛夫”级巡洋舰“拉扎列夫海军上将”号（原“伏龙芝”号）将于今年8月在第30修船厂开始拆解，拆解工作预计将在2025年完成。这艘战舰，首次来到远东时，曾威风八面，后来却被“封印”近30年。]]></title>
             <link>https://instant.lvv2.com/html/8a966086125064e6293f824bf8075e86.html</link>
@@ -498,18 +504,6 @@
             <link>https://instant.lvv2.com/html/8e650ade5d469adfda04d87fc487b9a9.html</link>
             <guid>e5754886afbb880a689338ba0b887961</guid>
             <pubDate>Sat, 20 Feb 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【这款1G左右的“小游戏”，竟成了Steam销量榜第一】《Valheim：英灵神殿》最吸引人的地方，还是能与朋友们共同当一次野蛮人，在这片史诗般的大陆上花时间混在一起。]]></title>
-            <link>https://instant.lvv2.com/html/671e4eaa97dc5c795378eccd958dc55c.html</link>
-            <guid>331cdaffb45e81558ae5b39d8884437d</guid>
-            <pubDate>Sat, 20 Feb 2021 01:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[随着公司新任 CEO 开始精简公司规模，并在混合云计算领域发力，IBM 正在探索出售其 IBM Watson Health（沃森健康）业务的可能性。IBM Watson Health 年收入约为 10 亿美元，但目前尚未实现盈利。]]></title>
-            <link>http://www.infoq.cn/article/dtdOdrJm1aMxC8DWoac2</link>
-            <guid>b5714f94362538b340c9b62f4d7fa258</guid>
-            <pubDate>Sat, 20 Feb 2021 00:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
