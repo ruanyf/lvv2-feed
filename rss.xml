@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 21 Feb 2021 18:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 20:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[盘一盘2020年值得关注的海外社交App们]]></title>
+            <link>https://instant.lvv2.com/html/16ea737d9b221159d7e0d800ed544def.html</link>
+            <guid>5621895eb4a7a02576641405554117dc</guid>
+            <pubDate>Mon, 22 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比亚迪用什么撑起七千亿市值？】在业内看来，比亚迪之所以被众多资本看好，主要得益于新能源汽车行业的“水涨船高”。特斯拉、蔚来等新能源车企在过去一年表现亮眼，估值翻了6倍以上。高瓴资本亦在此前对宁德时代增资，颇有“广撒网”之意。]]></title>
+            <link>https://instant.lvv2.com/html/833d9be9765a71a2f6be7a6abc9950f2.html</link>
+            <guid>3c7f2882d6c16cbec1d65d74f8b2be02</guid>
+            <pubDate>Mon, 22 Feb 2021 03:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【假如中国遇上得州寒潮】我：你能不能解释一下为什么研发部在给无人机装火焰喷枪？创始人：哪有，我们还在测试空气炮、牵引结构和喷洒装置呢。]]></title>
             <link>https://instant.lvv2.com/html/0236ed46ef222b7957c0c7f8c16c532e.html</link>
@@ -460,18 +472,6 @@
             <link>https://instant.lvv2.com/html/f978e68f5998a89b5e25d414252d9c0d.html</link>
             <guid>7573f9c1e962321266bbe3b52c2fe6f1</guid>
             <pubDate>Sat, 20 Feb 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江一影厅一氧化碳超标致63人送医 初查新风系统吸入锅炉废气】3号放映厅的新风系统进气口位于5楼楼顶，旁边是仅隔了0.5米的烟道排气口，连接了位于负一楼的燃气锅炉排烟管。排烟管由于锅炉开启的时候会排出一氧化碳的废气，然后被(新风系统)进风口吸入。]]></title>
-            <link>https://instant.lvv2.com/html/275e8828aedd0aab18b24520c8f7bc23.html</link>
-            <guid>4523e3485562e8719a99f163d1fe8e25</guid>
-            <pubDate>Sat, 20 Feb 2021 16:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【WiFi 6 都没搞懂，WiFi 6E 和 WiFi 6 增强版又是啥？】要想体验 WiFi 6 增强版，除了需要路由器之外，还需要一台使用骁龙 888 的手机。除了给手机 WiFi 使用，那么剩下的最大用处就是无线连接 NAS 设备，但考虑到无线 NAS 的使用频率，想要充分利用 2.5G 口恐怕还得连接一个几百块的交换机。]]></title>
-            <link>https://instant.lvv2.com/html/71ed9831c68eff0dfad2f7381c2982c3.html</link>
-            <guid>eb0ffb1d5e36694caa2e7efb93d5b620</guid>
-            <pubDate>Sat, 20 Feb 2021 16:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
