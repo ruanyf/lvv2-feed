@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 22 Feb 2021 14:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2021 16:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在疫情下，自动售货机在新加坡流行起来。售卖的不仅仅是和牛、鲑鱼。还提供面包、咖喱泡饼、现煮披萨、煮熟的红辣椒蟹和鲜榨橙汁。
+]]></title>
+            <link>https://instant.lvv2.com/html/b48e607d323ee361e9f7c082a8baa9cb.html</link>
+            <guid>63fe65daed5b12fe5ac36c1841f27f0d</guid>
+            <pubDate>Tue, 23 Feb 2021 00:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆人最隐秘的一口快乐，不要轻易点开…】擅长做肥肠的地方不少，但往往只专精一两道菜。重庆呢？吃得百花齐放：肥肠鱼、肥肠鸡、肥肠豆花…一切皆可肥肠，甚至能从路边十几块一碗的肥肠面，吃到上千块一桌的高级全肥肠宴！]]></title>
+            <link>https://instant.lvv2.com/html/f6dc5cf234f691ee0e548025def2a359.html</link>
+            <guid>8205efd743445b90ab46a7ea2d7bff2d</guid>
+            <pubDate>Mon, 22 Feb 2021 23:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[茅台大跌6.99%，白酒股全线崩溃，酒类ETF基金经理怎么看？]]></title>
+            <link>https://instant.lvv2.com/html/8d53f1de034b0dc9012d9e961a1f3f8f.html</link>
+            <guid>58d6dc4950c8fdb0f7b8b4adde1792a9</guid>
+            <pubDate>Mon, 22 Feb 2021 23:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【有虫眼、颜色淡、长相歪，这样的果蔬更好吃？】在不讨论品种差异的情况下，果蔬外表上的虫眼、颜色、形状，跟它好吃不好吃没啥关系，丑丑的果蔬不代表更好吃。]]></title>
             <link>https://instant.lvv2.com/html/092160a240eee109a6bc6321c0b2ef26.html</link>
@@ -461,24 +480,6 @@
             <link>https://instant.lvv2.com/html/47bf1e317cc6f8b1dd99a4db8a6aa0ca.html</link>
             <guid>42fbb426b914c70da9ea162df0fa22a5</guid>
             <pubDate>Sun, 21 Feb 2021 22:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《你好，李焕英》拍摄地游客剧增，襄阳临时增开专线旅游公交和旅游专线]]></title>
-            <link>https://instant.lvv2.com/html/bb31f37e56f97190c28d8cd88cb2fde1.html</link>
-            <guid>0d5302b64ef282761aa7120454e7ff23</guid>
-            <pubDate>Sun, 21 Feb 2021 21:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[很多人尽皆知的“外国美食”实际上和它号称的原产国毫无关系、或者和“正宗”大相径庭，学术界用“披萨效应”来描述这一现象。]]></title>
-            <link>https://instant.lvv2.com/html/b02b58a8b0d7432c54707e0ceb3168ad.html</link>
-            <guid>c29b1260eb56b57ac602102b6c2cfdfa</guid>
-            <pubDate>Sun, 21 Feb 2021 21:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[没品+4chan笑话集：是大白腿下流，还是黑丝下流？]]></title>
-            <link>https://instant.lvv2.com/html/bc80736933f5c34a7c9f45c82183b566.html</link>
-            <guid>d40ec83d7a815693cd88fe7f1e6e9905</guid>
-            <pubDate>Sun, 21 Feb 2021 20:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
