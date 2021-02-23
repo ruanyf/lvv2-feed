@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 23 Feb 2021 18:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 20:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【五菱“征途”到底算不算皮卡？】1.5升自吸发动机，不到100匹的马力，比起同级的车型都要弱不少，而且这款发动机跟五菱荣光新卡是同款发动机。鉴于这款车2145KG的车重，实际动力可能会不太理想。另外，没有柴油版本也是作为一款皮卡的硬伤。]]></title>
+            <link>https://instant.lvv2.com/html/080680812e2ebd33b39e105f0e67dbc3.html</link>
+            <guid>0854a88a37e6d2fd2e6640c19414c31d</guid>
+            <pubDate>Wed, 24 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【好莱坞进入财报季，各家流媒体竞相“秀肌肉”】Netflix的全球订阅数突破2亿，并实现2020全年自由现金流转正，继续稳坐流媒体头名的宝座；迪士尼在线下业务遭受重创后，Disney+订阅数同比暴涨258%，一年之内旗下流媒体增长近亿用户；而包括HBO Max和Peacock等新入局者也让外界眼前一亮，成为母公司财报中着重突出的项目。]]></title>
+            <link>https://instant.lvv2.com/html/0cdfc36768cffe94c9da01e381e3feb3.html</link>
+            <guid>6f1a1032050e27a042b07cf743b91273</guid>
+            <pubDate>Wed, 24 Feb 2021 03:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国在2020年再次成为印度最大的贸易伙伴国，原因何在？如何解读“政治冷经贸热”的现象？
 ]]></title>
@@ -488,19 +500,6 @@
             <link>https://instant.lvv2.com/html/3001cc01bcd9383bc33642aba21c85be.html</link>
             <guid>8e5c5634da596a768ea709c83c351f21</guid>
             <pubDate>Tue, 23 Feb 2021 06:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【真能省“几个亿”！做个1688、拼多多、淘宝特价版专业买家】当电商干掉了小商品地摊和服装卖场后，当双11、618、年货节接踵而至后，大家渐渐发现，电商平台买不到便宜货了。1688上可以淘到比淘宝便宜10多倍的同款，装修材料用拼多多就能搞定，5元就能在淘宝特价版买两条长裤。]]></title>
-            <link>https://instant.lvv2.com/html/1909a8810af0924a5354d9436bceea92.html</link>
-            <guid>f146f056edd8ee3756bc8b58224dc119</guid>
-            <pubDate>Tue, 23 Feb 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度国防部在一份联合声明中称，印度和中国已完成从有争议的喜马拉雅山边界部分地区的撤军。
-]]></title>
-            <link>https://instant.lvv2.com/html/566d3bed996d23858499bad5b7d8e50a.html</link>
-            <guid>21e24f6f2edec780e163fdd39635d953</guid>
-            <pubDate>Tue, 23 Feb 2021 05:02:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
