@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 24 Feb 2021 18:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2021 20:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【叶文「有话要说」】2018年7月，《叶文有话要说》被黑龙江省新闻出版广电局认定违规，整改后，节目调整了部分内容，“现在我们不接外遇的电话，太过隐私的电话都不会接。”]]></title>
+            <link>https://instant.lvv2.com/html/343df3bda2287c75bcd9f0d03bf560c0.html</link>
+            <guid>226684e0de28180d244b02febaafb898</guid>
+            <pubDate>Thu, 25 Feb 2021 04:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内存价格迎来上涨】近年来，内存的长期低价已经使原材料厂商、芯片厂商和内存厂商难以忍受。如今市场需求超过产能，自然会引起价格上涨。]]></title>
+            <link>http://www.leikeji.com/article/36776</link>
+            <guid>ad79089e37e3f7803934f5ea5b388e4c</guid>
+            <pubDate>Thu, 25 Feb 2021 03:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【特朗普和共和党的爱恨情仇后传：二次弹劾和川主义的未来】整个二次弹劾的过程，完美地证明了失去权柄和推特的特朗普，仍是共和党内的王者。而未来几年共和党的政治生态，依然将围绕着这个前总统来展开。]]></title>
             <link>https://instant.lvv2.com/html/8732c53539ba4f5643c10bc996e50b3d.html</link>
@@ -496,19 +508,6 @@
             <link>https://instant.lvv2.com/html/1158bf31772a93f3414b2444f7208a22.html</link>
             <guid>3be8e6bbc9118a45f08c91d3f59986f2</guid>
             <pubDate>Wed, 24 Feb 2021 06:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都数字货币4000万红包来了】成都市政府将联合京东面向市民发放20万份总计4000万元的数字人民币红包，红包金额为178元、238元两档，随机发放。]]></title>
-            <link>https://instant.lvv2.com/html/3356cfe0551fb1389a1e8af76f40ac26.html</link>
-            <guid>c6c9d1dfe603af1559580146b747255a</guid>
-            <pubDate>Wed, 24 Feb 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[饱受严寒低温之苦的美国得克萨斯州，至今仍有近800万人断水。
-]]></title>
-            <link>https://instant.lvv2.com/html/c05d5741e378229d7b320c011a906346.html</link>
-            <guid>b6fc4674e6c68d5ece10eb30886a0ec5</guid>
-            <pubDate>Wed, 24 Feb 2021 05:10:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
