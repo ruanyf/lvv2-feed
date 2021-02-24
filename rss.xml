@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 24 Feb 2021 17:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2021 18:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特朗普和共和党的爱恨情仇后传：二次弹劾和川主义的未来】整个二次弹劾的过程，完美地证明了失去权柄和推特的特朗普，仍是共和党内的王者。而未来几年共和党的政治生态，依然将围绕着这个前总统来展开。]]></title>
+            <link>https://instant.lvv2.com/html/8732c53539ba4f5643c10bc996e50b3d.html</link>
+            <guid>9ddf9aacfcbe227c10deca3d8a45af0b</guid>
+            <pubDate>Thu, 25 Feb 2021 02:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【车主买一个车位纵向停俩车被制止，法院：超出合理面积】严某购买一44.46平方米横向车位后，纵向停放两辆车。该方式遭物业拒绝，严某起诉物业二审被驳回。二审法院认为，严某将两车纵向并列停放车头和车尾均大面积超出车位线，已侵占业主共有部位，而严某并未提供证据证明已征得其他业主同意。]]></title>
             <link>https://instant.lvv2.com/html/a6e067e84a4ea685acecf473a1c552eb.html</link>
@@ -503,18 +509,6 @@
             <link>https://instant.lvv2.com/html/c05d5741e378229d7b320c011a906346.html</link>
             <guid>b6fc4674e6c68d5ece10eb30886a0ec5</guid>
             <pubDate>Wed, 24 Feb 2021 05:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[索尼宣布正研发即将登陆 PS5 的新一代 VR 系统，但并不会在 2021 年发售。新 VR 系统将加强分辨率、视野、追踪和输入等各方面表现，并以单条线连接 PS5 以简化设置并提高易用性。]]></title>
-            <link>https://instant.lvv2.com/html/a3debeac3227183cc8d995090b388a9c.html</link>
-            <guid>592d24e4b2d30046aa7dde34ac5dc12c</guid>
-            <pubDate>Wed, 24 Feb 2021 05:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五菱“征途”到底算不算皮卡？】1.5升自吸发动机，不到100匹的马力，比起同级的车型都要弱不少，而且这款发动机跟五菱荣光新卡是同款发动机。鉴于这款车2145KG的车重，实际动力可能会不太理想。另外，没有柴油版本也是作为一款皮卡的硬伤。]]></title>
-            <link>https://instant.lvv2.com/html/080680812e2ebd33b39e105f0e67dbc3.html</link>
-            <guid>0854a88a37e6d2fd2e6640c19414c31d</guid>
-            <pubDate>Wed, 24 Feb 2021 04:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
