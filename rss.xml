@@ -4,16 +4,22 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 25 Feb 2021 20:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 22:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[在家开工厂，军事模型新玩家「入坑」指南]]></title>
+            <link>https://instant.lvv2.com/html/3eac703f053b3d5267a295e7ff8f5dcc.html</link>
+            <guid>69553fbfc8ab026f69c4bb7e4704d15a</guid>
+            <pubDate>Fri, 26 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国科技公司Simularity近期发表关于南海局势的动态报告和卫星图片，分析永济礁近期的新变化。
 ]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/chinese-news-56198339at_custom2=twitter&amp;at_medium=custom7&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=A68C1838-7777-11EB-8891-4AF3923C408C&amp;at_custom3=BBC+Chinese&amp;at_campaign=64</link>
-            <guid>b3e0c1ca0638b71250964790cc69978e</guid>
+            <link>https://instant.lvv2.com/html/6888404aece3804a2288c2d7e97a88dc.html</link>
+            <guid>20d75034ac831f5696a68ca2a082e177</guid>
             <pubDate>Fri, 26 Feb 2021 04:24:21 GMT</pubDate>
         </item>
         <item>
@@ -494,12 +500,6 @@
             <link>https://instant.lvv2.com/html/fa5ddb5e065e9fe91f23fb73a471f272.html</link>
             <guid>5542f8e637347e90c693cc5cd986275c</guid>
             <pubDate>Thu, 25 Feb 2021 05:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非洲猪瘟的后果，远不止你吃不起猪肉】东南亚的非洲猪瘟疫情还涉及了另一个问题：遭遇病毒威胁的同时还有野猪。东南亚野猪数量的下降“将在濒临灭绝的食肉动物、珍稀植物群落和数百万人生计问题上引发连锁反应”。]]></title>
-            <link>https://instant.lvv2.com/html/6e91cd8c92b0a195a6967688b415dc35.html</link>
-            <guid>892cf363aba781cc77c228af5bcdb1a9</guid>
-            <pubDate>Thu, 25 Feb 2021 05:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
