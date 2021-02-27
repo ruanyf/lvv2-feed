@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 27 Feb 2021 02:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 04:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[好在最后也没有被打洞，只是每天行为艺术一样记录排泄物]]></title>
+            <link>http://www.guokr.com/article/459286/</link>
+            <guid>d1a19793624d616fb4aead9c5b6b88df</guid>
+            <pubDate>Sat, 27 Feb 2021 12:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【导演亲自剧透！《哥斯拉大战金刚》两者不会打成平手】小时候在观看原版电影时，还和朋友们讨论到底谁会获胜。但那部电影并没有选出赢家，基本上算是个平手。大家都不知道到底谁更厉害。我想让大家得到答案，以后都不必再去争论这个话题。你去电影院里看哥斯拉和金刚打架，最后知道其中一个把另一个揍趴下了。]]></title>
+            <link>http://www.ign.com.cn/movies/31522/news/ge-si-la-da-zhan-jin-gang-dao-yan-cheng-liang-zhe-bu-hui-da-cheng-ping-shou</link>
+            <guid>8dffb6fcf9d8c977f92ad4e5b9da2adb</guid>
+            <pubDate>Sat, 27 Feb 2021 11:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【沈腾成200亿元“票房先生”】灯塔专业版数据显示，截至2月26日15时，沈腾参演的电影票房收入达207亿元，成为中国首个200亿元的“票房先生”，而他参演的电影仅有18部。]]></title>
             <link>http://www.thepaper.cn/newsDetail_forward_11487150</link>
@@ -462,43 +474,6 @@
             <link>https://instant.lvv2.com/html/5471a4d2be8bac4596786be4cfc256b3.html</link>
             <guid>0002f030a35b0b539d2ca1992a261769</guid>
             <pubDate>Fri, 26 Feb 2021 10:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场最大的疑问：美债收益率为何如此疯涨？】一些分析师认为，美债收益率飙升可能是抛售引发更多抛售。BMO Capital Markets策略师Ian Lyngen将矛头指向了凸性对冲（convexity hedging）。]]></title>
-            <link>https://instant.lvv2.com/html/6c8073adb1f98cc78d6e51fa0e45ddb0.html</link>
-            <guid>b2ba6c070133fc3adeb14ed5aae600d7</guid>
-            <pubDate>Fri, 26 Feb 2021 10:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[经济评论者艾迪森（Craig Addison）曾以“矽盾”（Silicon Shield） 形容台湾半导体产业的实力及重要性，认为这一产业会是美国无法坐视中国夺下台湾，甚至将协助台湾抵御中国大陆压力的重要理由。
-]]></title>
-            <link>https://instant.lvv2.com/html/eb919f015e36e40093f966ffd121b69e.html</link>
-            <guid>2ed0bf2527e352de119487e3b055f8ae</guid>
-            <pubDate>Fri, 26 Feb 2021 10:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【急了的吉利，不服输的李书福】2019年上海车展上，一年前还将新势力形容为圈钱和忽悠的李书福，破天荒参观了理想汽车展台，他一边说“你们速度够快的呀”，一边竖起大拇指。摆在吉利前面的，是在变成自己曾经“讨厌”的人时，如何尽量守住自己。]]></title>
-            <link>https://instant.lvv2.com/html/d8f81d83dec7d027474b293991339f36.html</link>
-            <guid>7b0485c0056b1ac469a2be6f9263209f</guid>
-            <pubDate>Fri, 26 Feb 2021 10:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在 Daft Punk 最后的这张专辑中，他们如何用 40 年前的方法创作 Disco？| Cover Art]]></title>
-            <link>http://hypebeast.cn/2021/2/cover-art-daft-punk-random-access-memories</link>
-            <guid>e35a1239600ea23679f80c30d0f348f5</guid>
-            <pubDate>Fri, 26 Feb 2021 10:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【休闲锻炼场地匮乏，学校体育场馆向社会开放？】近日教育部在中国政府网回复网民称，将积极推进学校体育场馆和社会公共体育场馆双向开放。国家体育总局的调查显示，全国有超过一半的体育场地面积集中在教育系统。开放学校的体育场馆，方便了城市居民。不过对学校来说，要顾虑的问题就太多了。]]></title>
-            <link>https://instant.lvv2.com/html/f0ca45e73da75062e728cf2aa2e6ea47.html</link>
-            <guid>34c9c6e167747e6e4b7da39fe471277e</guid>
-            <pubDate>Fri, 26 Feb 2021 10:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球城市实力：东京第3，上海第10】东京连续5年位居第3，得分与第2名纽约的得分差距扩大。上海排名从上年的第30名跃居至第10，是大陆城市中唯一进入前十的城市。香港排在……   ]]></title>
-            <link>https://instant.lvv2.com/html/3b463bbdda12e03ed75d210f7445a37d.html</link>
-            <guid>8c1e9ea27cffbd5199b14e9150f68be7</guid>
-            <pubDate>Fri, 26 Feb 2021 10:12:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
