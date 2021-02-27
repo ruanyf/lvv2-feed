@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 27 Feb 2021 18:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 20:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[女生约炮那些事儿]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/602fad1b3f0c3a49a01dedb6</link>
+            <guid>72ab9829034d11d83d3692d35ba57fa1</guid>
+            <pubDate>Sun, 28 Feb 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“猎巫”肖战一周年：当受害人变为加害者】反对者们正在紧锣密鼓的向广电总局打电话投诉肖战于今日二轮登陆央8的作品《斗罗大陆》，有的人因为没有接通，五六个小时内拨号上百次，他们目标是以“血腥暴力”、“虚假宣传”、“劣迹艺人出演”等理由让这部肖战主演的电视剧下架。]]></title>
             <link>https://instant.lvv2.com/html/2cf32c09d36af012d7c26f516e459d36.html</link>
@@ -492,12 +498,6 @@
             <link>https://instant.lvv2.com/html/3bd7ba9cfb4b674d13ee055fcce6b255.html</link>
             <guid>3f748ebfb29f71abd53bf27259866722</guid>
             <pubDate>Fri, 26 Feb 2021 20:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全欧最乱的球队：核心内讧、主帅弃坑、球迷放火...】短短一周之内，法甲老牌劲旅马赛因为三条活久见的新闻连续登上各国媒体头条。]]></title>
-            <link>https://instant.lvv2.com/html/ab31a0e14fa6c0b6af3d9081f432fbb3.html</link>
-            <guid>1791ce98f92f6330aad0327ddb95e8e4</guid>
-            <pubDate>Fri, 26 Feb 2021 20:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
