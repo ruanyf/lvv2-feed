@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 27 Feb 2021 20:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 22:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【踏上旅途！拆解《星际牛仔》等背后的动画类型】公路片必须有物理位置的移动，移动为转换视角、保持反思创造了可能，也使开拓、冒险、追求自由、不安于现状的精神得以表达。]]></title>
+            <link>https://instant.lvv2.com/html/168de96e86c7eb16526535f6e537cb6e.html</link>
+            <guid>451eaf2ca21af317f9f74108012f2b35</guid>
+            <pubDate>Sun, 28 Feb 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微博的今天，就是B站的明天？】无论从业务上、财务上还是用户体验上，我们都能找到切切实实的证据。B站不会变成下一个YouTube，不会变成下一个抖音/快手，更不会变成下一个爱奇艺/腾讯视频；按照现在的发展道路，它最有可能变成下一个新浪微博。]]></title>
+            <link>https://instant.lvv2.com/html/88fb39560be91f9149bffbbf18c37a7c.html</link>
+            <guid>b01f23e58372d66e1e06baafd0979f4c</guid>
+            <pubDate>Sun, 28 Feb 2021 05:08:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[女生约炮那些事儿]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/602fad1b3f0c3a49a01dedb6</link>
@@ -492,12 +504,6 @@
             <link>http://www.bilibili.com/read/cv10003201</link>
             <guid>0012f5f0afc8221191520eccaaeffb5b</guid>
             <pubDate>Fri, 26 Feb 2021 20:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘长乐退任凤凰卫视行政总裁】凤凰卫视今日发布公告，刘长乐卸任公司行政总裁，即日生效，但继续担任董事会主席及执行董事。徐威获委任为公司行政总裁。徐威已与凤凰卫视订立三年合约，年薪280万港元。]]></title>
-            <link>https://instant.lvv2.com/html/3bd7ba9cfb4b674d13ee055fcce6b255.html</link>
-            <guid>3f748ebfb29f71abd53bf27259866722</guid>
-            <pubDate>Fri, 26 Feb 2021 20:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
