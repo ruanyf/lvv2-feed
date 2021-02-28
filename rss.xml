@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Feb 2021 12:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 14:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[为特朗普塑金像遭群嘲，美国保守派是堕落还是无奈？]]></title>
+            <link>https://instant.lvv2.com/html/5af5c4f600a318b48f34139ef902f001.html</link>
+            <guid>1db550774bbf04c8e399e9f456491982</guid>
+            <pubDate>Sun, 28 Feb 2021 22:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌的Stadia团队取消了几十个项目和第三方授权作品。包括前《刺客信条》创意人主导的多人游戏、《狂野星球之旅》续作，以及小岛秀夫和铃木裕为Stadia专门开发的游戏作品。]]></title>
+            <link>https://instant.lvv2.com/html/6f986ec8f3a66e7a8dd6a65b70af2e06.html</link>
+            <guid>08cf1ff29efa12c7314727638e9396f4</guid>
+            <pubDate>Sun, 28 Feb 2021 21:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三个罕见病人自述：被疾病「偷走」的人生]]></title>
+            <link>https://instant.lvv2.com/html/83d9682d9024bb7312438b245003d977.html</link>
+            <guid>ba7cfff31944f5f5103ab54c19ad8b62</guid>
+            <pubDate>Sun, 28 Feb 2021 21:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【何思云，失败的特岗教师与成功的螺蛳粉微商】何思云坦承，伪证是在桂林理工大学读书时，通过校内的培训机构考取的，资格种类为小学。现在想来，自己当初没辨别意识，持证三年没想到证件有问题。而此次平南县教育局提到，何思云在2015-2016年三次参考教师资格证不及格，她回应，并非成绩不过关，而是她根本没去参加考试。]]></title>
+            <link>https://instant.lvv2.com/html/0ccf5353dc6fdfdaa50a67a95976a15f.html</link>
+            <guid>ebbb8747fb186dd88a93c3fbb3911d09</guid>
+            <pubDate>Sun, 28 Feb 2021 20:48:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【堂吉诃德式的互联网反制996运动仍在地下继续】在全球范围内，已经有很多“平台合作社” APP。Suji 乐观预测，在一两年之内会出现一个支持平台合作主义的公司，让程序员通过完全开放协作的方式，从根本上改变当前“大厂为王”的网络体制。]]></title>
             <link>https://instant.lvv2.com/html/24a7ea4bb9508ebb1fca7ba1d34578ae.html</link>
@@ -480,25 +504,6 @@
             <link>https://instant.lvv2.com/html/9ad56c77c5b9897b134f369b52b98f1e.html</link>
             <guid>ba3df9d039740ac42fcf4d15144b9b9d</guid>
             <pubDate>Sat, 27 Feb 2021 16:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欺诈发行证券罪、袭警罪、高空抛物罪等25个罪名正式确定，3月1日起施行]]></title>
-            <link>https://instant.lvv2.com/html/9f63789b5163a284ce9757360cf21597.html</link>
-            <guid>fa1a2009700cb775805f902165495063</guid>
-            <pubDate>Sat, 27 Feb 2021 15:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄光裕回归后首次公开亮相】2月26日元宵节，黄光裕穿着藏蓝色休闲西装，在北京国美鹏润大厦总部举办了一场元宵团拜会，与集团高管进行座谈，与团队前往总部办公区，在一线员工面前正式重新亮相，并邀请全国消费者体验国美的“真快乐”APP。]]></title>
-            <link>https://instant.lvv2.com/html/d400cf3371ad72394a01e04ca7539de4.html</link>
-            <guid>496dec90c0c48e382249a14b7a59e321</guid>
-            <pubDate>Sat, 27 Feb 2021 15:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】华为（Huawei）涉足养猪业，一项备受争议的脸部识别技术，现在有可能用来识别猪只。
-]]></title>
-            <link>https://instant.lvv2.com/html/33557952e05c16f9ee08b0a833d8343a.html</link>
-            <guid>8472ed8cfd6444226385abbe9e63dc7a</guid>
-            <pubDate>Sat, 27 Feb 2021 15:20:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
