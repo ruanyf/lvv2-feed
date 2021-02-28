@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Feb 2021 20:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 22:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -489,12 +489,6 @@
             <link>https://instant.lvv2.com/html/df76390d97dd2884adc73ffd1ab6cf9b.html</link>
             <guid>404360b84e2ded6513b1e344f912f901</guid>
             <pubDate>Sat, 27 Feb 2021 19:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【B站学习区up主考研成绩】这个up主之前名字叫21必上岸，应该算学习区直播比较久的了，我经常跟着他直播学习，他每天除了吃饭上厕所都在学习，我没有经过比他更能学的人了，这到底是为了什么啊，为啥这样努力的人最后没有一个好结果啊，我真的人都傻了，这样努力的人都考不上，我感觉我真的更难了。。。]]></title>
-            <link>http://bbs.hupu.com/41395688.html</link>
-            <guid>518918c26d1a68e037291ef879812433</guid>
-            <pubDate>Sat, 27 Feb 2021 19:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
