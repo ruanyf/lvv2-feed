@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Feb 2021 18:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 20:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海外选手创4排名第一，外来的和尚好念经？】来自日本唱片公司Avex的海外选手米卡获得了排名第一，而在前11中，有4名选手来自海外，占据了超过三分之一的出道席位。]]></title>
+            <link>https://instant.lvv2.com/html/a242dfdd03c8d412f8dad8796b0c65eb.html</link>
+            <guid>043c7bd0d1fe2f5228a1106434e81962</guid>
+            <pubDate>Mon, 01 Mar 2021 04:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国最高法院裁定Uber需将司机归类为“劳工（Worker）”而非“自雇人士”。这意味着网约车司机将享受正式员工待遇，包括享有最低工资、带薪休假和基本工时等劳工权利。据报道裁决前后花费6年时间，具有“里程碑式”意义。]]></title>
+            <link>https://instant.lvv2.com/html/0f9a3a558b5880a004cbf24f95b35b65.html</link>
+            <guid>4fe2d4cc17d4af77798a370495cb0f58</guid>
+            <pubDate>Mon, 01 Mar 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃特纳火山喷发时，西西里岛的感受就是“大地在颤抖，天空在燃烧”。]]></title>
+            <link>https://instant.lvv2.com/html/20f0e6fa73637c07c0e3f2643da117ba.html</link>
+            <guid>ada8335eb25aba899371c1ae4603464e</guid>
+            <pubDate>Mon, 01 Mar 2021 02:56:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【《山河令》打响2021耽改第一枪】这才播出八集，优酷就迫不及待要“割韭菜”了，加更可以但是需要打投，有网友为了琉璃甲跑去青3、创4联动打投，没想到有生之年，为了解锁加更，还要为《山河令》打投，耽改101实锤。]]></title>
             <link>https://instant.lvv2.com/html/7da2ed6803f28339c693f148f1714ca8.html</link>
@@ -477,27 +495,6 @@
             <link>http://bbs.hupu.com/41395688.html</link>
             <guid>518918c26d1a68e037291ef879812433</guid>
             <pubDate>Sat, 27 Feb 2021 19:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】美国因新冠而病故的人数突破50万，超过在两次世界大战与越战中的死亡人数总和。
-]]></title>
-            <link>https://instant.lvv2.com/html/948cb7b9d2cf72246b685e71baea6601.html</link>
-            <guid>0730c88aa1995197d406b742958e466b</guid>
-            <pubDate>Sat, 27 Feb 2021 18:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“安排干部诉政府”：大兴疑现10余起“架空”行政诉讼案】这类诉讼案号相连，分批次集中进行了合并开庭审理。它们有着奇妙的共同点：相同的代理律师，相同的主审法官，相同的判决结果。而律师否认曾代理过这些案件。]]></title>
-            <link>https://instant.lvv2.com/html/5076e33cc2fec3c6241ce4ec4a0ebe1b.html</link>
-            <guid>4806c30f85e8fa281c52ea76e63f552d</guid>
-            <pubDate>Sat, 27 Feb 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最讨厌你们这些瞎说啥大实话的 
-
- ]]></title>
-            <link>https://instant.lvv2.com/html/0f77020e4896ef8ea008242ef639684c.html</link>
-            <guid>0454375b928388717582bb4b1de32945</guid>
-            <pubDate>Sat, 27 Feb 2021 18:46:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
