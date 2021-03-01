@@ -4,11 +4,24 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 01 Mar 2021 16:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 18:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【支付宝不亏本的金身，被嘉实基金打破了】支付宝代销“高端理财”，大牌公募嘉实基金，固收产品，一切看似都是稳健的保障，运作一年下来，竟然亏本了。]]></title>
+            <link>https://instant.lvv2.com/html/783ecec424235eb4645476b40d309727.html</link>
+            <guid>ef67558ff6b6b1481a850f9ccd35cfb1</guid>
+            <pubDate>Tue, 02 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有消息说臧运金是自杀，但明面上回答的是“不清楚”“不方便透露”。
+他还是原北京武警部队总医院肝脏移植研究所副所长、主任医师、教授，期间主持完成肝脏移植手术上千例。总共完成超2600例 ]]></title>
+            <link>https://instant.lvv2.com/html/dd17a5923b856a119fb71628641cb14a.html</link>
+            <guid>799fee9a266c8b70f5965fe318c1d1bf</guid>
+            <pubDate>Tue, 02 Mar 2021 02:00:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[对话华为鸿蒙掌舵人王成录：真正的第一，是掌握在自己手里的第一]]></title>
             <link>https://instant.lvv2.com/html/eef9469a3bd3a4450e9bd372666dd9ce.html</link>
@@ -469,18 +482,6 @@
             <link>https://instant.lvv2.com/html/0a1b565869897c00533a83631450fb1b.html</link>
             <guid>eaa3153c8fab6038a8baa068a978152f</guid>
             <pubDate>Mon, 01 Mar 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海外选手创4排名第一，外来的和尚好念经？】来自日本唱片公司Avex的海外选手米卡获得了排名第一，而在前11中，有4名选手来自海外，占据了超过三分之一的出道席位。]]></title>
-            <link>https://instant.lvv2.com/html/a242dfdd03c8d412f8dad8796b0c65eb.html</link>
-            <guid>043c7bd0d1fe2f5228a1106434e81962</guid>
-            <pubDate>Mon, 01 Mar 2021 04:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国最高法院裁定Uber需将司机归类为“劳工（Worker）”而非“自雇人士”。这意味着网约车司机将享受正式员工待遇，包括享有最低工资、带薪休假和基本工时等劳工权利。据报道裁决前后花费6年时间，具有“里程碑式”意义。]]></title>
-            <link>https://instant.lvv2.com/html/0f9a3a558b5880a004cbf24f95b35b65.html</link>
-            <guid>4fe2d4cc17d4af77798a370495cb0f58</guid>
-            <pubDate>Mon, 01 Mar 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
