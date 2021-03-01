@@ -4,11 +4,36 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 01 Mar 2021 20:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 22:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【CDT周报】第六期：新时代让“虽远必诛”成为现实：虽远必诛你家人 ]]></title>
+            <link>https://instant.lvv2.com/html/b6a510c5dfdf18b2d27ae69810602a6d.html</link>
+            <guid>625de56b6bae798d98f3f06e565a89b3</guid>
+            <pubDate>Tue, 02 Mar 2021 06:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“夺命”临床试验】他汀类药物早在十多年前就被推荐为冠心病患者的一线用药，写入指南。但研究团队检索发现，国内此后仍开展了两千余项“冗余”的临床试验，造成3500例心血管事件，包括近600人死亡。多位业内人士提到，国内临床工作者奖惩制度与科研的深度绑定，可能是导致此类“冗余”试验泛滥的最重要原因。]]></title>
+            <link>https://instant.lvv2.com/html/98c4d489f2458d02ccfd13cac9265bd7.html</link>
+            <guid>f61a5619c5e6e31ad551a443d5c22bed</guid>
+            <pubDate>Tue, 02 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中美贸易战期间，分析人士就曾指出，中国对美国打稀土牌会使美国和其他稀土进口大国认识到供应依赖的脆弱性，让他们作出努力，开辟新供应渠道并且鼓励自己的相关技术创新。
+]]></title>
+            <link>https://instant.lvv2.com/html/8b6186025815995223988115d6fc6e34.html</link>
+            <guid>3fcee4fa9533d74d76e1c1347dd38665</guid>
+            <pubDate>Tue, 02 Mar 2021 05:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电网发布“碳中和”路径图：2025年输送清洁能源占比达到50%】作为中国最大的能源公司之一——国家电网在3月1日公布了其自身的“碳达峰、碳中和”行动方案。国家电网集团向碳中和转型的行动，在某种意义上也关乎中国整体“碳达峰、碳中和”任务的进程。]]></title>
+            <link>https://instant.lvv2.com/html/845dcdabb52a1369b65b94822702353d.html</link>
+            <guid>6a6c0a8f6dcc32bf7ed45c981b2e4a79</guid>
+            <pubDate>Tue, 02 Mar 2021 05:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【肌肉酸痛来自“乳酸堆积”？乳酸背了一百年的黑锅】目前认为在所有代谢物中，对疼痛影响最大的三种是乳酸盐、ATP及氢离子。当三者单独存在或只有两者相加时作用比较弱，但三者同时出现时会有互相增强的协同效果，明显增强疼痛信号。]]></title>
             <link>https://instant.lvv2.com/html/2ac3bd03ff472b03d57d7570a76081af.html</link>
@@ -475,25 +500,6 @@
             <link>https://instant.lvv2.com/html/0d80ff11ed222936d9ddb2f1df944373.html</link>
             <guid>bc27672b11462e940282164e2308d524</guid>
             <pubDate>Mon, 01 Mar 2021 08:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 对华经济战初步攻势？拜登签署行政令加强供应链
-]]></title>
-            <link>https://instant.lvv2.com/html/7bffacaba0793772ca8ce7f3c48568cc.html</link>
-            <guid>953ef5c7b1f990557874295533562273</guid>
-            <pubDate>Mon, 01 Mar 2021 07:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普“复出”演讲：抨击拜登把“美国优先”变成“美国最后”，暗示将参加2024年总统大选]]></title>
-            <link>https://instant.lvv2.com/html/27c5d943a970690f938e4c70b27b6e5f.html</link>
-            <guid>1cacb89e69196a15d6b71c86205d127d</guid>
-            <pubDate>Mon, 01 Mar 2021 07:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菠萝又叫凤梨，貌似人畜无害，却引发了台海两岸新争端]]></title>
-            <link>https://instant.lvv2.com/html/c6a63f0599ca44851aeb2f82c0c4494d.html</link>
-            <guid>e14f453155830226d9e5f5520b54349b</guid>
-            <pubDate>Mon, 01 Mar 2021 07:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
