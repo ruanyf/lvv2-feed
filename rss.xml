@@ -4,11 +4,25 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 02 Mar 2021 20:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 22:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家人工智能安全委员会756页「年终报告」获国会批准。他们建议：让芯片制造回归本土，同时拉拢全球3大光刻机制造商；扩大AI投资，为AI人才发放绿卡等。]]></title>
+            <link>https://instant.lvv2.com/html/068d4ce450bf5505a38d9bd993b174f3.html</link>
+            <guid>ae03ebec191b48cbe5ca86dfe1aaae5d</guid>
+            <pubDate>Wed, 03 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我们亲手在资助地球上最极端最疯狂最丑陋的反华政权，滋养其反华土壤，培植其反华势力，巩固其通过反华获取的政治合法性，塑造其反华政治路径，以至于越反华越稳固。
+说得好！自嘲完美
+ ]]></title>
+            <link>https://instant.lvv2.com/html/4c92ba26343c6f5cb4e6b4c7e1236253.html</link>
+            <guid>3749a74faa95c2c4ef9b511bb555145f</guid>
+            <pubDate>Wed, 03 Mar 2021 05:06:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[凤凰，远去的中间地带]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/603b3d6df0cd0a1a01d92c39</link>
@@ -526,19 +540,6 @@
             <link>https://instant.lvv2.com/html/8041560b7ee813546fb04a2db923999f.html</link>
             <guid>54ca1a85b79fa8914e7e60989cdbc5ad</guid>
             <pubDate>Tue, 02 Mar 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在“后真相”时代，即使我们知道如何拯救世界，一个退化的、不值得信任的信息系统，也能阻止挽救的进程。
-]]></title>
-            <link>https://instant.lvv2.com/html/c5e2eb5addcfe769d3d7a71fe3944ece.html</link>
-            <guid>daeb55dff6ef7982918131fa0c9d2d74</guid>
-            <pubDate>Tue, 02 Mar 2021 07:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在校学生杜某某以实习生身份到高铁担任乘务辅警期间，多次在值警时，身穿辅警制服到列车卫生间内拍摄自己的不雅照片和视频，并且上传到境外社交软件上，点击量破万。经北京铁路运输检察院提起公诉，被告人杜某某因传播淫秽物品，被判处5个月拘役。]]></title>
-            <link>https://instant.lvv2.com/html/26ba2aca476a9e6a4c0112336b7eab86.html</link>
-            <guid>ba0f168b276a4e21a59a92ed47ac6234</guid>
-            <pubDate>Mon, 01 Mar 2021 23:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
