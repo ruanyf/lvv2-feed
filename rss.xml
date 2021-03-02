@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 02 Mar 2021 18:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 20:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[凤凰，远去的中间地带]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/603b3d6df0cd0a1a01d92c39</link>
+            <guid>28a13948588f51b8c346102b26e122ec</guid>
+            <pubDate>Wed, 03 Mar 2021 04:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《烟火》，独立绽放】在游戏开场的工作人员名单中，编剧、美术、UI设计…几乎所有的关键职位上都写着同一个名字“月光蟑螂”（下文简称“月光”）。实际上，他是制作组拾英工作室的唯一员工。]]></title>
+            <link>https://instant.lvv2.com/html/6989840950111ab1a6580277b39e034c.html</link>
+            <guid>a7aecc827d58a3fa0a1a5db7344dd458</guid>
+            <pubDate>Wed, 03 Mar 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【逛拼多多的人首次多过淘宝，在大年三十这天】春节营销活动带来的用户活跃度有一定偶然性，但拼多多的 DAU 首次超过手机淘宝，这依然是一个标志性节点——除了拼多多首次有关键用户指标超过阿里巴巴，还因为接下去拼多多的用户增长空间也将不可避免的收窄，双方或将面临更直接的存量用户争夺战。]]></title>
             <link>https://instant.lvv2.com/html/5f10f92a1095efeb27ecfa4f4bbe990e.html</link>
@@ -527,18 +539,6 @@
             <link>https://instant.lvv2.com/html/26ba2aca476a9e6a4c0112336b7eab86.html</link>
             <guid>ba0f168b276a4e21a59a92ed47ac6234</guid>
             <pubDate>Mon, 01 Mar 2021 23:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CDT周报】第六期：新时代让“虽远必诛”成为现实：虽远必诛你家人 ]]></title>
-            <link>https://instant.lvv2.com/html/b6a510c5dfdf18b2d27ae69810602a6d.html</link>
-            <guid>625de56b6bae798d98f3f06e565a89b3</guid>
-            <pubDate>Tue, 02 Mar 2021 06:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“夺命”临床试验】他汀类药物早在十多年前就被推荐为冠心病患者的一线用药，写入指南。但研究团队检索发现，国内此后仍开展了两千余项“冗余”的临床试验，造成3500例心血管事件，包括近600人死亡。多位业内人士提到，国内临床工作者奖惩制度与科研的深度绑定，可能是导致此类“冗余”试验泛滥的最重要原因。]]></title>
-            <link>https://instant.lvv2.com/html/98c4d489f2458d02ccfd13cac9265bd7.html</link>
-            <guid>f61a5619c5e6e31ad551a443d5c22bed</guid>
-            <pubDate>Tue, 02 Mar 2021 06:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
