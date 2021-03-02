@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 02 Mar 2021 17:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 18:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【逛拼多多的人首次多过淘宝，在大年三十这天】春节营销活动带来的用户活跃度有一定偶然性，但拼多多的 DAU 首次超过手机淘宝，这依然是一个标志性节点——除了拼多多首次有关键用户指标超过阿里巴巴，还因为接下去拼多多的用户增长空间也将不可避免的收窄，双方或将面临更直接的存量用户争夺战。]]></title>
+            <link>https://instant.lvv2.com/html/5f10f92a1095efeb27ecfa4f4bbe990e.html</link>
+            <guid>17dc6b1c4286ca6584dbbf6774cb8649</guid>
+            <pubDate>Wed, 03 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3月1日，前英国首相丘吉尔的画作《库图比亚清真寺塔》，以830万英镑（约合人民币7469万元）的价格，在伦敦佳士得拍卖行售出，刷新丘吉尔个人画作拍卖纪录。这幅画作在二战期间被赠予给美国前总统罗斯福，最终成为演员安吉丽娜·朱莉的收藏。]]></title>
+            <link>https://instant.lvv2.com/html/ee95f5aeadb14db56300dd74873bf85b.html</link>
+            <guid>00b7874ad27cef200e052a51bdc28a57</guid>
+            <pubDate>Wed, 03 Mar 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[目击者说，BBC提格雷语记者格梅·格布鲁（Girmay Gebru）和其他四人在提格雷首府默克莱（Mekelle）的一家咖啡馆内被带走。]]></title>
             <link>https://instant.lvv2.com/html/be611bddd233143216b66c5ad61f2151.html</link>
@@ -527,19 +539,6 @@
             <link>https://instant.lvv2.com/html/98c4d489f2458d02ccfd13cac9265bd7.html</link>
             <guid>f61a5619c5e6e31ad551a443d5c22bed</guid>
             <pubDate>Tue, 02 Mar 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中美贸易战期间，分析人士就曾指出，中国对美国打稀土牌会使美国和其他稀土进口大国认识到供应依赖的脆弱性，让他们作出努力，开辟新供应渠道并且鼓励自己的相关技术创新。
-]]></title>
-            <link>https://instant.lvv2.com/html/8b6186025815995223988115d6fc6e34.html</link>
-            <guid>3fcee4fa9533d74d76e1c1347dd38665</guid>
-            <pubDate>Tue, 02 Mar 2021 05:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电网发布“碳中和”路径图：2025年输送清洁能源占比达到50%】作为中国最大的能源公司之一——国家电网在3月1日公布了其自身的“碳达峰、碳中和”行动方案。国家电网集团向碳中和转型的行动，在某种意义上也关乎中国整体“碳达峰、碳中和”任务的进程。]]></title>
-            <link>https://instant.lvv2.com/html/845dcdabb52a1369b65b94822702353d.html</link>
-            <guid>6a6c0a8f6dcc32bf7ed45c981b2e4a79</guid>
-            <pubDate>Tue, 02 Mar 2021 05:08:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
