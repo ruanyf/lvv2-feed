@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 03 Mar 2021 20:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 22:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[实车接受预定，长城新款定名“自由炮”房车预售价31.88万起]]></title>
+            <link>https://instant.lvv2.com/html/5f2fc266eda7391036ba95782b6c372d.html</link>
+            <guid>83825ff4ac8dffb13981ff3855b9ee44</guid>
+            <pubDate>Thu, 04 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间3日上午，日本海上自卫队“30FFM”项目3900吨型新一代多任务护卫舰一号舰在三菱重工长崎工场举行下水仪式，该舰被命名为“最上”。按照计划，日本打算首批建造八艘“最上”级护卫舰，在未来每年编列两艘，到2021年编列完毕。]]></title>
+            <link>https://instant.lvv2.com/html/d4486ea40b7e8f59553614080206246d.html</link>
+            <guid>6e1b5185bf6f7031ad1f3694ff82dc2e</guid>
+            <pubDate>Thu, 04 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【7年，一只猫用一生陪我经历安家结婚生子】我的小猫咩咩，陪伴了我7年，见证了我恋爱、结婚、生子，但因生病去世没能陪我走得更远。我把咩咩葬在了一棵大树下，那里风景优美，离家也不远，我可以经常过来看它。]]></title>
             <link>https://instant.lvv2.com/html/dc5f3ebc6dd15e7f6301e1bcb9d3d366.html</link>
@@ -523,24 +535,6 @@
             <link>https://instant.lvv2.com/html/68b02cb7fcd0b914bc0596a9f691ed0a.html</link>
             <guid>f92e92ce0aee3ef57343b0046e8b66f1</guid>
             <pubDate>Wed, 03 Mar 2021 09:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国高端护肤品牌 Eve Lom 被完美日记的母公司收购】此交易的卖方为私募股权投资公司 Manzanita Capital，后者将继续在该业务中保留少数股权，并与逸仙电商达成战略合作关系。该收购预计将在未来数周内完成。Eve Lom由同名明星美容师创立于1985年，洁颜霜是其标志性产品，在国内美妆圈知名度颇高。]]></title>
-            <link>https://instant.lvv2.com/html/6e6f23f15acd3c11c1c0cb068a1ad31b.html</link>
-            <guid>40954c8ad53b0d5a96944e87133afe53</guid>
-            <pubDate>Wed, 03 Mar 2021 09:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3月2号晚，著名歌坛组合“太极乐队”成员唐奕聪被发现于家中昏迷，虽然被紧急送往医院，但还是因为抢救不及时，不幸去世，享年57岁。据不完全统计，唐奕聪担任编曲的歌曲总共有着400首，包括已故天王天后陈百强、梅艳芳、张国荣，以及四大天王、周慧敏、邝美云、草蜢、彭羚、许志安、周华健、陈奕迅等等的作品。]]></title>
-            <link>https://instant.lvv2.com/html/2c79ca998840cc4ffaa134dde813e45d.html</link>
-            <guid>8a65301aefdebf942d81315b62e99b0b</guid>
-            <pubDate>Wed, 03 Mar 2021 08:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[「圆形监狱」：整个现代社会的建筑原型]]></title>
-            <link>https://instant.lvv2.com/html/b8043b2d1f24f64ecbd9f5379777700a.html</link>
-            <guid>7e03a1d94db5a30060ae0623d0be3b54</guid>
-            <pubDate>Wed, 03 Mar 2021 08:40:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
