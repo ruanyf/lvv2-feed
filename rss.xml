@@ -4,11 +4,60 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 03 Mar 2021 01:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 02:40:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【使用 Airtable 搭建科研学术知识库】目前的 Airtable 已经可以把「后端」负责的事情全部做了，但是在视图拓展能力上，还是需要依赖于前端开发者写出 React 代码才能完成视图，那将不仅是单纯的「知识库」了，而是向实现「软件民主化」的愿景更进一步。]]></title>
+            <link>https://instant.lvv2.com/html/7efc5e226be6bcc96e23528fe531fc17.html</link>
+            <guid>57d61865fe2a7d6bfc8234673185fd82</guid>
+            <pubDate>Wed, 03 Mar 2021 10:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“种族灭绝”一词常让人想到二战中纳粹德国大规模屠杀犹太人，而该词被用于指称中国政府对待新疆维吾尔族人的行为，引发了巨大争议。
+]]></title>
+            <link>https://instant.lvv2.com/html/385c49796f48ee9e51d72d8dd44a9d52.html</link>
+            <guid>a56ba00ec1d5ae42677ecbd6f1fa2451</guid>
+            <pubDate>Wed, 03 Mar 2021 10:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最强关系户？无球可踢的他，用四个月时间加盟AC米兰】“嘿！你真的在AC米兰踢过球吗？”面对不太礼貌的提问，中年男人并没有生气，他笑盈盈地回答：“当然，我当然在AC米兰踢过球，我叫哈维-埃萨亚斯（Harvey Esajas），你可以上网搜到我，我为AC米兰出场过6分钟。”]]></title>
+            <link>https://instant.lvv2.com/html/110632834ce9e700fba981f7dcde70a1.html</link>
+            <guid>81b888f77bb3dee62f9bb128bfc4b3fc</guid>
+            <pubDate>Wed, 03 Mar 2021 10:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【孤独的医保经办人，多了“尚方宝剑”后，监管医院变得容易了吗？】那些基层医疗机构，患者不断地被大医院虹吸，一年到头没几个病人。“他们降低标准让患者住院，给病人开输液，我们往狠罚，他们很可能因此倒闭。”作为医保人士，他开始思索，要解决医院骗保的深层次问题，“只有医保部门加强监管，是远远不够的。”]]></title>
+            <link>https://instant.lvv2.com/html/cd7e6270987a52d7faa4721d56ebc3d6.html</link>
+            <guid>f3ed2b48adb30a30a63baad44acd792c</guid>
+            <pubDate>Wed, 03 Mar 2021 10:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古埃及近600只猫狗的坟墓可能是世界上最古老的宠物墓地】这些动物似乎被轻轻地放在精心准备的坑里。许多被纺织品或陶器碎片覆盖，“这形成了一种石棺，”Osypinska说。90%以上是猫咪，许多猫咪戴着铁项圈或用玻璃和贝壳穿成的项链。一只猫科动物被放在一只大鸟的翅膀上。]]></title>
+            <link>https://instant.lvv2.com/html/788ef13d787e3177abfe388e92f3835b.html</link>
+            <guid>57a94e1ca4629f6cbfd3fedd4f9ef873</guid>
+            <pubDate>Wed, 03 Mar 2021 09:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赛博朋克2077：当虚拟的赛博朋克被真实的赛博朋克碾过】倾其所有去制作一款玩家梦想中的游戏，却最终为了财务上的安全选择半途而废。面对这或许是最后一款不管怎么精算都注定赚不回下一款游戏开发费用的单机游戏，如果不做根本性的分析，玩家是很难理解CDPR和SQUARE ENIX这些公司悲剧的必然成因的。]]></title>
+            <link>https://instant.lvv2.com/html/c5f799bc045fafa6ef8282426955cb4b.html</link>
+            <guid>c827b189d29d0f14431ca661bf241d85</guid>
+            <pubDate>Wed, 03 Mar 2021 09:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登称美国将在5月底前为每个美国成年人接种COVID-19疫苗]]></title>
+            <link>https://instant.lvv2.com/html/6cdfb67ef07c4073a3f738234e7e53de.html</link>
+            <guid>8ffc41b1022ae7824c0ae12113c97cf3</guid>
+            <pubDate>Wed, 03 Mar 2021 09:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[放今天，达叔的喜剧还不得被你们上纲死？]]></title>
+            <link>https://instant.lvv2.com/html/68b02cb7fcd0b914bc0596a9f691ed0a.html</link>
+            <guid>f92e92ce0aee3ef57343b0046e8b66f1</guid>
+            <pubDate>Wed, 03 Mar 2021 09:24:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国高端护肤品牌 Eve Lom 被完美日记的母公司收购】此交易的卖方为私募股权投资公司 Manzanita Capital，后者将继续在该业务中保留少数股权，并与逸仙电商达成战略合作关系。该收购预计将在未来数周内完成。Eve Lom由同名明星美容师创立于1985年，洁颜霜是其标志性产品，在国内美妆圈知名度颇高。]]></title>
             <link>https://instant.lvv2.com/html/6e6f23f15acd3c11c1c0cb068a1ad31b.html</link>
@@ -510,42 +559,6 @@
             <link>https://instant.lvv2.com/html/0e1c33c57d3b1dd10fa7e90fa8ea14dc.html</link>
             <guid>f6ec4cf9b4c01f7e2e809b5e5771c813</guid>
             <pubDate>Tue, 02 Mar 2021 11:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新版图标被网友吐槽后，亚马逊：现在不像希特勒了吧！？】原来那个让人看起来像胡子的“蓝色锯齿状胶带”被进行了细微的调整。锯齿状的边缘消失了，取而代之的是笔直的切口和折角设计。]]></title>
-            <link>https://instant.lvv2.com/html/b9989c0b3eb36c6d9e96be98463c9a6b.html</link>
-            <guid>0d640b118bc7c412f6db2368e0bc8804</guid>
-            <pubDate>Tue, 02 Mar 2021 11:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Champion将推出中国特供鞋款，专属代理商是“鞋王”百丽】百丽国际成为Champion鞋类和配饰新品的中国官方授权代理商，新品将于2021年6月上市。]]></title>
-            <link>https://instant.lvv2.com/html/813dcc1d7147ecc952ffad3a98d10894.html</link>
-            <guid>19a72af18419735dbb359240ce3632e2</guid>
-            <pubDate>Tue, 02 Mar 2021 10:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[踏入3月的第一日，艺术界传来令人错愕惊讶的消息 - James J Lally（蓝理捷，下简称J.J. Lally）宣布结束35年的古董生意。如今J.J Lally决定告别古董业界，相信外间最关心的，是他的珍藏会否即将在拍卖场释出。]]></title>
-            <link>https://instant.lvv2.com/html/8d7bc76b9e24ed782447a3279ffd3a84.html</link>
-            <guid>e008a4f038ec6d16e577d2e0ae904446</guid>
-            <pubDate>Tue, 02 Mar 2021 10:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒生指数史上最大改革定了】恒指的目标是在2022年中前将成份股数目增加至80只，最终数目将固定为100只。将把每个成分股的权重上限降至8%，同时适用于恒生中国企业指数。从2021年6月之指数调整开始实施。]]></title>
-            <link>http://wallstreetcn.com/articles/3621830</link>
-            <guid>72e469c20b4bdb274444842127b007e9</guid>
-            <pubDate>Tue, 02 Mar 2021 10:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊有「金便便」？】2 月 2 日亚马逊公布新总部HQ2第二阶段的设计图中，一座布满绿植的高塔，在常规的方形办公楼之中赫然而起。因其螺旋式建筑造型，这座高塔被取名为 The Helix 。设计来自 NBBJ 建筑事务所，此前做过多个大型企业总部项目——腾讯滨海大厦、支付宝总部、三星总部、vivo 总部、锐步世界总部等。]]></title>
-            <link>https://instant.lvv2.com/html/57a1fad1cd93fce295516391fbf59765.html</link>
-            <guid>8dd7300f9f57b119507412e7e0b866ac</guid>
-            <pubDate>Tue, 02 Mar 2021 10:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万金油的创始人，建过一座邪典乐园】靠万金油起家的胡文虎，在新加坡斥巨资建起了一座虎标万金油花园，也叫虎豹别墅，至今仍然是许多人的噩梦。虎豹别墅堪称新加坡最吓人的神魔鬼怪世界，很多人第一次亲眼见到十八层地狱，就是在那里。]]></title>
-            <link>https://instant.lvv2.com/html/198927ab1c680646c974f4c273ecd66b.html</link>
-            <guid>5d949d2b7216ccc6e0812bdee159824a</guid>
-            <pubDate>Tue, 02 Mar 2021 09:24:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
