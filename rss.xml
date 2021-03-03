@@ -4,11 +4,59 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 03 Mar 2021 02:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 04:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【你发的每一个表情，都可能成为“呈堂证供”】在一份民间借贷案的判决书中，贷款人张辉锋给借款人闫浩发微信，罗列了后者的借款明细。闫浩则回了一个表情符号“OK”。安徽省太和县人民法院认为：张辉锋提交的微信记录，没有得到闫浩的明确认可，该微信内容不能作为后者尚欠张辉锋相应金额的依据。]]></title>
+            <link>https://instant.lvv2.com/html/8ac1539ab59f582fce1ceb2f983b4fbd.html</link>
+            <guid>03a95769c258beca6d83250ddf8c1841</guid>
+            <pubDate>Wed, 03 Mar 2021 12:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“耽改101”开始内卷，《山河令》算是炮灰还是黑马？】道路千万条，耽改第一条。就算这已经是近两年娱乐圈尽人皆知的秘密，但很多人还是没想到，之前最不被看好的《山河令》竟然火了。]]></title>
+            <link>https://instant.lvv2.com/html/2b81695899663f323b4c4e9a3c04ea2d.html</link>
+            <guid>1f198902d6dc58940846f38bcdf3bcd5</guid>
+            <pubDate>Wed, 03 Mar 2021 12:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【千亿水泥巨头来了】3月2日晚间，天山股份公告，拟发行股份及支付现金，以981亿元重磅收购水泥资产。而天山股份最新收盘市值仅为177亿元，标准的“蛇吞象”。]]></title>
+            <link>https://instant.lvv2.com/html/96e1177427f03eb184cf062818d31313.html</link>
+            <guid>2cb8282e7e0d0c4cded80f20a07cc0c0</guid>
+            <pubDate>Wed, 03 Mar 2021 11:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【无视警告，美国得州将解除口罩令，放松防控措施】阿博特在卢博克市的商会发表演讲时表示，随着疫苗接种的增加和患者治疗的改善，国家现在的状况要“好得多”。与此同时，密歇根州、路易斯安那州和密西西比州也取消了类似的规定，解除了口罩令。]]></title>
+            <link>https://instant.lvv2.com/html/5d782b3b0a2c4802e29398ffc645112b.html</link>
+            <guid>7dd5f0c0629036eb0ccc7674292516e0</guid>
+            <pubDate>Wed, 03 Mar 2021 11:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epic收购《糖豆人》开发商Mediatonic，协助开发跨平台联机功能]]></title>
+            <link>https://instant.lvv2.com/html/2439859848dfe7bc78b0bfda1f3c006e.html</link>
+            <guid>bcc501b4534e9ffa94270fb9f946fa74</guid>
+            <pubDate>Wed, 03 Mar 2021 11:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场监管总局对五家社区团购企业不正当价格行为作出行政处罚】市场监管总局依法对橙心优选、多多买菜、美团优选、十荟团等四家社区团购企业分别处以150万元人民币罚款的行政处罚，对食享会处以50万元人民币罚款的行政处罚。]]></title>
+            <link>http://www.samr.gov.cn/xw/zj/202103/t20210303_326445.html</link>
+            <guid>280e33c543ff9dfc41ad66e5d71f12f8</guid>
+            <pubDate>Wed, 03 Mar 2021 11:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【警方通报：女生坐货拉拉跳车涉事司机被批捕】长沙市公安局高新区分局通过其官方微信发布关于周某春涉嫌过失致人死亡案件的情况通报。23日，公安机关以涉嫌过失致人死亡罪对周某春刑事拘留；3月3日，检察机关批准逮捕。]]></title>
+            <link>https://instant.lvv2.com/html/44be5005bd0165d2fb0fcb11d18dcd55.html</link>
+            <guid>a87b95b756a52db97be684f40f2d1de2</guid>
+            <pubDate>Wed, 03 Mar 2021 11:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洗澡时，我突然在左边蛋蛋上摸到了蚯蚓一样的东西……]]></title>
+            <link>https://instant.lvv2.com/html/569110572ecfeee15d990052aea3eb33.html</link>
+            <guid>4b6c3fdffc5809e199d5108d280d0c7d</guid>
+            <pubDate>Wed, 03 Mar 2021 10:56:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【使用 Airtable 搭建科研学术知识库】目前的 Airtable 已经可以把「后端」负责的事情全部做了，但是在视图拓展能力上，还是需要依赖于前端开发者写出 React 代码才能完成视图，那将不仅是单纯的「知识库」了，而是向实现「软件民主化」的愿景更进一步。]]></title>
             <link>https://instant.lvv2.com/html/7efc5e226be6bcc96e23528fe531fc17.html</link>
@@ -493,72 +541,6 @@
             <link>https://instant.lvv2.com/html/5d58fb2c7377e0c50556def0e1533833.html</link>
             <guid>6079b84893a5d6c83382695326c8da0c</guid>
             <pubDate>Tue, 02 Mar 2021 13:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海航随心飞，换票越来越难】既不是满员，也不是停航，如果你不用随心飞、而是掏现钱购买，这些航线都在好好飞，订票就能坐。可随心飞用户打电话去问，理由都一样：包机！大部分公司代理商承销的“包机”都允许随心飞换票，例如东航。]]></title>
-            <link>https://instant.lvv2.com/html/f71be8c04d1314b27b6ec53d7af7c0a2.html</link>
-            <guid>ba9b93b9d4fb25f8e72c5502225645db</guid>
-            <pubDate>Tue, 02 Mar 2021 12:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[暴雪也没拦住的新版本：Linux之父家中停电6天，「冰冻荒原」版Linux内核还是来了]]></title>
-            <link>https://instant.lvv2.com/html/402d056518f259d4fc842e9ea17d5e68.html</link>
-            <guid>c70011c61fe11af5bb7654a3d5ac83e5</guid>
-            <pubDate>Tue, 02 Mar 2021 12:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本二手商品平台Mercari将到淘宝、闲鱼卖货】今后淘宝和闲鱼上将显示一部分Mercari的商品。中国大陆的消费者下单后，由电商服务支援企业BEENOS代购商品，再发送给消费者…… ]]></title>
-            <link>https://instant.lvv2.com/html/8a15f2bb25db1c77bda8c52dbbc38602.html</link>
-            <guid>d637deb7129e15b4817b9abcc97a00f6</guid>
-            <pubDate>Tue, 02 Mar 2021 12:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲一体化蜕变为“防御性文明主义”，白人身份渐成欧洲认同核心】所谓欧洲一体化并非是全球化，而是区域一体化，本质上与民族国家没有差别，只是一个加强版，甚至可能会造成更大危害；欧洲一体化与历史上的欧洲殖民主义具有连续性，是后者的温和版。]]></title>
-            <link>https://instant.lvv2.com/html/f678a655770bef1e016d1f280c57ddc1.html</link>
-            <guid>8519328bc0ad649472c8310d90d24e55</guid>
-            <pubDate>Tue, 02 Mar 2021 12:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“227”一周年：举报，塌房，内卷，偶像与粉丝的996]]></title>
-            <link>https://instant.lvv2.com/html/e92593d89f73a27d4b0be18723de23c3.html</link>
-            <guid>6f15c7b71a760501348d78c8dd9cb083</guid>
-            <pubDate>Tue, 02 Mar 2021 12:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国免税店大“撤退”】一年多持续蔓延的疫情重创了旅游业，去年韩国免税店遭遇了有统计数据以来的首次亏损。乐天、新罗这两个韩国最大的免税店只能选择撤出仁川机场T1航站楼，不再续约。但两家的T2航站楼店将继续运营，乐天的取货处也照常运营。]]></title>
-            <link>https://instant.lvv2.com/html/cb3fdf1bfbb94cc9e798efbebf141e8b.html</link>
-            <guid>9dd0e8ddad8895986edd437055ee8ec4</guid>
-            <pubDate>Tue, 02 Mar 2021 12:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富士康进入生产淡季：手机组装量直接砍半，工人每月少赚近千元】上游“物料短缺”，叠加春节期间大规模的留守加班，提前消耗了富士康的订单，让淡季来得更快。海外工厂的发展也抢走了大陆工厂的部分订单。在富士康加班算是常态，也只有多加班才能赚钱，下班路上如果人挨人，代表着大多数人无班可加，工厂的订单变少了。]]></title>
-            <link>https://instant.lvv2.com/html/1223f40f23e7b457288f0e8949cfc856.html</link>
-            <guid>b8d8654bdf58bce159bf7f349df87a98</guid>
-            <pubDate>Tue, 02 Mar 2021 11:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国产PD-1的内卷：价格战、囚徒困境和消失的千亿市场】在两年多的时间内，国产PD-1的价格下降了70%左右，目前五万一年的价格很有可能不是尽头，每两年一次的医保谈判是悬在各家药企头上的紧箍咒， 3万一年并不会太遥远。“现在整个PD-1都是囚徒困境，这不是恒瑞的问题，而是PD-1太多了。”]]></title>
-            <link>https://instant.lvv2.com/html/d5ee81a76c7c848613bede177594657d.html</link>
-            <guid>50639b2288cadbe52062381ef1f39298</guid>
-            <pubDate>Tue, 02 Mar 2021 11:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青年编剧，浮在制造爆款的影视圈】带着热望入行，首先面临的是种种沮丧之处：行业的躁动，影视项目的不确定性，与资方和制片方的博弈，保持初心的创作和追求生计的两难。落差是显而易见的，“不知道自己写的是什么”、“不知道哪一天能写出好的作品”，一些人悄无声息地离开了，还有人留了下来，寻找写下一个剧本的理由。]]></title>
-            <link>https://instant.lvv2.com/html/7ac97a74fecee6ec09b9c55e7db02bdb.html</link>
-            <guid>95ee037a802365287f760ddcd8f61fbb</guid>
-            <pubDate>Tue, 02 Mar 2021 11:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国前总统萨科齐被判实刑，爱妻喊冤：“终有一天会真相大白”】虽然一年实刑可能会被调整为戴电子手环在家执行，但萨科齐仍是第一位被判实刑的前总统。这也彻底排除了萨科齐代表右派参加2022年大选的可能性。]]></title>
-            <link>https://instant.lvv2.com/html/24ac4d40f0c596bd4ea03c858ce86e7b.html</link>
-            <guid>d63249e7144b2c9794e0100d2643ff1a</guid>
-            <pubDate>Tue, 02 Mar 2021 11:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本：请中方不要对日本人检测肛拭子……]]></title>
-            <link>https://instant.lvv2.com/html/0e1c33c57d3b1dd10fa7e90fa8ea14dc.html</link>
-            <guid>f6ec4cf9b4c01f7e2e809b5e5771c813</guid>
-            <pubDate>Tue, 02 Mar 2021 11:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
