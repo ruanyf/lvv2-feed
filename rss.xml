@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 04 Mar 2021 17:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 18:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【深漂往事：野蛮生长的二十年】少数派的创始人老麦的深漂往事。虽然也已经听了无数“黑色都市”的光怪陆离和外来的年轻人一步步打拼成功的故事，但是这种故事永远都足够吸引人。]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/604086ae8e2ff7878d57bf03</link>
+            <guid>5df0897a7e9a5fb55a1ecbc3a9ea9bba</guid>
+            <pubDate>Fri, 05 Mar 2021 02:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当提到中国，美国人首先想到什么？皮尤中心还以开放问题询问受访者。排名最高的答案是人权，占20%，涉及经济、政治制度、威胁的答案紧随其后。
+]]></title>
+            <link>https://instant.lvv2.com/html/a21289faa36b45a326c5bbadcc9f971f.html</link>
+            <guid>7dbd97dfd330e6f33b3a2440793901aa</guid>
+            <pubDate>Fri, 05 Mar 2021 02:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为什么我的奶奶开始沉迷购买保健品？】年轻时，罗木兰是一家企业的高层白领，在别人眼中，照料了七口人的她十分精明能干。丈夫去世后，罗木兰开始热衷于参加养生讲座、购买各类保健品，曾经勤俭持家的她渐渐变得“固执己见”、“谎话连篇”，甚至和儿女发生了种种矛盾与冲突。导演试图了解一个独居老人的真实想法。]]></title>
+            <link>https://instant.lvv2.com/html/d972b9d73a4738d767f42060e4ef5f7c.html</link>
+            <guid>e4fe7df93d552bf3e2dc66f4e42a5aa9</guid>
+            <pubDate>Fri, 05 Mar 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【挤泡沫还是市场过于悲观？A股光伏“三巨头”市值一天缩水758亿】与传统能源煤炭、钢铁的“起飞行情”相比，光伏和新能源板块却被资本无情抛弃。]]></title>
             <link>https://instant.lvv2.com/html/d239e0bcaaaae4bda3f9b70fb49b4c83.html</link>
@@ -502,24 +521,6 @@
             <link>https://instant.lvv2.com/html/3b4762a4f59fa0bfc4aff3a3b713ed16.html</link>
             <guid>7e7771112368a940632b5f86d253d3e9</guid>
             <pubDate>Thu, 04 Mar 2021 08:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【从养马场到全球最大疫苗厂：这家印度家族企业如何成抗疫关键？】新冠疫情之前，世界上约60%的疫苗原本就产自印度，且成本相对较低。印度血清研究所是全球最大的疫苗制造商之一。如今，当全球疫苗分配受困于产能不足和政治纠纷时，《经济学人》称，血清研究所是唯一一家能够快速提高产量并将疫苗出口而不引发争议的公司。]]></title>
-            <link>https://instant.lvv2.com/html/232961ed4a7a7dedbac82c73e988e796.html</link>
-            <guid>bf0faccde073f9cdc6497f9abfc05850</guid>
-            <pubDate>Thu, 04 Mar 2021 07:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网易云音乐高层变动，丁磊掌管实际业务】网易云音乐 CEO 朱一闻已于 2020 年底被 “内部降级”。其职级暂未变动，但网易 CEO 丁磊已担起网易云 CEO 的工作，掌管实际业务。一位知情人士告诉记者，调整主要因为业务做得不好，“营收一直做不上去，创新也没有结果。”]]></title>
-            <link>https://instant.lvv2.com/html/f54bec3fd1b6cf77a4cde450026d2995.html</link>
-            <guid>b4d7b2da112d813299b69a6e10fd0361</guid>
-            <pubDate>Thu, 04 Mar 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国剧《觉醒年代》，看得我热血沸腾]]></title>
-            <link>https://instant.lvv2.com/html/ac5526a4aec6f9d822f2b519a2ca1470.html</link>
-            <guid>cbc2328c93d3f0bdb380d76fc68452a1</guid>
-            <pubDate>Thu, 04 Mar 2021 07:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
