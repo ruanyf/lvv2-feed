@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 06 Mar 2021 16:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 18:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【《山河令》：互联网世界里，“侠之大者”的流变】如果说曾经的侠之大者是“为国为民”，进入新世纪而崛起于网络中的“新武侠”小说的转向之一便是悄悄消解了侠的这一崇高性，而开始把他们个体的遭遇、不幸以及痛苦作为主轴。]]></title>
+            <link>https://instant.lvv2.com/html/61087061225379dae53d5f8a744a8a2b.html</link>
+            <guid>d090b6e801d4e8d0462e4e15bccf84d6</guid>
+            <pubDate>Sun, 07 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从“最上的复活”说起：“新日本海军”如何继承旧日本海军舰名]]></title>
+            <link>https://instant.lvv2.com/html/0448886579e6cd2ad1caea3098cfb7ca.html</link>
+            <guid>67d5566873bdb9afa2aafd0c8b7e74c0</guid>
+            <pubDate>Sun, 07 Mar 2021 01:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[我居然拿到并修复《生化危机》同款军用本，松下CF-25]]></title>
             <link>https://instant.lvv2.com/html/814105c30505ec117bf3a74cc43b342d.html</link>
@@ -449,12 +461,6 @@
             <link>https://instant.lvv2.com/html/1ef8b2e1738c97f7e92548fa92f2f9d9.html</link>
             <guid>8a8ae25d4c494d3e28b48d859803e017</guid>
             <pubDate>Fri, 05 Mar 2021 20:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[忍受家暴 20 年，我终于与父亲断绝了关系 | 故事FM]]></title>
-            <link>https://instant.lvv2.com/html/eb7bee6bc6c44303c20b01663ed8cc2e.html</link>
-            <guid>a0d0d6a2a5c79626040371b938385966</guid>
-            <pubDate>Fri, 05 Mar 2021 20:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
