@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 06 Mar 2021 18:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 20:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -449,18 +449,6 @@
             <link>https://instant.lvv2.com/html/28f550e186b69e6e5dca448d8acf30fb.html</link>
             <guid>9a31116e584827d0cbf783ac0c101b21</guid>
             <pubDate>Fri, 05 Mar 2021 20:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021年第71届柏林电影节奖项公布，罗马尼亚导演拉杜·裘德的新作《倒霉性爱，发狂黄片》获最佳影片金熊奖，日本导演滨口龙介《偶然与想象》获评审团大奖，洪常秀《引见》获最佳编剧。今年演员奖改为评选最佳主角/配角，均由女演员获得。]]></title>
-            <link>https://instant.lvv2.com/html/30ddd7fb592ef4977f2ae131f0036e47.html</link>
-            <guid>7958d7349aa755c508062c0e06a4977f</guid>
-            <pubDate>Fri, 05 Mar 2021 20:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年的「女王节」营销，耐克又认真了一次】在输出品牌理念这件事儿上，耐克似乎从没输过。大胆并且基于普世价值观的市场营销，是耐克（NIKE）能持续占据市场浪尖的关键因素。]]></title>
-            <link>https://instant.lvv2.com/html/1ef8b2e1738c97f7e92548fa92f2f9d9.html</link>
-            <guid>8a8ae25d4c494d3e28b48d859803e017</guid>
-            <pubDate>Fri, 05 Mar 2021 20:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
