@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 07 Mar 2021 20:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 22:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【NFT加密艺术误伤了艺术圈吗？】1）艺术品行业是很慢接受科技的传统行业，为什么会开始接触区块链；2）区块链技术可能对拍卖行/二级市场有益，如何和艺术家直接相关？3）什么样的艺术家在参与其中 4）买家是否真心喜爱艺术]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/60434e855e7f2b461bc592ab</link>
+            <guid>53826208e08dbaa4f53efaf91c63bdc8</guid>
+            <pubDate>Mon, 08 Mar 2021 06:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[后摇界迷惑行为小赏]]></title>
+            <link>https://instant.lvv2.com/html/72cef88f1a9ed9d3a006e1bc66b6e443.html</link>
+            <guid>9f70372d001d7d316e2815a847bce447</guid>
+            <pubDate>Mon, 08 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【临沂集市上的两个“拉面哥”：一个被“流量”选中，一个没登上风口】早在一年前，刘忠奎在短视频平台的网名就已经叫“拉面哥666”了。他开直播、拍短剧，也不是没想过借着互联网的风口“起飞”，但现在火的那个人，却是从来没有这方面经验的程运付。]]></title>
             <link>https://instant.lvv2.com/html/29f24f92c8f07dcb8615bfbd67ddee8d.html</link>
@@ -462,12 +474,6 @@
             <link>https://instant.lvv2.com/html/294d297fb8ef19a33999500330e96f3f.html</link>
             <guid>eca01ef31a3e198c6c51e813ef5de3dc</guid>
             <pubDate>Sat, 06 Mar 2021 18:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谁发明了中年危机？】和“内卷”一样，中年危机也是被构建出的社会概念，唯一的作用，就是让我们觉得“中年危机真实存在”。]]></title>
-            <link>https://instant.lvv2.com/html/feb85dc4afdfeadd04ba673c97975ea8.html</link>
-            <guid>b7e9cf28e28cde203a07c703d9674e7b</guid>
-            <pubDate>Sat, 06 Mar 2021 17:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
