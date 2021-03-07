@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 07 Mar 2021 17:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 18:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[李诞代言广告「让女性躺赢」？背后是内衣包裹的新世界]]></title>
+            <link>https://instant.lvv2.com/html/2b3b778ebc360838511d6f5f45f8ef4a.html</link>
+            <guid>9589d8f9c94a7e9420d041488c0fbc00</guid>
+            <pubDate>Mon, 08 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7天氪金20亿，日本人因为一款赛马娘化的手游彻底疯了】《赛马娘》选择侧重于角色养成，卡牌长线成长为辅的设计。游戏采用了二次元题材中一种较为少见的融合性玩法：模拟经营+Roguelite+卡牌养成。]]></title>
+            <link>https://instant.lvv2.com/html/786e83a62d4b3affc6c3feaf4444bee6.html</link>
+            <guid>027f38d2eb04b6846a79ac1d24401496</guid>
+            <pubDate>Mon, 08 Mar 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@Le Flaneur：从去年开始，我在家门口放了免费饮料给快递员和外卖员，也打印了纸条贴在旁边说这个饮料是给快递员和外卖员的，但饮料经常很快就被拿光了。两天前我早上放出去6瓶饮料，两个小时后全数消失，安装了摄像门铃后拍摄到很多让人不舒服的事情。]]></title>
             <link>https://instant.lvv2.com/html/e8501f6bf3becb0c071af0a5b4d2f921.html</link>
@@ -270,6 +282,12 @@
             <pubDate>Sun, 07 Mar 2021 10:08:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[混乱、焦虑、失控：整理师走进1000个房间后发现的中国家庭]]></title>
+            <link>https://instant.lvv2.com/html/88f20002597681aa8dee791415472522.html</link>
+            <guid>ead9a55e70439456688d1acb495c7a15</guid>
+            <pubDate>Sun, 07 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【为了劝我妈，我做起了“国学大师”】我自己整了个小葫芦，摆在白色保温杯前拍了一张，再用美图秀秀P上了“国学”两个字，就是公众号“国学爱生活”的头像了。]]></title>
             <link>https://instant.lvv2.com/html/676c0ace784aa68b79de2f87c20d290a.html</link>
             <guid>00ea29cdb56b106c41325105d29038e0</guid>
@@ -344,10 +362,10 @@
             <pubDate>Sun, 07 Mar 2021 06:40:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[混乱、焦虑、失控：整理师走进1000个房间后发现的中国家庭]]></title>
-            <link>https://instant.lvv2.com/html/88f20002597681aa8dee791415472522.html</link>
-            <guid>ead9a55e70439456688d1acb495c7a15</guid>
-            <pubDate>Sun, 07 Mar 2021 06:08:11 GMT</pubDate>
+            <title><![CDATA[【尼古拉斯凯奇又又又结婚了…】57岁的尼古拉斯·凯奇和26岁女友Riko Shibata已经于2月16日在拉斯维加斯举行了秘密的小型婚礼！婚礼照首度曝光！凯奇发言人称选择这一天也是为了记念凯奇已故父亲（生日），Riko穿着来自京都的和服参加婚礼。这是凯奇第5段婚姻～]]></title>
+            <link>https://instant.lvv2.com/html/75d87b3c97a0eda47a33c32b2ca63aae.html</link>
+            <guid>ab9c344a7fadfabff998463185d6c646</guid>
+            <pubDate>Sat, 06 Mar 2021 23:40:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【《山河令》：互联网世界里，“侠之大者”的流变】如果说曾经的侠之大者是“为国为民”，进入新世纪而崛起于网络中的“新武侠”小说的转向之一便是悄悄消解了侠的这一崇高性，而开始把他们个体的遭遇、不幸以及痛苦作为主轴。]]></title>
@@ -366,12 +384,6 @@
             <link>https://instant.lvv2.com/html/814105c30505ec117bf3a74cc43b342d.html</link>
             <guid>8e07820c7505bad53b0cb11634ea5a0d</guid>
             <pubDate>Sun, 07 Mar 2021 00:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼古拉斯凯奇又又又结婚了…】57岁的尼古拉斯·凯奇和26岁女友Riko Shibata已经于2月16日在拉斯维加斯举行了秘密的小型婚礼！婚礼照首度曝光！凯奇发言人称选择这一天也是为了记念凯奇已故父亲（生日），Riko穿着来自京都的和服参加婚礼。这是凯奇第5段婚姻～]]></title>
-            <link>https://instant.lvv2.com/html/75d87b3c97a0eda47a33c32b2ca63aae.html</link>
-            <guid>ab9c344a7fadfabff998463185d6c646</guid>
-            <pubDate>Sat, 06 Mar 2021 23:40:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[受《节奏天国》启发而制作的独立游戏《节奏医生》现已在 Steam 开始抢先体验，目前「好评如潮（98%）」。玩家扮演一名心脏救急医生，需要抓住完美时机，在音乐的第七拍处按下空格，救死扶伤。循序渐进的难度安排，华丽夸张的音画演出，神秘怪诞的剧情设定，还有高难度的「夜班模式」。]]></title>
@@ -463,18 +475,6 @@
             <link>https://instant.lvv2.com/html/de8be7c4dc6ec8afdacbf202cff0810b.html</link>
             <guid>b5e13e7e5b08b30b723332621b16e747</guid>
             <pubDate>Sat, 06 Mar 2021 17:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“张一鸣”为何突袭“王兴”】除了广告，字节跳动没有一个能打的业务。对已经如此体量的字节来说，营收严重依赖最简单的流量变现不是件好事。而依靠短视频获得的6.5亿的日活眼看着接近天花板，原有领域也没有刚需高频的国民级别消费业务。刚需且高频的本地生活服务，恰好是张一鸣需要的。]]></title>
-            <link>https://instant.lvv2.com/html/1b0ccdcefcfa048d06b09289b689ac3c.html</link>
-            <guid>7fc73d46b6d0656188d2280ec43a9fe3</guid>
-            <pubDate>Sat, 06 Mar 2021 17:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“限韩令”时代的项目怎么样了？】尽管明面上所有中韩合作影视项目都停掉了，但在过去几年，中韩在电影方面的交流其实一直在低调进行中。明年对涉韩项目的限制大概率会放开，未来会如何有待观望。]]></title>
-            <link>https://instant.lvv2.com/html/0226373dae49921b34dc3f8d50b30ec1.html</link>
-            <guid>e21d1f1427cbba0733acff03c2ad0c29</guid>
-            <pubDate>Sat, 06 Mar 2021 16:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
