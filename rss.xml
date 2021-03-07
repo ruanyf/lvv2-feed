@@ -4,11 +4,41 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 07 Mar 2021 12:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 14:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[一个亿！埃及人口大爆炸]]></title>
+            <link>https://instant.lvv2.com/html/8813aa1681185256b0f8ceaee2f918b9.html</link>
+            <guid>186a2b74dd6069a789bec296c62fd073</guid>
+            <pubDate>Sun, 07 Mar 2021 22:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[好耶，我做了《电锯人》中电锯人的电锯头]]></title>
+            <link>https://instant.lvv2.com/html/4976516e6865de5296f1478eeaf10809.html</link>
+            <guid>d503e751e4b5c034ca34c7b2a8d5c748</guid>
+            <pubDate>Sun, 07 Mar 2021 22:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“网课第一股”来了！Coursera申请美股上市，吴恩达参与创办]]></title>
+            <link>https://instant.lvv2.com/html/b4a9e13a8d09cc6cfbe64c1e8d66b35d.html</link>
+            <guid>8f1d8ef9552064824c4bb8fbd4ee2ea8</guid>
+            <pubDate>Sun, 07 Mar 2021 21:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥运会工人：新冠期间被困在日本的外劳】日本所谓的“技能实习生培训计划”本身存在的巨大矛盾与风险。尽管政府采取了紧急措施为失业和滞留人员提供了临时补助，但是这些政策实际上显示，政府继续把流动人员当作可用可弃的劳工以减轻经济冲击带来的负面效果。]]></title>
+            <link>https://instant.lvv2.com/html/439b35fdce610ed4ae4891699743fa56.html</link>
+            <guid>153b1fc0b9188931ac8c3f37b054b41b</guid>
+            <pubDate>Sun, 07 Mar 2021 21:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国西班牙收数字税，谷歌：广告费将会涨价]]></title>
+            <link>https://instant.lvv2.com/html/fe3cc75ede3f6292a70f8921eedab544.html</link>
+            <guid>27c46683621feff8dc7439b1607cc9f0</guid>
+            <pubDate>Sun, 07 Mar 2021 20:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【呷哺呷哺拖累湊湊？】与呷哺的平民路线不同，湊湊定位中高端，直接对标海底捞，客单价在130元左右。2019H1，湊湊的翻台率为4.1，“行业标杆”海底捞为4.8。]]></title>
             <link>https://instant.lvv2.com/html/1b193972599fe6958134594fb0bf4d46.html</link>
@@ -444,25 +474,6 @@
             <link>https://instant.lvv2.com/html/ae34f516329861dd7178cd427cc74d8f.html</link>
             <guid>818b82381900c6467e0680f488d4a02d</guid>
             <pubDate>Sat, 06 Mar 2021 15:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美欧声明相互暂停数十亿美元关税】当地时间3月5日，欧盟和美国同意把因飞机补贴争端而实施的价值数十亿美元的进口关税暂停四个月，并致力于就飞机补贴争端达成全面持久的解决方案。欧盟与美国的航空业补贴之争已经持续了17年。]]></title>
-            <link>https://instant.lvv2.com/html/3f4bc2798a566f5d47ea66806e15aa68.html</link>
-            <guid>6f504f1d45424024d30c016649be64f6</guid>
-            <pubDate>Sat, 06 Mar 2021 15:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国铁集团董事长：2025年高铁覆盖98%城区人口50万以上城市】到2025年，全国铁路营业里程将达到17万公里左右，其中高铁（含城际铁路）5万公里左右，铁路基本覆盖城区人口20万以上城市，高铁覆盖98%城区人口50万以上城市。]]></title>
-            <link>https://instant.lvv2.com/html/3fa20bc2130aeb10ffde72b4ae92fdd9.html</link>
-            <guid>a8616b4b1894415b91d0aa01572e8b18</guid>
-            <pubDate>Sat, 06 Mar 2021 14:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 赵婷创造历史，首位亚洲女导演问鼎金球奖
-]]></title>
-            <link>https://instant.lvv2.com/html/8121451db5eeb01da145a68ef6bc228f.html</link>
-            <guid>97cd74b750fc3970fc93eb6e07ae097b</guid>
-            <pubDate>Sat, 06 Mar 2021 14:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
