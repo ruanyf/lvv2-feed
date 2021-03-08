@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 08 Mar 2021 14:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 16:57:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【百亿基金经理集体翻车：97只百亿基金仅1只净值增长为正】某大型基金公司渠道人士表示：“赎回肯定有，但是赎回潮还不至于。今年进来新基民，或去年四季度进来的部分新基民，持有的基金已有浮亏。若后面A股持续快速下行，基民选择割肉止损的可能性也会大幅提高。”]]></title>
+            <link>https://instant.lvv2.com/html/91f6df52c4d9d4a96318fab970fbdf96.html</link>
+            <guid>2439a3ac2e27753b60fa953fcc20d401</guid>
+            <pubDate>Mon, 08 Mar 2021 22:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吴孟达丧礼现场直击】周星驰是首位前来吊唁的圈中好友。下午4时许，星爷乘车抵达灵堂，他戴着帽子，面容憔悴，神情哀伤，下车后一路低着头，没有与等候在路边的影迷和媒体打招呼，径直走入灵堂，逗留了约10分钟后离开，全程没有做任何公开发言。]]></title>
+            <link>http://www.toutiao.com/i6936900052308771342/</link>
+            <guid>c71478392d4f0653db3766013190afa6</guid>
+            <pubDate>Tue, 09 Mar 2021 00:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[回三线老家上班已经大半年了，总结就一个字：爽爆了]]></title>
+            <link>http://bbs.hupu.com/41560465.html</link>
+            <guid>8865647f56505ea197f42ffeed0f694a</guid>
+            <pubDate>Tue, 09 Mar 2021 00:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[好家伙，妇女节品牌营销翻车行为大赏]]></title>
+            <link>https://instant.lvv2.com/html/e7f7d5076d428457fd98409a07940bb3.html</link>
+            <guid>adcdb84ef5d6a66196f147fe58ea8e4a</guid>
+            <pubDate>Mon, 08 Mar 2021 23:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[哈里和梅根淡出英国王室一年后接受访谈、回顾宫中生活往事，几多内幕、怎样感受？
 ]]></title>
@@ -446,24 +470,6 @@
             <link>https://instant.lvv2.com/html/f8f74a400ae7a71e9c90d1caa2216205.html</link>
             <guid>fc446dc0cdd8a1e4aa46c2c9def38946</guid>
             <pubDate>Mon, 08 Mar 2021 00:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【少年时我们都以为自己有翅膀，中年才发现自己是只鸡：导演们最近对“中年生活”挺上头】黄信尧和托马斯·温特伯格的新片，他们诚心实意，没有隐晦，和盘托出。这种和盘托出，甚至到了伤害可看性的地步。《同学麦娜丝》和《酒精计划》，均被认为逊色于各自的前一部电影《大佛普拉斯》和《狩猎》。]]></title>
-            <link>https://instant.lvv2.com/html/b7667a25076e0dc98c6a8a7f9a1a66e0.html</link>
-            <guid>e373755b90cca4d8907b333adc77d05e</guid>
-            <pubDate>Sun, 07 Mar 2021 23:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一个亿！埃及人口大爆炸]]></title>
-            <link>https://instant.lvv2.com/html/8813aa1681185256b0f8ceaee2f918b9.html</link>
-            <guid>186a2b74dd6069a789bec296c62fd073</guid>
-            <pubDate>Sun, 07 Mar 2021 22:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[好耶，我做了《电锯人》中电锯人的电锯头]]></title>
-            <link>https://instant.lvv2.com/html/4976516e6865de5296f1478eeaf10809.html</link>
-            <guid>d503e751e4b5c034ca34c7b2a8d5c748</guid>
-            <pubDate>Sun, 07 Mar 2021 22:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
