@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 09 Mar 2021 17:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 18:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【走向碳中和】@木遥：推荐一下央行的郭凯给比尔盖茨的新书《如何避免气候灾难》写的一篇非常好的读书笔记，读完了几乎就像把书读了一遍一样。]]></title>
+            <link>https://instant.lvv2.com/html/9144340097eca192f24a36b179ca5c03.html</link>
+            <guid>66f6895ce2bb6782a5908a7d6b7e28fd</guid>
+            <pubDate>Wed, 10 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【A股暴跌下的新基金】最近三个月成立的大量新基金正在建仓，相当大比例成立以来净值出现下跌，有的甚至是猛烈的暴跌。正在建仓期的超八成主动权益类基金净值下跌，其中46只更是跌幅超过10%。]]></title>
             <link>https://instant.lvv2.com/html/b0c9a09b136a6c19867236f6b36d6c9b.html</link>
@@ -465,12 +471,6 @@
             <link>https://instant.lvv2.com/html/40aa0f1fd5fbc98848b90ef261b5a15b.html</link>
             <guid>6d23e957d40c7f175487f5d06771c273</guid>
             <pubDate>Tue, 09 Mar 2021 06:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【码农造“神盘”——互联网人20年买房故事】码农们买刚需盘的需求很简单，总价够得上，位置距离公司近，付款上车十分果断。开年2个月内，陈慧共成交了33套，其中19套是“一见钟情”，即到售楼处当天便定房。]]></title>
-            <link>https://instant.lvv2.com/html/d97dc49a94c4a9dd2bf04b94cd39362e.html</link>
-            <guid>360ff18ee0393ce88c9e0b578ecdc479</guid>
-            <pubDate>Tue, 09 Mar 2021 06:08:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
