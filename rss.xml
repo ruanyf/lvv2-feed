@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 09 Mar 2021 20:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 22:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【郭明錤：MR/AR 是科技业下一个 10 年大趋势】郭明錤预测，Apple 的 MR/AR 产品蓝图将分为 3 个阶段，分别是——2022 年发布头盔式 (Helmet type) 产品；2025 年发布眼镜式 (Glasses type) 产品； 2030–2040 年发布隐形眼镜式 (Contact lens type) 产品。]]></title>
+            <link>https://instant.lvv2.com/html/5f19bca8ab2e9ae1228cb0d5fd9d0f14.html</link>
+            <guid>dfac63a42eb37b5c3656215a8b05a5f5</guid>
+            <pubDate>Wed, 10 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[​泰北、缅甸与金木棉：魏一平谈湄公河惨案调查]]></title>
             <link>https://instant.lvv2.com/html/e371a12f183c9f14dbc17256a5920887.html</link>
@@ -461,18 +467,6 @@
             <link>https://instant.lvv2.com/html/5de8895bf6e73e53601a9d4868e8a940.html</link>
             <guid>4a1a1690fd68d8be43cfd78ec0747a2a</guid>
             <pubDate>Tue, 09 Mar 2021 08:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@王磬：外长的对外关系新闻发布会其实还蛮有意思，建议所有对“中国与世界的关系”感兴趣的朋友们都花点时间看一看。疫情在全球流行了一年之后，官方眼里的世界地图是什么样的，中国如何看待世界，中国希望与世界上不同部分的伙伴如何共存、在哪些触面上互动，这场发布会里有一个相对系统的整理和呈现。]]></title>
-            <link>https://instant.lvv2.com/html/81220665d9f5f689ec7db8c2a7c5c213.html</link>
-            <guid>4dbca2ff8a5d19e907e0e3799804405d</guid>
-            <pubDate>Tue, 09 Mar 2021 08:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亿航即将推出长航距智能电动飞机，续航里程400公里]]></title>
-            <link>https://instant.lvv2.com/html/76470d3af6dc8826b8ec12c179263602.html</link>
-            <guid>d19788a1e39df6c0498d9964fc574a4f</guid>
-            <pubDate>Tue, 09 Mar 2021 07:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
