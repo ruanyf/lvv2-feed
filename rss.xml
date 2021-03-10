@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 10 Mar 2021 20:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 22:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【图说天朝】“重度贫困人口请到当地公安局自首接受死刑” ]]></title>
+            <link>https://instant.lvv2.com/html/61253a7a344857591db03966feb9ae44.html</link>
+            <guid>e1574fec1a2eca736a2647d47e0e19c3</guid>
+            <pubDate>Thu, 11 Mar 2021 06:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一年1263次投诉   她们组成“网络监察队”向就业性别歧视宣战】有一个段子广为流传。一位女生去找工作，HR收到她简历之后，把简历放下，问：你有男朋友吗？女生说，有。HR说：“那回去问问你男朋友，愿不愿意来我们单位，如果愿意的话，我就把你也一起招了。”]]></title>
+            <link>https://instant.lvv2.com/html/c908cce1a5f58846aedf8037639b6502.html</link>
+            <guid>2484844d6098c80d07fb189b91193f92</guid>
+            <pubDate>Thu, 11 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《山海情》笔谈三则】同样是会，《山海情》的会议开出了久违的共和国荷尔蒙，开的基本是解决问题的会议，而不像当下大量职场剧，会议都是用来制造矛盾心机大战。结尾的单薄，只能说我们还来不及好好想象一下，什么才是一种现代的、中国的、意蕴深厚的土地文化？]]></title>
+            <link>https://instant.lvv2.com/html/0f84584eca28303a5f76c7f606919248.html</link>
+            <guid>18598f4cd9f8b9681fec0eb1715f8a2f</guid>
+            <pubDate>Thu, 11 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@MackAFish：带闺女放风筝，被大风挂到树顶上了，我用中式“祛病消灾”和美式“长大了去探险”两种方式，总算把闺女哄好了。回到家里，闺女扑到她爹怀里，唧唧呱呱地说：“妈妈把坏运气放在风筝里，风把风筝带走了，带我们的坏运气去探险了。”我：“崽，你娘是律师，不是法师啊……”]]></title>
             <link>https://instant.lvv2.com/html/52a522e1e698ee251bae344da68f98a8.html</link>
@@ -453,18 +471,6 @@
             <link>https://instant.lvv2.com/html/27ae4b06ad87a243746ded94f0933f31.html</link>
             <guid>8ae35b03d4d4cee542d1f7cf071cc479</guid>
             <pubDate>Wed, 10 Mar 2021 08:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天女同事说，昨天她家不知道怎么的聊到了生死，她老公跟儿子说：“我死了以后千万不要买墓地！十几万几十万的，划不来！你就买个车位，把我挖个坑埋里面，省钱还增值。你晚上回来倒车爸爸还能帮你看到点，指挥下。”]]></title>
-            <link>https://instant.lvv2.com/html/21ec8fc0478ff4f6c42ad734844609dc.html</link>
-            <guid>b08f7ebb4357078807f2631bcff32d29</guid>
-            <pubDate>Wed, 10 Mar 2021 07:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@刘锐EW：经济学界刚刚出了个事件。一名哈佛法学院的法学教授发表了一篇没有数学、用博弈论研究慰安妇的论文，说慰安妇是自愿的。经济学家写了篇公开信抗议这篇论文，1000多名学者签名，其中很多亚裔学者，有很多名牌大学的知名教授，也有其他学科的学者。]]></title>
-            <link>https://instant.lvv2.com/html/2438a786896f14a0d89d534b29db6fff.html</link>
-            <guid>6ff7cd5a52115a65ed1523a051f6a3ff</guid>
-            <pubDate>Wed, 10 Mar 2021 06:40:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
