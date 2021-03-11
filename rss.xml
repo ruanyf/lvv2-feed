@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 11 Mar 2021 20:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 22:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[国务卿布林肯和国家安全顾问沙利文将于下周四会见王毅及杨洁，这是拜登政府与外国主要竞争对手的首次面对面外交接触。
+在此之前布林肯将访问亚洲盟友日本和韩国。布林肯表示，他将与中方坦率阐述对北京行动的担忧，同时探讨合作途径。]]></title>
+            <link>https://instant.lvv2.com/html/b65ba1e7f46fce12191c51168c5fed2d.html</link>
+            <guid>fa61337a5627b7e38d5e50bc39f9a8d3</guid>
+            <pubDate>Fri, 12 Mar 2021 06:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【求求你们别再说“二次元社死”了】这几天，我听到的“二次元社死”相关话题，可能比之前三年加起来还多。起因是原神和KFC举办了一场联动活动，而其中一个环节，就是这次大型二次元社死事件的起因。肯德基上架特殊的原神联动套餐，只要对着店员说出“接头暗号”，就能换取徽章。这口令就是：异世相遇，尽享美味。。。]]></title>
+            <link>https://instant.lvv2.com/html/d1a1231f0fa92bcd8dfec7922dbfae0c.html</link>
+            <guid>b73cf3bd0bcea6398c717d9ed2732eff</guid>
+            <pubDate>Fri, 12 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小偷在电竞酒店“换”显卡被捕】某电竞酒店工作人员发现电脑不能正常开机，显卡被人更换后报警。警方通过排查入住人员和查看比对监控，将犯罪嫌疑人卓某抓获。卓某用300元在数码城买了一块GXT 650 Ti，替换掉了酒店里的RTX 2070，并以2900元的低价将显卡卖出。为了表现自然，他回到酒店入住到第二天后才退了房。]]></title>
+            <link>https://instant.lvv2.com/html/2811f09279dfd316ed2cd4d1e48b2754.html</link>
+            <guid>e5aa07392a6c331ef21e037f1cf87196</guid>
+            <pubDate>Fri, 12 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[公开处刑：研究者自建Papers Without Code网站，张贴复现不了的论文]]></title>
             <link>https://instant.lvv2.com/html/09c58b35984f99b05be2e66cd85c4b3e.html</link>
@@ -482,12 +501,6 @@
             <link>https://instant.lvv2.com/html/06f56423b50e8dfdb2e0d118a58ee58d.html</link>
             <guid>b3b8ba98c0ccf7c0a2b579ce1e800058</guid>
             <pubDate>Thu, 11 Mar 2021 07:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【臀部影视公司求职记】两个月以来，我面完了从踝部到头部的各大影视公司。]]></title>
-            <link>http://www.douban.com/note/796225196/dt_dapp=1</link>
-            <guid>469f9c1b8ecb8a3874e77db77f901783</guid>
-            <pubDate>Thu, 11 Mar 2021 07:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
