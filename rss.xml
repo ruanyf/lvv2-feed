@@ -4,15 +4,27 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 11 Mar 2021 18:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 20:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[公开处刑：研究者自建Papers Without Code网站，张贴复现不了的论文]]></title>
+            <link>https://instant.lvv2.com/html/09c58b35984f99b05be2e66cd85c4b3e.html</link>
+            <guid>8e5363fa485a39326f9a4a1f26acb02e</guid>
+            <pubDate>Fri, 12 Mar 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【别欧冠巴萨已尽力，老传统法帮再送礼】巴萨球迷无论坚守多深的信念，赛前其实都在心里做好了最坏的打算。第一重防线：不求逆转，赢球就满意！第二重防线：就算不赢，站着死也行！第三重防线：千万别惨案千万别惨案……不想喝七喜，更不点拉菲，我滴九不沾啊……事实再度证明，只要心态端得平，溢出的多一点都是惊喜。]]></title>
+            <link>https://instant.lvv2.com/html/e87bd6d2d37a3330996527640e861b9e.html</link>
+            <guid>ad98b4979abb54b4dce765019ca9d330</guid>
+            <pubDate>Fri, 12 Mar 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【鸿海将iPhone12的部分产能从中国移到印度】预计转移中国产能的约7～10％。3月10日，鸿海公关负责人表示对客户的情况不予置评…… ]]></title>
-            <link>http://cn.nikkei.com/industry/itelectric-appliance/44055-2021-03-11-09-56-55.html</link>
-            <guid>f3d628832a4ca907896c99cf4e3612ab</guid>
+            <link>https://instant.lvv2.com/html/69b101ab503af03ff22fa3986404d2d2.html</link>
+            <guid>0295d5d3118740eeca80869814d5361a</guid>
             <pubDate>Fri, 12 Mar 2021 02:12:31 GMT</pubDate>
         </item>
         <item>
@@ -476,18 +488,6 @@
             <link>http://www.douban.com/note/796225196/dt_dapp=1</link>
             <guid>469f9c1b8ecb8a3874e77db77f901783</guid>
             <pubDate>Thu, 11 Mar 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【图说天朝】“重度贫困人口请到当地公安局自首接受死刑” ]]></title>
-            <link>https://instant.lvv2.com/html/61253a7a344857591db03966feb9ae44.html</link>
-            <guid>e1574fec1a2eca736a2647d47e0e19c3</guid>
-            <pubDate>Thu, 11 Mar 2021 06:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一年1263次投诉   她们组成“网络监察队”向就业性别歧视宣战】有一个段子广为流传。一位女生去找工作，HR收到她简历之后，把简历放下，问：你有男朋友吗？女生说，有。HR说：“那回去问问你男朋友，愿不愿意来我们单位，如果愿意的话，我就把你也一起招了。”]]></title>
-            <link>https://instant.lvv2.com/html/c908cce1a5f58846aedf8037639b6502.html</link>
-            <guid>2484844d6098c80d07fb189b91193f92</guid>
-            <pubDate>Thu, 11 Mar 2021 06:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
