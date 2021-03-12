@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 20:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[拜登政府收紧华为供应商许可：半导体、天线、电池出口均受限]]></title>
+            <link>https://instant.lvv2.com/html/464b9353741388ceaf79c6f2550c05b4.html</link>
+            <guid>53ef58f0adc7a9695d83b914982b417e</guid>
+            <pubDate>Sat, 13 Mar 2021 04:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【食物的名字越长越美味？】和早些年毛脚女婿上门一定要提的金华火腿、有钱人聚会一定要开的 82 年的拉菲一样，在这些花样繁多的定语背后，既有人类本性对极致美味的渴求，亦有被消费主义裹挟的对潮流的欲望，更有商家对利益的永恒追逐。定语本身没有褒贬，是我们赋予了它迷惑人心的权利。]]></title>
             <link>https://instant.lvv2.com/html/74eb0bfdf9c394e6b584666fb8c2d855.html</link>

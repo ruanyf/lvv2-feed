@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "53ef58f0adc7a9695d83b914982b417e",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/464b9353741388ceaf79c6f2550c05b4.html",
+            "title": "拜登政府收紧华为供应商许可：半导体、天线、电池出口均受限",
+            "date_modified": "2021-03-13T04:08:21.000Z"
+        },
+        {
             "id": "c01f07d75baff6d5171fd3763f84cd6a",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/74eb0bfdf9c394e6b584666fb8c2d855.html",
