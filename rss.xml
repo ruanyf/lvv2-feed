@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 12 Mar 2021 16:58:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 19:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【食物的名字越长越美味？】和早些年毛脚女婿上门一定要提的金华火腿、有钱人聚会一定要开的 82 年的拉菲一样，在这些花样繁多的定语背后，既有人类本性对极致美味的渴求，亦有被消费主义裹挟的对潮流的欲望，更有商家对利益的永恒追逐。定语本身没有褒贬，是我们赋予了它迷惑人心的权利。]]></title>
+            <link>https://instant.lvv2.com/html/74eb0bfdf9c394e6b584666fb8c2d855.html</link>
+            <guid>c01f07d75baff6d5171fd3763f84cd6a</guid>
+            <pubDate>Sat, 13 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【擅长“搞事”的拉波尔塔，终于杀回巴萨了】2010年6月，一手缔造梦二和梦三的拉波尔塔因为章程限制无法继续参选，他指定了接班人戈达尔并且全力助阵。然而戈达尔在巴萨主席大选里惨败于罗塞尔，拉波尔塔派系从此瓦解。2021年3月，拉波尔塔赢下第42任巴萨主席大选，54.28%的高得票率几乎是第二名冯特的两倍。]]></title>
+            <link>https://instant.lvv2.com/html/56bedfa87bb5237c471d0e63a8ff208a.html</link>
+            <guid>22ed6b6902939d581649e7fe0e19f238</guid>
+            <pubDate>Sat, 13 Mar 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【年收入52亿亏27亿，完美日记大力难出奇迹？】对于互联网公司而言，亏损并不是真正的新闻。问题在于，从财报看来，逸仙电商可能并没有获得匹配亏损的高速增长。]]></title>
             <link>https://instant.lvv2.com/html/c21381ff21f934ce7091fb45bcdae77d.html</link>
@@ -502,13 +514,6 @@
             <link>https://instant.lvv2.com/html/6b151df7d73dbdc02feafb500631dc07.html</link>
             <guid>27fccdea6db2b931d2499132ac7cd585</guid>
             <pubDate>Fri, 12 Mar 2021 07:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国务卿布林肯和国家安全顾问沙利文将于下周四会见王毅及杨洁，这是拜登政府与外国主要竞争对手的首次面对面外交接触。
-在此之前布林肯将访问亚洲盟友日本和韩国。布林肯表示，他将与中方坦率阐述对北京行动的担忧，同时探讨合作途径。]]></title>
-            <link>https://instant.lvv2.com/html/b65ba1e7f46fce12191c51168c5fed2d.html</link>
-            <guid>fa61337a5627b7e38d5e50bc39f9a8d3</guid>
-            <pubDate>Fri, 12 Mar 2021 06:14:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
