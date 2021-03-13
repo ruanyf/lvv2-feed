@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 13 Mar 2021 20:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 22:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[如果把《亲爱的同志》看成一个模型，那么社会层面上，是政府、克格勃、群众三股力量的对峙；家庭层面上，是老头儿、母亲、女儿三代人的对峙；其中母亲柳达的精神信仰上同样纠缠着三种：基督教/上帝、共产主义/斯大林以及哥萨克/自我。]]></title>
+            <link>https://instant.lvv2.com/html/320a0960301fa25020ebf1c5d9e951f6.html</link>
+            <guid>685bd6ba83a6060deeda48a72020d6c1</guid>
+            <pubDate>Sun, 14 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三个月23家公司止步科创板， 科技独角兽短期难回归】明星独角兽公司集体失意科创板的原因各有不同，不过，一个共性的背景是，监管层对IPO的审核正在全面从严。目前，越来越多的拟IPO企业撤回申请，也传递了这一信号。]]></title>
+            <link>https://instant.lvv2.com/html/3c6434903698ef34eed3e97b8dd103ef.html</link>
+            <guid>bfb6ad052211b97f81acbb295935befc</guid>
+            <pubDate>Sun, 14 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[韩国公职人员投机炒地皮：高层疑似自杀谢罪，部长引咎请辞]]></title>
             <link>https://instant.lvv2.com/html/d7e9b859b9773b61a08e47e40af93431.html</link>
@@ -506,12 +518,6 @@
             <link>http://v.douyin.com/eRnAm8U/</link>
             <guid>21ade11d1f03b6dcae25c0f962b71f77</guid>
             <pubDate>Fri, 12 Mar 2021 18:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[植树造林，如何改变中国？]]></title>
-            <link>https://instant.lvv2.com/html/280eefa32f16d1ca84edc369384e3402.html</link>
-            <guid>bc14184d800cf467ab1f64b90005fb37</guid>
-            <pubDate>Fri, 12 Mar 2021 18:08:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
