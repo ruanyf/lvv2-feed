@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Mar 2021 20:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 22:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[独立游戏制作者的悲哀，各位看官请来看一看]]></title>
+            <link>http://bbs.hupu.com/41661093.htmlis_reflow=1&amp;cid=&amp;bddid=AL3USXGOF72VZKD2HDLJM5M4GTPNUVEXSGGZELZG2W7OOQPPGERQ01&amp;puid=&amp;client=47e2d404ce71129d</link>
+            <guid>65665d95445e3f32bae85fddfb3431dc</guid>
+            <pubDate>Mon, 15 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谈到中美关系与第三国的选边问题时，李显龙总理重申，新加坡希望不会有须要选边站的一天。他说：“我们不可能选择任何一方，因为我们与美国和中国在经济及其他领域都有非常紧密和广泛的合作，许多其他国家也是如此。”  ]]></title>
+            <link>https://instant.lvv2.com/html/20ac921d7370f6f14c3c571357debbad.html</link>
+            <guid>ebce4a457411c1a66ed739488980940b</guid>
+            <pubDate>Mon, 15 Mar 2021 05:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水龙敬乐园塌房了么？】Vtuber本质还是二次元主播，无法脱离直播的载体，于是有了「乐子人」的存在看直播就是为了以主播取乐，类似于孙笑川评论区的嗨粉。水龙敬与hololive的事件里，没有人关心到底发生了什么，大家都只想着借题发挥，找机会对线罢了。]]></title>
+            <link>https://instant.lvv2.com/html/94d3963d290c2c0cea6ed6125e807890.html</link>
+            <guid>8efea3c81192ba58108b9d446124055d</guid>
+            <pubDate>Mon, 15 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【卖不完的“剩食”去哪儿了？有人开发了一款“折扣地图”】这款名为“Precious SH”的小程序可以根据店名或者区域定位，查找全上海上百家商铺的晚间食品折扣信息。小程序除了提供杜绝餐饮浪费的食品打折信息外，也汇集了更多支持低碳环保生活方式的商铺，如二手书店、二手箱包店、服饰箱包修理店等。]]></title>
             <link>https://instant.lvv2.com/html/249ba4358f5c75487b83fea0a86912db.html</link>
@@ -451,25 +469,6 @@
             <link>https://instant.lvv2.com/html/aadb048feef6b240740e95e083496175.html</link>
             <guid>2aff5ea27cb36b87720abfbe4fb3453e</guid>
             <pubDate>Sat, 13 Mar 2021 19:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 #时报专栏 美国，一个没有小便自由的国度
-]]></title>
-            <link>https://instant.lvv2.com/html/6cdf99e23682273e7b278b2754966a35.html</link>
-            <guid>e733643d9d8e843c40ae7e7b3424c2fa</guid>
-            <pubDate>Sat, 13 Mar 2021 19:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米暂逃一劫】美国当地时间3月12日，美国华盛顿特区地方法院就小米诉美国国防部一案发布初步禁制令，禁止美国国防部将小米列入黑名单，同时停止相关总统令对小米施加的限制。此时，距离小米“身上”的投资禁令生效已不到3天时间。]]></title>
-            <link>https://instant.lvv2.com/html/f4dbd2548f32db843dcd1c14ba48cec5.html</link>
-            <guid>e13a710f6bbfc9aae99a8c9840cf7a19</guid>
-            <pubDate>Sat, 13 Mar 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都市集中供暖来了】3月12日起，成都燃气公司面向全市推广集中供暖项目。整个小区或单一楼栋的业主，报装率达到30%以上便可开工。初次工程安装费用按户收取，标准为230元/平方米。使用费用为10元每平方米每月，能保证24小时室温18摄氏度。]]></title>
-            <link>https://instant.lvv2.com/html/93ececef3ffcaefb87295601b245d15d.html</link>
-            <guid>9c94ebe57d46c8dba4ccd0cd63d31bb2</guid>
-            <pubDate>Sat, 13 Mar 2021 18:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
