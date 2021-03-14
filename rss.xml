@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 14 Mar 2021 16:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 18:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[前段时间，创1陈芳语接受采访爆料，说自己曾被新疆女生欺负，随后又出了新歌diss热依娜，让她“打包回新疆”。热依娜立即发歌回敬陈芳语，歌词是藏头诗。这件事本质上是一场idol之间的Beef，但她们却采用了发Diss Track这种很HipHop的方式来解决问题。反观已经走上台面的Rap Star们，却很少再碰Diss Track这种玩意儿。]]></title>
+            <link>https://instant.lvv2.com/html/f7039109f22c9615389690caea8f8949.html</link>
+            <guid>364fe7188f178776236289d2c22df906</guid>
+            <pubDate>Mon, 15 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一位很会坐牢的画师】欧飞鸿因在广州大学城外环路桥外侧涂鸦，在鬼喊坑附近的一座看守所的501仓，度过了7个月。]]></title>
+            <link>https://instant.lvv2.com/html/48833488148c1788c946743e8ece1ff6.html</link>
+            <guid>d60fc8784660d0fa7389233fb1e08d02</guid>
+            <pubDate>Mon, 15 Mar 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国在线支付巨头蚂蚁集团的首席执行官“因个人原因”辞职，首席执行官一职由董事长井贤栋兼任。
 ]]></title>
@@ -464,18 +476,6 @@
             <link>https://instant.lvv2.com/html/3748d2626488abec54f30dc86a57638b.html</link>
             <guid>a88952939dad2e862f102730ec07dc1c</guid>
             <pubDate>Sat, 13 Mar 2021 18:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[课 堂 叫 醒 服 务]]></title>
-            <link>http://b23.tv/c0yqdN</link>
-            <guid>36bc7b0e091d84cd14948fc8788da1b0</guid>
-            <pubDate>Sat, 13 Mar 2021 17:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果宣布停止生产初代HomePod】我们将专注于HomePod mini，停止生产初代HomePod。HomePod将继续销售，直到苹果在线商店、零售店以及授权经销商售完为止。]]></title>
-            <link>https://instant.lvv2.com/html/1b37c149a3e6fd68c57ad9b07e989fba.html</link>
-            <guid>63d0b22076516f00b61fe5dcb0812391</guid>
-            <pubDate>Sat, 13 Mar 2021 17:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
