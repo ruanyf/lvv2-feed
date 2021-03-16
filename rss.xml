@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 16 Mar 2021 20:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 22:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -497,12 +497,6 @@ reddit上的汉语学习吐槽
             <link>https://instant.lvv2.com/html/9b917bd7089fa1d065b8f19c42377d71.html</link>
             <guid>76bef985f4b61388ab82613e6a677e22</guid>
             <pubDate>Tue, 16 Mar 2021 08:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 赵小兰未能成行的访华之旅背后：公私不分引发伦理审查]]></title>
-            <link>https://instant.lvv2.com/html/0f40d9395e0b8ef206827d5e79611d27.html</link>
-            <guid>75a4c114ccbee562bdd2de6a8c85224c</guid>
-            <pubDate>Tue, 16 Mar 2021 07:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
