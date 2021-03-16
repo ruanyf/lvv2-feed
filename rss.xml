@@ -4,11 +4,48 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 16 Mar 2021 14:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 16:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【刀牌就这么死了，但Valve仍没搞明白它为什么失败】刀牌本身的游戏质量是相当高的。甚至夸张一点说，这是目前电子 CCG 重度策略的天花板。所以不要把刀牌的失败和《圣歌》挂上钩来，虽然他们结局一样，但真的是两个性质完全不同的游戏。]]></title>
+            <link>https://instant.lvv2.com/html/4e0472458221cde371c1b617de3d5cc5.html</link>
+            <guid>f7ee1784473025d165005ae88d983275</guid>
+            <pubDate>Wed, 17 Mar 2021 00:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一个女人，如何走出丧子伤痛】不管从主题还是观感来看，《女人的碎片》都很像当年的《海边的曼彻斯特》。本质上，这是一部讲女人在伤痛已成事实的前提下，如何在复杂的外部声音和家庭内部矛盾中做出选择的故事。]]></title>
+            <link>https://instant.lvv2.com/html/90e1c5d1d331887f82d903f5eda7f59c.html</link>
+            <guid>bc3780f79add022bf1511ed3bdb201cd</guid>
+            <pubDate>Wed, 17 Mar 2021 00:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【疯狂的“跑步奶奶”：62岁，3小时内跑完马拉松】在近日结束的名古屋女子马拉松上，62岁的日本选手弓削田真理子用时2小时54分跑完全程，引发跑圈关注。弓削田真理子是全世界第一位60岁以上参加马拉松跑进3小时的女跑者，并且保持着60岁以上的女子世界纪录。同时，她还拥有全日本乃至全球跑圈里的60多项纪录。]]></title>
+            <link>https://instant.lvv2.com/html/3e394a5c0d7f5a058c1ea5754fe2fc2e.html</link>
+            <guid>3e562ce3312dd5486b47505120eed60b</guid>
+            <pubDate>Tue, 16 Mar 2021 23:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一道超过半个世纪的难题：究竟哪家的炸鸡最好吃？——关于「炸鸡之战」你所需要知道的一切]]></title>
+            <link>http://hypebeast.cn/2021/3/everything-you-need-to-know-about-the-chicken-wars</link>
+            <guid>5ec56e74cee700ea7fc4f79a248879a6</guid>
+            <pubDate>Tue, 16 Mar 2021 23:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在给药方式不断推陈出新的21世纪，这样一个貌似简单的工具仍稳坐头号交椅，在抗疫防疫领域不可或缺，被称为人类最伟大的发明之一似不夸张。
+]]></title>
+            <link>https://instant.lvv2.com/html/a0b7dae97b2453bcb12f50c2d93f092d.html</link>
+            <guid>f7277bfd0d9ceb9a9ca58446761a7e72</guid>
+            <pubDate>Tue, 16 Mar 2021 23:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳歌剧院建筑方案国际竞赛结果揭晓，普利兹克奖获得者、国际著名建筑设计大师让·努维尔领衔的设计团队提交的“海之光”方案脱颖而出，荣获一等奖。]]></title>
+            <link>http://www.szdesigncenter.org/design_competitions/5342</link>
+            <guid>2efb59813a59d24fe09ef6ed2d28c856</guid>
+            <pubDate>Tue, 16 Mar 2021 22:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[被315晚会点名批评之后：谁在慌乱整改？谁在头铁硬扛？]]></title>
             <link>https://instant.lvv2.com/html/2732acfe4a8ca7832b4cd4bd1e7f0839.html</link>
@@ -466,42 +503,6 @@ reddit上的汉语学习吐槽
             <link>https://instant.lvv2.com/html/ce352668c27cff86abe9ef90dfd9d9b7.html</link>
             <guid>df097ea23fa3e7df9adbac3f8f918b20</guid>
             <pubDate>Tue, 16 Mar 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银行户口也没有的虚拟货币玩家Metakovan】Metakovan虽然只是网名，但在业界已颇为人识。他出资创立的虚拟货币基金Metapurse，声称拥有当今最庞大的NFT收藏，总值达US$1.2亿。]]></title>
-            <link>https://instant.lvv2.com/html/6e720d80499226c9dc4ba2319b484c1d.html</link>
-            <guid>1f6a7edca4f4672f946df45f48bafd19</guid>
-            <pubDate>Tue, 16 Mar 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麻辣总局】真人版耿爽模拟器 ]]></title>
-            <link>https://instant.lvv2.com/html/ede4b9d906d030c40b0fa6831cb7cc31.html</link>
-            <guid>9216e45af4d81bf5454f28333a491fd7</guid>
-            <pubDate>Tue, 16 Mar 2021 03:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国为接种国产疫苗的外国人提供签证便利；疫情中的“世外桃源“台湾；领英暂停中国新用户注册；匈牙利高价购入中国疫苗；缅甸周末再有51人被枪杀，仰光戒严；德国开启选举年，为后默克尔时代作准备……这里是今日要闻。]]></title>
-            <link>https://instant.lvv2.com/html/83759fa45da28fcce7f825401029dd3d.html</link>
-            <guid>eac72d2931efb61b6231ed9cfd8305e3</guid>
-            <pubDate>Tue, 16 Mar 2021 03:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网络民议】江苏女辅警“敲诈”案，一大帮西门庆把潘金莲给告了 ]]></title>
-            <link>https://instant.lvv2.com/html/0df6dee6ebdb69b42a95a527a0e3d3d0.html</link>
-            <guid>8be6ade4a1a6b37db30376f0a6fd64ee</guid>
-            <pubDate>Tue, 16 Mar 2021 02:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抢不到的Simone Rocha“真香”在哪？】3月11日零点刚过不久，H&amp;M中国官网的加载速度开始放缓。当越来越多蹲点已久的消费者涌入后，网站服务器再也无法承载人们对该联名系列的热情，最终走向崩溃。H&amp;M与Simone Rocha合作的联名在发售前后所引发的热度，对于依然身处寒冬中的快时尚行业来说，并不多见。]]></title>
-            <link>https://instant.lvv2.com/html/60311d75cb4622f75b92f8e3f8084794.html</link>
-            <guid>59d8f2118771ff87987b8269cb8783a6</guid>
-            <pubDate>Tue, 16 Mar 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15日，日本电视台报道了川崎市的小学禁止在体操服下面穿内衣这一新闻。在推特上，“禁止穿内衣”一度成为流行趋势第1位，“体操服下”、“胸部成长”、“皮肤锻炼”、“男性教师”、“禁止穿内衣”等相关词都进入了流行趋势。网络上一片哗然。]]></title>
-            <link>https://instant.lvv2.com/html/c2a90414fef3f8f839144681f1c304db.html</link>
-            <guid>7bd390f427615c07283e3f9e3bda0966</guid>
-            <pubDate>Tue, 16 Mar 2021 01:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
