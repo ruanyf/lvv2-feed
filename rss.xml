@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Mar 2021 20:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 22:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[武器升级！医 学 科 普]]></title>
+            <link>http://b23.tv/w35t4b</link>
+            <guid>794099cf94cd7d17d677a53aabd32652</guid>
+            <pubDate>Thu, 18 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中芯国际与深圳政府签23.5亿美元扩产协议，目标每月约4万片12吋晶圆】中芯国际称，将和深圳政府（通过深圳重投集团）拟以建议出资的方式，经由中芯深圳进行项目发展和营运，重点生产28纳米及以上的集成电路并提供技术服务。]]></title>
+            <link>https://instant.lvv2.com/html/a8d029758ef1789fd05101b64d59c31d.html</link>
+            <guid>0c109f0a2d548bf5240306690c970a53</guid>
+            <pubDate>Thu, 18 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[从平成到令和，绫波丽的口红和时尚穿搭，是《EVA》阿宅们逝去的青春]]></title>
             <link>https://instant.lvv2.com/html/e63a523f898004a113342f47ec64b3f8.html</link>
@@ -511,22 +523,6 @@
             <link>https://instant.lvv2.com/html/3fa000a14c7704c228d014c2e745a3fc.html</link>
             <guid>bbf05b2c7d8403bb2ae84b1a0c017b13</guid>
             <pubDate>Wed, 17 Mar 2021 10:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金经理：被娱乐化后，“顶流”同行们都觉得很尴尬】聚会时我们聊过这个话题，他们面对一些非理性的追捧时，也不知道怎么去引导，整个行业对此也没经验，只能通过限制申购这样的方式。其实整个基金行业在这波娱乐化热度中也真的蛮被动、或说蛮尴尬的。那些基金经理并不想要这个热度，基金行业也是，只能等这一波过去。]]></title>
-            <link>https://instant.lvv2.com/html/ceb470add38999383ae6bd789042e3e1.html</link>
-            <guid>e88803a9396169f350241d78a77ca548</guid>
-            <pubDate>Wed, 17 Mar 2021 09:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【城市让你慢下来的角落】
-
-这城市 天台的风 
-
- ]]></title>
-            <link>https://instant.lvv2.com/html/b36179817ae6ac65ab82727d71c67272.html</link>
-            <guid>c5586674ad51a274a79792a272656e07</guid>
-            <pubDate>Wed, 17 Mar 2021 09:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
