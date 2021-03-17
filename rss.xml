@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Mar 2021 16:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 18:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一支药都没生产，辉瑞就把基地给卖了，在华战略持续生变】前后不过5年多的光景，辉瑞已经先后放弃和海正的合资企业，以及杭州的生物药生产基地。]]></title>
+            <link>https://instant.lvv2.com/html/5d7b130bc24719cfd25940f9defd5f6f.html</link>
+            <guid>3e3726f6ab606005217c81e7792c371a</guid>
+            <pubDate>Thu, 18 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在《里夫金的电影节》看到伍迪·艾伦老无所依的未来】伍迪·艾伦持续着他对中产阶级知识分子爱情和生活的讽刺，并在其中夹杂着对如今电影行业的不满以及对欧洲现代派和新浪潮电影的迷恋。整部影片就像办了一场“致敬经典”的系列短片展：《八部半》、《祖与占》、《精疲力尽》《第七封印》……]]></title>
+            <link>https://instant.lvv2.com/html/baac59c361055a7c013759803443e2db.html</link>
+            <guid>0466e2c579c76f11b76513aa4e41afe7</guid>
+            <pubDate>Thu, 18 Mar 2021 01:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3月17日，日本札幌地方法院在一起同性伴侣发起的集体诉讼案中认定，日本官方不承认同性伴侣之间可以合法结婚的现状构成了“违宪”。这是日本法院首次就“日本现行法律缺乏对同性婚姻的明确承认”的争议做出判决。]]></title>
             <link>https://instant.lvv2.com/html/78a8c384f33bad67a6c8fd4a994681ee.html</link>
@@ -509,18 +521,6 @@
             <link>https://instant.lvv2.com/html/e9e74455425cbb1380c4d4fcab06bdb8.html</link>
             <guid>30aa50b52b0a26a82a5261284788e88e</guid>
             <pubDate>Wed, 17 Mar 2021 09:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【被瞒报的武安铁矿死亡事故】正月初六（2021年2月17日）这天，36岁的刘明离开家，到武安市上团城乡一个名为“团城东矿”的铁矿打工。7天后，家人接到他“出事”的消息，见到人时，他已没有生命体征。]]></title>
-            <link>https://instant.lvv2.com/html/6f3c1bac8fa6d628d4fd2ec913d2276d.html</link>
-            <guid>5cb5ae49090f48741ac8b95b64728426</guid>
-            <pubDate>Wed, 17 Mar 2021 08:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[内蒙最后的比特币“矿工”]]></title>
-            <link>https://instant.lvv2.com/html/6a2bce137f021a7e3addfe31a2a92fb9.html</link>
-            <guid>4750966de7ed0d54d3ae30d6c84e3305</guid>
-            <pubDate>Wed, 17 Mar 2021 07:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
