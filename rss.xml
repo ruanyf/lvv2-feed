@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 17 Mar 2021 18:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 20:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[从平成到令和，绫波丽的口红和时尚穿搭，是《EVA》阿宅们逝去的青春]]></title>
+            <link>https://instant.lvv2.com/html/e63a523f898004a113342f47ec64b3f8.html</link>
+            <guid>7c8f76bf78d16ab37def6f3f49eea787</guid>
+            <pubDate>Thu, 18 Mar 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本今后5年研发预算要提高至30万亿日元】这比日本政府上一期预算目标额高出4万亿日元。目的是阻止日本研究能力下降，实现数字化转型和去碳化…… ]]></title>
+            <link>https://instant.lvv2.com/html/5136edf9124e02649e2b8acd7fb02873.html</link>
+            <guid>9dd588997d938fb97a40dbab690bb1a7</guid>
+            <pubDate>Thu, 18 Mar 2021 04:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陕西多位金融“大佬”落马，事涉四年前一起百亿假黄金案】2011年至2016年间，以张青民兄弟为首的团伙，以炼金企业为掩护制作假黄金，从潼关信合和长安信合骗取巨额贷款。而且每笔贷款到期后，采用还息不还本，雇佣他人签订虚假合同续贷的方法，以此延长实际贷款期限。]]></title>
+            <link>https://instant.lvv2.com/html/b7c96b81a15e5cf3a6e15a857aee82d8.html</link>
+            <guid>04ef29ab35937d037d75a031e3945ac5</guid>
+            <pubDate>Thu, 18 Mar 2021 03:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一支药都没生产，辉瑞就把基地给卖了，在华战略持续生变】前后不过5年多的光景，辉瑞已经先后放弃和海正的合资企业，以及杭州的生物药生产基地。]]></title>
             <link>https://instant.lvv2.com/html/5d7b130bc24719cfd25940f9defd5f6f.html</link>
@@ -509,18 +527,6 @@
             <link>https://instant.lvv2.com/html/b36179817ae6ac65ab82727d71c67272.html</link>
             <guid>c5586674ad51a274a79792a272656e07</guid>
             <pubDate>Wed, 17 Mar 2021 09:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AI独角兽正穿越“死亡之谷”】旷视与商汤、依图、云从并称 AI 计算机视觉领域 “四小龙”，共同占据该应用市场过半的份额，这四家 AI 巨头都有借二级市场补血的计划。]]></title>
-            <link>https://instant.lvv2.com/html/1e03cbdf91edc082be89077ddee256cd.html</link>
-            <guid>227c7b2275246034c74c4ffcb913af5b</guid>
-            <pubDate>Wed, 17 Mar 2021 09:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国景区的心思，都用在改名上了】用照骗引流的办法行不通了，怎么办？别急，各位营销奇才又想出了另一个好点子。“要不改个名试试？“没错，景区改名一不犯法，二不花钱。娱乐圈不是常信奉改名约等于改运吗？同样靠流量吃饭的景区自然也不能免俗啊。换身马甲出来走两步，说不定就能从门可罗雀，忽忽悠悠走向世界了。]]></title>
-            <link>https://instant.lvv2.com/html/e9e74455425cbb1380c4d4fcab06bdb8.html</link>
-            <guid>30aa50b52b0a26a82a5261284788e88e</guid>
-            <pubDate>Wed, 17 Mar 2021 09:08:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
