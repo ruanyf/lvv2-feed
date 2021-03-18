@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 18 Mar 2021 18:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 20:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【坦桑尼亚总统去世：强势的疫情怀疑论者】从去年5月起，坦桑停止报告新冠肺炎确诊和死亡人数。马古富力对病毒检测和保持社交距离等防疫措施不屑一顾，并要求卫生部不要急于购买疫苗，称其“无利且危险”。]]></title>
+            <link>https://instant.lvv2.com/html/7ee3e99f391a9f8acc7dcf7925201066.html</link>
+            <guid>78b8a8a32dd367a2b0e77c26cb00f00b</guid>
+            <pubDate>Fri, 19 Mar 2021 04:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【每位成都人心里都有一个张哥】在成都，张哥自己就是都市传说，今天也有成都朋友把他看作是一种老乡识别装置。成都人了解他，但没人知道他的终点在哪，这么多年过去了，剧情仍在发展中。]]></title>
+            <link>https://instant.lvv2.com/html/ee05f0987e9c1cefb6acb85a6d579a36.html</link>
+            <guid>0659f238867d4b2082faf9996d264da8</guid>
+            <pubDate>Fri, 19 Mar 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网络民议】“说错话的机会只有一次” 郑国成失去了他的墙内平台 ]]></title>
+            <link>https://instant.lvv2.com/html/1e0d1cd7300a98b87e5758fc608b348e.html</link>
+            <guid>d6b98b48ff32a06356b71a6f09d8344a</guid>
+            <pubDate>Fri, 19 Mar 2021 02:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国政府在禁止大多数外国公民入境一年后，计划对已接种冠病疫苗的外国旅客放宽限制。目前的问题是，只有接种了中国冠病疫苗的外国人才符合条件。
  ]]></title>
@@ -509,24 +527,6 @@
             <link>https://instant.lvv2.com/html/34d6286c358ee88faf9aa303a4ff0ae3.html</link>
             <guid>2c81ec265d764d1eb30b2aceb2fa3c5b</guid>
             <pubDate>Thu, 18 Mar 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尽管美国警方表示，断言案件与种族仇恨有关还为时过早，但是已经有亚裔维权组织表示，不论案件是否与“仇亚”有关，亚裔美国人社区当下“充满恐惧和痛楚”。]]></title>
-            <link>https://instant.lvv2.com/html/73d107b8b16d0cce27e9faa2c841028c.html</link>
-            <guid>9a7bd778bc3fcbe6f03bf1e9d13f88ef</guid>
-            <pubDate>Thu, 18 Mar 2021 07:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达“一不小心”解除了3060挖矿效率封印】从时机上看，3月18日AMD预计发布的新品RX 6700 XT，其以太坊哈希率就在43 MH/s左右，与解封后的3060相当。]]></title>
-            <link>https://instant.lvv2.com/html/2ff6d52847bf8db21b999b22c453f26a.html</link>
-            <guid>3c4426147a759447ced37c625b1ea709</guid>
-            <pubDate>Thu, 18 Mar 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣光救不了联盟，但国服的工作室“能”】《魔兽世界》已经是个“老年组”的游戏了，没有那么多的流量红利。许多职业玩家如果没有工作室性质的公会来养活，还真就生活不下去。]]></title>
-            <link>https://instant.lvv2.com/html/330a9220c6839e7237f464d31ea4783e.html</link>
-            <guid>f4dee0bdb42f2a16efbea621c348409e</guid>
-            <pubDate>Thu, 18 Mar 2021 06:40:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
