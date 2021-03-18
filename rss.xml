@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 18 Mar 2021 20:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 22:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【请姑娘去日料店，喝酒别只知道点「赖祭」】近些年来，日本清酒越来越火，大有与苏格兰威士忌和波尔多红酒分庭抗礼之势。喝清酒也成为了一股新风潮。作为一种有着几千年历史的酒，日本清酒的学问也很深。]]></title>
+            <link>https://instant.lvv2.com/html/17f84f47d445d6d6dd22749e164fa92a.html</link>
+            <guid>1d6e4a039b4ab1c789488a0db50fb757</guid>
+            <pubDate>Fri, 19 Mar 2021 06:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【燕郊落户增加对学历和社保的要求】之前只要有当地70年产权住宅房本就可以办理落户的条件发生了改变，最新落户政策对学历和社保都有了要求，并需要提供在职证明和劳动合同。大专以上学历或取得三级以上国家资格证的人，只需要提供一个月的社保证明，而没有达到相关学历和资格证的人，则需要提供三年社保证明。]]></title>
+            <link>https://instant.lvv2.com/html/bcddcea5946ff5f2790330b7329307de.html</link>
+            <guid>f37583132b77e5824ae4550307c6f22c</guid>
+            <pubDate>Fri, 19 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【坦桑尼亚总统去世：强势的疫情怀疑论者】从去年5月起，坦桑停止报告新冠肺炎确诊和死亡人数。马古富力对病毒检测和保持社交距离等防疫措施不屑一顾，并要求卫生部不要急于购买疫苗，称其“无利且危险”。]]></title>
             <link>https://instant.lvv2.com/html/7ee3e99f391a9f8acc7dcf7925201066.html</link>
@@ -515,18 +527,6 @@
             <link>https://instant.lvv2.com/html/d805eb45b8cbe37a2a23b332b9452454.html</link>
             <guid>50a878de44509a9229431a4fa60edaee</guid>
             <pubDate>Thu, 18 Mar 2021 07:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚贸易和投资增长联合常务委员会建议，如果发现达尔文港长期租给中国公司有悖于国家利益，联邦政府应该考虑收回港口的所有权。该委员会3月17日发布了一份研究报告，指出了澳大利亚对某些国家的贸易和投资依赖，以及其战略多样化的必要性。]]></title>
-            <link>https://instant.lvv2.com/html/01fdfb4125f0dc48f04894d56fdd82d2.html</link>
-            <guid>9428a7ff4c0ea67740b80212bfc23055</guid>
-            <pubDate>Thu, 18 Mar 2021 07:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ImageNet 中的人脸「变糊」了】ImageNet 中的大多数类别都不是人类，「人脸出现在这些数据中是偶然的」，在一张展示啤酒瓶的图片中，即使喝啤酒的人脸被遮挡，对啤酒瓶本身又有什么影响呢？]]></title>
-            <link>https://instant.lvv2.com/html/34d6286c358ee88faf9aa303a4ff0ae3.html</link>
-            <guid>2c81ec265d764d1eb30b2aceb2fa3c5b</guid>
-            <pubDate>Thu, 18 Mar 2021 07:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
