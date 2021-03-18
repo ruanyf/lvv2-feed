@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 18 Mar 2021 01:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 02:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[厦门车祸“奇迹宝宝”满7岁：每年赴京复查停了，奶奶用60多万赔偿款买了保险]]></title>
+            <link>https://instant.lvv2.com/html/91801dc4da5f96189c8e40dfc4ece0a8.html</link>
+            <guid>5a95c5b93567c5f71d7f302ca81d5f10</guid>
+            <pubDate>Thu, 18 Mar 2021 10:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创新药的中国式内卷：资本扎堆、低水平重复、血海一片】基于CD19靶点的CAR-T疗法成为了肿瘤治疗领域中最热门的赛道，甚至一度超过了抗癌神药PD-1。目前国内有70多个PD-1的临床实验，而以CD19为靶点的CAR-T细胞治疗临床实验，是PD-1的两倍。]]></title>
+            <link>https://instant.lvv2.com/html/596865d7acae59e922e0c69c43590645.html</link>
+            <guid>ef018fadf5c094dd0027fe10d0666edc</guid>
+            <pubDate>Thu, 18 Mar 2021 10:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔“生涯最佳发布会”？惊魂一夜，美联储主席“一会定市场”】与FOMC会前紧张不安的情绪相比，风险资产明显松了一口气。]]></title>
+            <link>https://instant.lvv2.com/html/859c4187fc803556a0b576e4788d74d7.html</link>
+            <guid>5c5b56a2e7b716aa3d9b2df50321e265</guid>
+            <pubDate>Thu, 18 Mar 2021 09:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有些公司的应聘登记表太烦人了，自己做了个招聘调查表]]></title>
+            <link>https://instant.lvv2.com/html/7f9aeeca00a38955b6cade51d8af4a6d.html</link>
+            <guid>b6231ab5deca72dfe2e9b1270120bd68</guid>
+            <pubDate>Thu, 18 Mar 2021 09:40:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[90后乡野村夫，记录回农村养殖创业之路]]></title>
             <link>http://bbs.tianya.cn/post-enterprise-1582354-1.shtml</link>
@@ -511,24 +535,6 @@
             <link>https://instant.lvv2.com/html/23e7761a956258c585b926031bf076a8.html</link>
             <guid>575afd56b88fed3005c02e85389690ba</guid>
             <pubDate>Wed, 17 Mar 2021 12:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞幸破产后续：内部达成重组支持协议，同时向外寻求至少2.5亿美元融资]]></title>
-            <link>https://instant.lvv2.com/html/b8d30256d89885075a331131c4273fb5.html</link>
-            <guid>e7ee42044d1014cd68c041459c9baf28</guid>
-            <pubDate>Wed, 17 Mar 2021 12:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉面哥失去名字】3月10日，有媒体爆出他早已签了合约。据他讲述，爆火之初，有老乡以给他买农用二手车为由，骗他到临沂签了代为管理短视频账号的合同。第二天，主播的圈子里都在谈论这份合同。鲜有人认真看合同条款和相关新闻，他们不谈论拉面哥在镜头前后悔得哭泣，一再猜测他挣了多少钱。]]></title>
-            <link>https://instant.lvv2.com/html/bb2f7e6d3417f7c569b90ed97585453f.html</link>
-            <guid>cc7d1307e4283450a4f4121e62b952f5</guid>
-            <pubDate>Wed, 17 Mar 2021 11:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑龙江15岁女中学生弑母藏尸冷库，三个月后被抓获]]></title>
-            <link>https://instant.lvv2.com/html/e32274d6f05ebd5a19c2e3c098f75b1b.html</link>
-            <guid>2f299096ce42bcac6329c0848dd8028b</guid>
-            <pubDate>Wed, 17 Mar 2021 11:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
