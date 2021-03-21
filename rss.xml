@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 21 Mar 2021 20:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 22:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一场发生在江门禽畜市场的猫咪大救援】在法律和行政部门处理的层面上，市场贩猫问题主要从检疫证明、流程规范的角度处理。如果将猫宰杀和作为食品流向市面，则涉及到食品安全的相关法规，但对于“宰杀、食用猫”行为本身的定性，尚有模糊性。]]></title>
+            <link>https://instant.lvv2.com/html/c1aba0969a8520d6be91e0e10809fc15.html</link>
+            <guid>064a7c8eac936ead361121f8ced506c4</guid>
+            <pubDate>Mon, 22 Mar 2021 06:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【与三大视频平台决裂，制片人的“自杀式”自救】这是近几年第一部在一线卫视播出，却无缘网络视频平台的作品。据透露本剧投入过亿，优爱腾三个平台都给本剧评级为B，开价均是20万一集，但制片人的开价是200万一集，于是只好开发了一个App自己播，从第二集开始就需要付费观看，看完全片预计需88元……]]></title>
             <link>https://instant.lvv2.com/html/887cf6af95aea37afbb863ac464aa7d0.html</link>
@@ -486,21 +492,6 @@
             <link>https://instant.lvv2.com/html/8f89080bdd320268d67875d568988b82.html</link>
             <guid>f429b5bd467992e737df07f89d17d1cd</guid>
             <pubDate>Sat, 20 Mar 2021 18:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Facebook智能腕带实现全新「脑控」方式】虚空射箭、隔空打字、智能点击，Facebook 现实实验室向所有人秀了一把他们在 AR 交互领域取得的新成果：一款神奇的腕带设备。]]></title>
-            <link>https://instant.lvv2.com/html/5706eed6c4496065f6820f7626b1a228.html</link>
-            <guid>83eee0c67f0f70efec48c910a1608c75</guid>
-            <pubDate>Sat, 20 Mar 2021 18:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】科学家发现，在工业捕鲸出现之前，鲸鱼（不含抹香鲸）每年将19万至190万吨的碳沉没到海底，相当于每年4万至41万辆汽车的碳排放。
-
-不过捕鲸活动阻止鲸鱼尸体沉入海底，碳就会转而释放到大气中。
-]]></title>
-            <link>https://instant.lvv2.com/html/c55152e907d1d9593a0507192e73f671.html</link>
-            <guid>958de6fb8b25783fa5710acbb72d1266</guid>
-            <pubDate>Sat, 20 Mar 2021 18:20:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
