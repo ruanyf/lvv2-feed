@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 21 Mar 2021 18:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 20:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【与三大视频平台决裂，制片人的“自杀式”自救】这是近几年第一部在一线卫视播出，却无缘网络视频平台的作品。据透露本剧投入过亿，优爱腾三个平台都给本剧评级为B，开价均是20万一集，但制片人的开价是200万一集，于是只好开发了一个App自己播，从第二集开始就需要付费观看，看完全片预计需88元……]]></title>
+            <link>https://instant.lvv2.com/html/887cf6af95aea37afbb863ac464aa7d0.html</link>
+            <guid>1b34b034586c85903464861da14524cf</guid>
+            <pubDate>Mon, 22 Mar 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【任命服刑人员为子公司高管遭抵制，易车、新意互动股权之争再升级】易车创立于2000年，新意互动成立于2002年，都是由蔚来汽车董事长李斌创办。新意互动为易车控股子公司，易车持股57.0725%，从2020年12月开始，易车就和新意互动就因为股权问题展开了激烈的争夺战。]]></title>
+            <link>https://instant.lvv2.com/html/eb610a2841f57c4f52834fd6dcb8269a.html</link>
+            <guid>254dcb6ee1a5591dbf4eec6b505d6d29</guid>
+            <pubDate>Mon, 22 Mar 2021 03:08:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【随心飞半年后，我辞职了】随心飞到底改变了什么？是依靠它短暂地出逃，还是自此完全放满了生活步调，哪个更好，每个人都还不知道。]]></title>
             <link>https://instant.lvv2.com/html/e127d046906bc7d968307a8e46369f0f.html</link>
@@ -489,12 +501,6 @@
             <link>https://instant.lvv2.com/html/c55152e907d1d9593a0507192e73f671.html</link>
             <guid>958de6fb8b25783fa5710acbb72d1266</guid>
             <pubDate>Sat, 20 Mar 2021 18:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数字人民币“可控匿名”会侵犯隐私吗？】完全匿名从来不是各国央行数字货币的考虑，只有在符合“三反”等监管要求前提下的有限匿名才是国际共识。]]></title>
-            <link>https://instant.lvv2.com/html/12834db68a841c1bf16d703c49169a94.html</link>
-            <guid>e89bb368a66d6d8b40832d0dfbb60e92</guid>
-            <pubDate>Sat, 20 Mar 2021 18:08:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
