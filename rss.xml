@@ -4,11 +4,31 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 22 Mar 2021 20:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 22:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴西前总统卢拉“回归”，反腐案也能大反转？】3月8日，在最高法院大法官的裁定后，75岁的巴西前总统卢拉摆脱了贪腐罪的罪名。这意味着，卢拉将很可能重获政治权利，在2022年的大选中与现任总统博索纳罗角逐总统。]]></title>
+            <link>https://instant.lvv2.com/html/46d954bd833d7cf442e6400462b4d621.html</link>
+            <guid>4766ff6f3dc89621696f68f88e83312e</guid>
+            <pubDate>Tue, 23 Mar 2021 06:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[这篇文章阐述了关于暗网取证的一些思路，包括：
+VPN取证、内存取证、TOR浏览器取证、数字货币取证、网络流量取证、镜像网站取证。
+《暗网取证研究》 ]]></title>
+            <link>https://instant.lvv2.com/html/addb3f1ec2e56239eeda77c9f079a5c1.html</link>
+            <guid>6595ebe42a1dbb784364378a23f53370</guid>
+            <pubDate>Tue, 23 Mar 2021 05:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[刘擎︱2020西方思想年度述评（上·美国大选与民主危机）]]></title>
+            <link>https://instant.lvv2.com/html/ea025509a58285f624df28bec12881a9.html</link>
+            <guid>d621a6510914f77d1899af94ddb32e8e</guid>
+            <pubDate>Tue, 23 Mar 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[如何在美债收益率问题上搞垮研究者]]></title>
             <link>https://instant.lvv2.com/html/80024b0766468ee14974515766d742d5.html</link>
@@ -498,18 +518,6 @@
             <link>https://instant.lvv2.com/html/f921b4379ba7bfdc236462ded78c891d.html</link>
             <guid>6401fe294ceddcf7aba868fed121ceb3</guid>
             <pubDate>Mon, 22 Mar 2021 09:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[昨晚进行的CBA扣篮大赛决赛中，辽宁球员张镇麟两扣拿到99分，以1分优势险胜陈登星，拿到本赛季CBA全明星扣篮大赛冠军。张镇麟先是用一个复制卡特的360度转身暴扣拿到满分，随后又以一记罚球线前一步的大风车扣篮拿下49分，成功夺冠。张镇麟这身体素质实在太残暴了。]]></title>
-            <link>https://instant.lvv2.com/html/a254264d9f79ddd3dc13716b7d1794e0.html</link>
-            <guid>fefdb1c2c38644919f630b44eee0344c</guid>
-            <pubDate>Mon, 22 Mar 2021 09:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：昨日新增新冠肺炎确诊病例7例，均为境外输入病例]]></title>
-            <link>https://instant.lvv2.com/html/86956b39ede1462a8098f041633a2308.html</link>
-            <guid>7911bbe5ac340232e5faf20e408b243b</guid>
-            <pubDate>Mon, 22 Mar 2021 08:56:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
