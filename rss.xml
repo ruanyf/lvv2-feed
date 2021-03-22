@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 22 Mar 2021 17:01:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 18:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我找到了100只丢失的猫，窥见了100个年轻人的故事】“我们一直保持着联系，经常看到她发朋友圈，跟猫说话，今天是你的生日，我又想你了，今天发生了什么，我好想你。已经过去一年了，她还在朋友圈里发她的猫。”]]></title>
+            <link>https://instant.lvv2.com/html/2bf1eaa1893d69369918fedac1a4bb41.html</link>
+            <guid>cf7ffb17a04633c01bf881f71216d3c1</guid>
+            <pubDate>Tue, 23 Mar 2021 01:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【手机陷入内卷战：旧机新用、狂挤牙膏、价格杀红眼】比较有意思的就是，如果A手机缺货，似乎唯一的解决办法就是友商推出一款价格完全相同、且明显竞争的B产品，这样A手机就会迅速“现货”，不免令人感慨。]]></title>
             <link>https://instant.lvv2.com/html/6e0944f21819961e7e5cb64de4d9c441.html</link>
@@ -495,18 +501,6 @@
             <link>https://instant.lvv2.com/html/d32772a3decd90c61245f031e76f4b5e.html</link>
             <guid>277108f76816f2c04fd3cb4195dc1997</guid>
             <pubDate>Mon, 22 Mar 2021 08:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[没品+4chan笑话集：工口游戏还要我双手玩像什么话？！]]></title>
-            <link>https://instant.lvv2.com/html/9f22d123dcc37aeaf5a5415f1c533637.html</link>
-            <guid>66b17bc312be79b5daa25bdd6ca461fa</guid>
-            <pubDate>Mon, 22 Mar 2021 07:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国产A300远火首次实战确认！画面首次出现，卫星制导弹很亮眼】3月20日，阿塞拜疆国防部对外公布了一段作战集锦，记录了去年纳卡冲突中，远程炮兵对亚美尼亚军队目标发起的攻击。其中从白俄罗斯进口的波罗乃兹远程火箭炮系统，实际就是白俄引进的我国A200/300远火技术，换了个白俄本国的MZKT7930重型卡车底盘。]]></title>
-            <link>https://instant.lvv2.com/html/583048fa6e0cc40eb0b589be5b3f06d9.html</link>
-            <guid>130b7f0929e3c0e5e6a5430052b0fe20</guid>
-            <pubDate>Mon, 22 Mar 2021 07:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
