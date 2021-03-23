@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 23 Mar 2021 17:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 18:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯空天军一架图-22M3轰炸机在卡卢加市附近的沙伊科夫卡基地进行地面训练时，由于弹射系统出现非正常反应，导致机组四名乘员在地面被弹射出机舱，抛射到降落伞无法打开的高度后摔下，其中三人伤势过重死亡，另外一人正送医抢救中。此次事故中无平民伤亡。]]></title>
+            <link>https://instant.lvv2.com/html/63e00bbfc3cd17c7672bac2c90e83aab.html</link>
+            <guid>103872a50b589192245f9aeed40599fd</guid>
+            <pubDate>Wed, 24 Mar 2021 02:10:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[76岁的华裔老人谢晓珍17日在旧金山遭到陌生人袭击，不过她奋力反击扭转了局面，最终把袭击者打得躺上了担架。此后有3万多名网友捐款给谢晓珍治病。但谢晓珍的家人决定将网友捐给她的近90万美元（约合585万元人民币）巨款全部捐出，用于帮助亚裔群体。]]></title>
             <link>https://instant.lvv2.com/html/d1c0a0ee34cd417c0e612e1bb8e6fd38.html</link>
@@ -539,12 +545,6 @@
             <link>https://instant.lvv2.com/html/c935f7bee5ea759574ff8295360e96e1.html</link>
             <guid>8137bc8cddb93694bebd5167e5d64fa4</guid>
             <pubDate>Tue, 23 Mar 2021 07:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逝去的《我的暑假》】休闲冒险游戏《蜡笔小新：我与博士的暑假~无尽的七日之旅~》将于今年夏季登陆NS，该作由《我的暑假》系列监督绫部和制作，制作人表示游戏会尽力推出中文版本。]]></title>
-            <link>https://instant.lvv2.com/html/bd6f2374b67cfcd00d53beb57453f709.html</link>
-            <guid>395e020122e3c098dca1a8675665dda5</guid>
-            <pubDate>Tue, 23 Mar 2021 06:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
