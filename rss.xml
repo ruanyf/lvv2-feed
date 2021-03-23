@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 23 Mar 2021 20:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 22:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【凑齐8艘万吨级神盾战舰，日本海基反导能力大增】海上自卫队的主战舰艇更新换代速度不慢，其中头等主力舰就是搭载美制“宙斯盾”作战系统的万吨级驱逐舰，而随着最新的“羽黑”号服役，已有8艘之多。]]></title>
+            <link>https://instant.lvv2.com/html/93f508fbec5cb6ac9679429546c77e4d.html</link>
+            <guid>89960b424c5cf0bc1e0704c4cc31ea57</guid>
+            <pubDate>Wed, 24 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张一鸣的百亿并购遇到麻烦了】沐瞳科技的创始人有3个，头条的收购价格也高于40亿美元。现在，那个被刻意抹去的第3个创始人站出来发了个朋友圈，他说要跟沐瞳打官司。]]></title>
+            <link>https://instant.lvv2.com/html/3ae0fbac9525aaabc4d608871baddde0.html</link>
+            <guid>ee23f7b439833fe7c0e24d8c4457f4d4</guid>
+            <pubDate>Wed, 24 Mar 2021 05:08:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“就不该轻易采访他！”NHK败给了庵野秀明】纪录片播出后，参与拍摄的NHK工作人员在社交平台感慨：“本来是‘拍摄庵野秀明辛苦工作的片子’，看着看着成了‘被庵野摆布的动画工作人员的纪录片’，其实是‘轻易立项却被庵野耍了4年的NHK血泪控诉片’，实在太有趣了。”]]></title>
             <link>https://instant.lvv2.com/html/271444688dc93a4b21ef9360a2df364a.html</link>
@@ -533,18 +545,6 @@
             <link>https://instant.lvv2.com/html/f105e546446c3c07f4988795e34ff139.html</link>
             <guid>05b51e6a8187e4a365fe9cfede9c5799</guid>
             <pubDate>Tue, 23 Mar 2021 08:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【货币政策委员会三大变化，央行关注要点浮现】蔡昉长期专注于人口研究，王一鸣长期从事宏观经济问题研究，刘世锦致力于经济理论和政策问题研究。换言之，三位委员并非严格意义上的“金融专家”，而是更多从宏观经济、经济体制改革方面的研究。]]></title>
-            <link>https://instant.lvv2.com/html/1f18353f524e998938a0aec048f953a2.html</link>
-            <guid>2f251a69fba15723e7007d2828bdf682</guid>
-            <pubDate>Tue, 23 Mar 2021 08:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸边境故事：被审问的那一晚，情报官用枪指着我的头 | 故事FM]]></title>
-            <link>https://instant.lvv2.com/html/22f1fb59eaaec9bb1a6e41570a298925.html</link>
-            <guid>c240d0e65587c7994bcb06604cb3ec51</guid>
-            <pubDate>Tue, 23 Mar 2021 07:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
