@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 23 Mar 2021 18:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 20:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“就不该轻易采访他！”NHK败给了庵野秀明】纪录片播出后，参与拍摄的NHK工作人员在社交平台感慨：“本来是‘拍摄庵野秀明辛苦工作的片子’，看着看着成了‘被庵野摆布的动画工作人员的纪录片’，其实是‘轻易立项却被庵野耍了4年的NHK血泪控诉片’，实在太有趣了。”]]></title>
+            <link>https://instant.lvv2.com/html/271444688dc93a4b21ef9360a2df364a.html</link>
+            <guid>ff41e08a19404fcd229c11b13a4bca26</guid>
+            <pubDate>Wed, 24 Mar 2021 04:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《怪物猎人 崛起》媒体评分汇总：翔虫让狩猎更美好]]></title>
+            <link>https://instant.lvv2.com/html/776ab7cbc7f6fcb11843cc48a5fead83.html</link>
+            <guid>dea8a0a2b660687cd7c1cde61f257a73</guid>
+            <pubDate>Wed, 24 Mar 2021 03:08:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯空天军一架图-22M3轰炸机在卡卢加市附近的沙伊科夫卡基地进行地面训练时，由于弹射系统出现非正常反应，导致机组四名乘员在地面被弹射出机舱，抛射到降落伞无法打开的高度后摔下，其中三人伤势过重死亡，另外一人正送医抢救中。此次事故中无平民伤亡。]]></title>
             <link>https://instant.lvv2.com/html/63e00bbfc3cd17c7672bac2c90e83aab.html</link>
@@ -533,18 +545,6 @@
             <link>https://instant.lvv2.com/html/22f1fb59eaaec9bb1a6e41570a298925.html</link>
             <guid>c240d0e65587c7994bcb06604cb3ec51</guid>
             <pubDate>Tue, 23 Mar 2021 07:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电子烟牌桌上坐满了搏命的玩家】只要是新开店的加盟商，都能获得高达上万元补贴，悦刻说要在三年内补贴6亿，YOOZ柚子就在一年内补贴6亿。高级玩家们不下桌，赌注越押越大，小玩家也不断加入，年初至今，电子烟相关企业注销吊销1631家，但新增注册企业14040家。]]></title>
-            <link>http://www.imaijia.com/articleDetail.htmid=26017</link>
-            <guid>cf909c0ecefd61951451cdbe42ccf832</guid>
-            <pubDate>Tue, 23 Mar 2021 07:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投资客老包计划逃离燕郊】包启明已经在燕郊居住了三年，他希望燕郊楼市能有一波行情，“价格起来了，就赶紧卖掉，在北京买一套，就不需要两地跑了。”与包启明有同样想法的人不在少数，他们认为这是一次将房产从燕郊置换到北京的机会。]]></title>
-            <link>https://instant.lvv2.com/html/c935f7bee5ea759574ff8295360e96e1.html</link>
-            <guid>8137bc8cddb93694bebd5167e5d64fa4</guid>
-            <pubDate>Tue, 23 Mar 2021 07:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
