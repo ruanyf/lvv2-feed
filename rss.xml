@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 24 Mar 2021 20:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 22:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【在重庆发现一座隐秘的赛博朋克古村】金刚碑完完全全更是个浓缩菁华版的老重庆，加上土酷与赛博朋克结合的灯光，我仿佛见到一个原创性的网红景区诞生]]></title>
+            <link>https://instant.lvv2.com/html/cfa04960e95a289b49afef5fa324116d.html</link>
+            <guid>3ce7d6dcbed2d33661ce4b48826e18ec</guid>
+            <pubDate>Thu, 25 Mar 2021 06:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[正式赔偿黑人一人两万五美元，那解放黑奴战死沙场的白人后代要不要赔呢？]]></title>
             <link>https://instant.lvv2.com/html/9029c27051356aec4b1c4e3d30593ef4.html</link>
@@ -466,18 +472,6 @@
             <link>https://instant.lvv2.com/html/43c9480895b9595be0bfa8ac5c061323.html</link>
             <guid>8fb9d9271532b8c5e28ab79efa42b5a6</guid>
             <pubDate>Wed, 24 Mar 2021 07:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴斯基亚《战士》HK$3.2亿佳士得破纪录成交】流星般的生命、传奇的故事加上黑人特质，令巴斯基亚成为当今最受追捧的当代艺术家之一，当然，其中，也清晰地看得到资本炒作的影子。]]></title>
-            <link>https://instant.lvv2.com/html/a0fc3424e1a65f54325c34ec47c0b8a5.html</link>
-            <guid>40e1db5b5a61d189e21590405862a2fa</guid>
-            <pubDate>Wed, 24 Mar 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比如，你可以把鼻子、喉咙和肺部的细胞想象为一排房子。一旦一种病毒闯进去，它既可以敞开大门让其它病毒长驱直入；也可以紧闭房门自己独享新居。]]></title>
-            <link>https://instant.lvv2.com/html/7aebffdf7861f3b4d660411ad33d0138.html</link>
-            <guid>1f415a67abfe5bf219f1202bd800d5e2</guid>
-            <pubDate>Wed, 24 Mar 2021 06:42:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
