@@ -4,11 +4,19 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 25 Mar 2021 18:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 20:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[华人教会请务必警惕3月27日的“亚裔行动日” 
+标注本次活动的组织者是“社会主义与解放党”。这是成立于2004年的共产主义政党。在电子邮件中提供的活动官方网站显示，两个中方机构中国总商会和中华会馆也是资助机构。
+]]></title>
+            <link>https://instant.lvv2.com/html/7bc4efd945380d9a775fec881b04b9e8.html</link>
+            <guid>b84447b1d6c14789b1866658268cdc80</guid>
+            <pubDate>Fri, 26 Mar 2021 03:48:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国不再尊重美国，他们有理由这样做  
 这篇文章很有价值，推荐给大家。]]></title>
@@ -470,18 +478,6 @@
             <link>http://www.douban.com/note/797023543/</link>
             <guid>5101b91ba05d726e98cad0000cd86eae</guid>
             <pubDate>Thu, 25 Mar 2021 09:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[总之，腾讯太能赚钱了]]></title>
-            <link>https://instant.lvv2.com/html/c38a2c67c923d1ab5213958e90f023b6.html</link>
-            <guid>237e95e7636b6a4a6bb4e5ab622294a7</guid>
-            <pubDate>Thu, 25 Mar 2021 09:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去年的采棉季节，我在新疆待了九天】最近几年，机械化程度越来越高，坐着火车跨区采棉的劳动大军早已消失不见。极飞原本是一家无人机企业，在新疆这边无人机打药业务发达，主要原因就是采棉之前需要先喷洒落叶剂，让叶子掉下、只留下棉花，提高机器采摘效率。]]></title>
-            <link>https://instant.lvv2.com/html/f9f213400b7ea79f593406ca62c1dd91.html</link>
-            <guid>123351ce08b0eb560eec4365c8c3b6b4</guid>
-            <pubDate>Thu, 25 Mar 2021 09:08:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
