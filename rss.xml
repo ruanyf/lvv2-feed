@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 26 Mar 2021 18:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 20:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国新冠疫苗现在正被用于为全球几十个国家的数百万人接种。然而，像澳大利亚这样的富裕国家对中国的疫苗嗤之以鼻。除了中国未能公布其试验结果供同行审查而引发了医学界的合理担忧，西方的怀疑还有其他原因吗？]]></title>
+            <link>https://instant.lvv2.com/html/ca7bc4f5ae2d8a9d56fd858b36f79aae.html</link>
+            <guid>4c5ca30c1f8c17e4278c282f78dcce72</guid>
+            <pubDate>Sat, 27 Mar 2021 04:26:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湾区要给黑人贫困家庭每月发500美元】奥克兰是湾区非裔最多的城市，恶性犯罪在全美都名列前茅。很多黑人青少年在贫困环境里成长，也会走上犯罪道路。于是这个项目准备做一个实验，选600个黑人贫困家庭每月额外给500美元，看看这些孩子生活教育会不会发生改善。资金完全来自鲍尔默等超级富翁创建的一个10亿美元慈善基金。]]></title>
+            <link>https://instant.lvv2.com/html/1f8603a5920a3418db1087c3b0f99930.html</link>
+            <guid>030147b6b4e01007cd7c41fc631d835a</guid>
+            <pubDate>Sat, 27 Mar 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【专访演员潘斌龙：“还好还好”，我也能当男主】和潘斌龙交流的一个多小时里，他提到最多的一个词是“还好”。这次得了《我就是演员3》的冠军，感觉自己红了么？“感觉还好”。演了很多戏都是配角，有委屈不公的时刻么？“还好，那会有戏拍就行”。]]></title>
             <link>https://instant.lvv2.com/html/046dcfb43f48809a90ad2ffcf3c4e0c7.html</link>
@@ -510,18 +522,6 @@
             <link>http://www.zaobao.com/realtime/china/story20210326-1134257</link>
             <guid>23f24f82c5fcaf97767a9d4e420cf5c3</guid>
             <pubDate>Fri, 26 Mar 2021 08:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“自己人”才能救首汽约车？】首汽此次债转股等于免除了首汽约车在经营时的巨额债务，完成后，首旅、首汽两级国资集团对首汽约车将实现绝对控股。对国企背景的首汽约车来说，破除谨小慎微下的保守行动，或许才能让预期与现实接轨。]]></title>
-            <link>https://instant.lvv2.com/html/6f5fa5ed4d95e7428f9acfa6f5de4a52.html</link>
-            <guid>d792deb4809a8836e3d923a04043642e</guid>
-            <pubDate>Fri, 26 Mar 2021 07:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[从年轻到年迈，男子偶然拍下“爱情的一生”]]></title>
-            <link>https://instant.lvv2.com/html/3f9bee7324ff2c78ef78971d31dc087b.html</link>
-            <guid>86479b32a9c8e8b7a833901d58269515</guid>
-            <pubDate>Fri, 26 Mar 2021 07:24:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
