@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 27 Mar 2021 17:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 18:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[关于那篇“20个新疆棉有趣事实”，我来认真讲讲这些似是而非的东西]]></title>
+            <link>https://instant.lvv2.com/html/d7b5ca75dd1b6f724209663e913d4879.html</link>
+            <guid>1514299503fcbce3aa1d63bbcd18ef22</guid>
+            <pubDate>Sat, 27 Mar 2021 23:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【梅开二度，高通怎么也开始「挤牙膏」了？】用骁龙 870、860 抢占更广泛的市场空间，应对好联发科的冲击，还能加大出货量，以上种种优势才催生了高通新瓶装旧酒的别样性价比玩法。]]></title>
+            <link>https://instant.lvv2.com/html/cadc3bb06e98f0fb808a0dba25539d22.html</link>
+            <guid>0dda9b154570cde53e22bace39804c09</guid>
+            <pubDate>Sun, 28 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【《司藤》造型解析：那些绝美珠宝百元就能到手？】司藤是民国民国时期的“外星人”，所以穿了各式各样精致的中式改良旗袍，被网友叫做奇迹藤藤，每一套都充满了复古的民国风情。]]></title>
             <link>https://instant.lvv2.com/html/1db289d808e66956762a302f39ee9d08.html</link>
@@ -26,12 +38,6 @@
             <link>http://www.toutiao.com/i6941102085291115045/</link>
             <guid>f73fb41164a401abb62196894c1e7bc1</guid>
             <pubDate>Sat, 27 Mar 2021 23:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[关于那篇“20个新疆棉有趣事实”，我来认真讲讲这些似是而非的东西]]></title>
-            <link>https://instant.lvv2.com/html/d7b5ca75dd1b6f724209663e913d4879.html</link>
-            <guid>1514299503fcbce3aa1d63bbcd18ef22</guid>
-            <pubDate>Sat, 27 Mar 2021 23:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[荷兰斯密特打捞公司说，若一切到位，在苏伊士运河搁浅多日的巨型集装箱船“长赐轮”最快可在下周开始脱浅。]]></title>
@@ -437,12 +443,6 @@
             <link>https://instant.lvv2.com/html/56ffcfa3b238f3838b0f1602fcdc1823.html</link>
             <guid>6e9a2269aaaa16d8864bf43838a2f2e0</guid>
             <pubDate>Fri, 26 Mar 2021 19:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网上发布丑化英雄烈士言论，北京27岁女子被刑拘】3月24日，微博用户“YvonnAlmond”在网上发布丑化英雄烈士的言论，造成恶劣社会影响。对此，东城警方迅速开展调查，于3月25日将犯罪嫌疑人许某怡（女，27岁）查获，该人对发泄个人情绪，侵害英雄烈士名誉的犯罪事实供认不讳。]]></title>
-            <link>https://instant.lvv2.com/html/8961ac737286af20c9d86b1e2234cb7e.html</link>
-            <guid>75e21fe3b6ee4d2b9ae2b35af76bc7a2</guid>
-            <pubDate>Fri, 26 Mar 2021 19:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
