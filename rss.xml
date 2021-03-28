@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Mar 2021 17:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 18:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -478,12 +478,6 @@
             <link>https://instant.lvv2.com/html/8cb123f945316b9b953ce6a86d9b9db3.html</link>
             <guid>10957725108957fe178140acb34c37da</guid>
             <pubDate>Sat, 27 Mar 2021 20:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[刚刚看见一个新闻，这波新疆棉花风波，泰国很多网友支持中国。为什么呢？因为前两年他们也被西方以“虐待猴子采椰子”的名义被动保组织制裁过，所以感同身受。我一看见这个消息的时候还不太相信，然后去查了下，这居然是真的]]></title>
-            <link>http://share.api.weibo.cn/share/211950083.html</link>
-            <guid>7ab22ed3f568e7ea3ada29613ec747ff</guid>
-            <pubDate>Sat, 27 Mar 2021 20:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
