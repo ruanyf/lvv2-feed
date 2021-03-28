@@ -4,16 +4,58 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Mar 2021 01:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 02:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[矮纸斜行 - 讲讲他的故事：从职高到MIT计算机博士录取 ]]></title>
+            <link>https://instant.lvv2.com/html/b353073058b2de2156bf9239e76d66f9.html</link>
+            <guid>44809923e9397470f29471514b3527fd</guid>
+            <pubDate>Sun, 28 Mar 2021 10:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登向约翰逊提议：“民主国家”也要搞一个基建计划，跟“一带一路”竞争]]></title>
+            <link>https://instant.lvv2.com/html/75c405a588e4e85e914c77511ddbfcbc.html</link>
+            <guid>6720ba75bbe927ecdbdcd64a42746da1</guid>
+            <pubDate>Sun, 28 Mar 2021 10:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【旧闻重温】大赦国际 | 一个新疆汉族人的告白：那是我永远回不去的故乡 ]]></title>
+            <link>https://instant.lvv2.com/html/5ef2e1b528f7701cb82de4f41f58a06a.html</link>
+            <guid>842c8d27e6a6171dc9009fa6222dc4a5</guid>
+            <pubDate>Sun, 28 Mar 2021 10:28:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[关于那篇“20个新疆棉有趣事实”，我来认真讲讲这些似是而非的东西]]></title>
             <link>https://instant.lvv2.com/html/d7b5ca75dd1b6f724209663e913d4879.html</link>
             <guid>1514299503fcbce3aa1d63bbcd18ef22</guid>
             <pubDate>Sat, 27 Mar 2021 23:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[传说中的解酒神器，为什么都是智商税？]]></title>
+            <link>https://instant.lvv2.com/html/8fa83c817b62ddf0f173bf240863d7c0.html</link>
+            <guid>f8eee6e99b9f60c844aa6c48769baf63</guid>
+            <pubDate>Sun, 28 Mar 2021 10:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#一周热门 如何代表亚裔美国人？杨安泽竞选纽约市长面临考验 ]]></title>
+            <link>https://instant.lvv2.com/html/c34143c4a0b71fdb4f6b8a22ba80cf6a.html</link>
+            <guid>81335d765830a5c1eb0f805baf7d6cf1</guid>
+            <pubDate>Sun, 28 Mar 2021 09:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小宇宙诞生一周年记，中文播客走入“爆发”岁月】2020年6月，即刻App恢复上架，与小宇宙等一系列矩阵产品打通壁垒。有播客主播进入即刻，与听众在“圈子”里互动，也有“即友”受到启发，开始了自己的“第0期计划”。]]></title>
+            <link>https://instant.lvv2.com/html/f804f5e5e5aa18729c5710dea0fb7726.html</link>
+            <guid>dc85a5a7ef177f2c09048b029ddea58b</guid>
+            <pubDate>Sun, 28 Mar 2021 09:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在主导世界的真实与话语？】边芹：西方“精英文化”的精髓之一就是“话语统治”，而“话语统治”的实质又是什么呢？是温柔的独裁。]]></title>
+            <link>https://instant.lvv2.com/html/578f150dc2807db1c625c780aaf25765.html</link>
+            <guid>a6da4cae19187a52fcfaabdf61708a93</guid>
+            <pubDate>Sun, 28 Mar 2021 09:40:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【谁毁了庞麦郎？】2021年1月30日大家围炉喝酒聊了一整晚，纪录片导演张景百惠知道了庞麦郎生病的秘密。到了3月，那成了众人皆知的新闻。对于要写的书，白晓信心满满：“它会比（电影）《绿皮书》还精彩。”在白晓的小说里，他会是司机保镖托尼，而庞麦郎是梵高，他们的友谊和他们对艺术的追求，不被世俗所理解。]]></title>
@@ -400,49 +442,6 @@
             <link>https://instant.lvv2.com/html/ca7bc4f5ae2d8a9d56fd858b36f79aae.html</link>
             <guid>4c5ca30c1f8c17e4278c282f78dcce72</guid>
             <pubDate>Sat, 27 Mar 2021 04:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湾区要给黑人贫困家庭每月发500美元】奥克兰是湾区非裔最多的城市，恶性犯罪在全美都名列前茅。很多黑人青少年在贫困环境里成长，也会走上犯罪道路。于是这个项目准备做一个实验，选600个黑人贫困家庭每月额外给500美元，看看这些孩子生活教育会不会发生改善。资金完全来自鲍尔默等超级富翁创建的一个10亿美元慈善基金。]]></title>
-            <link>https://instant.lvv2.com/html/1f8603a5920a3418db1087c3b0f99930.html</link>
-            <guid>030147b6b4e01007cd7c41fc631d835a</guid>
-            <pubDate>Sat, 27 Mar 2021 03:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概教育股跟谁学跌超25%，新东方跌近20%，好未来跌15%，网易有道跌7%。同时，部分教育及培训服务中概股大涨。]]></title>
-            <link>http://share.api.weibo.cn/share/211793351.htmlweibo_id=4619126356836379</link>
-            <guid>efa94270802b143df5ba36232407af93</guid>
-            <pubDate>Fri, 26 Mar 2021 23:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专访演员潘斌龙：“还好还好”，我也能当男主】和潘斌龙交流的一个多小时里，他提到最多的一个词是“还好”。这次得了《我就是演员3》的冠军，感觉自己红了么？“感觉还好”。演了很多戏都是配角，有委屈不公的时刻么？“还好，那会有戏拍就行”。]]></title>
-            <link>https://instant.lvv2.com/html/046dcfb43f48809a90ad2ffcf3c4e0c7.html</link>
-            <guid>93a556cba2b28ef9b940e3fa8f46253d</guid>
-            <pubDate>Sat, 27 Mar 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#观点 对于亚裔在美国如今遭遇的解释，无论是引述美国的历史、模范少数族裔神话，还是团结一致反对白人至上主义，都极具说服力。
-然而，这些解释并没有告诉我们，为什么当亚裔受到攻击时，却似乎没有人关心。]]></title>
-            <link>https://instant.lvv2.com/html/6845573391cc375092f362b7c88ec9ca.html</link>
-            <guid>259abbb6d2c79ef09e49aed221ee08e6</guid>
-            <pubDate>Sat, 27 Mar 2021 01:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逛完深海恐惧症小组，我差点被送走】大家在组里分享把自己吓到的图片或动图，点进来的人，又被这些新的图片吓到。每个可以心不颤手不抖地顺利点击关闭页面的人，都终将会获得一枚勇士勋章。]]></title>
-            <link>https://instant.lvv2.com/html/9d5d0c1bf4de79a603428b917ada4467.html</link>
-            <guid>5560a538f6aa80c1a5008806e03fe80d</guid>
-            <pubDate>Sat, 27 Mar 2021 01:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【只要 78 元，这可能是年轻人的第一件 Gucci】最近，奢侈品牌 Gucci 发布了他们的首款数字虚拟运动鞋：Gucci Virtual 25。不过与最近很火的 NFT 数字艺术品不同，这双鞋不能转售，只能在线上世界穿。但它可能是 Gucci 有史以来最便宜的一双鞋，只要 78 元。]]></title>
-            <link>https://instant.lvv2.com/html/9fd92b38b672d8e5c9adcbc4b0c62219.html</link>
-            <guid>2828210995c2c1f3f33cb8a28da7718e</guid>
-            <pubDate>Sat, 27 Mar 2021 00:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[总结了20个新疆棉有趣事实： 中国是最大进口国，也是最大库存积压国]]></title>
-            <link>https://instant.lvv2.com/html/71fd8e0bfdcefd03ec2b306fef17d134.html</link>
-            <guid>38c35c1dcd08350997c8bb32764a8698</guid>
-            <pubDate>Sat, 27 Mar 2021 00:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
