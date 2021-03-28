@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Mar 2021 18:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 20:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[从中国神华的高分红说起]]></title>
+            <link>http://xueqiu.com/8808125263/175632110</link>
+            <guid>0e0ae574ec32dbc7a7e1f340f5e9ccad</guid>
+            <pubDate>Mon, 29 Mar 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【ARK-Tesla-Bitcoin：重演火烧赤壁和马陵道】大概率出于降低资产价格波动性的考虑，ARK买特斯拉，特斯拉买比特币，所有的船已经连好，只欠东风。]]></title>
             <link>http://wallstreetcn.com/articles/3625267</link>
@@ -472,12 +478,6 @@
             <link>https://instant.lvv2.com/html/a8ae4fa91747b725c5c58a53c0e03904.html</link>
             <guid>3fd509153a458216ed58b127b5049626</guid>
             <pubDate>Sat, 27 Mar 2021 21:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在tb逛，看到一个评论，好心疼…如果到时你的婚姻变成这样，会选择离婚吗…]]></title>
-            <link>https://instant.lvv2.com/html/8cb123f945316b9b953ce6a86d9b9db3.html</link>
-            <guid>10957725108957fe178140acb34c37da</guid>
-            <pubDate>Sat, 27 Mar 2021 20:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
