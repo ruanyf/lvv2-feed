@@ -4,11 +4,55 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 28 Mar 2021 02:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 04:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国务卿布林肯昨天（3月27日）谴责中国企图恐吓为人权发声的人士，谴责中国“毫无根据地”针对美国人员实施制裁。
+]]></title>
+            <link>https://instant.lvv2.com/html/147e09ef6726c3bbd7d93a10610cf448.html</link>
+            <guid>aa4a8f1ce9960409afcf95ca07e6e237</guid>
+            <pubDate>Sun, 28 Mar 2021 12:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡针对35名疑似二度感染冠病病患进行的研究显示，这些病患不再具有传染力，只是体内仍在排出死去的病毒，经判断不属于二度感染。
+]]></title>
+            <link>https://instant.lvv2.com/html/9b54b5e443980a2e2784a647ed02dacb.html</link>
+            <guid>8720e5ec7d4d70ec5a204e7313083c91</guid>
+            <pubDate>Sun, 28 Mar 2021 12:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“没有什么比和错误的人一起生活更孤独”】2013年，纽约大学社会学教授艾里克·克里南伯格撰写的《单身社会》出版，大获成功，被翻译成多种语言。美国《时代》周刊把“独居”列为“正在改变我们的社会思潮”中的第一位。克里南伯格的调查数据证明，单身和独居的生活不再是社会怪象，而是自由主义价值观的必然产物。]]></title>
+            <link>https://instant.lvv2.com/html/caf37606690a9de698d12d9047bee6b0.html</link>
+            <guid>62f913415430078b0adf5ed8172d992a</guid>
+            <pubDate>Sun, 28 Mar 2021 12:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西安地铁拟禁止使用移动充电物品，网友炸锅】2014年，广州地铁开始提醒乘客，“搭乘地铁过程中，请勿使用移动电源”，当时广州地铁工作人员表示：“准确的说不是禁用充电宝，而是希望乘客配合我们做好两件事：首先，希望这些充电宝能够做好基本的防护和保护；第二，在地铁运行过程中尽量不要使用充电宝进行充电。”]]></title>
+            <link>https://instant.lvv2.com/html/aa193e32e6b12f9e34374a358b61657e.html</link>
+            <guid>e94095c00ec5901ebfcf6da4dcf32620</guid>
+            <pubDate>Sun, 28 Mar 2021 12:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花了一百多万，孩子还是上不了好中学】如果时光倒流，周行不会让孩子学马术。100多万砸下去，一点水花没荡起来。临近升学关头，学校取消了马术特长选拔，还因此耽误考证时机，“学马术这4年，如果去参加各种学科竞赛，至少能有七八个竞赛大奖当名校敲门砖。”]]></title>
+            <link>https://instant.lvv2.com/html/ece26221765a4dba08b1b387a353d232.html</link>
+            <guid>b1b34af2e5cf9c12253cb8f04514453e</guid>
+            <pubDate>Sun, 28 Mar 2021 11:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当代年轻人，住进工位里]]></title>
+            <link>https://instant.lvv2.com/html/bde114c1ea3404271a219ffeadc25963.html</link>
+            <guid>64607bbd4597447767b86b0b17f450af</guid>
+            <pubDate>Sun, 28 Mar 2021 11:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[分屏的魅力：论电影技巧的高级玩法]]></title>
+            <link>http://www.vmovier.com/61725</link>
+            <guid>f0b546c44e4176d3d43c6078b2128cef</guid>
+            <pubDate>Sun, 28 Mar 2021 11:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[矮纸斜行 - 讲讲他的故事：从职高到MIT计算机博士录取 ]]></title>
             <link>https://instant.lvv2.com/html/b353073058b2de2156bf9239e76d66f9.html</link>
@@ -399,49 +443,6 @@
             <link>https://instant.lvv2.com/html/c2ec595da2877e0d66035f2106312263.html</link>
             <guid>5c576c5369fb0799eac6590b2fef9f83</guid>
             <pubDate>Sat, 27 Mar 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水滴互助关停，意味着什么？】水滴互助、包括百度、美团互助等关停，很大一部分原因是因为：国内这类网络互助平台用户数量庞大，但平台监管问题一直处于缺失状态。因此，国家正在加强对网络互助行业的监管。]]></title>
-            <link>https://instant.lvv2.com/html/74346690f21ed3c4781e8bf0878f0511.html</link>
-            <guid>dad1cd78e965a9cb143f9d24db5154d5</guid>
-            <pubDate>Sat, 27 Mar 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21解读丨立刻收回贷款、压授信额、上征信！用经营贷买房的后果了解一下]]></title>
-            <link>https://instant.lvv2.com/html/55e8cab50bd4e35b097ff581dc25f40b.html</link>
-            <guid>7deebfe07423e964a7d8b1d9f42295db</guid>
-            <pubDate>Sat, 27 Mar 2021 06:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国一市政府拨款250万欧元建清真寺，内政部长指责：用公款“资助外国干涉我国领土”]]></title>
-            <link>https://instant.lvv2.com/html/9a8098da41f6c481998eb9b9eb29404b.html</link>
-            <guid>488d6ee0a6978d15151fffaba151e3de</guid>
-            <pubDate>Sat, 27 Mar 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我非常感谢中华人民共和国政府外交事务发言人办公室与美利坚合众国席勒 @SchillerInstit1研究所就 我们为实现中华人民共和国之间的和谐合作提出的建议所做的工作, 中国 ，美国 , 和墨西哥 .
-]]></title>
-            <link>https://instant.lvv2.com/html/efc2faa9c0d029122ee9dfe3262f8fb1.html</link>
-            <guid>4c5d90e9a702890e30bd20f3371ab80d</guid>
-            <pubDate>Sat, 27 Mar 2021 05:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【40岁的田中理惠，开始放飞自我】人人说她是杀生院的人柱力，不世出的女菩萨，总是把她与“放飞自我”捆绑在一起。]]></title>
-            <link>https://instant.lvv2.com/html/0cf0c5f52fa28422b937e8ec22cdc02d.html</link>
-            <guid>b1fa11f91a089a3e6fd639f743560e93</guid>
-            <pubDate>Sat, 27 Mar 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【404文库】大咕咕咕鸡｜现在各种抵制的速度是不是过快 ]]></title>
-            <link>https://instant.lvv2.com/html/18c852b2d6c0cd2a84c332edb835b8e3.html</link>
-            <guid>900553b25df1126cee23e472dabc0c75</guid>
-            <pubDate>Sat, 27 Mar 2021 04:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国新冠疫苗现在正被用于为全球几十个国家的数百万人接种。然而，像澳大利亚这样的富裕国家对中国的疫苗嗤之以鼻。除了中国未能公布其试验结果供同行审查而引发了医学界的合理担忧，西方的怀疑还有其他原因吗？]]></title>
-            <link>https://instant.lvv2.com/html/ca7bc4f5ae2d8a9d56fd858b36f79aae.html</link>
-            <guid>4c5ca30c1f8c17e4278c282f78dcce72</guid>
-            <pubDate>Sat, 27 Mar 2021 04:26:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
