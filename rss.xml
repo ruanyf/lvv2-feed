@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 30 Mar 2021 17:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 18:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[世界卫生组织总干事谭德塞呼吁冠病溯源调查员，更深入调查冠病病毒自实验室泄露的理论。
+]]></title>
+            <link>https://instant.lvv2.com/html/a6156e5c4d8d4366e4ea573c2074a1fa.html</link>
+            <guid>188f023e5ad2ee09f813d8d756a9ba48</guid>
+            <pubDate>Wed, 31 Mar 2021 02:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：要尊重老年人使用习惯】商业银行要保留仍在使用中的纸质存折、存单等老年人熟悉的服务方式，不得强迫老年人使用银行卡，不得强制老年人通过自助式智能设备办理业务，不得违规代替老年人操作，不得对老年人使用柜面人工服务设置分流率等考核指标。]]></title>
+            <link>https://instant.lvv2.com/html/f78bf080f169f50e6f33a5c290b83772.html</link>
+            <guid>759a053e65278e032f037f888bc18f73</guid>
+            <pubDate>Wed, 31 Mar 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在社交媒体上，你不过是在化身活动 | 重新思考数字化之二】为了使网络具有社交性，社交媒体平台先将社交性变为了技术性。可计算的用户发布行为，远比客户发布了什么、为什么发布重要得多。不客气地说，用户在社交媒体上的活动都是化身（avatar）活动。]]></title>
+            <link>https://instant.lvv2.com/html/31f49266fe754d0b4ed242e6fa30b6da.html</link>
+            <guid>e29509048774d7f6f21901e5a10a2b42</guid>
+            <pubDate>Wed, 31 Mar 2021 01:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“消失”的冠军俱乐部，壮士断腕的中国足球】直到原定23日准备公布准入名单时，足协获悉了津门虎正在积极自救——不得已，足协只能顶住压力给了一点“伤停补时”，而津门虎利用“弗格森时间”完成绝杀，29日顺利获得了准入资格。]]></title>
             <link>https://instant.lvv2.com/html/5321c9f48973977c54afab03ac070add.html</link>
@@ -503,18 +522,6 @@
             <link>https://instant.lvv2.com/html/eb52f9aaded186575960dd640c37ff25.html</link>
             <guid>0e4a7f0f637946980d65413810bb6045</guid>
             <pubDate>Tue, 30 Mar 2021 05:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【从《乡村爱情》看东北女性家庭地位】大概看乡爱13的是一群稳固而沉默的人，他们像我一样，默默奉献着收视，却不在网上开话题讨论。]]></title>
-            <link>https://instant.lvv2.com/html/6655a4bbcd7195687c3094475ad599d2.html</link>
-            <guid>9fa3813ff390389d8cff0aa37c7933db</guid>
-            <pubDate>Tue, 30 Mar 2021 04:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“史上最大单日亏损”是如何形成的？】在每年高达千万美元的佣金面前，多家投行都为Bill Hwang提供了数以十亿美元计的信贷服务，很大一部分杠杆是银行通过掉期交易提供的。这意味着Archegos不必在SEC监管文件中披露其持仓情况。掉期也是给投资组合加大量杠杆的一种简便方法。]]></title>
-            <link>https://instant.lvv2.com/html/f2517a609229a91fd1fdad176fabe34a.html</link>
-            <guid>2729243c259b6560e6b4668753130a84</guid>
-            <pubDate>Tue, 30 Mar 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
