@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 30 Mar 2021 18:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 20:34:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【泡泡玛特的护城河越修越宽，但神话破灭了】消费者对于盲盒本身的好奇心，也在逐渐散去。在监管趋严之前，这仍旧是一门具有独特优势的好生意，但暴涨的神话，可能很难继续延续。]]></title>
+            <link>https://instant.lvv2.com/html/a69349981da9ded6595772f8ca1a12a4.html</link>
+            <guid>16c29205e2ecdaa8e118bad350f4aa99</guid>
+            <pubDate>Wed, 31 Mar 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[世界卫生组织总干事谭德塞呼吁冠病溯源调查员，更深入调查冠病病毒自实验室泄露的理论。
 ]]></title>
@@ -510,18 +516,6 @@
             <link>https://instant.lvv2.com/html/25de6e0da7780c8ccf1f037c4a5bb615.html</link>
             <guid>222e600c80077c2a7e5da8c704ab953c</guid>
             <pubDate>Tue, 30 Mar 2021 06:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扫黑除恶大型政论专题片第四集《治乱清源》，曾盘踞哈尔滨10年之久的“李氏三兄弟涉黑涉恶集团”诸多犯罪细节曝光。上百辆豪车总价值近亿元，除豪车古董外，李氏兄弟还拥有豪华码头及69套房产，累计资产达8亿，被警方查扣的现金近10亿。李氏兄弟通过非法手段垄断了当地电力系统77%份额，俨然成了哈尔滨供电系统的“电霸”。]]></title>
-            <link>https://instant.lvv2.com/html/6e0e9a0869a7d6992653e3b5b4abe5bf.html</link>
-            <guid>ccd43785869edec584640a9f2afc7eb7</guid>
-            <pubDate>Tue, 30 Mar 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网络民议】中国外交部成了国际流氓养成训练营 ]]></title>
-            <link>https://instant.lvv2.com/html/eb52f9aaded186575960dd640c37ff25.html</link>
-            <guid>0e4a7f0f637946980d65413810bb6045</guid>
-            <pubDate>Tue, 30 Mar 2021 05:10:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
