@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 31 Mar 2021 17:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 18:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[用N1和iPad1屏幕废物利用做了个迷你街机]]></title>
+            <link>https://instant.lvv2.com/html/9ba157e1aa3301b57844f43ea59da142.html</link>
+            <guid>09a17b4d960d0633975309418a6d414f</guid>
+            <pubDate>Thu, 01 Apr 2021 02:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[这个月的《谁在招人？》是互联网公司春招特刊，招聘岗位是创刊以来最多的一个月，而且很多公司写明有大量 HC（编制余额）。
 
