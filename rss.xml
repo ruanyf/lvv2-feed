@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 31 Mar 2021 18:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 20:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【恒大房车宝、恒大冰泉都要分拆上市了】许家印表示，现在恒大多元化的发展，为了实现集团衣食住行、康养旅游、娱乐这全闭合的产业链，所以集团又把恒大冰泉（包括恒大粮油）又买回来了49%的股权。]]></title>
+            <link>http://wallstreetcn.com/articles/3625797</link>
+            <guid>78bcdf602c96b0d74d4ccaa6c0960fc9</guid>
+            <pubDate>Thu, 01 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[调研显示，青年大学生通过关注美国大选，不仅深入了解了美国政治制度的利弊，同时也及时反观中国政治制度。有95.18%的青年大学生高度赞同“美国大选的乱象凸显了资本主义制度的弊端”。]]></title>
+            <link>https://instant.lvv2.com/html/e43d6b844da8e275d43831a1b8a425ac.html</link>
+            <guid>5f17a0b1a165c3cd3b877f70c4f93b4d</guid>
+            <pubDate>Thu, 01 Apr 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[用N1和iPad1屏幕废物利用做了个迷你街机]]></title>
             <link>https://instant.lvv2.com/html/9ba157e1aa3301b57844f43ea59da142.html</link>
@@ -485,24 +497,6 @@
             <link>https://instant.lvv2.com/html/62ef9c9c091f0c1bad424e156418d9ab.html</link>
             <guid>6b59072a1f055e87d775f5932d1c3a09</guid>
             <pubDate>Wed, 31 Mar 2021 08:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[每人再发$1400？美国纾困金第四轮提上议程。3月6日美国才通过了1.9万亿的纾困金第三轮发钱法案。就在大家刚收到$1400不久（有的人还没收到），美国纾困金第四轮已经提上议程，目前已有64名议员支持继续发现金补助，直到新冠肺炎疫情结束。]]></title>
-            <link>http://www.chineselikela.com/huaren/free-offer/29043/</link>
-            <guid>e13e10877df95602827fcade0c361746</guid>
-            <pubDate>Wed, 31 Mar 2021 08:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：昨日新增确诊病例11例，其中境外输入病例5例（广东2例，福建1例，河南1例，陕西1例），本土病例6例（均在云南）]]></title>
-            <link>https://instant.lvv2.com/html/962e432c6272fe38a2835fa0b8d99d75.html</link>
-            <guid>67b73eb6102bdf18f8bafd8af8dbef9f</guid>
-            <pubDate>Wed, 31 Mar 2021 08:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[调查：为啥这么多人过敏？治荒主力沙蒿与过敏有多大关系？]]></title>
-            <link>https://instant.lvv2.com/html/f0535d19cf2c3eadf45200b79cdcb976.html</link>
-            <guid>69cc4c4cd7a7c6af7f3e386a72b580d3</guid>
-            <pubDate>Wed, 31 Mar 2021 08:16:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
