@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 01 Apr 2021 17:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 18:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【瑞丽再封城】阿伟向全现在透露，目前瑞丽市不能进出，社区也都封闭了，除了日用品消费的商店，其他商店都关闭了，不过生活都在正常进行。鉴于此次疫情比上次严重，阿伟推测可能还得再做两三次核酸检测。上一次，他做了一次核酸，而当地缅甸人做了两次。]]></title>
+            <link>https://instant.lvv2.com/html/52e1072fe8e0cfa036912c12d25c3c51.html</link>
+            <guid>dc03a7802910b71e083041b171a9e8ab</guid>
+            <pubDate>Fri, 02 Apr 2021 01:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“招标不过钱塘江”：黑手操纵招投标，扫黑揭开官商勾结内幕】在4年时间内，虞关荣参与的招投标项目多达36个，涉案金额近40亿元，“招标不过钱塘江”的恶劣影响对当地经济秩序和营商环境造成了严重破坏。]]></title>
             <link>https://instant.lvv2.com/html/518434fde74e04fd371f28912ebacbd2.html</link>
@@ -502,20 +508,6 @@
             <link>https://instant.lvv2.com/html/9ba157e1aa3301b57844f43ea59da142.html</link>
             <guid>09a17b4d960d0633975309418a6d414f</guid>
             <pubDate>Thu, 01 Apr 2021 02:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这个月的《谁在招人？》是互联网公司春招特刊，招聘岗位是创刊以来最多的一个月，而且很多公司写明有大量 HC（编制余额）。
-
-行业景气回温了，资金充裕，业务扩张，企业都在加大投入。 ]]></title>
-            <link>https://instant.lvv2.com/html/8bf835f6a36350480d4d3d4c5f098989.html</link>
-            <guid>7cfcf121e87b8516514fce816f0c7a27</guid>
-            <pubDate>Thu, 01 Apr 2021 01:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为业绩创历史新高背后】华为最终能实现净利润同比上升，估计原因是营业利润下跌，导致税阶基数下降，以及可能因疫情关系，国家为企业提供了一定的税务优惠。结果，华为今年需要缴交的所得税，由去年的 153.67 亿元，下降至 76.55 亿元，因而带来了较高的净利率，并实现了净利润同比增长。]]></title>
-            <link>https://instant.lvv2.com/html/90c5a14f8e94956075072923a564e5c9.html</link>
-            <guid>30edc6a0a1c34bdefaef523a622f34de</guid>
-            <pubDate>Thu, 01 Apr 2021 00:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
