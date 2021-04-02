@@ -4,11 +4,18 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 02 Apr 2021 17:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 18:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#观点 拜登政府的外交政策强调“法治”，试图利用国际法规则体系约束中国的南海主张。
+然而，任何想要将法治武器化的人首先需要把自己的家务打理好，包括确保他们最亲密的盟友也这样做。作为华盛顿的盟友，英国的所作所为正在破坏这一努力。]]></title>
+            <link>https://instant.lvv2.com/html/6e919fd748d9e7175568908c223f6d20.html</link>
+            <guid>90bcbdfa609a446c48b80068522bc82a</guid>
+            <pubDate>Sat, 03 Apr 2021 01:24:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【聊聊目前简单的在网文圈躺平混日子的办法】我认识的有些作者确实收入不高，但照样还在这一行，日子也是照样过。有夫妻两人每月就指着起点那600全勤过日子的，有大龄在家住靠起点600全勤当生活费的。]]></title>
             <link>http://www.saraba1st.com/2b/thread-1996083-1-1.html</link>
@@ -555,19 +562,6 @@
             <link>https://instant.lvv2.com/html/3c2b6cb97719c6534ed6a9281f426224.html</link>
             <guid>2722777577534a074289b0e1efaf056e</guid>
             <pubDate>Fri, 02 Apr 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一杯豆浆的历史进程】「吃素的民族即将败于吃肉的民族」这种忧思存在于当时广大的知识分子之间。不过要让全体国民喝牛奶显然不够现实。牛奶不仅价格高昂，而且作为西式生活的象征，普通中国人在心理上难以接受。如何从传统食材中发现符合现代营养要求的食物，增强国民体魄，提升民族竞争力，成为中国科学家们的追求。]]></title>
-            <link>https://instant.lvv2.com/html/88ae22a06a9dc23286a7ef71100a2439.html</link>
-            <guid>cf4693bc94700d6bf999333b5cb6b1a7</guid>
-            <pubDate>Fri, 02 Apr 2021 04:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸数名电信业消息人士周四（4月1日）说，缅甸军方领导人下令互联网服务提供商关闭无线宽带服务，直至另行通知。
-]]></title>
-            <link>https://instant.lvv2.com/html/2ffdb05ce08745f9583b080990e4b5fa.html</link>
-            <guid>69ae61a2142aa3f4deed88c73ae4644e</guid>
-            <pubDate>Fri, 02 Apr 2021 03:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
