@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 03 Apr 2021 01:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 02:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BBC记者卧底英国大型新冠病毒检测实验室，发现了存在潜在污染、丢弃测试样本及达标压力情况的证据。这意味着，一些经过检测的人可能未收到结果或收到了错误结果。]]></title>
+            <link>https://instant.lvv2.com/html/fc3a3ddfb47104e7440a72688c350fc8.html</link>
+            <guid>8bd117414b159873ceb434c835453578</guid>
+            <pubDate>Sat, 03 Apr 2021 10:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津女记者被殴打致死，行凶者案发9天后离婚“净身出户”】除了崔某仅获刑15年之外，还有两处是被害人小陈的父亲无法接受的：一是案发一周后，本该在看守所里的崔某为何能够迅速办理离婚手续，并将名下所有财产转移；二是女儿小陈去世一个多月后的2019年9月23日，崔某才被依法逮捕。]]></title>
+            <link>https://instant.lvv2.com/html/de6695376602119c41f821c50be703b1.html</link>
+            <guid>5810afdfc386201402fa49c536248838</guid>
+            <pubDate>Sat, 03 Apr 2021 09:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【玉米和大豆价格创约1个月来的高点】芝加哥玉米和大豆价格均出现涨停。美国农户计划种植两种谷物的面积大幅低于市场预期…… ]]></title>
+            <link>https://instant.lvv2.com/html/afc84079af3e02f672b45cd5cf7e35de.html</link>
+            <guid>f4bc39460e8b9d4b262336d3da5f6bfc</guid>
+            <pubDate>Sat, 03 Apr 2021 09:38:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[一个重要的决定——昨天找领导聊了下，提出辞职。领导得知我不是跳槽，而是转做自由职业--投资，很诧异，劝我再考虑考虑。我告诉他，我做投资13年了，比我做的IT技术方向，还要早几年。辞职的事也规划大半年了。反复的想了很多遍，如果遇到最差的行情，会怎么样。所以并不是一时冲动……]]></title>
             <link>http://xueqiu.com/7636370672/176221348</link>
@@ -525,31 +543,6 @@
             <link>https://instant.lvv2.com/html/41c749b8db5fc30fd84ff2f11a997476.html</link>
             <guid>5200bf91775e8a274c89f732dff22b99</guid>
             <pubDate>Fri, 02 Apr 2021 11:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江苏队解散之后，当打之年的周云选择了退役。4月1日，江苏球迷买下了整版《扬子晚报》，向一人一城一队的周云致敬。此前，江苏球迷还曾买下山东报纸版面，为吉翔送行。]]></title>
-            <link>http://news.zhibo8.cc/zuqiu/2021-04-01/60651547ac71f.htm</link>
-            <guid>7b27a148e6ac71e342cedcf702ce449f</guid>
-            <pubDate>Fri, 02 Apr 2021 10:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【转转集团宣布融资3.9亿美金，为二手电商领域最大单笔现金融资】此次投资也是二手行业内首笔有国资背景的投资。本轮融资的另一家投资方GBA大湾区基金，曾投资过哈啰出行和每日优鲜，也是企业ESG和可持续发展的倡议者之一。]]></title>
-            <link>https://instant.lvv2.com/html/e928466b372b7f5838698e477b21f19d.html</link>
-            <guid>f63ec0ffe022567ba9ccf0b2ce2b55cb</guid>
-            <pubDate>Fri, 02 Apr 2021 10:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[警方称，周三凌晨，一名涉嫌在时报广场附近袭击菲律宾移民的无家可归者被捕，并被控以仇恨犯罪相关罪名。
-袭击者曾在20年前杀害自己的母亲，目前在假释之中。如果罪名成立，他将面临最高25年刑期。]]></title>
-            <link>https://instant.lvv2.com/html/669c2687a4054f866e41891756cd55cb.html</link>
-            <guid>dbd40ad98ebd6c7463acde2a161a6b42</guid>
-            <pubDate>Fri, 02 Apr 2021 10:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OPEC+增产了，油价反而大涨】此次OPEC的决定稍显意外，但部分反映了产油国对未来经济复苏的信心。]]></title>
-            <link>https://instant.lvv2.com/html/f96c9de47f24fc039fb20d7643389071.html</link>
-            <guid>cc0e24a970ad095e691dda3947bef325</guid>
-            <pubDate>Fri, 02 Apr 2021 10:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
