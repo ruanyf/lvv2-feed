@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 04 Apr 2021 17:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 18:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【足球之夜25周年特别节目】25年前，我们没法想象25年后的场景；25年后，我们依然铭记25年前的初心。25年，采写编评，皓首穷经；25年，驻足此刻，值得纪念；25年，面向未来，砥砺前行。]]></title>
+            <link>http://tv.cctv.com/2021/04/04/VIDE0eSS4G3DcrypQtFGANP7210404.shtml</link>
+            <guid>0aa6927726ec5ba5f1bdb012dbdc2498</guid>
+            <pubDate>Mon, 05 Apr 2021 02:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【腾讯体育结束独立编制，未来5个月逐步整合优化】早在去年7月，原本由腾讯体育负责的NBA业务就转交给了腾讯视频，5年15亿美元的版权成本也交由腾讯视频承担。到今天，调整再度降临。实际上，腾讯这一轮调整不只是腾讯体育，拥有巨额流量的腾讯近年来在加速PCG（平台与内容事业部）的整合。]]></title>
             <link>http://lanxiongsports.com/posts/view/id/20811.html</link>
