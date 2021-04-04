@@ -56,6 +56,8 @@ const newFeed = new Feed({
     }
 
     const hostFilterArr = [
+      'acfun.cn',
+      'bilibili.com',
       'meipin.im',
       'video.weibo.com',
       'video.h5.weibo.cn',
