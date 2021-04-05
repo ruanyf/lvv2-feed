@@ -4,16 +4,40 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 05 Apr 2021 17:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 18:51:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[澳大利亚每年约有三万人出现血栓，而目前全国有数十万人接种了阿斯利康疫苗，尚未记录到任何严重的副作用。医学专家呼吁人们保持冷静，避免产生群体恐慌。]]></title>
+            <link>https://instant.lvv2.com/html/11553c6e04c571b86a27d269ea5b12ec.html</link>
+            <guid>8d739e8103dbc12d1fddb53a9eec3ab6</guid>
+            <pubDate>Tue, 06 Apr 2021 02:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首个火星生活指南发布：全员素食、垂直城市、付费打工】全球建筑师事务所 Abiboo 和众多科学家、学者组成的国际团队工作了几个月，根据最新的科学研究，设计出了这份火星生活规划。它从环境搭建、生产制造，到日常起居，为我们勾画出了一片高可行性的未来火星城市图景。]]></title>
+            <link>https://instant.lvv2.com/html/702983809b2e23710a5ebde8cc2f9866.html</link>
+            <guid>39d18b1ebfb594e9880f618bba64acc9</guid>
+            <pubDate>Tue, 06 Apr 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[蚝油真不是油啊，是熬生蚝的水浓缩而成的精华……]]></title>
             <link>https://instant.lvv2.com/html/62dc95d08e687dfe0c529b2870f43dce.html</link>
             <guid>67715dcd791c6c442424a8006f093bd2</guid>
             <pubDate>Mon, 05 Apr 2021 19:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于不满跨国企业抵制新疆棉花，中国爱国民众为了支持国货，纷纷下单李宁、安踏等知名中国品牌。然而，疯狂的鞋贩子也转战国产球鞋市场，使得球鞋暴涨的消息充斥社交媒体，不得不让人感慨，投机者让爱国者变成了韭菜。 ]]></title>
+            <link>https://instant.lvv2.com/html/24139096fb7184d6b617c01d07cbdcfd.html</link>
+            <guid>e9d2c6bd384aaa328d09e1397dc1ddf3</guid>
+            <pubDate>Tue, 06 Apr 2021 01:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“美国不能变成社会主义国家，抵制可口可乐、微软…”】3月25日，美国共和党控制的佐治亚州议院通过了《2021选举诚信法》，成为大选后第一个对选举体制进行改革的州。这一州选举改革法案引发了少数族裔和民主党人的不满，不少美国民主党议员和少数族裔团体出面，反对这一立法。]]></title>
+            <link>https://instant.lvv2.com/html/47d231ab3c6dccf3f1b43592d83af90a.html</link>
+            <guid>6a2047647471369399d26a0a7382049a</guid>
+            <pubDate>Tue, 06 Apr 2021 01:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coding Girls 招募线上维语翻译（汉语课件翻译为维语）
@@ -430,19 +454,6 @@
             <link>https://instant.lvv2.com/html/1f49f752c27214f6d0c444acc3212d6d.html</link>
             <guid>9cefe7caa2872101b0c536f07447ec96</guid>
             <pubDate>Sun, 04 Apr 2021 20:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 印度16岁少女称遭强奸，家人将她与嫌犯捆绑游街
-]]></title>
-            <link>https://instant.lvv2.com/html/03e61f07d05ad70de58c81eb737fc21e.html</link>
-            <guid>8dfa722a3b96b740b7063519d5cfa36f</guid>
-            <pubDate>Sun, 04 Apr 2021 20:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[陕西15岁男子发布不良信息被依法处理]]></title>
-            <link>https://instant.lvv2.com/html/b1fc079ed6e8deb79793d89de52aadbc.html</link>
-            <guid>70aa1b9cbe5c85d6f1be4495bc3c5f8e</guid>
-            <pubDate>Sun, 04 Apr 2021 19:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
