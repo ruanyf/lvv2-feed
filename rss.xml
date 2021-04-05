@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 05 Apr 2021 20:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 22:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[从“神盘缔造者”到“暴雷专业户”：贵州宏立城的陨落]]></title>
+            <link>http://www.fangchan.com/news/9/2021-03-31/6782887769103733733.html</link>
+            <guid>1449f5a2eced0898a82c19275779c38a</guid>
+            <pubDate>Tue, 06 Apr 2021 06:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国版“饿了么”为何吓跑机构投资者？】Deliveroo快递员的待遇所引发的劳资问题将是该公司的一枚不定时炸弹，令其在该基金眼里“不可投资”。]]></title>
+            <link>https://instant.lvv2.com/html/aa8006e06ef1f1e343e50881a2ad5256.html</link>
+            <guid>4ef3415855cda288e92ebe50e870db67</guid>
+            <pubDate>Tue, 06 Apr 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【复旦教授王德峰讲《资本论》走红网络：学者成为网红不是坏事】身为哲学系教授，王德峰不用微信，也不上网，与外界联系只靠邮箱和电话。疫情期间，他主讲的《资本论》系列视频走红网络，直到朋友纷纷致电询问，他才意识到自己“知名度提高”，走在路上，素不相识的人们都会拦住他，索要签名。]]></title>
             <link>https://instant.lvv2.com/html/6e1414d84e1258f5c7967158931ddbb8.html</link>
@@ -436,18 +448,6 @@
             <link>https://instant.lvv2.com/html/12a5575d9798b85ab4305ff5426ed05f.html</link>
             <guid>ba2a71ee5ddbe1f91ac3964eb5c2312f</guid>
             <pubDate>Sun, 04 Apr 2021 23:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一本介绍中国APP的书在日本畅销】三月，东京的代官山茑屋书店，那家开在全世界最繁华的十字路口的书店，上架了一本名为「中国オンラインビジネスモデル」的书籍，并迅速跻身畅销榜第一名。这本书的中文译名是《中国移动互联网图鉴》，内容主体是介绍来自中国的60款APP。]]></title>
-            <link>https://instant.lvv2.com/html/1181bef3f86f7acf4cc0e421c98d6af0.html</link>
-            <guid>4e0556f1f8cd6cf93e77a323e38f33c4</guid>
-            <pubDate>Sun, 04 Apr 2021 22:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【这些名校学生开了一门“内卷课”，来重新审视和消解内卷】唐晓晴在北京外国语大学读大一。继清华大学一名大一学生开设的《摸鱼学导论》登上知乎热榜后，她和国际关系学院一位大一同学的《内卷学导论》也出现在网络平台。]]></title>
-            <link>https://instant.lvv2.com/html/1a5e28b5745255485cb0627d73f8dbab.html</link>
-            <guid>5bd1dac08e1df8e4cd3199d77b5494e3</guid>
-            <pubDate>Sun, 04 Apr 2021 21:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
