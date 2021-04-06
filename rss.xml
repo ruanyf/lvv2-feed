@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 06 Apr 2021 18:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 20:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[51岁王菲与41岁谢霆锋当街牵手撒糖，力破分手传闻]]></title>
+            <link>https://instant.lvv2.com/html/535b72ae8bed8cb89cbdced51889182c.html</link>
+            <guid>577f80270182ed93f86a1c615a28d502</guid>
+            <pubDate>Wed, 07 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​喷嚏，圆柏，以及过敏者的过春天]]></title>
+            <link>https://instant.lvv2.com/html/23ae623f95bb3159f2a78d339bc32bd3.html</link>
+            <guid>fc5ca9770b143ffc9615fb2eec3a56f7</guid>
+            <pubDate>Wed, 07 Apr 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【周深：别夸我，我怕尴尬】现在的周深，活跃在各种影视作品的OST里，成为综艺与晚会的收视福星，今年还首次登上牛年春晚献唱，国民度再升级。“最佳男主的命运”这句歌词，在这一刻成为恰如其分的人生注释。]]></title>
             <link>https://instant.lvv2.com/html/398a4d77b10b292d86f4cb158bbf9a3b.html</link>
@@ -508,18 +520,6 @@
             <link>https://instant.lvv2.com/html/9b779fadba322e41c485d164a594fe84.html</link>
             <guid>6e84d72a3019a8c39c645db8e33a13a5</guid>
             <pubDate>Tue, 06 Apr 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对话谢治宇：关于投资框架、白酒股与印象深刻的企业家]]></title>
-            <link>https://instant.lvv2.com/html/b4296b23c816464c56b49c7eb732f7fb.html</link>
-            <guid>1aad46248ae99d4d3d99866f4b7b79a1</guid>
-            <pubDate>Tue, 06 Apr 2021 07:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数据穿透全球缺芯现状】去年12月下旬，由于部分汽车厂商错判了市场走向，加上智能手机、电脑等电子产品销量增加，导致汽车芯片短缺，并将紧张情绪扩散到其他行业中。彭博社通过几张关键数据图表展示了芯片短缺的原因与供应链瓶颈。]]></title>
-            <link>https://instant.lvv2.com/html/891652b1217b6d542c80484979726396.html</link>
-            <guid>7e5638ef858bea2e66b6c3f9d04f6231</guid>
-            <pubDate>Tue, 06 Apr 2021 06:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
