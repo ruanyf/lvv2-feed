@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 06 Apr 2021 17:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 18:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【周深：别夸我，我怕尴尬】现在的周深，活跃在各种影视作品的OST里，成为综艺与晚会的收视福星，今年还首次登上牛年春晚献唱，国民度再升级。“最佳男主的命运”这句歌词，在这一刻成为恰如其分的人生注释。]]></title>
+            <link>https://instant.lvv2.com/html/398a4d77b10b292d86f4cb158bbf9a3b.html</link>
+            <guid>3061779180f0f2785399264b7e3a3026</guid>
+            <pubDate>Wed, 07 Apr 2021 02:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据美国空军消息，一架XQ-58A“女武神”无人机于3月26日进行了试验，在亚利桑那州美军尤马试验场上空飞行时，打开弹舱，投放了一架ALTIUS-600小型无人机。]]></title>
+            <link>https://instant.lvv2.com/html/f926755aaf8c3d41201b344792bf37a0.html</link>
+            <guid>76c748c0a4e24fdf23645423d1c99570</guid>
+            <pubDate>Wed, 07 Apr 2021 01:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[近40个模特在迪拜码头阳台上全裸拍照，全抓了]]></title>
             <link>https://instant.lvv2.com/html/acc2855be473cca2ba9cf709486e106d.html</link>
@@ -508,18 +520,6 @@
             <link>https://instant.lvv2.com/html/891652b1217b6d542c80484979726396.html</link>
             <guid>7e5638ef858bea2e66b6c3f9d04f6231</guid>
             <pubDate>Tue, 06 Apr 2021 06:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[从“神盘缔造者”到“暴雷专业户”：贵州宏立城的陨落]]></title>
-            <link>https://instant.lvv2.com/html/42b91cefaeed147eabb7676c95661a81.html</link>
-            <guid>95a437a74d4def4b984139cc0bdfaaa4</guid>
-            <pubDate>Tue, 06 Apr 2021 06:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国版“饿了么”为何吓跑机构投资者？】Deliveroo快递员的待遇所引发的劳资问题将是该公司的一枚不定时炸弹，令其在该基金眼里“不可投资”。]]></title>
-            <link>https://instant.lvv2.com/html/aa8006e06ef1f1e343e50881a2ad5256.html</link>
-            <guid>4ef3415855cda288e92ebe50e870db67</guid>
-            <pubDate>Tue, 06 Apr 2021 05:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
