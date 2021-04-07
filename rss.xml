@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 07 Apr 2021 12:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 14:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://instant.lvv2.com/html/aefce18696f9e67c4d216748da3fd94d.html</link>
             <guid>d306a397a2e3e57798b9aec10da7a931</guid>
             <pubDate>Wed, 07 Apr 2021 17:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在时间的风暴中叙述——读余华的《兄弟》】作为一部“反成长小说”的彻底性， 不但来自小说社会背景同作为经典成长小说历史条件的近代欧洲市民社会有着本质的不同，也来自其主人公经验构成和“性格”的欠缺和失败。故事中的宋钢和李光头始终是两个孩子，在情节发展中，兄弟俩都在以各自的方式拒绝成长。]]></title>
+            <link>https://instant.lvv2.com/html/a4e741de9d6c2fe8e60c0f05ade25c44.html</link>
+            <guid>b21eea6b5f1921a5e90601ea1d34810b</guid>
+            <pubDate>Wed, 07 Apr 2021 21:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【能靠最低工资在英国生活吗】大师傅进公司13年，已经两年没有涨工资了。我反而连续两年都能加薪，不是因为工作多出色，而是托了工资太低的福。]]></title>
+            <link>http://www.douban.com/note/799380298/</link>
+            <guid>9ea5803b7773f13daf8a8da80cae6bf2</guid>
+            <pubDate>Wed, 07 Apr 2021 21:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【真正的桌游极客，自费复刻了古董级游戏】英国考古学家从伊拉克的皇家公墓中抢劫来的《乌尔皇室博弈棋》，收录于大英博物馆。为了完美的还原游戏，维尔拉自学木工和雕刻，花了近一年时间、约三万多人民币手工自制了一套。]]></title>
@@ -495,31 +507,6 @@
             <link>https://instant.lvv2.com/html/1ac029dd5f0662e8a0b277437f38f7bd.html</link>
             <guid>9f6986d120e5adf28e996f27c323c681</guid>
             <pubDate>Wed, 07 Apr 2021 00:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【番茄“迷茫”】成为免费网文行业第一，然后呢？番茄难道只是想做6000万用户的流量生意吗？]]></title>
-            <link>https://instant.lvv2.com/html/234da338151504df351065b077ca6784.html</link>
-            <guid>53370497a4f1aec5a999cddfb59a3056</guid>
-            <pubDate>Tue, 06 Apr 2021 23:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港媒发现，中国历史教师用书已删除以往鸦片战争部分“洗白”英国的内容]]></title>
-            <link>https://instant.lvv2.com/html/05c403d806b694db62f86c893df664c6.html</link>
-            <guid>c1c884ec32edea30681ea87cc363bac9</guid>
-            <pubDate>Tue, 06 Apr 2021 22:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷军在小米直播间表示，小米首款汽车不是轿车就是SUV，售价区间在10-30万元，可能搭载新风空调等技术。大概新车开卖要三年后了。]]></title>
-            <link>https://instant.lvv2.com/html/b31fa0c84043bfdcf6356efed323325f.html</link>
-            <guid>24f0d33cfcb6a335b404b210d3214926</guid>
-            <pubDate>Tue, 06 Apr 2021 22:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一群维吾尔男女正在载歌载舞；一位哈萨克男性坐在毡房里，用传统的二弦琵琶为朋友唱着小曲。
-欢迎观看《歌声的翅膀》，这部国家投拍的歌舞片是中国为维护新疆政策进行的最新宣传运动，展现出当局正在向国内外观众推广的另一种新疆视角。]]></title>
-            <link>https://instant.lvv2.com/html/9259be7c44a1dfa2568cf98219655256.html</link>
-            <guid>edbd9a6bfa7b897f568df2956c678104</guid>
-            <pubDate>Tue, 06 Apr 2021 22:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
