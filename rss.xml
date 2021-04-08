@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 08 Apr 2021 23:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 23:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“林依晨起床时间”忽然登上热搜，这是肿么肥事？众所周知，林依晨作息非常健康。同剧演员曾爆料她不拍戏的时候五点起床。坊间一直流传着她4点半起床做家务，6点给公公婆婆请安，“林依晨已经起床了，而我还在XXX”是网友调侃自己熬夜修仙的固定句式。]]></title>
+            <link>https://instant.lvv2.com/html/24204f2029dbed57e70c76d1033284b5.html</link>
+            <guid>8cf2965403df1908460f6237946bd2f9</guid>
+            <pubDate>Fri, 09 Apr 2021 07:24:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[人是微生物的寄生兽吗]]></title>
             <link>https://instant.lvv2.com/html/5f411f65fdc87130d4dec72248c90e17.html</link>
