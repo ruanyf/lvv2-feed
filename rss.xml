@@ -4,11 +4,37 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 10 Apr 2021 20:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 22:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国综救场王，还救得了多久】据不完全统计，2021年开年至今，大张伟作为主持/嘉宾出现了47次。大张伟自嘲综艺网约车，“酒店趴活，开录就走”。]]></title>
+            <link>https://instant.lvv2.com/html/919239b94393bd78de0d9f385e139a0d.html</link>
+            <guid>863dbdf726e0cbe4077dd352d60b1ed0</guid>
+            <pubDate>Sun, 11 Apr 2021 06:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ABC调查：澳大利亚一直在培训缅甸军方。
+#美国套路 美军培训澳军，澳军培训缅军，现在却把锅完全甩给了中国。
+  ]]></title>
+            <link>https://instant.lvv2.com/html/5c1184b7867245051e2913ed3067230e.html</link>
+            <guid>06031df8aacb441fe4cb1168b49662c9</guid>
+            <pubDate>Sun, 11 Apr 2021 05:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[这不是写给小白的自动驾驶文章]]></title>
+            <link>http://www.42how.com/post/2320</link>
+            <guid>c187ff75b610d156f32178878910729c</guid>
+            <pubDate>Sun, 11 Apr 2021 05:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[相父 | 哈耶克：为什么极权总是最坏者当权？ ]]></title>
+            <link>https://instant.lvv2.com/html/20e5bd8802dd9d7ae0a6f3c1b65ce6f6.html</link>
+            <guid>3f48bbebcba58215dd7eb4c471312307</guid>
+            <pubDate>Sun, 11 Apr 2021 04:42:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[想在游戏里不打出敏感词，已经越来越难了]]></title>
             <link>https://instant.lvv2.com/html/d83b38d2ead30eaff3ae8cd0f1c9be3f.html</link>
@@ -461,25 +487,6 @@
             <link>http://www.douban.com/note/799507160/</link>
             <guid>542387b844b8017365d2196ad0a33d53</guid>
             <pubDate>Fri, 09 Apr 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[继欧洲药品监管机构周三（4月7日）确认罕见血栓应被列为牛津/阿斯利康疫苗的一种非常罕见副作用后，香港政府已改变该疫苗购买计划，称不需要年底前接收， 香港专家建议港府不应订购该疫苗或减少订购。 台湾则出台接种指引和要求检视其接种政策。
-]]></title>
-            <link>https://instant.lvv2.com/html/dabe8ca692121d1cd13b214466ac72da.html</link>
-            <guid>b03d1a22c26875c06f32fe052ded56ec</guid>
-            <pubDate>Fri, 09 Apr 2021 19:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[家里的万王之王：捷克一男子家中有T-34/85坦克和SD-100坦克歼击车并已获准保留]]></title>
-            <link>https://instant.lvv2.com/html/7162376b5dd7d11a7f679d63b68b88e1.html</link>
-            <guid>f92089fcae010d6745334e8feb6e9340</guid>
-            <pubDate>Fri, 09 Apr 2021 18:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利废除电影审查制度】意大利的电影审查法诞生于1914年，这个制度运作了超过100年。在过去一个世纪里，意大利有数百部来自世界各地的电影因为各种原因被审查，被删减，甚至直接封杀。]]></title>
-            <link>https://instant.lvv2.com/html/137e4b0924e3c9f2159607e246c1a508.html</link>
-            <guid>223d29c2cdd50f5a670add3872398f0c</guid>
-            <pubDate>Fri, 09 Apr 2021 18:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
