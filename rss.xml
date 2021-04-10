@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 10 Apr 2021 17:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 18:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【人类学学者王梦琪：在售楼处看见女性的失语】中国家庭在给儿女买房问题上的区别对待造成的结果就是，有儿子的家庭早买了房就早收获了房产红利，而有女儿的家庭则认为不需要给女儿买房，也就错过了房产增值的热潮。]]></title>
+            <link>https://instant.lvv2.com/html/45a40c042671a95849d01d5948c84b40.html</link>
+            <guid>8071d115f4413453ad0a5f36ab2587be</guid>
+            <pubDate>Sun, 11 Apr 2021 01:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【虎门服装一条街的日与夜】虎门是国内知名的女装时尚之都，而博头则是虎门服装小型加工厂的主要集聚地之一。这里的服装产业经过长期浸润，逐渐形成了一张分工协作明晰的严密网络。而身处其间的从业者，虽然不时受到外部环境的影响，但也恪守着固有的生存哲学。]]></title>
             <link>https://instant.lvv2.com/html/650f910bc1c01d4a31c899b422593db1.html</link>
@@ -468,18 +474,6 @@
             <link>https://instant.lvv2.com/html/a708e471c09dc3d98281fdcf71d473cc.html</link>
             <guid>6bb607ce30ad234fd302e2a356389984</guid>
             <pubDate>Fri, 09 Apr 2021 18:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美商务部将中国7个超级计算机实体列入「实体名单」】​其中无锡国家超级计算中心的「神威 · 太湖之光」目前名列全球超算 TOP 500 的第四名，是中国最强的超算系统，其主要组件均由中国自主设计并于国内生产。美商务部官员表示，这七家机构均参与了中国希望打造的世界首个 ExaFLOPS 级计算机的研发项目。]]></title>
-            <link>https://instant.lvv2.com/html/d39308a975a24219d120236b361aeac5.html</link>
-            <guid>9e45e26f29e956032716f9c476138c3c</guid>
-            <pubDate>Fri, 09 Apr 2021 17:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国萨尔大学推出了一款仿生人眼摄像头。它同样有着“眼球”，“眼睑”，“眉毛”以及周围的“组织”。这款摄像头内部是六个伺服电机，可以控制摄像头作出眨眼，四处张望，凝视房间等表情，甚至能够感知手势。Eyecam还包括一个微型高清摄像头。]]></title>
-            <link>https://instant.lvv2.com/html/e3fec8f7258120b641c59d02faca5f43.html</link>
-            <guid>75f399ba8d90f0ffbd9bffb4880a8dbb</guid>
-            <pubDate>Fri, 09 Apr 2021 17:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
