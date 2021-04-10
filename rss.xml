@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 10 Apr 2021 18:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 20:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[想在游戏里不打出敏感词，已经越来越难了]]></title>
+            <link>https://instant.lvv2.com/html/d83b38d2ead30eaff3ae8cd0f1c9be3f.html</link>
+            <guid>ee16bfe8c3f7f5dd38ff398407f5fd9a</guid>
+            <pubDate>Sun, 11 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[揭秘都市传说“化尸水”：强酸强碱，真能让尸体消失无踪吗？]]></title>
+            <link>https://instant.lvv2.com/html/e46a30346ddfaceba3384c788b0b63e8.html</link>
+            <guid>58e66bd44dba07897881ab0deaa8af2f</guid>
+            <pubDate>Sun, 11 Apr 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【人类学学者王梦琪：在售楼处看见女性的失语】中国家庭在给儿女买房问题上的区别对待造成的结果就是，有儿子的家庭早买了房就早收获了房产红利，而有女儿的家庭则认为不需要给女儿买房，也就错过了房产增值的热潮。]]></title>
             <link>https://instant.lvv2.com/html/45a40c042671a95849d01d5948c84b40.html</link>
@@ -468,12 +480,6 @@
             <link>https://instant.lvv2.com/html/137e4b0924e3c9f2159607e246c1a508.html</link>
             <guid>223d29c2cdd50f5a670add3872398f0c</guid>
             <pubDate>Fri, 09 Apr 2021 18:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“失控”的路透】虽然有关路透来源的争论永远不会有结果，也不排除有部分剧方“顺应时势”，开始利用路透宣发。但是在毒眸看来，路透的本质不在于好坏，而在于“不可控制”，未经确认的内容一旦发布，将会引起什么后果，这是包括发布者在内的所有人都无法预料的事。而更可怕的地方在于，这种失控的现象已经成为常态。]]></title>
-            <link>https://instant.lvv2.com/html/a708e471c09dc3d98281fdcf71d473cc.html</link>
-            <guid>6bb607ce30ad234fd302e2a356389984</guid>
-            <pubDate>Fri, 09 Apr 2021 18:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
