@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 11 Apr 2021 18:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 20:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【无航天技术背景、78岁高龄，拜登为何提名他为NASA新掌门？】现年78岁的Bill Nelson曾在1986年乘坐哥伦比亚号航天飞机执行过唯一一次太空任务，是美国国会中第二名参加太空飞行的成员。他的职业是律师/政客，曾任美国参众两院议员，是政府主导项目的支持者，对商业航天不是很感兴趣，看来SLS火箭又要鸽了。]]></title>
+            <link>https://instant.lvv2.com/html/8f29e534b5374c79517c677fa3cf051a.html</link>
+            <guid>ba3c06673f248e0e8e1137f4309572f1</guid>
+            <pubDate>Mon, 12 Apr 2021 04:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【「EVA」第一次也是最后一次的监督舞台问候】4月11日，『新·EVANGELION剧场版』再次举办舞台问候，庵野秀明总监督、鹤卷和哉监督、前田真宏监督、声优绪方惠美出席了活动。庵野表示，票房目标是超100亿，连著名的机器人动画『高达』也没能超过100亿日元，如果本次能超过的话将对振兴动画业界有所帮助。]]></title>
+            <link>http://www.eva-all.com/news/31115/evangelions-first-and-last-director-stage-greeting/</link>
+            <guid>aad99c154c7c28dffbf92646d4544537</guid>
+            <pubDate>Mon, 12 Apr 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北爱尔兰骚乱一周：当23年的和平被疫情和脱欧撕裂】英国退欧协议的特定部分“北爱尔兰议定书”引发了越来越多的矛盾，且北爱尔兰的宪法地位越来越受到“脱欧”解决方案的威胁，加上涉嫌违反防疫规定的民族主义政党新芬党领袖获当局允许不被起诉，触发亲英派连续6天的暴力示威行动，局势紧张愈发加剧。]]></title>
             <link>https://instant.lvv2.com/html/b51ce67233fe6d1979a07acaad643f2d.html</link>
@@ -440,18 +452,6 @@
             <link>https://instant.lvv2.com/html/c7d983bb364b912738ec5a26acc65e36.html</link>
             <guid>7731add958961c46c6299ade400a6181</guid>
             <pubDate>Sat, 10 Apr 2021 18:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周奇墨：笑果与我】《吐槽大会5》结束了。连着五年，每年都有一堆明星上台，在屏幕前说出尺度最大的话，同时又不真正伤害彼此。这其中微妙的分寸感，基本全靠编剧把控。这次我有幸作为一名编剧参与了节目的制作。今天就跟大家聊聊，编剧大概都需要做些什么。]]></title>
-            <link>https://instant.lvv2.com/html/f8487da26c925fea7af3df2abc6cb451.html</link>
-            <guid>7e4e3b5679bb48b683a88594ed3a6733</guid>
-            <pubDate>Sat, 10 Apr 2021 17:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫公布2022财年全权预算草案：与前任“风格迥异”】与特朗普时代相比，拜登提议大幅增加资金以应对社会不平等、减少贫困、疾病研究和气候变化。计划为国防部拨款7530亿美元，比当前财年（特朗普任期内最后一年定下的预算方案）仅温和增长1.7%。]]></title>
-            <link>http://www.cls.cn/detail/724150</link>
-            <guid>8b9378948ddc1872c4e6abd8cbb86eb0</guid>
-            <pubDate>Sat, 10 Apr 2021 17:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
