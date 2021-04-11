@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 11 Apr 2021 20:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 22:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【菲利普·津巴多如何回忆充满争议的监狱实验？】起初的争议更多是围绕实验的伦理问题，然而，2018年，法国学者提博特·勒·特柯西安通过采访许多参与实验的当事人和对资料的搜集，对斯坦福监狱实验的真实性问题提出了强烈的质疑。其中涉及的指控包括“囚犯”的恐惧只是一种扮演、并非出于对狱警的恐惧。]]></title>
+            <link>https://instant.lvv2.com/html/3a3ac51fd777d5062e1e95b420d8e697.html</link>
+            <guid>2cb277cd15834b77263527a9c0fa92a8</guid>
+            <pubDate>Mon, 12 Apr 2021 06:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【无航天技术背景、78岁高龄，拜登为何提名他为NASA新掌门？】现年78岁的Bill Nelson曾在1986年乘坐哥伦比亚号航天飞机执行过唯一一次太空任务，是美国国会中第二名参加太空飞行的成员。他的职业是律师/政客，曾任美国参众两院议员，是政府主导项目的支持者，对商业航天不是很感兴趣，看来SLS火箭又要鸽了。]]></title>
             <link>https://instant.lvv2.com/html/8f29e534b5374c79517c677fa3cf051a.html</link>
@@ -446,12 +452,6 @@
             <link>https://instant.lvv2.com/html/b307c084723c92bd15960a508d8e119f.html</link>
             <guid>cc34ee178995696a28fa43abee060a31</guid>
             <pubDate>Sat, 10 Apr 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【姚劲波呼吁对贝壳实施40亿反垄断罚款】4月10日，58同城CEO姚劲波在微信朋友圈发文，呼吁国家反垄断罚款贝壳40亿元（4%标准），并建议将此款项打入国家公积金账户，以降低公积金贷款利率减轻老百姓购房负担。同时，他表示，58安居客今年将作为挑战者全面进入新房领域。]]></title>
-            <link>https://instant.lvv2.com/html/c7d983bb364b912738ec5a26acc65e36.html</link>
-            <guid>7731add958961c46c6299ade400a6181</guid>
-            <pubDate>Sat, 10 Apr 2021 18:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
