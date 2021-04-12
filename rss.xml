@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 12 Apr 2021 18:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 20:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[小岛秀夫前几天推荐了一部Netflix原创剧集《Behind Her Eyes》。这片子是Netflix3月的热门悬疑剧，6集5小时左右的时长，制作精良但是节奏略缓慢。如果你能看进去的话，片子结尾会给你一个很不错的反转。]]></title>
+            <link>http://movie.douban.com/review/13295852/</link>
+            <guid>248ecc0ad13bdc1b70dfc881df3bf5db</guid>
+            <pubDate>Tue, 13 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“这就是西方舆论自由的真相”】频频针对中国账号，却自诩“维护言论自由”。这一次，推特仍不掩其双标本质，将矛头对向了我国驻巴基斯坦文化参赞张和清和中国驻澳大利亚悉尼领事馆。 ]]></title>
+            <link>https://instant.lvv2.com/html/f82bd373ef407055e43d4938732a5956.html</link>
+            <guid>80d443640833249e28f777c92bf681bc</guid>
+            <pubDate>Tue, 13 Apr 2021 03:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【对冲基金大败局】从Alfred Winslow Jones在1949年创立全球第一家对冲基金A.W. Jones &amp; Co开始，对冲基金这个名词就和杠杆、精英、复杂、隐蔽、暴富划了等号。爱它的人将它视作金融市场中最前沿、最神秘的赚钱机器，恨它的人将他视作贪婪、疯狂、欺诈、危机的代名词。]]></title>
             <link>https://instant.lvv2.com/html/725e68a4a78eec8db1353fa7d94e99d0.html</link>
@@ -418,18 +430,6 @@
             <link>http://www.eva-all.com/news/31115/evangelions-first-and-last-director-stage-greeting/</link>
             <guid>aad99c154c7c28dffbf92646d4544537</guid>
             <pubDate>Mon, 12 Apr 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北爱尔兰骚乱一周：当23年的和平被疫情和脱欧撕裂】英国退欧协议的特定部分“北爱尔兰议定书”引发了越来越多的矛盾，且北爱尔兰的宪法地位越来越受到“脱欧”解决方案的威胁，加上涉嫌违反防疫规定的民族主义政党新芬党领袖获当局允许不被起诉，触发亲英派连续6天的暴力示威行动，局势紧张愈发加剧。]]></title>
-            <link>https://instant.lvv2.com/html/b51ce67233fe6d1979a07acaad643f2d.html</link>
-            <guid>d5319688e0284a31452f522fff7c9a14</guid>
-            <pubDate>Mon, 12 Apr 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【立此存照】开府尹 | ​哈师大教师于琳琦发表不当言论，曝光其微博“林奇视角”，供大家批判！ ]]></title>
-            <link>https://instant.lvv2.com/html/f5d4a0cabe9c7f5803929091fa1627f6.html</link>
-            <guid>108d5cc77bae3154fb4a317f47fd0497</guid>
-            <pubDate>Mon, 12 Apr 2021 01:56:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
