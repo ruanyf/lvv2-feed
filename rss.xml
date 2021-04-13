@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 13 Apr 2021 20:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 22:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国资金正在瞄准日本旅馆】 “能卖那么贵？”2月中旬，在佐贺县嬉野温泉经营大型酒店的老板十分诧异。中介报出的中国人给的卖价是十几亿日元，比日本国内大型住宿设施经营商在疫情前的报价高出约60%。该酒店预计最早5月内出售，今后建成面向中国游客的酒店。]]></title>
+            <link>https://instant.lvv2.com/html/9ae3d6fa5447404614f88780a99e2d22.html</link>
+            <guid>6afb31360dce8cd43f55f5ee06dace78</guid>
+            <pubDate>Wed, 14 Apr 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[看见这些姑娘滑落的真丝睡裙肩带，我做梦都想帮她们穿好]]></title>
+            <link>https://instant.lvv2.com/html/fb5292cfbc694f332258151ad8612f06.html</link>
+            <guid>762f499152e7daf4976d75798826bdbf</guid>
+            <pubDate>Wed, 14 Apr 2021 05:08:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国28岁男子Seth Aaron Pendley密谋炸毁亚马逊美国资料中心，因为他认为这会「杀死70％的网际网路」，进而挫败寡头们所掌控的美国政权。结果FBI派遣秘密特工接近并假装好意提供爆炸装置，最终趁著Pendley出面取货时，以企图炸毁建筑物等罪嫌将其逮捕。]]></title>
             <link>http://www.chineselikela.com/huaren/trends-news/29152/</link>
@@ -492,12 +504,6 @@
             <link>https://instant.lvv2.com/html/7996611c70b86b2a742dd1b01bc3cd7b.html</link>
             <guid>cc81f3525f13364feb5300b2ee0e88b2</guid>
             <pubDate>Tue, 13 Apr 2021 08:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有多少人曾被红白机上的《魔界村》折磨过】相信很多人和社长一样，童年幼小的心灵曾无数次在红白机上被《魔界村》所摧残。而这款“折磨人”的游戏，偏偏却受到了全世界广大玩家的喜爱，时至今日还不时有新作推出。]]></title>
-            <link>https://instant.lvv2.com/html/f1d7ffff37d7d4200cbe8744c36a9586.html</link>
-            <guid>a59606a421559a32794a9f9f0f6f5029</guid>
-            <pubDate>Tue, 13 Apr 2021 08:17:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
