@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 13 Apr 2021 18:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 20:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国28岁男子Seth Aaron Pendley密谋炸毁亚马逊美国资料中心，因为他认为这会「杀死70％的网际网路」，进而挫败寡头们所掌控的美国政权。结果FBI派遣秘密特工接近并假装好意提供爆炸装置，最终趁著Pendley出面取货时，以企图炸毁建筑物等罪嫌将其逮捕。]]></title>
+            <link>http://www.chineselikela.com/huaren/trends-news/29152/</link>
+            <guid>b29ddb0c08714ae0654f12ec51b42033</guid>
+            <pubDate>Wed, 14 Apr 2021 04:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[你一个破核电从业者，有我们外交部懂核电？
+ ]]></title>
+            <link>https://instant.lvv2.com/html/3258a64b749a8994c4964d2564c19a5b.html</link>
+            <guid>678e3ceb4df88a5a0e343c4fca686cd4</guid>
+            <pubDate>Wed, 14 Apr 2021 03:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唐诺：读这么多书，其实都是被迫的]]></title>
+            <link>https://instant.lvv2.com/html/a87716ea2f11c3fa44ce63af50fee2a1.html</link>
+            <guid>9a93160cb07b2e90d9450ad7945ebed6</guid>
+            <pubDate>Wed, 14 Apr 2021 03:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【Epic新一轮融资获10亿美元，索尼投了2亿美元】Epic称，将用这笔钱来发展“元宇宙（Metaverse）”。最近有不少公司通过这个概念融到了资，而Epic Games当前的目标之一是制作逼真的“动画数字人类”。]]></title>
             <link>https://instant.lvv2.com/html/d1f0c20dceff53d0e947c8cf42759b5e.html</link>
@@ -479,24 +498,6 @@
             <link>https://instant.lvv2.com/html/f1d7ffff37d7d4200cbe8744c36a9586.html</link>
             <guid>a59606a421559a32794a9f9f0f6f5029</guid>
             <pubDate>Tue, 13 Apr 2021 08:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CPU问世：ARM架构，对比x86实现十倍性能提升]]></title>
-            <link>https://instant.lvv2.com/html/c8ce3edf497a8ce57facd7d458627626.html</link>
-            <guid>82b9435be2fb385950d0840331fbbbb3</guid>
-            <pubDate>Tue, 13 Apr 2021 08:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本政府举行内阁会议，正式决定向海洋排放核废水]]></title>
-            <link>https://instant.lvv2.com/html/ce39c6e18e7d57c5e291111a86b32c1c.html</link>
-            <guid>d009945a2cbc718003f84903b9d4f749</guid>
-            <pubDate>Tue, 13 Apr 2021 07:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[绝密战场：二战后的夜间战斗机]]></title>
-            <link>https://instant.lvv2.com/html/6cf850e043d9bad08e7b4d26268f139c.html</link>
-            <guid>439928438e1f461ef04e3f749b7fd99f</guid>
-            <pubDate>Tue, 13 Apr 2021 07:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
