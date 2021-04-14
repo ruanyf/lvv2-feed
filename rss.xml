@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 14 Apr 2021 17:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 18:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【每个天津人的包里，都装着海河可可奶】在街头不幸晕倒，老天津在几秒之内就能断定你是不是碰瓷，打消顾虑后，一手掐你人中，一手从包里摸出袋可可奶给你灌进去。士力架和巧克力不符合天津的街头习惯，可可奶，才是这座城市给人的福报。]]></title>
+            <link>https://instant.lvv2.com/html/26fa3f1590f243056836fe18b1dc4748.html</link>
+            <guid>3874462953344e1896685bd1bc1688b3</guid>
+            <pubDate>Thu, 15 Apr 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我做医疗公关的经历】前一阵，神医们“违背祖宗”式的医疗宣传，曾引发广泛关注。我们的工作，就是通过宣传和“渲染”，把人们的乐观想象安置在看似权威的证据里，至于是真是假，谁在乎？甚至患者都不一定在乎，他们太需要那一点点希望了。一切都在公司的掌控之中。]]></title>
+            <link>https://instant.lvv2.com/html/64f69b07c1af659a873f312707b9f8bc.html</link>
+            <guid>de7cf8f6cc006252ab0df9ad518a7890</guid>
+            <pubDate>Thu, 15 Apr 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[无人可见]]></title>
             <link>http://www.cnu.cc/works/524003</link>
@@ -502,18 +514,6 @@ BBC采访了三位死者的家属，听他们讲述亲人的经历。
             <link>https://instant.lvv2.com/html/58a2a9ec1f364d3b3b0c103fcd83cdcc.html</link>
             <guid>86cb709c2be14e5ed618945c376958a1</guid>
             <pubDate>Wed, 14 Apr 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【随着内部电池老化，多年后你的PS4或将无法离线玩游戏】所有玩家的 PS4 终将消耗完电池寿命，且 PS4 的网络服务也终会关闭，不过 McDonald 认为不用过多担心，多年后索尼只要推出系统更新来修改一下奖杯系统， 广大玩家就能够继续使用 PS4 进行游戏了。]]></title>
-            <link>https://instant.lvv2.com/html/816237a322a13c14a0ae6bea7bbb4b81.html</link>
-            <guid>c0261cdec7efa044dc8f6e4bde3e309c</guid>
-            <pubDate>Wed, 14 Apr 2021 06:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国资金正在瞄准日本旅馆】 “能卖那么贵？”2月中旬，在佐贺县嬉野温泉经营大型酒店的老板十分诧异。中介报出的中国人给的卖价是十几亿日元，比日本国内大型住宿设施经营商在疫情前的报价高出约60%。该酒店预计最早5月内出售，今后建成面向中国游客的酒店。]]></title>
-            <link>https://instant.lvv2.com/html/9ae3d6fa5447404614f88780a99e2d22.html</link>
-            <guid>6afb31360dce8cd43f55f5ee06dace78</guid>
-            <pubDate>Wed, 14 Apr 2021 06:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
