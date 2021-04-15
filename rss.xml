@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 15 Apr 2021 17:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 18:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[看多了阴间的东西，再看到这些画反而有点不习惯……]]></title>
+            <link>http://mp.weixin.qq.com/s/Ovbuc2EeKs0A3xD_v3uTwg</link>
+            <guid>ca547a6754c3bde7b098925e689e612e</guid>
+            <pubDate>Fri, 16 Apr 2021 02:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极简主义法制作酸面包】我已经自己动手做面包一个多月了，从自己养酵种开始。这段时间的每个周末我都会有一天时间在家，尝试用不同方法做酸面包，算是初步掌握了酸面包的方法。也因为这段时间的尝试，我从做面包中，获得了一些新的思路。P.S.这篇文章里的方法更适合零基础也没有酸面包相关制作工具（但是有烤箱）的朋友。]]></title>
+            <link>http://sspai.com/post/66062</link>
+            <guid>1cc9737da9ecfa015a2b178f7887eb28</guid>
+            <pubDate>Fri, 16 Apr 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【大热女团成员工作现场疑被偷拍裙底，6秒“作案”视频疯传】被粉丝截出来的片段中，Karina和Winter两位成员在摄影空档时，被邀请到镜头前接受采访，这时一名男性工作人员拿着手机，缓缓走到了Winter身后，身体向下倾斜并把手机往下伸，然后把手机揣到了兜里，看起来很像在偷拍，而且winter当天穿的正是一件露背的短裤。]]></title>
             <link>http://mp.weixin.qq.com/s/6Nd3nBfaDE28XwYPpP17XA</link>
@@ -486,18 +498,6 @@
             <link>https://instant.lvv2.com/html/3ee1aa46e13d95e71a73893020c2927b.html</link>
             <guid>7c41f67178684e65902f3d6a0edf282e</guid>
             <pubDate>Thu, 15 Apr 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阳光永远灿烂，朔爷永远牛逼]]></title>
-            <link>https://instant.lvv2.com/html/448d6dc6b89c73ffd49a5b97b82999fa.html</link>
-            <guid>9d3c3c60f7141db5e139394d63600bea</guid>
-            <pubDate>Thu, 15 Apr 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水下有“鱼”！渔民打鱼捞获不明物体 竟是境外间谍窃密装置】 ]]></title>
-            <link>https://instant.lvv2.com/html/14608d430ba0c6ae4e2679d58b67c57a.html</link>
-            <guid>e7e1b8ad9b32776e6f3cb09104b5032d</guid>
-            <pubDate>Thu, 15 Apr 2021 04:22:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
