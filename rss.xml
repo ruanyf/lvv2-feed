@@ -4,11 +4,32 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 16 Apr 2021 18:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 20:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【气温一升高，又该担心广东人的脚趾缝了】比起说广东人爱穿人字拖，倒不如说人字拖长在广东人脚上了。从同一家小食店嗦完一碗同样的濑粉，我穿着人字拖骑上单车，你穿着人字拖启动豪车，我们都生活在同一座城市里，看同样的日出日落。何必要为了不必要的体面自我折磨，舒适洒脱，活得恣意，这才是广东人生活的真谛。]]></title>
+            <link>http://mp.weixin.qq.com/s/7mMcQZjZPtmf6ajlT-BPyg</link>
+            <guid>6d7b31c6652a50e60577b415f4bddd21</guid>
+            <pubDate>Sat, 17 Apr 2021 04:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公司服装电子设计图半夜被盗？原来另有内情】广州的李先生来到派出所报警，称其公司被一名陌生男子潜入，怀疑公司电脑内价值千万的设计图被拷贝盗走。警方展开侦查，很快确定了嫌疑人黄某，因为求爱不成，他爬入公司打开了用于平面设计的电脑，翻查电脑内是否有“心上人”的微信登录信息。最终，黄某被依法行政拘留5日。]]></title>
+            <link>http://mp.weixin.qq.com/s/E7Vd7_4DoS6hKV-3KYmF3g</link>
+            <guid>277e143ecae0b55417c60d7bcd2002d2</guid>
+            <pubDate>Sat, 17 Apr 2021 03:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[与欧美等国已向联合国提交三期临床试验数据的疫苗相比，中国疫苗的保护力确实不高。加上中国关于假疫苗和过期疫苗的新闻，让民众心怀戒备。
+
+在此大背景下，中国公众观望者众，中国与世界的“免疫落差”正在形成。
+]]></title>
+            <link>http://www.bbc.com/zhongwen/simp/chinese-news-56756609at_medium=custom7&amp;at_custom2=twitter&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=517A157A-9E5A-11EB-98DF-F98D4D484DA4&amp;at_custom3=BBC+Chinese&amp;at_campaign=64</link>
+            <guid>9aa2ecc3739eab496a997e4d89ca16ae</guid>
+            <pubDate>Sat, 17 Apr 2021 02:54:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【武汉公交车要是放开跑，就没过山车什么事了】早年间在武汉坐过公交车的人，都知道交通工具的极限在哪。坊间传言武汉公交一开起来，全车人头发都要朝后，司机就像是先挂挡再踩的离合，做到了让每位乘客都体验到F1级别的推背感。]]></title>
             <link>http://mp.weixin.qq.com/s/EKFGxhNXCwtchXu-aqA10g</link>
@@ -514,18 +535,6 @@
             <link>http://www.jiemian.com/article/5961199.html</link>
             <guid>f3ff2b294529b587fb202a26459a26f5</guid>
             <pubDate>Fri, 16 Apr 2021 00:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩美同盟的难题：“在亚洲发生的军事冲突，如果严重到需要美军介入的程度，几乎都会涉及中国......”]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/56759086at_medium=custom7&amp;at_campaign=64&amp;at_custom1=%5Bpost+type%5D&amp;at_custom2=twitter&amp;at_custom4=2CE0FB60-9DE8-11EB-9112-30850EDC252D&amp;at_custom3=BBC+Chinese</link>
-            <guid>c1928032b50efe5861329dcf13271f69</guid>
-            <pubDate>Thu, 15 Apr 2021 23:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两个月内50家公司遭入侵，互联网上最具规模的黑客组织Cl0p逐渐浮出水面】Cl0p 的受害者名单上已经扩展到了多达 50 家企业和机构，从壳牌这样的商业公司到斯坦福大学这样的学校，都已经被他们染指过。一位追踪Cl0p的安全研究员如此描述：“冷酷无情、复杂而创新、组织严密、结构合理”，并且“非常活跃，几乎不休不眠”。]]></title>
-            <link>http://www.allnow.com/post/60780aae9f7e9f18013ea430</link>
-            <guid>992c1b34af392f69d8c5be776f9a4a42</guid>
-            <pubDate>Thu, 15 Apr 2021 23:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
