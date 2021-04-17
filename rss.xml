@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 17 Apr 2021 18:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 20:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[这款14年前的模型并不完美，但不妨碍其成为一代经典]]></title>
+            <link>http://www.gcores.com/articles/136021</link>
+            <guid>0dfb4edf51d480ff4b482ce9bd3671e7</guid>
+            <pubDate>Sun, 18 Apr 2021 04:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪碧9毛，曼秀雷敦面膜一盒11.5元，连锁折扣超市正用临期产品掘金线下]]></title>
+            <link>http://www.jiemian.com/article/5966460.html</link>
+            <guid>b6f9c2181dad5399090e76ecc1f6d8d6</guid>
+            <pubDate>Sun, 18 Apr 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北斗运营商：北斗对司机没什么用】货车司机安装北斗系统，事实上更大的贡献在为产业链其他环节的公司们提供数据，如果按照正常的商业逻辑，应该是获得数据的一方缴纳费用。贡献数据的货车司机，在缴纳安装费、服务费，甚至有的还被要求缴纳培训费之后，并没有获得相匹配的服务。]]></title>
             <link>http://www.toutiao.com/a6951330184721121824/</link>
@@ -502,18 +514,6 @@
             <link>http://mp.weixin.qq.com/s/gwdN-osk_K2-kq0FW4_Ufw</link>
             <guid>e60abe197027705236eccd0addf96785</guid>
             <pubDate>Fri, 16 Apr 2021 18:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南首富“豪赌”世界养猪工厂】秦英林的座驾是一辆劳斯莱斯。他素来爱车，早年间奖励员工也是奖车，以此来凸显养猪人的尊严。自建猪场决定了牧原对于资金和土地的需求都非常大，牧原形成了一种类似于房地产开发的养猪模式：不断拿地、融资、建养猪场。“牧原每年卖猪赚来的钱，都不够建养猪场的，所以它必须不断融资”。]]></title>
-            <link>http://mp.weixin.qq.com/s/r-FdVBrkh3fn26OMTq2htQ</link>
-            <guid>21b13e0bbe5294834abb215ae285b20d</guid>
-            <pubDate>Fri, 16 Apr 2021 18:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三年建一屋】选址，设计，建造，选材，装饰，以及入住后的感受，每个环节都有很多故事， 每天也都有小小的惊喜。仅以此贴纪念一下那1000个日日夜夜。]]></title>
-            <link>http://www.chiphell.com/thread-2316113-1-1.html</link>
-            <guid>5618af39dbf7db349c8dfd0aaebd1f7f</guid>
-            <pubDate>Fri, 16 Apr 2021 18:08:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
