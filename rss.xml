@@ -4,11 +4,48 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 17 Apr 2021 06:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 08:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[海水不可斗量]]></title>
+            <link>http://v.douyin.com/er6Vmbp/</link>
+            <guid>40afff0f535b55565d0a6646da56a446</guid>
+            <pubDate>Sat, 17 Apr 2021 16:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#一周热门 打上马赛克的运动鞋：西方品牌因新疆棉遭中国综艺审查
+]]></title>
+            <link>http://cn.nytimes.com/china/20210412/china-blur-brands-xinjiang-cotton/utm_source=tw-nytimeschinese&amp;utm_medium=social&amp;utm_campaign=cur</link>
+            <guid>94e2ea400fb8846254dc37a1a28a3abf</guid>
+            <pubDate>Sat, 17 Apr 2021 16:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2020年是CD Projekt营收和利润最高的一年]]></title>
+            <link>http://www.vgtime.com/topic/1120446.jhtml</link>
+            <guid>54380d35cfd7c4e07a7d4c669ea73ca6</guid>
+            <pubDate>Sat, 17 Apr 2021 16:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[从提款机到无线电发射塔，台湾的许多机器都倚赖这款有着绿色包装、椰子口味的玉米脆片。因为一些人相信它能确保高科技机器好好运作，不出故障。]]></title>
+            <link>http://www.bbc.com/zhongwen/simp/chinese-news-56760404</link>
+            <guid>04c54ae88f9019f2d0167aec5d7575bc</guid>
+            <pubDate>Sat, 17 Apr 2021 15:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微信PC版惊现0day漏洞 点击链接一次可被黑客完全控制】根据腾讯安全中心的公告，这是因为chrome浏览器使用的V8引擎存在安全问题导致的。该漏洞仅影响windows版本的PC版微信3.2.1.141以下版本，PC版微信用户最好手工检查一下版本，及时更新。]]></title>
+            <link>http://mp.weixin.qq.com/s/dXi8l2ypitQj85_Skf_OJQ</link>
+            <guid>251c4ce3cc5b526feaf798d8e74e7c90</guid>
+            <pubDate>Sat, 17 Apr 2021 15:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【劳尔·卡斯特罗宣布卸任古共中央委员会第一书记】从1959年古巴革命胜利后开始的“卡斯特罗时代”将正式结束。“没有什么，没有什么事情迫使我做出这个决定，只要我还活着，我就将脚踏实地地准备好，以比过去任何时候都更有力地保卫祖国、保卫革命、保卫社会主义。”]]></title>
+            <link>http://www.sohu.com/a/461279988_656058</link>
+            <guid>9979e7a11c5118aeada5b9dea57c665a</guid>
+            <pubDate>Sat, 17 Apr 2021 14:48:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新疆之大，一两顿吃不下丨哪家驻京办值得吃？]]></title>
             <link>http://www.guokr.com/article/459537/</link>
@@ -489,30 +526,6 @@
             <link>http://www.thepaper.cn/newsDetail_forward_12236154</link>
             <guid>82e4e824f913871dfc98ab7e8e4b4b34</guid>
             <pubDate>Fri, 16 Apr 2021 13:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家统计局：力争早日向社会公布人口普查最终结果]]></title>
-            <link>http://www.jwview.com/jingwei/kb/pc/04-16/132142.shtml</link>
-            <guid>e1c7a040cdfe19e02214f864b39e3c4a</guid>
-            <pubDate>Fri, 16 Apr 2021 13:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这些来自Chia官方的解答，帮你读懂已主网上线的Chia Network]]></title>
-            <link>http://www.theblockbeats.com/news/23594=fromct</link>
-            <guid>aeb1b4594caddd107c09d629b85e185c</guid>
-            <pubDate>Fri, 16 Apr 2021 13:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭艾伦无缘MVP榜单、7人首轮被禁赛，这届CBA不寻常】CBA昨日宣布，因违反防疫规定，擅自离开赛区酒店，沈梓捷等7人首轮被禁赛。网络流传的说法称，此次禁赛处罚的起因是几名球员在杭州一间酒吧与人发生肢体冲突。]]></title>
-            <link>http://www.jiemian.com/article/5963577.html</link>
-            <guid>da483db468644edcf572deb5f2efb511</guid>
-            <pubDate>Fri, 16 Apr 2021 12:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兔子被解放，进口化妆品初步松绑】与简便的跨境电商审批程序相比，一般贸易这条大路仍然很不好走。让不少海外品牌望而却步的，除了动物测试，还有繁冗的审批流程。]]></title>
-            <link>http://mp.weixin.qq.com/s/x0OGoeZN-n30RbgffrQHew</link>
-            <guid>df04c9eb52c4eccb1916c9ecf0108da8</guid>
-            <pubDate>Fri, 16 Apr 2021 12:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
