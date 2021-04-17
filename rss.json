@@ -6,6 +6,20 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "57fdd6db0ce4bcbf799958763a847698",
+            "content_html": "",
+            "url": "http://www.guokr.com/article/459537/",
+            "title": "新疆之大，一两顿吃不下丨哪家驻京办值得吃？",
+            "date_modified": "2021-04-17T14:24:11.000Z"
+        },
+        {
+            "id": "09ffcc2b4d7704ea0f4942ef01e7af8a",
+            "content_html": "",
+            "url": "http://mp.weixin.qq.com/s/t0lfMkxOyl-hJcLewnsjUA",
+            "title": "【6年前，他砍掉自己百万年薪，把员工年薪全部涨到7万美元以上】Dan Price是Gravity Payments的创始人兼老板。去年疫情初期，营收下滑50%、一个月亏掉100万美元，为开源节流，全体近200名员工集思广益。团队想出很多办法，甚至绝大多数员工表示自愿减薪，幅度在10%到100%——是的，有人愿意下个月不领薪水，帮助公司。",
+            "date_modified": "2021-04-17T14:08:31.000Z"
+        },
+        {
             "id": "74b3558c4ed90d37856e369c98119633",
             "content_html": "",
             "url": "http://cn.thevalue.com/articles/eight-drunken-immortals-cups-qianlong-sothebys-2021",
@@ -550,34 +564,6 @@
             "url": "http://mp.weixin.qq.com/s/x0OGoeZN-n30RbgffrQHew",
             "title": "【兔子被解放，进口化妆品初步松绑】与简便的跨境电商审批程序相比，一般贸易这条大路仍然很不好走。让不少海外品牌望而却步的，除了动物测试，还有繁冗的审批流程。",
             "date_modified": "2021-04-16T12:24:11.000Z"
-        },
-        {
-            "id": "175763d05fffcb231058cf4397fc4e51",
-            "content_html": "",
-            "url": "http://awtmt.com/articles/3627987",
-            "title": "【备受追捧却首日破发，图森未来为何遭遇开门黑？】投资者对无人驾驶卡车初创公司图森未来抱有质疑，包括在2024年前将其技术投入使用的目标、创收能力、市场竞争。",
-            "date_modified": "2021-04-16T12:16:11.000Z"
-        },
-        {
-            "id": "2aa941bd0fa9e652d4ad37e56e6bfefa",
-            "content_html": "",
-            "url": "http://www.vgtime.com/topic/1120354.jhtml",
-            "title": "【《生化危机 村庄》新试玩今日开启预载，《生化危机4》将推出VR版】PS4/PS5 平台的玩家可以提前在 4 月 18 日 17 点至 4 月 19 日 1 点，以及 4 月 25 日 17 点至 4 月 26 日 1 点分别游玩「村庄」和「城堡」的内容。PS4/PS5 平台的试玩版内容已于今日开放预载。",
-            "date_modified": "2021-04-16T12:08:11.000Z"
-        },
-        {
-            "id": "ce8147e108dfacd58d3c91659a035240",
-            "content_html": "",
-            "url": "http://mp.weixin.qq.com/s/8QEb6KkAdXmVrqpA98Za-A",
-            "title": "【影视剧新宠——「年下恋」】随着现实中“女大男小”的婚姻比例开始持续提升，影视市场也开辟出了“年下恋”这一新赛道。从《南方有乔木》中的#安宁时樾#，到《下一站是幸福》中的#贺繁星元宋#，再到《理智派生活》中的#沈若歆祁晓#，“年下恋”让众多女性观众直呼“磕疯了”。",
-            "date_modified": "2021-04-16T11:48:11.000Z"
-        },
-        {
-            "id": "48fafa8e0108624c7b23a485863a78cb",
-            "content_html": "",
-            "url": "http://new.qq.com/omn/20210416/20210416A00W2G00.html",
-            "title": "美国当地时间周四，亚马逊创始人杰夫·贝索斯签署了其卸任首席执行官前的最后一封年度股东信。他在信中对公司未来提出了广阔的愿景，并致力于将亚马逊著名的“客户至上”准则延伸到给与员工同等关爱方面。",
-            "date_modified": "2021-04-16T11:32:11.000Z"
         }
     ]
 }
