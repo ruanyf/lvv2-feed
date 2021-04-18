@@ -4,11 +4,25 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 18 Apr 2021 20:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 22:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【花十万块为偶像“打投”后，我清醒了】他们会出那种虐粉的“小作文”，每家都不太一样。他们会根据现在情况来说一些很能虐到你的话，让你觉得心疼，然后你就会不自觉地去打投和打钱。]]></title>
+            <link>http://mp.weixin.qq.com/s/UJJ5QSjubwmQ3XXyqEPOwg</link>
+            <guid>839d45934690503f44e4b998fb45ea15</guid>
+            <pubDate>Mon, 19 Apr 2021 06:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福蝶效应 
+
+ ]]></title>
+            <link>http://www.douban.com/people/133696853/status/3393529657/</link>
+            <guid>475a1b8d2d279318ac1691c5bb5feb9b</guid>
+            <pubDate>Mon, 19 Apr 2021 04:49:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【B站宅舞区快被手机运营商统治了】宅舞也确实成了“二次元现充”们最好的流量密码之一，捧红了一众或真实或虚拟的B站UP主。你可能意想不到。最近随手翻开舞蹈区排行榜，诸如中国联通、中国电信、招商银行等id几乎占据了榜单的半壁江山。]]></title>
             <link>http://mp.weixin.qq.com/s/1o85VPlpqZe31qX3axoWXA</link>
@@ -476,25 +490,6 @@
             <link>http://www.zaobao.com.sg/news/singapore/story20210417-1139944</link>
             <guid>953d11fc57798f22b6d750fbf8a3b59a</guid>
             <pubDate>Sat, 17 Apr 2021 18:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今天，美国航天成了不按规矩的“野蛮人”】@太空那些事儿：2021财年NASA的月球着陆计划只获得了8.5亿美元拨款，只相当于最初期望值的1/4。有限的预算迫使他们连三选二都不行，选了报价最低、28.9亿美元的SpaceX。星舰Starship一旦成功，将颠覆全世界航天产业；如果研制失利，也可能逐渐让出太空探索的领导者地位。]]></title>
-            <link>http://mp.weixin.qq.com/s/o-26iqCRFGhDeqBDFpa1Ew</link>
-            <guid>f742746774e14db575a65631692ee000</guid>
-            <pubDate>Sat, 17 Apr 2021 18:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院的一份报告说，美国前国务卿蓬佩奥在位期间，曾与妻子要求国务院员工为他们办私事，次数超过100次，涉嫌违反监管公帑运用的联邦道德准则。
-]]></title>
-            <link>http://www.zaobao.com.sg/realtime/world/story20210417-1140097</link>
-            <guid>43f87d706fcd5b33445dcab6c845911c</guid>
-            <pubDate>Sat, 17 Apr 2021 18:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖天佑：《神曲》译者序及译后记】由于我在翻译过程中把注意力从仅考虑词意与句子，扩大到文本和文本功能，我的选择就增加了很多，帮助我实现了用诗体翻译《神曲》的愿望。《简明不列颠百科全书》在我国出版较早，我认为既然我们有了自己的《中国大百科全书》，在翻译《神曲》中的专有名词时，就应该遵循这套辞书.]]></title>
-            <link>http://mp.weixin.qq.com/s/eRI9-xdNxi2c4Z-23ZPkoA</link>
-            <guid>d2fb70a82e3da60e1aa67679119c7527</guid>
-            <pubDate>Sat, 17 Apr 2021 17:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
