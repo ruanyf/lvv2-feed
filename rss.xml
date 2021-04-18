@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 18 Apr 2021 17:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 18:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【谁说PANTONE只是个卖色卡的？】只要提起PANTONE，不少人便会自然而然地联想到PANTONE的色卡。然而，最近我们发现PANTONE竟然悄悄在线下开了一家「PANTONE 生活体验馆」（Pantone Life[replace] Gallery），开始卖起了一系列“PANTONE风格”的生活家居用品。]]></title>
+            <link>http://mp.weixin.qq.com/s/F7BKAGFteXBZaUiVUZ8iRQ</link>
+            <guid>f6c2d42baf1c864d58bc79dcb14cb3f3</guid>
+            <pubDate>Mon, 19 Apr 2021 02:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PDF格式发明者查尔斯·格什克逝世，享年 81 岁]]></title>
+            <link>http://www.ithome.com/0/546/771.htm</link>
+            <guid>45c3f7ba958571eccb82ee6b11270422</guid>
+            <pubDate>Mon, 19 Apr 2021 01:09:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国与日本1969年曾共同声明维系亚太安全并保卫中华民国。52年后，与北京有邦交的华盛顿和东京再度谈及台海安全重要性。两大声明核心思想未变，但所面对的世界则存在巨大变数。]]></title>
             <link>http://www.bbc.com/zhongwen/simp/world-56785182at_custom4=13367D86-A061-11EB-846E-E1924D484DA4&amp;at_custom1=%5Bpost+type%5D&amp;at_custom2=twitter&amp;at_custom3=BBC+Chinese&amp;at_campaign=64&amp;at_medium=custom7</link>
@@ -483,12 +495,6 @@
             <link>http://www.bbc.com/zhongwen/simp/world-56783433at_medium=custom7&amp;at_custom2=twitter&amp;at_custom1=%5Bpost+type%5D&amp;at_custom4=472BD67E-9F5B-11EB-9C53-068096E8478F&amp;at_custom3=BBC+Chinese&amp;at_campaign=64</link>
             <guid>d612333b84a9b809d21b9877a3ec970d</guid>
             <pubDate>Sat, 17 Apr 2021 17:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财报披露前股价“提前反应”，如何切断A股“信披”隐秘的通道】@caolei1：中免跌停传闻是某饭局传的一季报业绩。真要改善A股生态，这个例子其实可以好好查一查。而且这不是孤例，美年健康市场先传，机构先跑，公司澄清，之后业绩公告确认。]]></title>
-            <link>http://m.21jingji.com/article/20210417/02ca71f052673f595ddd6e2decaed802.html</link>
-            <guid>48fc85bf5e5b0678cf0c220d1d50ebd2</guid>
-            <pubDate>Sat, 17 Apr 2021 17:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
