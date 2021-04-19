@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 19 Apr 2021 14:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 17:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“解剖”货拉拉——反抗控制的“艺术”]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/607aeda7509f78302be70de2</link>
+            <guid>970ef4a7bef5818c06b445a04bc73abc</guid>
+            <pubDate>Tue, 20 Apr 2021 00:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北医三院医生揭露肿瘤治疗黑幕：患者人财两空，多因医生肆意妄为】针对日前引起广泛关注的“北医三院医生反映肿瘤治疗黑幕”一事，国家卫健委发文表示，关注到“北医三院肿瘤内科医生反映肿瘤治疗黑幕”事件后，卫健委立即组织对有关情况和反映的问题进行调查核实。相关问题一经查实，将依法依规严肃处理，绝不姑息。]]></title>
+            <link>http://www.aicaijing.com.cn/overviewarticle_id=6197</link>
+            <guid>bea853e89d7e2fcb072b38efc4669e9b</guid>
+            <pubDate>Tue, 20 Apr 2021 00:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行的人口转型论文有多烂】英语里有「扶手椅XX学」一词，指那些不基于客观数据和科学收集的观察结果，而是自行思考，得出来的「民科」观点。这篇人口转型论文里，几个关键政策建议都只是以说教的形式提出，口吻像是一位老领导对着下属做思想工作，可以称之为「保温杯经济学」。]]></title>
+            <link>http://mp.weixin.qq.com/s/7y-5-RSS-VsogrRnBltolg</link>
+            <guid>cc7c717d00cf0f9ca5963f6fd5e53ad1</guid>
+            <pubDate>Mon, 19 Apr 2021 23:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[漫威电影《尚气与十戒传奇》先导中文预告，刘思慕、梁朝伟、奥卡菲娜、杨紫琼、张梦儿、钱信伊、陈法拉、弗罗里安·穆特鲁等主演，9月3日北美公映。]]></title>
             <link>http://b23.tv/z9q3BK</link>
@@ -458,25 +476,6 @@
             <link>http://mp.weixin.qq.com/s/ED7Np_YfqoJeb7I7UIcvOQ</link>
             <guid>7f94fd205ce86133c7575801bb99e525</guid>
             <pubDate>Mon, 19 Apr 2021 00:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一周热点回顾】在美国的高超音速武器项目仍然处于试验阶段的时候，俄罗斯和中国的高超音速武器已经进入部署阶段。
-]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/56692845at_custom4=1E1F66D0-9E78-11EB-9496-68473A982C1E&amp;at_custom1=%5Bpost+type%5D&amp;at_medium=custom7&amp;at_campaign=64&amp;at_custom3=BBC+Chinese&amp;at_custom2=twitter</link>
-            <guid>ccf151acca28549088b156dfea3b6d1a</guid>
-            <pubDate>Sun, 18 Apr 2021 23:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【这位叫做“库巴”的黑客正在被任天堂起诉】美国任天堂近日正式开始起诉 任天堂Switch 破解组织 Xecuter 的加拿大重要成员 Gary Bowser，该组织售卖一种能够即插即用破解NS的芯片。任天堂希望对每台被非法销售的设备索赔2500美元。对每一次侵权行为索赔15万美元，并彻底关闭Bowser的运营。]]></title>
-            <link>http://www.vgtime.com/topic/1120528.jhtml</link>
-            <guid>67d9cca057b1b6dae922107413263296</guid>
-            <pubDate>Sun, 18 Apr 2021 23:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新“BAT”的第一次交锋已经发生，地点在新加坡】BAT中的B（百度），名不副实已久，现在ByteDance（字节跳动）或最有资格取而代之。据悉，新“BAT”的第一次正式交锋已经发生，地点是在新加坡。而华为等科技互联网公司也纷纷在2021年初扩张在新加坡的业务。]]></title>
-            <link>http://mp.weixin.qq.com/s/bU_ze0bZwgjapxdAqNwNyw</link>
-            <guid>8e2599a15f873c5fa63be20bfad306fe</guid>
-            <pubDate>Sun, 18 Apr 2021 22:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
