@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 19 Apr 2021 20:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 22:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[极氪 001：小鹏的价格，蔚来的配置，理想的体验]]></title>
+            <link>http://www.42how.com/post/2547</link>
+            <guid>81bc569e2723eb64db99a48e4dc63803</guid>
+            <pubDate>Tue, 20 Apr 2021 06:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[回忆杀！16位《指环王》主演，20年后今昔对比]]></title>
+            <link>https://instant.lvv2.com/html/5bf0a3280187fba5edd4ef3d7b4d3a65.html</link>
+            <guid>1f41d55b81f297252ac29d01128063d4</guid>
+            <pubDate>Tue, 20 Apr 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[解读｜北京义务教育入学新政：加大多校划片力度、严禁违规选拔、规范民办学校]]></title>
             <link>https://instant.lvv2.com/html/75775522ff335ca3ea9bd78bd3f3e0be.html</link>
@@ -462,26 +474,6 @@
             <link>https://instant.lvv2.com/html/779d308ded87e010f64c1e65893ba75a.html</link>
             <guid>7307fa83863b31b839f80628c31243b3</guid>
             <pubDate>Mon, 19 Apr 2021 06:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福蝶效应 
-
- ]]></title>
-            <link>http://www.douban.com/people/133696853/status/3393529657/</link>
-            <guid>475a1b8d2d279318ac1691c5bb5feb9b</guid>
-            <pubDate>Mon, 19 Apr 2021 04:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【B站宅舞区快被手机运营商统治了】宅舞也确实成了“二次元现充”们最好的流量密码之一，捧红了一众或真实或虚拟的B站UP主。你可能意想不到。最近随手翻开舞蹈区排行榜，诸如中国联通、中国电信、招商银行等id几乎占据了榜单的半壁江山。]]></title>
-            <link>https://instant.lvv2.com/html/a032033a7f4a020ab33ea2e6356324b8.html</link>
-            <guid>7f53a284e6b6198700de3f176e385ad8</guid>
-            <pubDate>Mon, 19 Apr 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“致命”充气城堡】充气城堡的危险性与复杂性，远超过普通认知的“大风”。在枣庄市中区，多位受访者都感到很奇怪，当天文化广场“风并不大”，空间开阔，为什么会被吹到空中？迄今为止，判断风的大小、是否出摊，主要靠运营者的感觉，感觉一旦出错，便是无可挽回的悲剧。]]></title>
-            <link>https://instant.lvv2.com/html/a43d0ac93c7e48439e85bd34e4cee3ee.html</link>
-            <guid>bfeae3c6a88c2079ff1baba6ca686f3d</guid>
-            <pubDate>Mon, 19 Apr 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
