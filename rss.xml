@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 19 Apr 2021 17:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 18:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【印度疫情急转直下】在过去24小时内，印度新增确诊病例超过27万例，这一数据已经连续10次破了纪录。英国首相约翰逊随即取消原定于下周对印度的访问，称这是“唯一明智”（only sensible）的选择。]]></title>
+            <link>http://www.guancha.cn/internation/2021_04_19_588033.shtml</link>
+            <guid>7f4ac588f4c78465a4059d618306261b</guid>
+            <pubDate>Tue, 20 Apr 2021 01:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“解剖”货拉拉——反抗控制的“艺术”]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/607aeda7509f78302be70de2</link>
@@ -405,8 +411,8 @@
         </item>
         <item>
             <title><![CDATA[【美国议员用俄战机配图祝福美军】据报道，美国参议员辛迪•史密斯在社交网站上贴出一张贺卡，祝贺美空军预备役司令部成立73周年“生日快乐”。然而，贺卡背景图上的5架喷气式飞机不是美军战机，而是俄罗斯的苏-34战斗轰炸机。被网友指出错误后，辛迪•史密斯更换了配图。]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_12266295</link>
-            <guid>5ba3eb125d2e352d8c400e3af2f01b2d</guid>
+            <link>https://instant.lvv2.com/html/9690fa230aa607be95426a8159a7fce1.html</link>
+            <guid>f8dd2ac29203328d081600e83d758768</guid>
             <pubDate>Mon, 19 Apr 2021 07:48:42 GMT</pubDate>
         </item>
         <item>
@@ -417,14 +423,14 @@
         </item>
         <item>
             <title><![CDATA[【埃及一列火车发生脱轨已致8死26伤】这是一周以来埃及发生的第二次脱轨事故。上次的事故中有两节车厢脱轨，致15名乘客受伤。而不到一个月前，埃及南部的另一起事故致20人死亡，200多人受伤。]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_12268997</link>
-            <guid>6aee2decd2a54600a6675ecf8efcb204</guid>
+            <link>https://instant.lvv2.com/html/4663c79a41d9c5f162e6789ab0d3113c.html</link>
+            <guid>56821f46510fb0534214f9ee4a721301</guid>
             <pubDate>Mon, 19 Apr 2021 06:32:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【花十万块为偶像“打投”后，我清醒了】他们会出那种虐粉的“小作文”，每家都不太一样。他们会根据现在情况来说一些很能虐到你的话，让你觉得心疼，然后你就会不自觉地去打投和打钱。]]></title>
-            <link>http://mp.weixin.qq.com/s/UJJ5QSjubwmQ3XXyqEPOwg</link>
-            <guid>839d45934690503f44e4b998fb45ea15</guid>
+            <link>https://instant.lvv2.com/html/779d308ded87e010f64c1e65893ba75a.html</link>
+            <guid>7307fa83863b31b839f80628c31243b3</guid>
             <pubDate>Mon, 19 Apr 2021 06:08:32 GMT</pubDate>
         </item>
         <item>
@@ -437,45 +443,33 @@
         </item>
         <item>
             <title><![CDATA[【B站宅舞区快被手机运营商统治了】宅舞也确实成了“二次元现充”们最好的流量密码之一，捧红了一众或真实或虚拟的B站UP主。你可能意想不到。最近随手翻开舞蹈区排行榜，诸如中国联通、中国电信、招商银行等id几乎占据了榜单的半壁江山。]]></title>
-            <link>http://mp.weixin.qq.com/s/1o85VPlpqZe31qX3axoWXA</link>
-            <guid>ccfe6bdca3b95f7cf2476f2dcac7611d</guid>
+            <link>https://instant.lvv2.com/html/a032033a7f4a020ab33ea2e6356324b8.html</link>
+            <guid>7f53a284e6b6198700de3f176e385ad8</guid>
             <pubDate>Mon, 19 Apr 2021 04:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【“致命”充气城堡】充气城堡的危险性与复杂性，远超过普通认知的“大风”。在枣庄市中区，多位受访者都感到很奇怪，当天文化广场“风并不大”，空间开阔，为什么会被吹到空中？迄今为止，判断风的大小、是否出摊，主要靠运营者的感觉，感觉一旦出错，便是无可挽回的悲剧。]]></title>
-            <link>http://mp.weixin.qq.com/s/8_xKBVExhTijoTuyrHL5XQ</link>
-            <guid>77e7eb021e3e3c6476dc900406328526</guid>
+            <link>https://instant.lvv2.com/html/a43d0ac93c7e48439e85bd34e4cee3ee.html</link>
+            <guid>bfeae3c6a88c2079ff1baba6ca686f3d</guid>
             <pubDate>Mon, 19 Apr 2021 03:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【谁说PANTONE只是个卖色卡的？】只要提起PANTONE，不少人便会自然而然地联想到PANTONE的色卡。然而，最近我们发现PANTONE竟然悄悄在线下开了一家「PANTONE 生活体验馆」（Pantone Life[replace] Gallery），开始卖起了一系列“PANTONE风格”的生活家居用品。]]></title>
-            <link>http://mp.weixin.qq.com/s/F7BKAGFteXBZaUiVUZ8iRQ</link>
-            <guid>f6c2d42baf1c864d58bc79dcb14cb3f3</guid>
+            <link>https://instant.lvv2.com/html/beb0d91d02617285231a521051b1c58a.html</link>
+            <guid>95df0d66e83aa805b1742ba415595d65</guid>
             <pubDate>Mon, 19 Apr 2021 02:08:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PDF格式发明者查尔斯·格什克逝世，享年 81 岁]]></title>
-            <link>http://www.ithome.com/0/546/771.htm</link>
-            <guid>45c3f7ba958571eccb82ee6b11270422</guid>
+            <link>https://instant.lvv2.com/html/0c71677d1d4b65d1a4c471b6f0854617.html</link>
+            <guid>df82880abc41dd3324c00cf2cdee8672</guid>
             <pubDate>Mon, 19 Apr 2021 01:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国与日本1969年曾共同声明维系亚太安全并保卫中华民国。52年后，与北京有邦交的华盛顿和东京再度谈及台海安全重要性。两大声明核心思想未变，但所面对的世界则存在巨大变数。]]></title>
-            <link>http://www.bbc.com/zhongwen/simp/world-56785182at_custom4=13367D86-A061-11EB-846E-E1924D484DA4&amp;at_custom1=%5Bpost+type%5D&amp;at_custom2=twitter&amp;at_custom3=BBC+Chinese&amp;at_campaign=64&amp;at_medium=custom7</link>
-            <guid>01143e6440d249937cfdd45924ffc00d</guid>
+            <link>https://instant.lvv2.com/html/3ea6d21f8c8b5579654c83cec13ba25f.html</link>
+            <guid>c504102200d921c720cca217052b370d</guid>
             <pubDate>Mon, 19 Apr 2021 00:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽京：写非典型的晚婚】我没有想给读者什么启发。我觉得很多写出来的故事连我自己都启发不了，怎么启发别人？启发不了。小说我觉得只是说，大家度过这两三个小时，没有觉得特别难过，反而觉得这两小时还挺短的，就可以了。]]></title>
-            <link>http://mp.weixin.qq.com/s/h0GGxzzQDW1_kgfPRwwCVA</link>
-            <guid>419d9d6937151bf3f11d36ea439f4e15</guid>
-            <pubDate>Mon, 19 Apr 2021 00:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及，终于要迁都了？]]></title>
-            <link>http://mp.weixin.qq.com/s/ED7Np_YfqoJeb7I7UIcvOQ</link>
-            <guid>7f94fd205ce86133c7575801bb99e525</guid>
-            <pubDate>Mon, 19 Apr 2021 00:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
