@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 20 Apr 2021 18:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 20:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【陌生人邀请我加入CS:GO游戏，我一接受就被盗号了】在拖了两年之后V社终于修复了Steam的一个严重漏洞，只需一个游戏邀请，黑客就能控制你的电脑并获取隐私。早在两年前，Secret Club成员Florian就已经向V社反馈了这个BUG，但据他讲V社不仅没回应，还阻止他们公开，直到上周Secret Club终于说出口，V社才完成了修复…]]></title>
+            <link>https://instant.lvv2.com/html/49c5a06fdf37cc6d1e8cbc79a4a8ec92.html</link>
+            <guid>cca63a809ee5d7e4ec6702c99cc267df</guid>
+            <pubDate>Wed, 21 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业者上上座，投资人下神坛】如果将投资人和创业者视为商业生态中最关键的两股力量，那么立于它们二者间的天平已经发生倾斜，话语权正逐步向创业者转移。]]></title>
+            <link>https://instant.lvv2.com/html/311a2335ccafde5a5b87a5732048357d.html</link>
+            <guid>f43a4f21b185bc28f35015dd695bb5df</guid>
+            <pubDate>Wed, 21 Apr 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全新iPad Pro发布：miniLED屏幕/M1芯片】12.9英寸的iPad Pro带来了全新的mini-LED材质屏幕，其内置了超过10000个LED发光二极管，拥有1000nit的亮度和1600nit的极限激发亮度，这种亮度在如此大的屏幕上是相当巨大的进步。]]></title>
             <link>https://instant.lvv2.com/html/757d17b3eb0425c181dcab86c102aed8.html</link>
@@ -112,12 +124,6 @@ BBC纪录片透露最早测序的是广州的“微远基因”
             <link>https://instant.lvv2.com/html/2d1bed14cebb67c3b9bfe3af9d8ea5ff.html</link>
             <guid>5b3ae1d3f39ef0ac008124cbcb223ab5</guid>
             <pubDate>Tue, 20 Apr 2021 19:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[郭文贵班农幕后“设计”助推闫丽梦新冠风波]]></title>
-            <link>http://www.youtube.com/watchv=Mp04sIZqofk</link>
-            <guid>07d1e119d603d813ed9013c75a116dc7</guid>
-            <pubDate>Tue, 20 Apr 2021 19:39:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#时报专栏 在人生的这个阶段，你的父母和亲友的父母变得苍老迟缓、生病、并且开始去世。同时，大流行也改变了一切。
