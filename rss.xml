@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 20 Apr 2021 14:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 17:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【学者们一边做研究，一边做播客，理论变得“好听”了】学术播客受到欢迎的背后，是公众对于优质学术信息的渴望，以及学者通过新的媒体形式体现公共知识分子的身份，作为跨领域的学习者用心构建学术与公众生活的对话渠道。]]></title>
+            <link>https://instant.lvv2.com/html/0e4846bceffb742be1ed84b5ddda50f9.html</link>
+            <guid>7a0aca4fd6e89391f6b4564ee9d35b0c</guid>
+            <pubDate>Wed, 21 Apr 2021 00:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[不买可以先收藏 | 动辄千元的手工眼镜，贵在哪里？]]></title>
+            <link>https://instant.lvv2.com/html/12ccd9152e3117416b3597ece9f01701.html</link>
+            <guid>969853f28c8898d1308983bf615d4289</guid>
+            <pubDate>Tue, 20 Apr 2021 23:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我们正在经历盖饭的消亡】当人们将吃盖饭的说辞变成了吃丼饭，食物本身也就成为了一种进击的精致符号，正将那些不合时宜的、落伍的、没有洞察到市场痒点的盖饭馆子挤压出人们的视野之外。]]></title>
+            <link>https://instant.lvv2.com/html/f51e21a6b169d73e6122c455832d365c.html</link>
+            <guid>ffab4a5291a38b5b837d3d31beea0822</guid>
+            <pubDate>Tue, 20 Apr 2021 23:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山西副省长刘新云落马背后，全省公安大数据项目被一家山东企业垄断】刘新云被调查后，有关部门已开始统计山东企帮公司业务。如无意外，其所涉及项目总金额“将是一个惊人的数字”。]]></title>
+            <link>https://instant.lvv2.com/html/742b59cec91a369d2cc795e4df0c1ec6.html</link>
+            <guid>804a520fe4cf0249cae4f5de046907da</guid>
+            <pubDate>Tue, 20 Apr 2021 22:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【他们让菜馍奶奶一夜爆红，又逼着她消失了】在最初她被爆出的视频中被称作96岁，后经查验她为82岁。事实上，96岁在街头卖馍的标签，才是她走红的真正原因。]]></title>
             <link>https://instant.lvv2.com/html/b2341658c6169668c523216cc45454f4.html</link>
@@ -496,24 +520,6 @@ BBC纪录片透露最早测序的是广州的“微远基因”
             <link>https://instant.lvv2.com/html/78f46682f19889e7e6bddedd3791d2e9.html</link>
             <guid>f51c8595c77b27b49edea73223b8674b</guid>
             <pubDate>Tue, 20 Apr 2021 00:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行的人口转型论文有多烂】英语里有「扶手椅XX学」一词，指那些不基于客观数据和科学收集的观察结果，而是自行思考，得出来的「民科」观点。这篇人口转型论文里，几个关键政策建议都只是以说教的形式提出，口吻像是一位老领导对着下属做思想工作，可以称之为「保温杯经济学」。]]></title>
-            <link>https://instant.lvv2.com/html/bcc6db7a6c6c8728926ccce6c6397c18.html</link>
-            <guid>ffd12f31ef43f3c236266d0025ee22b7</guid>
-            <pubDate>Mon, 19 Apr 2021 23:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[漫威电影《尚气与十戒传奇》先导中文预告，刘思慕、梁朝伟、奥卡菲娜、杨紫琼、张梦儿、钱信伊、陈法拉、弗罗里安·穆特鲁等主演，9月3日北美公映。]]></title>
-            <link>http://b23.tv/z9q3BK</link>
-            <guid>c8f9a3c536efdca9edd45ae178781d13</guid>
-            <pubDate>Mon, 19 Apr 2021 22:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[张坤公布一季报，大手笔加仓银行，规模突破1300亿，呼吁心中要有企业内在价值的“锚”]]></title>
-            <link>http://wallstreetcn.com/articles/3628200</link>
-            <guid>56549713ceee197e5274d2310c98157f</guid>
-            <pubDate>Mon, 19 Apr 2021 21:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
