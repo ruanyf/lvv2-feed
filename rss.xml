@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 20 Apr 2021 17:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 18:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【全新iPad Pro发布：miniLED屏幕/M1芯片】12.9英寸的iPad Pro带来了全新的mini-LED材质屏幕，其内置了超过10000个LED发光二极管，拥有1000nit的亮度和1600nit的极限激发亮度，这种亮度在如此大的屏幕上是相当巨大的进步。]]></title>
+            <link>https://instant.lvv2.com/html/757d17b3eb0425c181dcab86c102aed8.html</link>
+            <guid>ee058e02d7f6c5e90c38f505a6d9156d</guid>
+            <pubDate>Wed, 21 Apr 2021 02:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果发布全新24英寸iMac：七种配色搭载M1芯片，1299美元起售]]></title>
+            <link>https://instant.lvv2.com/html/fed0f474b6a5254f1d1b4e3fc86e797e.html</link>
+            <guid>c43ada657f6da3a5e04de7913d57df3e</guid>
+            <pubDate>Wed, 21 Apr 2021 02:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国式家长的焦虑，能在《小舍得》中找到出口吗？】从第一集一不小心就擦枪走火的团圆饭，到两个孩子只有一个名额的课外辅导班，《小舍得》的议题从家庭一步一步走到了教育本身，剧情也随着教育话题的展开，更新到了全剧的四分之一，属于《小舍得》的热度也终于来了。]]></title>
+            <link>https://instant.lvv2.com/html/bafc66d6c3a09d17f36e3f630f3d0dd3.html</link>
+            <guid>3d022e073c96e6c6145265a54a7224be</guid>
+            <pubDate>Wed, 21 Apr 2021 01:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【学者们一边做研究，一边做播客，理论变得“好听”了】学术播客受到欢迎的背后，是公众对于优质学术信息的渴望，以及学者通过新的媒体形式体现公共知识分子的身份，作为跨领域的学习者用心构建学术与公众生活的对话渠道。]]></title>
             <link>https://instant.lvv2.com/html/0e4846bceffb742be1ed84b5ddda50f9.html</link>
@@ -502,24 +520,6 @@ BBC纪录片透露最早测序的是广州的“微远基因”
             <link>https://instant.lvv2.com/html/d163c873e63ff5bb73b54b74273953a3.html</link>
             <guid>cdafe0df11557e24ddfecc2343cf505f</guid>
             <pubDate>Tue, 20 Apr 2021 03:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度疫情急转直下】在过去24小时内，印度新增确诊病例超过27万例，这一数据已经连续10次破了纪录。英国首相约翰逊随即取消原定于下周对印度的访问，称这是“唯一明智”（only sensible）的选择。]]></title>
-            <link>https://instant.lvv2.com/html/2d0d3bc194dcc5b0868c28434bbb7b03.html</link>
-            <guid>3475716338b9ba3d7137ec166de29953</guid>
-            <pubDate>Tue, 20 Apr 2021 01:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“解剖”货拉拉——反抗控制的“艺术”]]></title>
-            <link>http://www.xiaoyuzhoufm.com/episode/607aeda7509f78302be70de2</link>
-            <guid>970ef4a7bef5818c06b445a04bc73abc</guid>
-            <pubDate>Tue, 20 Apr 2021 00:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北医三院医生揭露肿瘤治疗黑幕：患者人财两空，多因医生肆意妄为】针对日前引起广泛关注的“北医三院医生反映肿瘤治疗黑幕”一事，国家卫健委发文表示，关注到“北医三院肿瘤内科医生反映肿瘤治疗黑幕”事件后，卫健委立即组织对有关情况和反映的问题进行调查核实。相关问题一经查实，将依法依规严肃处理，绝不姑息。]]></title>
-            <link>https://instant.lvv2.com/html/78f46682f19889e7e6bddedd3791d2e9.html</link>
-            <guid>f51c8595c77b27b49edea73223b8674b</guid>
-            <pubDate>Tue, 20 Apr 2021 00:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
