@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 20 Apr 2021 20:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 22:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【PayPal加密版图扩张：旗下Venmo提供加密货币交易服务】PayPal 周二宣布，旗下移动支付软件 Venmo 开始为 7700 万名用户提供加密货币交易功能。通过添加的新功能，Venmo 将允许用户立即购买比特币（BTC）、以太坊（ETH）、莱特币（LTC）、比特币现金（BCH），最低交易金额仅为 1 美元。]]></title>
+            <link>http://www.odaily.com/post/5167208</link>
+            <guid>95ff301a4594731c90199a645b6a5496</guid>
+            <pubDate>Wed, 21 Apr 2021 06:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明前茶、雨前茶？对不起，那都是玄学]]></title>
+            <link>https://instant.lvv2.com/html/09302440b3eb0b0222d099a0f4f460cd.html</link>
+            <guid>61fd5dcf95ac5a70eb44cf1d73710e93</guid>
+            <pubDate>Wed, 21 Apr 2021 05:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【陌生人邀请我加入CS:GO游戏，我一接受就被盗号了】在拖了两年之后V社终于修复了Steam的一个严重漏洞，只需一个游戏邀请，黑客就能控制你的电脑并获取隐私。早在两年前，Secret Club成员Florian就已经向V社反馈了这个BUG，但据他讲V社不仅没回应，还阻止他们公开，直到上周Secret Club终于说出口，V社才完成了修复…]]></title>
             <link>https://instant.lvv2.com/html/49c5a06fdf37cc6d1e8cbc79a4a8ec92.html</link>
@@ -514,18 +526,6 @@ BBC纪录片透露最早测序的是广州的“微远基因”
             <link>https://instant.lvv2.com/html/75775522ff335ca3ea9bd78bd3f3e0be.html</link>
             <guid>a8963332bac8205be47e609d30532b7e</guid>
             <pubDate>Tue, 20 Apr 2021 04:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多年来，澳大利亚一直在引进技术移民。但很多技术移民却找不到专业工作，只能靠开网约车或送外卖糊口。这种情况很普遍，社会团体经常抱怨技术移民在专业领域找不到对口工作，还经常遭到本地雇主的忽视。]]></title>
-            <link>https://instant.lvv2.com/html/311b1df6f201caccb786e3b4e1f9fbda.html</link>
-            <guid>679da8e910d0c1973ed319512a78c397</guid>
-            <pubDate>Tue, 20 Apr 2021 03:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京升级楼市限购】“南京、杭州等多个二线城市过去几年限购，总是为人才与新落户者留着一道暗门。如今，在住建部反复敲打之下，无奈的将暗门关上了。”]]></title>
-            <link>https://instant.lvv2.com/html/d163c873e63ff5bb73b54b74273953a3.html</link>
-            <guid>cdafe0df11557e24ddfecc2343cf505f</guid>
-            <pubDate>Tue, 20 Apr 2021 03:08:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
