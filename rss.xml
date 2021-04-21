@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 21 Apr 2021 14:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 17:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[丑闻还是没能战胜英国王室]]></title>
+            <link>https://instant.lvv2.com/html/5d412557f3948f97b5b869472ba2b68b.html</link>
+            <guid>97095e1a244b9587fd0c995f5a26e0d1</guid>
+            <pubDate>Thu, 22 Apr 2021 00:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小麦科研博士后招聘要求：热爱面食者优先】@ida：转发了，但不知道到哪里去领面粉]]></title>
+            <link>https://instant.lvv2.com/html/f43fcc39b46c3ad808af27c152271f7e.html</link>
+            <guid>4c1689c3f2894644affb883dc7f6dec0</guid>
+            <pubDate>Wed, 21 Apr 2021 23:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今天不开心怎么办？来试着做做科学家】要想走出心灵的迷雾，你要做一个科学家。“人是科学家”是著名的认知流派的学者乔治·凯利的一句名言。他认为我们对生活的理解方式和科学家做研究的流程是一样的。]]></title>
+            <link>https://instant.lvv2.com/html/177ba104d46248d7e4e6c7ef10e54ee1.html</link>
+            <guid>74f60b79ff67c06af233cb24afba791f</guid>
+            <pubDate>Wed, 21 Apr 2021 22:48:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[广州楼市调控再升级：提高人才购房门槛，9区增值税征免年限“2变5”]]></title>
             <link>https://instant.lvv2.com/html/367759679b07a01e30402a1c0a13d19e.html</link>
@@ -500,24 +518,6 @@
             <link>https://instant.lvv2.com/html/757d17b3eb0425c181dcab86c102aed8.html</link>
             <guid>ee058e02d7f6c5e90c38f505a6d9156d</guid>
             <pubDate>Wed, 21 Apr 2021 02:17:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果发布全新24英寸iMac：七种配色搭载M1芯片，1299美元起售]]></title>
-            <link>https://instant.lvv2.com/html/fed0f474b6a5254f1d1b4e3fc86e797e.html</link>
-            <guid>c43ada657f6da3a5e04de7913d57df3e</guid>
-            <pubDate>Wed, 21 Apr 2021 02:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国式家长的焦虑，能在《小舍得》中找到出口吗？】从第一集一不小心就擦枪走火的团圆饭，到两个孩子只有一个名额的课外辅导班，《小舍得》的议题从家庭一步一步走到了教育本身，剧情也随着教育话题的展开，更新到了全剧的四分之一，属于《小舍得》的热度也终于来了。]]></title>
-            <link>https://instant.lvv2.com/html/bafc66d6c3a09d17f36e3f630f3d0dd3.html</link>
-            <guid>3d022e073c96e6c6145265a54a7224be</guid>
-            <pubDate>Wed, 21 Apr 2021 01:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【学者们一边做研究，一边做播客，理论变得“好听”了】学术播客受到欢迎的背后，是公众对于优质学术信息的渴望，以及学者通过新的媒体形式体现公共知识分子的身份，作为跨领域的学习者用心构建学术与公众生活的对话渠道。]]></title>
-            <link>https://instant.lvv2.com/html/0e4846bceffb742be1ed84b5ddda50f9.html</link>
-            <guid>7a0aca4fd6e89391f6b4564ee9d35b0c</guid>
-            <pubDate>Wed, 21 Apr 2021 00:08:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
