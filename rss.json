@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "8b600b29824b60d0bc462de5e1c95ca2",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/017d4849050b8f8df04a66dd346fa9f1.html",
+            "title": "【肿瘤黑幕门背后：公司涉嫌违规治疗，医生曾是关联公司股东】NK 细胞免疫治疗在国内只停留在临床研究层面，未获审批上市。纵使是临床试验，也需经药监部门审批或登记注册，涉事公司涉嫌违规从事细胞免疫治疗。有医生质疑通过视频分析不像正常的NK细胞治疗。",
+            "date_modified": "2021-04-22T02:08:12.000Z"
+        },
+        {
             "id": "97095e1a244b9587fd0c995f5a26e0d1",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/5d412557f3948f97b5b869472ba2b68b.html",
@@ -571,20 +578,6 @@
             "url": "https://instant.lvv2.com/html/49c5a06fdf37cc6d1e8cbc79a4a8ec92.html",
             "title": "【陌生人邀请我加入CS:GO游戏，我一接受就被盗号了】在拖了两年之后V社终于修复了Steam的一个严重漏洞，只需一个游戏邀请，黑客就能控制你的电脑并获取隐私。早在两年前，Secret Club成员Florian就已经向V社反馈了这个BUG，但据他讲V社不仅没回应，还阻止他们公开，直到上周Secret Club终于说出口，V社才完成了修复…",
             "date_modified": "2021-04-21T04:08:11.000Z"
-        },
-        {
-            "id": "f43a4f21b185bc28f35015dd695bb5df",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/311a2335ccafde5a5b87a5732048357d.html",
-            "title": "【创业者上上座，投资人下神坛】如果将投资人和创业者视为商业生态中最关键的两股力量，那么立于它们二者间的天平已经发生倾斜，话语权正逐步向创业者转移。",
-            "date_modified": "2021-04-21T03:08:11.000Z"
-        },
-        {
-            "id": "ee058e02d7f6c5e90c38f505a6d9156d",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/757d17b3eb0425c181dcab86c102aed8.html",
-            "title": "【全新iPad Pro发布：miniLED屏幕/M1芯片】12.9英寸的iPad Pro带来了全新的mini-LED材质屏幕，其内置了超过10000个LED发光二极管，拥有1000nit的亮度和1600nit的极限激发亮度，这种亮度在如此大的屏幕上是相当巨大的进步。",
-            "date_modified": "2021-04-21T02:17:53.000Z"
         }
     ]
 }
