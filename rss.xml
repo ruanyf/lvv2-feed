@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 21 Apr 2021 20:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 22:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[拥抱实体化的工具与材料：我的「模拟式工作流」分享]]></title>
+            <link>https://instant.lvv2.com/html/4cd20bc2d380e7085f65a170f7e180df.html</link>
+            <guid>fb4a8a0994ab78c9dfc78241844f6c1b</guid>
+            <pubDate>Thu, 22 Apr 2021 05:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[男朋友是一个图书编辑，之前给他写分手信，过几天他回复了]]></title>
             <link>https://instant.lvv2.com/html/3f8d575dda5e5534d8ebded736f9dfa3.html</link>
@@ -500,18 +506,6 @@
             <link>http://www.xiaoyuzhoufm.com/episode/607dbc3b3bfd9e4d8913a64e</link>
             <guid>91fa883b79fb19061e3c61dca9034025</guid>
             <pubDate>Wed, 21 Apr 2021 07:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北人为什么被叫做「九头鸟」】湖北人热烈拥抱九头鸟，实在是相当晚近的现象。数十年前，「九头鸟」无疑是和「来信砍」一样的地图炮专有名词。]]></title>
-            <link>https://instant.lvv2.com/html/00845b8526e13bb2e9d4f339cec3a1aa.html</link>
-            <guid>30cd091e0f23dff74c9192f88e56d426</guid>
-            <pubDate>Wed, 21 Apr 2021 06:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【PayPal加密版图扩张：旗下Venmo提供加密货币交易服务】PayPal 周二宣布，旗下移动支付软件 Venmo 开始为 7700 万名用户提供加密货币交易功能。通过添加的新功能，Venmo 将允许用户立即购买比特币（BTC）、以太坊（ETH）、莱特币（LTC）、比特币现金（BCH），最低交易金额仅为 1 美元。]]></title>
-            <link>http://www.odaily.com/post/5167208</link>
-            <guid>95ff301a4594731c90199a645b6a5496</guid>
-            <pubDate>Wed, 21 Apr 2021 06:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
