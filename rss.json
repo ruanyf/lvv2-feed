@@ -6,6 +6,20 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "d17b4a3cd496081e618dcfad0bcd1966",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/3f8d575dda5e5534d8ebded736f9dfa3.html",
+            "title": "男朋友是一个图书编辑，之前给他写分手信，过几天他回复了",
+            "date_modified": "2021-04-22T04:08:11.000Z"
+        },
+        {
+            "id": "fa99bdc54abb39ef74953ce53b510c0d",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/d4df054af232b4363ba8726c8ebfc1e5.html",
+            "title": "【科幻博主举报北二外副教授新书涉嫌抄袭 校方已成立专门工作小组】@科幻光年 表示，芈岚的新书《越界性主体》与国外的一本巴特勒研究专著雷同，正文部分有超过80%的文本属于完全直译。翻译的水准也不高，把“《基地》与《沙丘》”翻译成了“基础与沙丘”。",
+            "date_modified": "2021-04-22T03:08:22.000Z"
+        },
+        {
             "id": "8b600b29824b60d0bc462de5e1c95ca2",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/017d4849050b8f8df04a66dd346fa9f1.html",
@@ -564,20 +578,6 @@
             "url": "http://www.odaily.com/post/5167208",
             "title": "【PayPal加密版图扩张：旗下Venmo提供加密货币交易服务】PayPal 周二宣布，旗下移动支付软件 Venmo 开始为 7700 万名用户提供加密货币交易功能。通过添加的新功能，Venmo 将允许用户立即购买比特币（BTC）、以太坊（ETH）、莱特币（LTC）、比特币现金（BCH），最低交易金额仅为 1 美元。",
             "date_modified": "2021-04-21T06:08:52.000Z"
-        },
-        {
-            "id": "61fd5dcf95ac5a70eb44cf1d73710e93",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/09302440b3eb0b0222d099a0f4f460cd.html",
-            "title": "明前茶、雨前茶？对不起，那都是玄学",
-            "date_modified": "2021-04-21T05:08:32.000Z"
-        },
-        {
-            "id": "cca63a809ee5d7e4ec6702c99cc267df",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/49c5a06fdf37cc6d1e8cbc79a4a8ec92.html",
-            "title": "【陌生人邀请我加入CS:GO游戏，我一接受就被盗号了】在拖了两年之后V社终于修复了Steam的一个严重漏洞，只需一个游戏邀请，黑客就能控制你的电脑并获取隐私。早在两年前，Secret Club成员Florian就已经向V社反馈了这个BUG，但据他讲V社不仅没回应，还阻止他们公开，直到上周Secret Club终于说出口，V社才完成了修复…",
-            "date_modified": "2021-04-21T04:08:11.000Z"
         }
     ]
 }
