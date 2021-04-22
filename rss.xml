@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 22 Apr 2021 17:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 18:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【少儿英语，教育整顿的重点淘汰者】多位少儿英语机构负责人称，获批复课困难重重。消防标准、办学许可、招生范围……多重关卡之下，能最终通关的机构少之又少。从2016年走来的教培人或许很难想象，少儿英语曾是最炙手可热的明星赛道，多少资本多少创业公司涌入这个赛道，但在今天，这个赛道很有可能成为一条羊肠小道。]]></title>
+            <link>https://instant.lvv2.com/html/c64ef21555f89d3c9541ab1ec7915fb0.html</link>
+            <guid>411e9d71443c5192bb4cf550e174b07d</guid>
+            <pubDate>Fri, 23 Apr 2021 02:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【刚刚总统阵亡的乍得，是个怎样的国家？】上台后的代比尽管努力调和各民族、部落的矛盾，维护地区稳定，但也无法彻底解决动荡的局面。围绕资源、利益和权力的纷争从未停止。当前乍得北部和西部仍有原教旨主义势力在兴风作浪，反政府武装也暗潮涌动。而代比，也最终死于反政府武装的攻击之下。]]></title>
             <link>https://instant.lvv2.com/html/8a03a5b1dff2c88c1147b3ccac6840c4.html</link>
@@ -473,12 +479,6 @@
             <link>https://instant.lvv2.com/html/017d4849050b8f8df04a66dd346fa9f1.html</link>
             <guid>8b600b29824b60d0bc462de5e1c95ca2</guid>
             <pubDate>Thu, 22 Apr 2021 02:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丑闻还是没能战胜英国王室]]></title>
-            <link>https://instant.lvv2.com/html/5d412557f3948f97b5b869472ba2b68b.html</link>
-            <guid>97095e1a244b9587fd0c995f5a26e0d1</guid>
-            <pubDate>Thu, 22 Apr 2021 00:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
