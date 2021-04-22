@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 22 Apr 2021 20:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 22:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国际奥委会宣布举办虚拟体育赛事】 国际奥委会宣布将与5家国际体育机构以及游戏发行商联合举办虚拟体育赛事“Olympic Virtual Series”，赛事将于5月13日至6月23日间举行，参赛项目确定包含《GT赛车》（SIE）、《实况力量棒球2020》（Konami）等，后续游戏阵容会在未来公开。 ​​​​]]></title>
+            <link>https://instant.lvv2.com/html/0e5a9752c2d29729b87ffa3ae0e0297a.html</link>
+            <guid>5eb97254488cbe1d1194070915f8d94e</guid>
+            <pubDate>Fri, 23 Apr 2021 06:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对话《节奏医生》团队：好创意与优秀本地化的胜利】开发过程中，制作团队7th Beat Games就将中文视为默认支持的主要语言；indienova本地化团队则进一步确保了中文翻译的完整性。]]></title>
+            <link>https://instant.lvv2.com/html/60564a4e0833b87680afb57f483df10c.html</link>
+            <guid>579a2d09141abb0878e508e5ac929612</guid>
+            <pubDate>Fri, 23 Apr 2021 05:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[凉皮、米皮、面皮...谁是陕西凉皮江湖第一大派？]]></title>
             <link>https://instant.lvv2.com/html/5380436f3a84afc070904ab4e6520f72.html</link>
@@ -474,24 +486,6 @@
             <link>https://instant.lvv2.com/html/ab43c48ede7646e8bc79af5265fe78a0.html</link>
             <guid>1ea01ee52d72efd32c4c624b8e1686e9</guid>
             <pubDate>Thu, 22 Apr 2021 06:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拥抱实体化的工具与材料：我的「模拟式工作流」分享]]></title>
-            <link>https://instant.lvv2.com/html/4cd20bc2d380e7085f65a170f7e180df.html</link>
-            <guid>fb4a8a0994ab78c9dfc78241844f6c1b</guid>
-            <pubDate>Thu, 22 Apr 2021 05:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[男朋友是一个图书编辑，之前给他写分手信，过几天他回复了]]></title>
-            <link>https://instant.lvv2.com/html/3f8d575dda5e5534d8ebded736f9dfa3.html</link>
-            <guid>d17b4a3cd496081e618dcfad0bcd1966</guid>
-            <pubDate>Thu, 22 Apr 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科幻博主举报北二外副教授新书涉嫌抄袭 校方已成立专门工作小组】@科幻光年 表示，芈岚的新书《越界性主体》与国外的一本巴特勒研究专著雷同，正文部分有超过80%的文本属于完全直译。翻译的水准也不高，把“《基地》与《沙丘》”翻译成了“基础与沙丘”。]]></title>
-            <link>https://instant.lvv2.com/html/d4df054af232b4363ba8726c8ebfc1e5.html</link>
-            <guid>fa99bdc54abb39ef74953ce53b510c0d</guid>
-            <pubDate>Thu, 22 Apr 2021 03:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
