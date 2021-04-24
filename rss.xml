@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 24 Apr 2021 17:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 18:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[万物摩尔定律]]></title>
+            <link>https://instant.lvv2.com/html/bf5fa17f411655daffb5d3a20b5a90bf.html</link>
+            <guid>f744e2f99b78175adbdb7fc0257473fd</guid>
+            <pubDate>Sun, 25 Apr 2021 02:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【90岁张忠谋1小时演讲，大陆落后台积电五年，还怼了下英特尔】张忠谋认为，美国生产成本较高，政府短期补贴不能弥补长期的竞争劣势；大陆半导体制造落后台积电5年以上，逻辑半导体设计落后美国、台湾1-2年。在他眼中，韩国三星电子才是台积电在晶圆制造领域的强劲竞争对手，因为其制造优势及人才等条件与台湾状况类似。]]></title>
             <link>http://www.zhidx.com/p/267454.html</link>
@@ -488,13 +494,6 @@
             <link>https://instant.lvv2.com/html/83cc7aa8559b229b23a80697ba9580af.html</link>
             <guid>d3eb4745e93b3306a66edb5d098c3922</guid>
             <pubDate>Fri, 23 Apr 2021 17:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一种廉价且快速的抗体检测可能成为抗击新冠病毒的最新武器。研究人员现在正计划在未来使用这种简单的测试，看看它是否识别对新冠病毒有免疫力的人和需要疫苗加强针的人。
-]]></title>
-            <link>https://instant.lvv2.com/html/7c45713faab8f318b8591593450c9098.html</link>
-            <guid>bb1b6048c08e375d0d43934138782aee</guid>
-            <pubDate>Fri, 23 Apr 2021 16:58:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
