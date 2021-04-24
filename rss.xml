@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 24 Apr 2021 12:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 14:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【上海金山一厂房失火致八人遇难】其中两名消防救援人员系在搜救被困人员过程中牺牲，其他6名遇难者为工人。]]></title>
+            <link>https://instant.lvv2.com/html/3632028a9f23169353dff46c5b3d76a5.html</link>
+            <guid>e9c416528accb49311b36a75a47f6011</guid>
+            <pubDate>Sat, 24 Apr 2021 22:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一部顶级戏剧出圈的得失博弈】4月22日，央华版《如梦之梦》公益场在武汉首演。这场演出因为早早官宣肖战参演，过去一个月已成为热度横跨戏剧圈、粉圈的热门剧目。]]></title>
+            <link>https://instant.lvv2.com/html/b68664dd690702c8c8b91829cb1b3a6f.html</link>
+            <guid>f52514260bd4e0f48610db27908493e1</guid>
+            <pubDate>Sat, 24 Apr 2021 20:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【房地产火爆，美国木材涨至天价】多重因素干扰下，全美木材供应链也出现问题，市场上竟然出现由贮木场向分销商“反向”出售木材的奇景。热门短视频平台上则出现以“木材泡沫”为热词的视频。]]></title>
             <link>http://wallstreetcn.com/articles/3628889</link>
@@ -475,30 +487,6 @@
             <link>https://instant.lvv2.com/html/0c76548de888dca1de8fde471c50358a.html</link>
             <guid>4b0938d1086d68d38c51393c2292797c</guid>
             <pubDate>Fri, 23 Apr 2021 16:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本复兴厅修改了旨在宣传核废水“安全无害”的海报，并于22日在官网公开。新海报删除了表示处理水所含放射性物质氚的卡通形象，改为元素符号“T”，海报中的其他的介绍文字等不变。]]></title>
-            <link>https://instant.lvv2.com/html/af77472caa4d2dc2d9f79bccc5c14cf3.html</link>
-            <guid>9e12983cddc33a5bbfc7293b4ff32da1</guid>
-            <pubDate>Fri, 23 Apr 2021 15:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有十几套房产的杭州独生女要嫁了，父母曾为她相亲】老陈还说，不想招上门女婿，想给男孩子留有自己的空间，“我朋友圈中，招上门女婿的结果都不大好。我们这样做就是让优秀男孩，也有充分的自信。”至于房产的真实性，老陈表示可以展示房产证。]]></title>
-            <link>https://instant.lvv2.com/html/034129de80b5d80790b8be788a0945cd.html</link>
-            <guid>cb63f0d3511f696e1e12705e2b031544</guid>
-            <pubDate>Fri, 23 Apr 2021 15:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【动荡的四月新番：“先审后播”的影响绝不止于“弃B站”和“网盘见”】为加快过审速度，平台可能会将作品送至分公司所在地的相关部门进行审核。比如 B 站， 9 部已上线的四月新番所显示的许可证号都来自广电总局江苏局。]]></title>
-            <link>https://instant.lvv2.com/html/6e67f3999f5dfb98cd8975c5181ef13e.html</link>
-            <guid>ae45966cb3f26ae215f184fc288ca6f8</guid>
-            <pubDate>Fri, 23 Apr 2021 15:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抱歉，我有小号】据报道称，波切蒂诺现在每天都和热刺临时教练梅森通话，指导其备战周末的杯赛决赛...大伙仔细盘一盘，波帅能提前用热刺踢一波曼城，这对巴黎的欧冠比赛而言应该不亏。]]></title>
-            <link>https://instant.lvv2.com/html/9268a89a1075cdcffae02103a297dc2e.html</link>
-            <guid>e3dd495b7ca740d2d0ef9a67dc085125</guid>
-            <pubDate>Fri, 23 Apr 2021 15:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
