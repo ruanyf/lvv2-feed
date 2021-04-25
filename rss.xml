@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 25 Apr 2021 18:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 20:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【奥斯卡：从商业与艺术的博弈到政治与艺术的角力】政治正确未必排斥艺术性或商业性，而是在众多优秀作品中，专门挑选符合特定立场的影片。本届有一部《乡下人的哀歌》聚焦白人穷人的境遇，竟然入围多项金酸梅，其中女配角葛伦·克洛斯同时入围金酸梅和奥斯卡。很难说该片的命运跟它描写的人物的种族完全无关。]]></title>
+            <link>https://instant.lvv2.com/html/ca5196a6ce3cb32e35716f85a89366f2.html</link>
+            <guid>634471771b54f4ef5b9da70876b6478e</guid>
+            <pubDate>Mon, 26 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【本田2040年将实现全部新车电动化】到2024年，本田将在北美推出2款大型纯电动汽车，在中国到2022年推出新款纯电动汽车…… ]]></title>
+            <link>https://instant.lvv2.com/html/a7e5c7f9a2ccb5d7eae938720f78c7df.html</link>
+            <guid>b75e290d78d613da92a019af65e3a049</guid>
+            <pubDate>Mon, 26 Apr 2021 02:52:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#付费精选 【腾讯悄然投资印度社交媒体平台ShareChat】腾讯通过两家欧洲实体以购买可转债方式，向ShareChat投资2.25亿美元，绕开了印度对来自中国的FDI的限制。 ]]></title>
             <link>https://instant.lvv2.com/html/e52e1e9b2db627a0dbc60b459b3335d6.html</link>
@@ -432,12 +444,6 @@
             <link>https://instant.lvv2.com/html/20c7433026f92a5844b31a8959aba54c.html</link>
             <guid>394134799b9a77829605d930b66e9ca3</guid>
             <pubDate>Sat, 24 Apr 2021 17:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江“老虎进村”没出人命纯属幸运…但以后呢？】老虎袭击人和车的视频中，老虎很明显是一个强应激状态。老虎出现攻击行为一般有两种情况：一种是面对猎物所进行的捕食行为，另一种是面对威胁的反击行为。视频中的老虎并不是在捕食——它把人扑倒后随即离去。]]></title>
-            <link>https://instant.lvv2.com/html/3768ac287bcfdc59be211b079662c67d.html</link>
-            <guid>71ab9e43c92f1e679a44bd69aa12258a</guid>
-            <pubDate>Sat, 24 Apr 2021 17:08:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
