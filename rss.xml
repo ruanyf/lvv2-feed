@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 25 Apr 2021 12:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 14:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【小龙坎鲜鸭血未检出鸭成分，黑作坊生产“假鸭血”现场触目惊心】检测报告显示，送检的样品里只有鸡源性成分。通俗的理解就是，所谓的鲜鸭血里只含有鸡血成分。业内人士告诉记者，鸡血一般用作饲料添加，很少用作食材，相比鸭血市场的供不应求，鸡血原料则相对充足。]]></title>
+            <link>https://instant.lvv2.com/html/48166b14f1c268a71cab3c9d1eca6bfe.html</link>
+            <guid>a6865c7e4f801d84e42846214d1b99a7</guid>
+            <pubDate>Sun, 25 Apr 2021 22:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拐卖儿童为夺取肾上腺素？《疑犯追踪》主演替阴谋论站台】在好莱坞摸爬滚打几十载，卡维泽一直都算得上是美国影视圈中的异类。因为家庭环境的影响，他自小便笃信天主教，虽然成年后选择了演员这一行当，却始终坚持践行自己的信仰。]]></title>
+            <link>https://instant.lvv2.com/html/dc1b8d2e41e03f72870c1c8c1c4d2caf.html</link>
+            <guid>e0af89d5afc67b3008303cda6be02d12</guid>
+            <pubDate>Sun, 25 Apr 2021 21:24:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【退婚和彩礼纠纷中自杀的17岁女孩】按照当地的规矩，结婚之后，主动悔婚一方不仅要退还彩礼，还要赔偿另一方彩礼之外的经济损失，包括办婚礼的钱。即使结婚生子之后悔婚，也要承担这样的赔偿。当地村民称，这也是为什么小泽的“老公”当初支付了15万彩礼，现在娘家仍然要退还21万。“另外6万是赔偿别人的损失。”]]></title>
             <link>http://www.thepaper.cn/newsDetail_forward_12371308</link>
@@ -420,30 +432,6 @@
             <link>https://instant.lvv2.com/html/731823cba478b74c63d64910fb11012e.html</link>
             <guid>4c5967e0cadb09fff4e21a4ebbc0185b</guid>
             <pubDate>Sat, 24 Apr 2021 13:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6B4T：从韩国到中国，这些女孩选择过一种更彻底的独身生活】所谓“6B4T”，是近年来在中国互联网上新兴的一种女权主张。“6B”是指不结婚、不生育、不恋爱、不（与男性）发生性行为、不购买厌女产品和单女互助（单身女性互助），“4T”是指脱束身衣、脱宗教、脱御宅文化、脱偶像。]]></title>
-            <link>https://instant.lvv2.com/html/68df30c19fd3253f04268236a5e33fc1.html</link>
-            <guid>2af1103a0308be1686bbeeae52e41f80</guid>
-            <pubDate>Sat, 24 Apr 2021 13:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【时隔两周，美国批准强生疫苗重新上市】CDC专家组表示接种疫苗的风险虽然严重但较小，整体利大于弊；接种者未来将被警告疫苗引发潜在致命并发症状的风险。]]></title>
-            <link>http://wallstreetcn.com/articles/3628886</link>
-            <guid>3fca673cb2eaae561dc9b299bf6b1116</guid>
-            <pubDate>Sat, 24 Apr 2021 12:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古代两军交战肉搏阶段，士兵们到底怎么打】在国内的古装片里，战争场面往往都是两拨人冲上去然后开始捉对厮杀，多给赢得一边几个杀敌镜头，让就算数学不太好的观众也能看出来另外一边好像死的更多。然而在现实的兵击活动中，双方往往先行试探，谁也不肯全力出手，偷手偷腿这类动作小隐蔽性强的招式才是开局最常见的。]]></title>
-            <link>https://instant.lvv2.com/html/ef67599106f6a48d1914aa0fcf1ace60.html</link>
-            <guid>ef01b95f90a446db121355788f63b497</guid>
-            <pubDate>Sat, 24 Apr 2021 12:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[共享单车第一股：哈啰出行递交招股书，三年亏损48亿]]></title>
-            <link>http://wallstreetcn.com/articles/3628885</link>
-            <guid>0582db8ff04561faaa94ab2e39bf07e5</guid>
-            <pubDate>Sat, 24 Apr 2021 11:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
