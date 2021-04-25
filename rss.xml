@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 25 Apr 2021 17:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 18:50:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#付费精选 【腾讯悄然投资印度社交媒体平台ShareChat】腾讯通过两家欧洲实体以购买可转债方式，向ShareChat投资2.25亿美元，绕开了印度对来自中国的FDI的限制。 ]]></title>
+            <link>https://instant.lvv2.com/html/e52e1e9b2db627a0dbc60b459b3335d6.html</link>
+            <guid>0f201047ba10b5bbe5d69a7f4dca85be</guid>
+            <pubDate>Mon, 26 Apr 2021 02:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Z世代的独身主义：为了自己，选择禁欲】性不再被年轻人视为值得夸耀的事后，独身主义的流行也就自然而然：“我认为性有点像酒-——曾经有一种过度的魅力，但当我们重新崇尚起简朴、节俭的生活方式时，Z 世代对性的态度也被归入这种心态。”]]></title>
+            <link>https://instant.lvv2.com/html/a3a6c7820710be6abb7fcef68eb889a7.html</link>
+            <guid>ff5de640d41fb690286e800d67a3f217</guid>
+            <pubDate>Mon, 26 Apr 2021 02:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【亚美尼亚为何对土耳其恨之入骨？】4月24日是亚美尼亚大屠杀106周年纪念日，美国总统拜登将一战期间奥斯曼帝国对亚美尼亚人的屠杀定义为“种族灭绝”。这一宣布兑现了拜登一年前在竞选期间许下的承诺，但引起土耳其政府不满。]]></title>
             <link>https://instant.lvv2.com/html/d4cb6a9fc81f2a55b41979b9d7217987.html</link>
@@ -426,18 +438,6 @@
             <link>https://instant.lvv2.com/html/3768ac287bcfdc59be211b079662c67d.html</link>
             <guid>71ab9e43c92f1e679a44bd69aa12258a</guid>
             <pubDate>Sat, 24 Apr 2021 17:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长城汽车两基地或面临停产】受芯片供应短缺影响，长城汽车遭遇产能瓶颈，5、6月份重庆永川、保定徐水两大生产基地将面临停产，波及包括哈弗H6、长城炮、坦克300在内多款热门车型。]]></title>
-            <link>http://www.cls.cn/detail/734123</link>
-            <guid>a6204779d51afcb8740ae8e807dd1f15</guid>
-            <pubDate>Sat, 24 Apr 2021 16:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《创造营》决赛将至，粉丝们决定放利路修一马】4月23日，总决赛前一天的选手实时排名中，失去后援会投票的利路修已经下降到第18位，出道无望。正如网友所说，今天的决赛夜，11人出道，12人开心。]]></title>
-            <link>https://instant.lvv2.com/html/98ad549a59b7485759b401d8e7f6a715.html</link>
-            <guid>fcae88b31a8a0e2f7bca23e3830b5440</guid>
-            <pubDate>Sat, 24 Apr 2021 15:24:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
