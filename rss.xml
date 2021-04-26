@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 26 Apr 2021 17:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 18:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[《无耻之徒》，感谢十年陪伴]]></title>
+            <link>https://instant.lvv2.com/html/e27cc1f1b2433b265ce9d9e7e98a5009.html</link>
+            <guid>f37ec9e51766bb1d40fff56fc666241b</guid>
+            <pubDate>Tue, 27 Apr 2021 02:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[香港与新加坡政府公布，双边商定的“航空旅行气泡”将于5月26日启航。两地旅客均需要提供飞往目的地前72小时内的新冠病毒检测阴性结果。
 ]]></title>
@@ -467,12 +473,6 @@
             <link>https://instant.lvv2.com/html/b4bb448f375a94f3238ce69e0a70a3c6.html</link>
             <guid>c49aeaea17733010e499e706c6e7870c</guid>
             <pubDate>Mon, 26 Apr 2021 08:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[没品+4chan笑话集：我成功让我的父母住进了同一家敬老院，这是对他们在我6岁时就离了婚的小小报复。]]></title>
-            <link>https://instant.lvv2.com/html/7148808050f58d5261c813a120d2d5a2.html</link>
-            <guid>d9c6ab3eae59a4f892e7cd93fa8c3784</guid>
-            <pubDate>Mon, 26 Apr 2021 08:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
