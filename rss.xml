@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 26 Apr 2021 18:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 20:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[如何看待上海地铁2号线有人进入线路死亡，多人抱怨“死了还要耽误大家”？]]></title>
+            <link>https://instant.lvv2.com/html/1f919c9101e38709dade454736f41e02.html</link>
+            <guid>717d21cab2f89482096acf8d91c6641c</guid>
+            <pubDate>Tue, 27 Apr 2021 04:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本新一轮防疫措施堪比宵禁】日本的防疫限制措施可以简单地总结为“死磕喝酒聚餐”。本轮紧急事态宣言不仅剑指餐厅和夜店，最核心的是禁止饮酒。东京都将要求商家在晚上8点以后关掉广告灯箱、灯光装饰等，届时街边将只留街灯。]]></title>
+            <link>https://instant.lvv2.com/html/f4230a2de16443ad715d38b71b53f5cd.html</link>
+            <guid>ac0bb8ba3a6afb8c1578cc5dc2dead21</guid>
+            <pubDate>Tue, 27 Apr 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[《无耻之徒》，感谢十年陪伴]]></title>
             <link>https://instant.lvv2.com/html/e27cc1f1b2433b265ce9d9e7e98a5009.html</link>
@@ -461,18 +473,6 @@
             <link>https://instant.lvv2.com/html/a29ba7aa0fd45e1ee3afc232c53e466b.html</link>
             <guid>1ec8cd0b6cd37bb95d53501d034711b9</guid>
             <pubDate>Mon, 26 Apr 2021 09:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect Grandma]]></title>
-            <link>http://www.metacafe.com/watch/12199371/protect-grandma3/</link>
-            <guid>3bbdea777a5e2a676ca447930fdaf34c</guid>
-            <pubDate>Mon, 26 Apr 2021 09:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首播好评如潮，这档罗永浩担任音乐评审的节目有什么亮点吗？】从节目的形式上来看，《谁是宝藏歌手》似乎是《我是歌手》+《蒙面歌王》的翻版。但它的形式似乎更趋向极简，呈现的东西只有一件，非常简单易懂：‘歌红人不红’、‘不淘汰不晋级’。]]></title>
-            <link>https://instant.lvv2.com/html/b4bb448f375a94f3238ce69e0a70a3c6.html</link>
-            <guid>c49aeaea17733010e499e706c6e7870c</guid>
-            <pubDate>Mon, 26 Apr 2021 08:32:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
