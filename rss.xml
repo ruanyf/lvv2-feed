@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 26 Apr 2021 20:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 22:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[@许研敏：“鸡蛋返生”校长那个学校，就是个小型培训班。其登记业务是各种资格证培训，而实际上主打的是对小孩的“全脑开发”，比如教你家孩子蒙眼穿针、蒙眼写字、过目不忘之类的技能，据报道这个郭校长还能教人土遁、意念断物等绝技。这家学校也不是开在什么穷乡僻壤，竟然也能屹立六七年之久。令人感慨。]]></title>
+            <link>https://instant.lvv2.com/html/0d7944776e0fab1d2c9df9be0ff89a46.html</link>
+            <guid>8a78317772772db2d1a9b9991bbbb21f</guid>
+            <pubDate>Tue, 27 Apr 2021 06:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为宣布自己生了儿子，美国父母引爆36公斤炸药】所谓的性别揭晓派对，本来只是召集亲朋好友，一起来揭晓宝宝的性别，顺便庆祝新生儿诞生。但随着这个活动越来越流行，也有越来越多的父母，或是出于一片好意，或是出于攀比心理，都希望能给自己的孩子办一个最温馨，最新奇的派对…]]></title>
+            <link>https://instant.lvv2.com/html/690448e632c8207964ffa7c6b40965f1.html</link>
+            <guid>24c0b5ca8b004129f970730889333595</guid>
+            <pubDate>Tue, 27 Apr 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[如何看待上海地铁2号线有人进入线路死亡，多人抱怨“死了还要耽误大家”？]]></title>
             <link>https://instant.lvv2.com/html/1f919c9101e38709dade454736f41e02.html</link>
@@ -455,24 +467,6 @@
             <link>https://instant.lvv2.com/html/07bc8ec3dada5f71be946a83e37e9c13.html</link>
             <guid>cb41bec85c46631126fd0d0c6067a471</guid>
             <pubDate>Mon, 26 Apr 2021 09:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保护奶奶 亚裔不吃闫丽梦们这一套]]></title>
-            <link>http://www.youtube.com/watchv=IiTP064jXrI</link>
-            <guid>e5ea107846fb0f18d11c32ec06210b32</guid>
-            <pubDate>Mon, 26 Apr 2021 09:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect Grandma]]></title>
-            <link>http://www.youtube.com/watchv=Y8IRd3fNMv4</link>
-            <guid>012db85bbdf6014fe06fe1668c15f6b5</guid>
-            <pubDate>Mon, 26 Apr 2021 09:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【404文库】二大爷｜付国豪的算计 ]]></title>
-            <link>https://instant.lvv2.com/html/a29ba7aa0fd45e1ee3afc232c53e466b.html</link>
-            <guid>1ec8cd0b6cd37bb95d53501d034711b9</guid>
-            <pubDate>Mon, 26 Apr 2021 09:02:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
