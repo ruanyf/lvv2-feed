@@ -4,11 +4,37 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 26 Apr 2021 12:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 14:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苹果公司未来5年将在美国投资4300亿美元】在过去的三年里，苹果在美国的投资大大超过了该公司在2018年设定的最初五年目标，即3500亿美元。苹果现在正在将未来五年承诺的投资水平提高20%，以支持美国的创新，并推动每个州的经济增长。其中包括数百亿美元资金用于美国九个州的下一代硅开发和5G创新。]]></title>
+            <link>http://tech.qq.com/a/20210426/009474.htm</link>
+            <guid>67edc92128ba6c319c35e4e1e88ce777</guid>
+            <pubDate>Mon, 26 Apr 2021 22:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[长三角“大飞机制造”图谱：苏州聚焦航空零部件，杭州主攻机体结构件]]></title>
+            <link>https://instant.lvv2.com/html/1df43bedb5c87c8c6111b223694eb6d5.html</link>
+            <guid>94db3411e89326c18dca0ee07d614f37</guid>
+            <pubDate>Mon, 26 Apr 2021 21:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯片短缺蔓延至洗衣机与烤面包机，低端芯片产能遭抢占】因为家电中的芯片较为简单、利润较低。在芯片产能短缺的当下，芯片制造商优先将产能分配给高利润产品，家电芯片则排在了最后。]]></title>
+            <link>https://instant.lvv2.com/html/16fae858046e40a186cdddbcc4d6cea9.html</link>
+            <guid>18ef278ff4d47edb6a04a9e9608b7fe7</guid>
+            <pubDate>Mon, 26 Apr 2021 21:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国抵制澳洲部分商品，有没有达到预前的效果？BBC中文分析了两国过去一年的贸易数字。
+
+详细报道： ]]></title>
+            <link>https://instant.lvv2.com/html/46c0b7eb1c8853dab6bb950d2e22ce71.html</link>
+            <guid>b10288e51d3e967c3b868606c865f966</guid>
+            <pubDate>Mon, 26 Apr 2021 21:12:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[六部门发文加强住房租赁企业监管 单次收租金不得超3个月]]></title>
             <link>https://instant.lvv2.com/html/ee753c837a3e2c1ebfd414303791ce1b.html</link>
@@ -452,42 +478,6 @@
             <link>https://instant.lvv2.com/html/d81d352de13a8f94ffee430ccc7cd8ad.html</link>
             <guid>c771050f1a6c0b2e97303550db35535e</guid>
             <pubDate>Mon, 26 Apr 2021 06:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为清华庆生，北大学生可以做的110件事]]></title>
-            <link>https://instant.lvv2.com/html/1f6d298d332339f65e2e98d1039323f5.html</link>
-            <guid>adbe4d4617ff6fea5989b7f8d4082d65</guid>
-            <pubDate>Mon, 26 Apr 2021 05:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥斯卡：从商业与艺术的博弈到政治与艺术的角力】政治正确未必排斥艺术性或商业性，而是在众多优秀作品中，专门挑选符合特定立场的影片。本届有一部《乡下人的哀歌》聚焦白人穷人的境遇，竟然入围多项金酸梅，其中女配角葛伦·克洛斯同时入围金酸梅和奥斯卡。很难说该片的命运跟它描写的人物的种族完全无关。]]></title>
-            <link>https://instant.lvv2.com/html/ca5196a6ce3cb32e35716f85a89366f2.html</link>
-            <guid>634471771b54f4ef5b9da70876b6478e</guid>
-            <pubDate>Mon, 26 Apr 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本田2040年将实现全部新车电动化】到2024年，本田将在北美推出2款大型纯电动汽车，在中国到2022年推出新款纯电动汽车…… ]]></title>
-            <link>https://instant.lvv2.com/html/a7e5c7f9a2ccb5d7eae938720f78c7df.html</link>
-            <guid>b75e290d78d613da92a019af65e3a049</guid>
-            <pubDate>Mon, 26 Apr 2021 02:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#付费精选 【腾讯悄然投资印度社交媒体平台ShareChat】腾讯通过两家欧洲实体以购买可转债方式，向ShareChat投资2.25亿美元，绕开了印度对来自中国的FDI的限制。 ]]></title>
-            <link>https://instant.lvv2.com/html/e52e1e9b2db627a0dbc60b459b3335d6.html</link>
-            <guid>0f201047ba10b5bbe5d69a7f4dca85be</guid>
-            <pubDate>Mon, 26 Apr 2021 02:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Z世代的独身主义：为了自己，选择禁欲】性不再被年轻人视为值得夸耀的事后，独身主义的流行也就自然而然：“我认为性有点像酒-——曾经有一种过度的魅力，但当我们重新崇尚起简朴、节俭的生活方式时，Z 世代对性的态度也被归入这种心态。”]]></title>
-            <link>https://instant.lvv2.com/html/a3a6c7820710be6abb7fcef68eb889a7.html</link>
-            <guid>ff5de640d41fb690286e800d67a3f217</guid>
-            <pubDate>Mon, 26 Apr 2021 02:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚美尼亚为何对土耳其恨之入骨？】4月24日是亚美尼亚大屠杀106周年纪念日，美国总统拜登将一战期间奥斯曼帝国对亚美尼亚人的屠杀定义为“种族灭绝”。这一宣布兑现了拜登一年前在竞选期间许下的承诺，但引起土耳其政府不满。]]></title>
-            <link>https://instant.lvv2.com/html/d4cb6a9fc81f2a55b41979b9d7217987.html</link>
-            <guid>40463c26b5f35180c12d4678501425bc</guid>
-            <pubDate>Mon, 26 Apr 2021 01:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
