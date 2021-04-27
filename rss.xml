@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 27 Apr 2021 20:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 22:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据知情人士透露，苹果设计的下一代Mac处理器本月开始量产。这款新芯片（暂定名为M2）最早可能于7月开始发货，并用于定于今年下半年上市的MacBook上。M2将由台积电负责生产，采用了最新的半导体生产技术，即N5P。]]></title>
+            <link>https://instant.lvv2.com/html/939f2e250b83782e91c9df6834439e8a.html</link>
+            <guid>fe418af370c7b884298741e98a901340</guid>
+            <pubDate>Wed, 28 Apr 2021 06:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【「怪物猎人」4月特别节目汇总：追加怪物与猎人等级来了】官方宣布《怪物猎人 崛起》将在 4 月 28 日提供免费更新 Ver.2.0，除了此前已经公开的霞龙外，本次更新还将加入炎火龙、钢龙以及霸主 · 角龙、霸主 · 火龙等新怪物。]]></title>
+            <link>https://instant.lvv2.com/html/1d06c0bb43e27f83f000a480710ed41c.html</link>
+            <guid>5507564f474e28f5d771f5181cee433a</guid>
+            <pubDate>Wed, 28 Apr 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【员工因客流未达标被扣工资，成都地铁回应了】成都地铁一线员工已经多年未涨工资，并且最近两年还有所下降，培训考核也非常多，员工压力较大。此次因客运量未达标被扣钱，绝大多数人都非常不满。]]></title>
+            <link>https://instant.lvv2.com/html/d626cec3cd7b87ecfb8c2e84d6a019c0.html</link>
+            <guid>5bddcea809d5c6eaff0dd760191256cd</guid>
+            <pubDate>Wed, 28 Apr 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[经历近5年改造后，俄海军“沙波什尼科夫元帅”号完成了升级后的工厂测试程序，加装了“口径”和“天王星”巡航导弹系统，由原来的大型反潜舰变为功能更全面的护卫舰，正式加入俄罗斯海军太平洋舰队的常规战备编组。]]></title>
             <link>https://instant.lvv2.com/html/28ee7c743174b66445893991cf2cd5fa.html</link>
@@ -498,18 +516,6 @@
             <link>https://instant.lvv2.com/html/48626b5352928f5eb5a98964c002509b.html</link>
             <guid>fb9cff082830a91706d7ed8ef80fda83</guid>
             <pubDate>Tue, 27 Apr 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【要求刚需购房者需35岁以下，高房价会吞噬合肥的“风投”红利吗？】25日晚，合肥市住房保障和房产管理局回应称，该政策本意是减轻年轻人购房压力，考虑该群体参加工作时间不长、积蓄有限，参加首批刚需摇号，可按最低首付比例购房。针对网民所提意见，将认真研究，必要时完善相关政策。]]></title>
-            <link>https://instant.lvv2.com/html/ab5fb3312c36adf7df82ea10772eef7b.html</link>
-            <guid>3980e2b99c3e53cf7528d2071ea277f5</guid>
-            <pubDate>Tue, 27 Apr 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@许研敏：“鸡蛋返生”校长那个学校，就是个小型培训班。其登记业务是各种资格证培训，而实际上主打的是对小孩的“全脑开发”，比如教你家孩子蒙眼穿针、蒙眼写字、过目不忘之类的技能，据报道这个郭校长还能教人土遁、意念断物等绝技。这家学校也不是开在什么穷乡僻壤，竟然也能屹立六七年之久。令人感慨。]]></title>
-            <link>https://instant.lvv2.com/html/0d7944776e0fab1d2c9df9be0ff89a46.html</link>
-            <guid>8a78317772772db2d1a9b9991bbbb21f</guid>
-            <pubDate>Tue, 27 Apr 2021 06:32:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
