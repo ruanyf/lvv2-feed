@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 27 Apr 2021 18:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 20:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[经历近5年改造后，俄海军“沙波什尼科夫元帅”号完成了升级后的工厂测试程序，加装了“口径”和“天王星”巡航导弹系统，由原来的大型反潜舰变为功能更全面的护卫舰，正式加入俄罗斯海军太平洋舰队的常规战备编组。]]></title>
+            <link>https://instant.lvv2.com/html/28ee7c743174b66445893991cf2cd5fa.html</link>
+            <guid>cb2cf64194ff3a358a12ecb448533fb2</guid>
+            <pubDate>Wed, 28 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[火爆全网的凯迪拉克车模丨宋楠]]></title>
+            <link>https://instant.lvv2.com/html/9b2e9eae64725f803a22cec90f60c8e5.html</link>
+            <guid>d33b8d545b4fcaf497ec8dc0b21b790b</guid>
+            <pubDate>Wed, 28 Apr 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【在外国“翻车”的疫苗，国内还有戏吗？】在我国生物制药行业，腺病毒疫苗对生产工艺的要求比较高，算是一个新领域。此前能量产腺病毒疫苗的厂商，国内目前几乎没有。虽然康希诺的腺病毒疫苗已获批准，但施打的人却很少，就是在产能上遇到了问题。]]></title>
             <link>https://instant.lvv2.com/html/8f9b041ccc2121549495c2af6c7798dc.html</link>
@@ -498,18 +510,6 @@
             <link>https://instant.lvv2.com/html/0d7944776e0fab1d2c9df9be0ff89a46.html</link>
             <guid>8a78317772772db2d1a9b9991bbbb21f</guid>
             <pubDate>Tue, 27 Apr 2021 06:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为宣布自己生了儿子，美国父母引爆36公斤炸药】所谓的性别揭晓派对，本来只是召集亲朋好友，一起来揭晓宝宝的性别，顺便庆祝新生儿诞生。但随着这个活动越来越流行，也有越来越多的父母，或是出于一片好意，或是出于攀比心理，都希望能给自己的孩子办一个最温馨，最新奇的派对…]]></title>
-            <link>https://instant.lvv2.com/html/690448e632c8207964ffa7c6b40965f1.html</link>
-            <guid>24c0b5ca8b004129f970730889333595</guid>
-            <pubDate>Tue, 27 Apr 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[如何看待上海地铁2号线有人进入线路死亡，多人抱怨“死了还要耽误大家”？]]></title>
-            <link>https://instant.lvv2.com/html/1f919c9101e38709dade454736f41e02.html</link>
-            <guid>717d21cab2f89482096acf8d91c6641c</guid>
-            <pubDate>Tue, 27 Apr 2021 04:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
