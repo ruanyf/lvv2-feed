@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 28 Apr 2021 18:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 20:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【靠什么冲击100亿美金市值？小红书没有好答案】站在风口上的“种草社区”小红书，一方面以“社区中大量真实的消费体验和消费过程”作为核心竞争力，一方面却极其依赖于广告收入谋求商业变现。正在试图管控社区内容的生态的小红书陷入了经营与治理“悖论”之中。而如何在两者之间取得平衡，它似乎还没有给出更好的答案。]]></title>
+            <link>https://instant.lvv2.com/html/7fc3693181183af26ee829cc558fa673.html</link>
+            <guid>088dc802ab5cd1ab558d8cb43a3c3810</guid>
+            <pubDate>Thu, 29 Apr 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【史上制作时间最长的动画电影，未完成却已改变了世界】《小偷与鞋匠》，从 1964 年制作到 1995 年，共花费 31 年时间，期间跳票无数次。尽管这部动画电影的名字对于大多数人来说可能闻所未闻，但它深刻的影响了欧美动画业界的格局，将被永远刻在动画史上被动画创作者、研究者铭记。]]></title>
+            <link>https://instant.lvv2.com/html/607da7a7ae64934653555e281fbb9dfb.html</link>
+            <guid>e14d854abb74e026362653f421d634aa</guid>
+            <pubDate>Thu, 29 Apr 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【有关全球变暖的大惊小怪被严重夸大了】弗里曼·戴森在《一面多彩的镜子》中表示，由于植物可以吸收大气中二氧化碳，因此调节碳增长更多是一个土地管理问题、而不是一个气象学问题。“没有哪种大气和海洋的电脑模型有希望预测我们管理土地的方式。”]]></title>
             <link>https://instant.lvv2.com/html/c8bbfa7e4c4d1393bca117f341c75c34.html</link>
@@ -445,18 +457,6 @@
             <link>https://instant.lvv2.com/html/1d06c0bb43e27f83f000a480710ed41c.html</link>
             <guid>5507564f474e28f5d771f5181cee433a</guid>
             <pubDate>Wed, 28 Apr 2021 06:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【员工因客流未达标被扣工资，成都地铁回应了】成都地铁一线员工已经多年未涨工资，并且最近两年还有所下降，培训考核也非常多，员工压力较大。此次因客运量未达标被扣钱，绝大多数人都非常不满。]]></title>
-            <link>https://instant.lvv2.com/html/d626cec3cd7b87ecfb8c2e84d6a019c0.html</link>
-            <guid>5bddcea809d5c6eaff0dd760191256cd</guid>
-            <pubDate>Wed, 28 Apr 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[经历近5年改造后，俄海军“沙波什尼科夫元帅”号完成了升级后的工厂测试程序，加装了“口径”和“天王星”巡航导弹系统，由原来的大型反潜舰变为功能更全面的护卫舰，正式加入俄罗斯海军太平洋舰队的常规战备编组。]]></title>
-            <link>https://instant.lvv2.com/html/28ee7c743174b66445893991cf2cd5fa.html</link>
-            <guid>cb2cf64194ff3a358a12ecb448533fb2</guid>
-            <pubDate>Wed, 28 Apr 2021 04:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
