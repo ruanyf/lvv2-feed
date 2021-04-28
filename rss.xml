@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 28 Apr 2021 17:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 18:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【有关全球变暖的大惊小怪被严重夸大了】弗里曼·戴森在《一面多彩的镜子》中表示，由于植物可以吸收大气中二氧化碳，因此调节碳增长更多是一个土地管理问题、而不是一个气象学问题。“没有哪种大气和海洋的电脑模型有希望预测我们管理土地的方式。”]]></title>
+            <link>https://instant.lvv2.com/html/c8bbfa7e4c4d1393bca117f341c75c34.html</link>
+            <guid>c9391b7fbf4bfd9df1205b822d66aa68</guid>
+            <pubDate>Thu, 29 Apr 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国女足的浮沉】「铿锵玫瑰」是怎样从世界亚军滑落到只能艰难出线的。]]></title>
             <link>https://instant.lvv2.com/html/419a91b01a6d12a5f355f21b97cff2f1.html</link>
@@ -451,12 +457,6 @@
             <link>https://instant.lvv2.com/html/28ee7c743174b66445893991cf2cd5fa.html</link>
             <guid>cb2cf64194ff3a358a12ecb448533fb2</guid>
             <pubDate>Wed, 28 Apr 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[火爆全网的凯迪拉克车模丨宋楠]]></title>
-            <link>https://instant.lvv2.com/html/9b2e9eae64725f803a22cec90f60c8e5.html</link>
-            <guid>d33b8d545b4fcaf497ec8dc0b21b790b</guid>
-            <pubDate>Wed, 28 Apr 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
