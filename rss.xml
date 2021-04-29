@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 29 Apr 2021 18:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 20:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【华为只能靠造车逆袭了吗？】在小米宣布造车之际，余承东向身边人表达了羡慕之意，可“老板（任正非）不同意我们造车啊”。]]></title>
+            <link>http://new.qq.com/omn/20210429/20210429A01M7P00.html</link>
+            <guid>8704fee837eafdb95a29ceee442b9f16</guid>
+            <pubDate>Fri, 30 Apr 2021 03:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【用过 30 多款游戏鼠标后，我想聊聊如何筛选到趁手利器】鼠标是比键盘更加个人化的产品，在查询与选择的过程中，请尽可能上手实物，或者寻找与自己使用条件近似的评测者内容作为参考。]]></title>
             <link>https://instant.lvv2.com/html/31aee481d6bfa9e128cef60575c9ee5c.html</link>
@@ -464,19 +470,6 @@
             <link>https://instant.lvv2.com/html/d06851e4b2bd00f086d1148576bbc48b.html</link>
             <guid>a55eabb6f0f494c469fe26516c8eb433</guid>
             <pubDate>Thu, 29 Apr 2021 06:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[管控屏幕时间，呵护身心健康，看科技公司的小创新能不能帮助我们。
-]]></title>
-            <link>https://instant.lvv2.com/html/69665e01c4789fe566c2a3104fe9d259.html</link>
-            <guid>d63dc6230b341d33418581e1899200f8</guid>
-            <pubDate>Thu, 29 Apr 2021 05:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆木叶村，每天被忍者迷骚扰500次】好事的野忍者们从全国各地致来贺电，先是认可木叶村的重建工作，趁着接听者愣神的功夫，小声询问漩涡鸣人的下落。电话接得多了，人也变得机警，凡是自称是“晓”那边的人，一律挂断。]]></title>
-            <link>https://instant.lvv2.com/html/8dcfbaeb542aed6170806111e67ed211.html</link>
-            <guid>58bdc96d81128b290083c259ea693d26</guid>
-            <pubDate>Thu, 29 Apr 2021 05:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
