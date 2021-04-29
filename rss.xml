@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 29 Apr 2021 20:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 22:40:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一百零八个“罗汉娃”】汶川大地震时，什邡市妇幼保健院的孕产妇急需转移避难，罗汉寺的20余名僧人将清规戒律暂抛脑后，接纳她们在寺院生产，坐月子，乃至烹食荤腥。同年8月8日，恰好有108名“地震宝宝”在寺内平安降生，当地人称他们为“罗汉娃”。根据该真实事件改编的电影《一百零八》将于今年5月在影院上映。]]></title>
+            <link>https://instant.lvv2.com/html/7a3682a100ea868dd84d976422d142c8.html</link>
+            <guid>cfb406ea8eb83592fcf477881a62df8a</guid>
+            <pubDate>Fri, 30 Apr 2021 06:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阜新公安“软控制”嫌犯索要1亿保证金】据张某陈述，他被阜新市公安局海州公安分局立为网上逃犯后，警方劝他投案自首，说只要给阜新市公安局拿1亿元保证金，就可以给他办理取保候审。近日，法院披露了有关案件的刑事裁定书。阜新市公安局违规办案的过程，也随之浮出水面。]]></title>
+            <link>https://instant.lvv2.com/html/4eb7e6063d909b7d81c77c829159c85c.html</link>
+            <guid>ca2fb884dd4b0314bde9a20a20e7a168</guid>
+            <pubDate>Fri, 30 Apr 2021 05:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【华为只能靠造车逆袭了吗？】在小米宣布造车之际，余承东向身边人表达了羡慕之意，可“老板（任正非）不同意我们造车啊”。]]></title>
             <link>http://new.qq.com/omn/20210429/20210429A01M7P00.html</link>
@@ -462,14 +474,6 @@
             <link>https://instant.lvv2.com/html/bce8ba7e24c5ac24eb5843746d06e78a.html</link>
             <guid>eee5af87ef727b3337e61f102094df09</guid>
             <pubDate>Thu, 29 Apr 2021 06:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boredpanda收集了一些人死前拍摄的最后一张照片，带走他们的有疾病、车祸、凶杀…世事无常，人生变幻莫测，请务必珍惜当下，珍惜身边的人。 
-
- ]]></title>
-            <link>https://instant.lvv2.com/html/d06851e4b2bd00f086d1148576bbc48b.html</link>
-            <guid>a55eabb6f0f494c469fe26516c8eb433</guid>
-            <pubDate>Thu, 29 Apr 2021 06:18:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
