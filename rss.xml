@@ -4,11 +4,36 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 30 Apr 2021 12:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 14:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我小时候特别想做的一个工作，就是到茶叶店当售货员】茶叶店是我小时候觉得最美好的一个地方，为什么呢？第一点它有一股香味，第二点茶叶店非常干净，第三点买茶的人都没有那么急，卖茶的人也没有那么急。]]></title>
+            <link>https://instant.lvv2.com/html/919b692f068d0fe989f2d99a1c507d5f.html</link>
+            <guid>ef70ff1cb30b6ec2f4e9a7c34c152432</guid>
+            <pubDate>Fri, 30 Apr 2021 22:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我们一直认为78岁的拜登将成为一名过渡性总统，他将在任期内为政治降温，并试图弥合一个分裂的国家，但我们是否都看错了他？他是否有可能根本不是一名仅满足于小修小补的总统，而是变革性的？
+]]></title>
+            <link>https://instant.lvv2.com/html/81f2d218e254f2d45b8af4c4aede73b9.html</link>
+            <guid>f32d4b0332655b17439472aabd6af68d</guid>
+            <pubDate>Fri, 30 Apr 2021 21:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度疫情之下探访义乌：印度餐馆亏损百万元，物流公司制氧机订单暴涨】“客户下的订单几乎都是制氧机和血氧仪，我们只能尽量给他们排上舱位，因为现在航空公司都没有位置，除非包机。现在大量的制氧机堆在机场，单个制氧机的价格已经从几百涨到了上千。”]]></title>
+            <link>https://instant.lvv2.com/html/5bb6bd8f2573b5c54feec11afd520c30.html</link>
+            <guid>cc69a8418fd7579010c873f0b1864c81</guid>
+            <pubDate>Fri, 30 Apr 2021 21:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最高733亿现金战略投资！中国平安等参与北大方正集团重整】北大方正集团确定由珠海华发集团有限公司（代表珠海国资）、中国平安、深圳市特发集团有限公司组成的联合体作为方正集团重整投资者。]]></title>
+            <link>https://instant.lvv2.com/html/55558b2c7b5b32fc832f2cda7fb4514d.html</link>
+            <guid>b7750b152b08b4e13b688596ca8677be</guid>
+            <pubDate>Fri, 30 Apr 2021 21:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[除了疫情告急外，近期巴西高官炮轰中国疫苗不如欧美疫苗有效，并称“中国发明新冠病毒”，引发中方不满。这为两国原本的紧密联系蒙上阴影。
 ]]></title>
@@ -456,25 +481,6 @@
             <link>https://instant.lvv2.com/html/429e61193820a775aff8c9a798a86682.html</link>
             <guid>ec1a8240c0e3639473d0b7d368a0b862</guid>
             <pubDate>Thu, 29 Apr 2021 22:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉克斯坦与吉尔吉斯坦发生边境冲突，已造成至少17人伤亡。]]></title>
-            <link>https://instant.lvv2.com/html/d985d9ec94da92a6859713d40f464589.html</link>
-            <guid>4c0cf052813abb48cca98ec22b41554e</guid>
-            <pubDate>Thu, 29 Apr 2021 22:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#观点 对于中国的金融科技公司来说，蚂蚁金服的强制重组将成为一个模板。腾讯等竞争对手已被告知：要透明、遵守规定、保护消费者数据——否则将会出问题。
-虽然政府容忍私营企业并鼓励创新，但企业家在公开挑战政府之前应该三思。]]></title>
-            <link>https://instant.lvv2.com/html/9c9cb2e8b39eefc8e5c1146f387c129b.html</link>
-            <guid>ec2aadbdefa410ccbceff721233dfbf1</guid>
-            <pubDate>Thu, 29 Apr 2021 21:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【票价1元、成本67元，珠海有轨电车该不该拆？】多位市政协委员、人大代表建议市委市政府放下包袱，勇于面对现实，敢于实事求是，早日拆除有轨电车 1 号线首期。]]></title>
-            <link>http://m.mp.oeeee.com/a/BAAFRD000020210429478453.html</link>
-            <guid>035ea1df459980b4c6af2e343cfe0128</guid>
-            <pubDate>Thu, 29 Apr 2021 21:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
