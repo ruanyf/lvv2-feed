@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 30 Apr 2021 17:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 18:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【五一音乐节涨价背后：百万级压轴、海外乐队空缺、五条人跑断腿】票价上涨的主要原因是艺人身价的上涨。2018年至今，刺猬乐队的出场费从3万涨到50万，说唱歌手的涨幅更大。而艺人成本占比最大的通常是压轴阵容，某位主办方表示，倒数第二个出场也就是压轴，则是百万级以上。]]></title>
+            <link>https://instant.lvv2.com/html/c335dcbc6e78a6f9dac2637f7e17986a.html</link>
+            <guid>15581faace318a471f2f1a87c9c791c0</guid>
+            <pubDate>Sat, 01 May 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当今世界正经历百年未有之大变局。最近一段时间以来，世界最主要的特点就是一个“乱”字，而这个趋势看来会延续下去。这次应对新冠肺炎疫情全球大流行，各国的领导力和制度优越性如何，高下立判。时与势在我们一边，这是我们定力和底气所在，也是我们的决心和信心所在。]]></title>
+            <link>https://instant.lvv2.com/html/71f8ceb16a425381a59a05645ef4582c.html</link>
+            <guid>217920300730bd3ebe815b9a6f646879</guid>
+            <pubDate>Sat, 01 May 2021 01:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[亲历津巴布韦的通货膨胀：用 200 万买一双袜子]]></title>
             <link>https://instant.lvv2.com/html/9f0473c5de5184728646d3c69224f2f5.html</link>
@@ -469,12 +481,6 @@
             <link>https://instant.lvv2.com/html/31aee481d6bfa9e128cef60575c9ee5c.html</link>
             <guid>59296a0c55e0a387218f3fa1a6a216db</guid>
             <pubDate>Fri, 30 Apr 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[名为“天和”的中国天宫空间站核心舱成功发射，中国永久性空间站计划迈出新的一步。国际空间站将于2024年退役，因此天宫有可能在不久的将来成为近地轨道上唯一的太空站。]]></title>
-            <link>https://instant.lvv2.com/html/b5b0991364788f14eeae021fc14ef874.html</link>
-            <guid>de81b324916f8a4af21ba8465027a143</guid>
-            <pubDate>Fri, 30 Apr 2021 00:38:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
