@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 30 Apr 2021 20:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 22:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【为了拯救童年记忆，他买下了一座游乐园】在开业114年的绝大多数时间里，克莱门顿游乐园一直是当地主要旅游景点。今年年初，游乐园业主拖欠了数百万美元抵押贷款，不得不面临拍卖。斯特普尔斯本来没打算买下它，但“亲眼看到它的那一刻，我就知道应该把它买下来。我以前没去过那里，但它让我想起了小时候长大的地方。”]]></title>
+            <link>https://instant.lvv2.com/html/8c1ae6df9719871be1716ac531ad4ca9.html</link>
+            <guid>f05bcb6577c0cf2b08c147cf9645d92b</guid>
+            <pubDate>Sat, 01 May 2021 06:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙大团队研发一款室外人体热管理微纳织物，可制冷可保温可发电】使用双层微纳光学织物的非对称光学特性，实现了只需对织物进行翻转，就能在散热和保温两种模式之间切换的、全天候室外个人热管理功能。清洁方面，研究团队在实验中对织物做过十次水洗实验，每次机洗一小时，十次之后性能依然保持不变。]]></title>
+            <link>https://instant.lvv2.com/html/10a508d7970d334f429dac6286b30923.html</link>
+            <guid>58909985f4bcff692e9be63db31078dd</guid>
+            <pubDate>Sat, 01 May 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全世界的万寿宫，都是江西人的家】在一些不完全统计中，有将近一千座万寿宫建造在江西之外，北至长城，南至滇缅边境，数量比江西省内的还多。作为最早的连琐品牌典范，长达几百年的时间里，万寿宫就代表着江西。]]></title>
+            <link>https://instant.lvv2.com/html/37472fc07f5774babdb3e95fce01f54c.html</link>
+            <guid>fa069132e4dcdc7ee49dde9f09194338</guid>
+            <pubDate>Sat, 01 May 2021 05:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国城市税收榜：上海税收收入是合肥的11倍，西安天津降幅最大]]></title>
             <link>https://instant.lvv2.com/html/3b26409f301605a0d8295059f0e1a636.html</link>
@@ -469,24 +487,6 @@
             <link>https://instant.lvv2.com/html/b14dc4b488b9eef1c1cae41e9a59b185.html</link>
             <guid>524dc79cdaf9e378b88559656989e138</guid>
             <pubDate>Fri, 30 Apr 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡普空把自己街机合集里的金手指做成了付费DLC】对于坐拥游戏源代码的卡普空来说，把多样化的作弊代码整合成统一功能放进游戏，应该不会有任何难度。就看卡普空有没有意愿把所有作弊代码逐一做成单独的付费DLC，慢慢透支玩家的钱包，以及对冷饭的热爱了。]]></title>
-            <link>https://instant.lvv2.com/html/789575e4dcad738e3b6fa8d95571693d.html</link>
-            <guid>e7c9f0be47a49fc3a25875f79b9ae83c</guid>
-            <pubDate>Fri, 30 Apr 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我们送了一双假鞋给耐克]]></title>
-            <link>http://www.socialmarketings.com/articldetails/13690</link>
-            <guid>424b2a98d747a9c467430a914037c79b</guid>
-            <pubDate>Fri, 30 Apr 2021 06:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一百零八个“罗汉娃”】汶川大地震时，什邡市妇幼保健院的孕产妇急需转移避难，罗汉寺的20余名僧人将清规戒律暂抛脑后，接纳她们在寺院生产，坐月子，乃至烹食荤腥。同年8月8日，恰好有108名“地震宝宝”在寺内平安降生，当地人称他们为“罗汉娃”。根据该真实事件改编的电影《一百零八》将于今年5月在影院上映。]]></title>
-            <link>https://instant.lvv2.com/html/7a3682a100ea868dd84d976422d142c8.html</link>
-            <guid>cfb406ea8eb83592fcf477881a62df8a</guid>
-            <pubDate>Fri, 30 Apr 2021 06:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
