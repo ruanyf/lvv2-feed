@@ -6,6 +6,20 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "53bcd006fee918d4aac3560cce05fcfc",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/31003a27567644dd486903df8301f361.html",
+            "title": "刊发“返生蛋”论文的《写真地理》，十多年间经过三个阶段，最初为旅游类杂志，出版2年后停刊。2010年，该刊号变成少女生活杂志。2018年，《写真地理》改头换面变成专发论文的“学术期刊”。2020年全年出版52期杂志，共发表论文1.5万余篇，版面费低至650元，绝大部分论文都只有一页。",
+            "date_modified": "2021-05-01T15:24:11.000Z"
+        },
+        {
+            "id": "df11f1f4bd74bd5110a9a15d35362513",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/e95841910f1af7261b18ecdf07127141.html",
+            "title": "【一边上美硕网课，一边想考专科】理由非常充分：1.学费加住宿费非常便宜，性价比完全超过在外租房。2. 可以白嫖图书馆食堂，还有学上，生活赛神仙。3.专业好有趣（我已经种草了古建筑）啥时候美签通了退学走人就行。有网友指出如果真的想暂时进入专科学校就读，就走高职扩招，不要去参加高考，这样不挤占统招名额。",
+            "date_modified": "2021-05-01T15:08:11.000Z"
+        },
+        {
             "id": "34c8b22fd5aab4837ccaef3535d57063",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/f17b3ce3f14a709b911107fc2537fd28.html",
@@ -508,41 +522,6 @@
             "url": "https://instant.lvv2.com/html/cff16f2bb1f6dbfe54a58633b1b9205a.html",
             "title": "【前有魏则西、后有张煜医生举报，细胞免疫疗法五年遭遇三重罗生门】惹祸的DC-DIK和NK，都属于“细胞免疫疗法”。某种程度上，正是它们让魏则西和马进仓踏入了同一条河流。但并非所有细胞免疫疗法都不靠谱。以CAR-T为例，就已有产品获FDA批准上市，且这类疗法大概率会在今年内落地中国。",
             "date_modified": "2021-04-30T12:48:32.000Z"
-        },
-        {
-            "id": "2802e787273302ceb74601d095a5f193",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/027275db674b162215e013544291100b.html",
-            "title": "B 站从字节跳动手里“抢下”中手游，游戏行业整合加剧",
-            "date_modified": "2021-04-30T12:24:32.000Z"
-        },
-        {
-            "id": "9b91cf3cc080a5ad897a48f87a6f9523",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/b4863b3618bf9262b652ae41239a4474.html",
-            "title": "吉林公布初步调查结果：《写真地理》杂志超业务范围发表学术论文，停刊整顿、主要负责人责令辞职。",
-            "date_modified": "2021-04-30T12:16:11.000Z"
-        },
-        {
-            "id": "8e4e7a39dab3af52926f23fd56a4ee58",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/24205a84f67d7d0ea67551872a685fde.html",
-            "title": "【化石是怎么跑到机场洗手间里的】由于化石以破碎的状态保存，所以无法修复成价值较高的工艺品，只能够加工成普通板材出售，价格上也并不会比其他板材贵。",
-            "date_modified": "2021-04-30T12:08:32.000Z"
-        },
-        {
-            "id": "e080e7b69d1fc11e2002032292cc5d82",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/7f085770fca95c937367abf4c70fb6f0.html",
-            "title": "中国长征五号B运载火箭昨天（29日）中午在海南文昌发射场成功将“天和”核心舱送入预定轨道，标志着中国空间站在轨组装建造全面展开，中国开始进入“空间站时代”。\n",
-            "date_modified": "2021-04-30T12:00:22.000Z"
-        },
-        {
-            "id": "2842158ff1f39b526b2e05d68661f0d9",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/bfd8b8537c5a4ca51f03f7fd4bb842e9.html",
-            "title": "【取快递女子被造谣出轨案宣判】被告人犯诽谤罪，侵害被害人人格权，造成一定经济损失，构成诽谤罪，鉴于自愿认罪认罚，赔偿损失，宣判量刑有期徒刑一年、缓刑两年。",
-            "date_modified": "2021-04-30T11:56:31.000Z"
         }
     ]
 }
