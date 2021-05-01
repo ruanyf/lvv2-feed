@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 01 May 2021 01:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 02:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【江苏南通昨晚遭遇极端灾害天气 造成11人死亡】因大树倒伏砸倒房屋、电线杆刮断、狂风卷入河道等原因，造成11人死亡；因灾受伤人口102人，正在组织医疗救治。因突遇大风，苏海门渔01728倾覆，11名船员落水，2人已成功获救，9人仍在紧张搜救中。]]></title>
+            <link>https://instant.lvv2.com/html/c8145c9df6685bb3fda69b0cc010317e.html</link>
+            <guid>bb111d2857324f72a8a2caf828bfe235</guid>
+            <pubDate>Sat, 01 May 2021 10:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【田埂上写诗的农妇韩仕梅，策划一场“离婚逃跑计划”】4月9日，她和律师在约定的公路口碰头，去县法院立了案。韩仕梅说，丈夫已经收到了法院的传票，离婚官司将于5月19日开庭。]]></title>
+            <link>https://instant.lvv2.com/html/a5d1f45c252652e9e21f526b5379d016.html</link>
+            <guid>d51bb6a03027bb1a39ab7e79b05df9cf</guid>
+            <pubDate>Sat, 01 May 2021 09:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[印度新冠病例增幅已超40万，拜登决定禁止人员从该国入境]]></title>
             <link>https://instant.lvv2.com/html/6c8da215a6f0516a6c8ff452e7a6b462.html</link>
@@ -466,25 +478,6 @@
             <link>https://instant.lvv2.com/html/bcdd09d175e17e43fe12055f0b71589d.html</link>
             <guid>810337b178165df3eaa58f8d5a0492fe</guid>
             <pubDate>Fri, 30 Apr 2021 10:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为造车大起底：布局3年，设9大部门，目标5000人团队】任正非在4月14日华为董事会上表示，“公司要从技术导向转向生存导向。”华为现在是双押宝，华为云和造车，是内部的两个明星BU，也帮华为在艰难日子里孕育新希望。]]></title>
-            <link>http://letschuhai.com/huaweizaochedaqidibuju3nianshe9dabumenmubiao5000rentuandui</link>
-            <guid>a5fb95676d956775c9e265feab585f01</guid>
-            <pubDate>Fri, 30 Apr 2021 10:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软PC商店分成由30%降至12%：吸引独立开发者】配合Epic游戏商店的88%让利，微软也将自己的分成比例降低至12%。]]></title>
-            <link>https://instant.lvv2.com/html/f5154e53dd8c435f16374420bca6c2e7.html</link>
-            <guid>3c740e2aa305020e3e885a77cf7ea469</guid>
-            <pubDate>Fri, 30 Apr 2021 10:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今年67岁的徐若冰出生在台北，10岁时移民美国。她在奥巴马总统执政期间曾是美国军队的头号武器买家，据报主导多个美军重点科研项目。多家台湾媒体赞誉她是“F-35战机雷达之母”。
-]]></title>
-            <link>https://instant.lvv2.com/html/4122ae40c73fc957bdc90765cdb49005.html</link>
-            <guid>43f1f19bcdd2d7f8ac342f1acbc548d8</guid>
-            <pubDate>Fri, 30 Apr 2021 09:44:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
