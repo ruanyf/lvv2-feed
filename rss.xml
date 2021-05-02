@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 02 May 2021 17:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 18:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【喜茶“下沉”对阵蜜雪冰城，但抓不住小镇青年的心】喜小茶刚出来就降足了身价，仅将单品定价在6元-15元间。这个价格在小镇青年喝的奶茶中，意外属于偏低水平。]]></title>
+            <link>http://www.aicaijing.com.cn/overviewarticle_id=6427</link>
+            <guid>d39b8f7629cad2280cdafff61b9a3b38</guid>
+            <pubDate>Mon, 03 May 2021 02:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[帝国回旋镖效应｜殖民地的镇压方式如何回归帝国大都市]]></title>
+            <link>https://instant.lvv2.com/html/40606bc31e8d9ff0b695f819f60be07b.html</link>
+            <guid>b0e01dba7d87c2018626747ba513856d</guid>
+            <pubDate>Mon, 03 May 2021 01:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【KOL分发】用不同的战术，实质上去完成KOL分发的创业努力，是非常多的。但似乎至今没有人成功过。]]></title>
             <link>http://weiwuhui.com/8392.html</link>
@@ -487,16 +499,6 @@ Fxxx off... this is not your home anymore.
             <link>https://instant.lvv2.com/html/2bf11ec006d3ada5beac3d65b5c20202.html</link>
             <guid>5f56d063a8c44a1fb2e21868d6bafaa1</guid>
             <pubDate>Sat, 01 May 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最近一次开怀大笑是因为什么？】
-
-在微博上看到的 
-
- ]]></title>
-            <link>https://instant.lvv2.com/html/a47904dc94dd7d521300287db1f00216.html</link>
-            <guid>9152d4831704fab911c95f09224df04b</guid>
-            <pubDate>Sat, 01 May 2021 18:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
