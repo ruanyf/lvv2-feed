@@ -6,6 +6,34 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "b89a76b05c1b78ed52d3e502b3061de5",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/64e80b6ff1cc45746daee771c5af1a4e.html",
+            "title": "【微信状态失败了吗？】超过9成的微信用户，好友数量不足1000人，却预设了五大类、29小类的状态分布。按1000人好友2%在同一时刻发布状态来估算，实时用户仅为20人；假设这20人平均分布在状态的五大类中，同一时刻则仅有4名好友处于相同状态。凭有限的好友，很难实现张小龙描述的“状态”的使用场景。",
+            "date_modified": "2021-05-02T18:08:11.000Z"
+        },
+        {
+            "id": "b60a54dfb688505d11e27e66702bf303",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/48f327f3a1325171087339f878276428.html",
+            "title": "【印度“双突变病毒”，疫苗仍然有效】印度疫情大浪主要是公卫政策没有做好。双突变病毒让疫苗中和能力下降的程度和带一个L452R突变病毒的一样，也就是说，印度变种并没有表现出很强的免疫逃逸，辉瑞疫苗还是管用。",
+            "date_modified": "2021-05-02T17:48:11.000Z"
+        },
+        {
+            "id": "f3059c94c1b6dd0ae723167511c328e5",
+            "content_html": "",
+            "url": "http://letschuhai.com/naxiaxiaofanzhongxinxinjiapopujiyidongzhifudexiayicheng",
+            "title": "【拿下小贩中心：新加坡普及移动支付的下一程】对新加坡人来说，小贩中心里鳞次栉比的小餐饮店和喷香的街头美食已经成为他们生活中不可或缺一部分，新加坡政府推出Hawkers Go Digital项目，通过返现方式，鼓励店主们开通线上支付渠道。至今已有半数持牌店主约10000人已经接受政府提供线上支付方案。",
+            "date_modified": "2021-05-02T17:08:31.000Z"
+        },
+        {
+            "id": "30271966714feb3aa1593005fb9976d2",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/e849328290b36d2e6efb4a422855fca6.html",
+            "title": "【深圳小产权房震荡】4月28日，深圳宝安沙井片区执法部门连夜出动，对小产权房周边的个别中介门店查封，一部分中介暂时蛰伏歇业，一部分像老李的中介将战场转移到临近城市。这一次执法，让深圳小产权房地下市场暴露在风口浪尖上。",
+            "date_modified": "2021-05-02T16:48:11.000Z"
+        },
+        {
             "id": "b11eabd2e4391e4bc8e9af68c8f79c06",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/a8381c80a385440204fe618ceb5776fe.html",
@@ -487,27 +515,6 @@
             "url": "https://instant.lvv2.com/html/c8145c9df6685bb3fda69b0cc010317e.html",
             "title": "【江苏南通昨晚遭遇极端灾害天气 造成11人死亡】因大树倒伏砸倒房屋、电线杆刮断、狂风卷入河道等原因，造成11人死亡；因灾受伤人口102人，正在组织医疗救治。因突遇大风，苏海门渔01728倾覆，11名船员落水，2人已成功获救，9人仍在紧张搜救中。",
             "date_modified": "2021-05-01T10:49:01.000Z"
-        },
-        {
-            "id": "d51bb6a03027bb1a39ab7e79b05df9cf",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/a5d1f45c252652e9e21f526b5379d016.html",
-            "title": "【田埂上写诗的农妇韩仕梅，策划一场“离婚逃跑计划”】4月9日，她和律师在约定的公路口碰头，去县法院立了案。韩仕梅说，丈夫已经收到了法院的传票，离婚官司将于5月19日开庭。",
-            "date_modified": "2021-05-01T09:48:11.000Z"
-        },
-        {
-            "id": "1e448a3b4194aea7040ccf26f591cfdf",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/6c8da215a6f0516a6c8ff452e7a6b462.html",
-            "title": "印度新冠病例增幅已超40万，拜登决定禁止人员从该国入境",
-            "date_modified": "2021-05-01T09:08:11.000Z"
-        },
-        {
-            "id": "a912ff0b8f13b1731a9408a99947cfb3",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/fabf3de1c11b49dbb458cd38a1825d72.html",
-            "title": "【吐槽高仿书反收律师函，这些“正版”书为何伤害性极大、侮辱性极强】不同于人人喊打的盗版书，“高仿书”理论上是可以自称“正版”的。作为合法出版物，为避免被原版追究侵权责任，用相近名字的“高仿书”必须更改图书内容；但为了跟风蹭热点，又不得不降低甚至无视对内容品质的要求，甚至作者都没有、只有“编者”。",
-            "date_modified": "2021-05-01T08:48:11.000Z"
         }
     ]
 }
