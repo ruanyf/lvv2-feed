@@ -4,11 +4,39 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 02 May 2021 20:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 22:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[@F伯爵：努维尔上海这个商业项目，航拍很有“血腥十字”的感觉，一个米色建筑被一刀切开，挺佩服努工能用各种形式的百叶组合成一种很中式的感觉，想必将来会成为各类婚纱、汉服拍照打卡点了。//@侃二哥可爱多:是因为规划局不准外立面也刷红，破坏黄浦区风貌。]]></title>
+            <link>https://instant.lvv2.com/html/4d73b5c4047dae00489b3f7caab75dcf.html</link>
+            <guid>adb414babb64444918b6e04b2eb1ab0d</guid>
+            <pubDate>Mon, 03 May 2021 06:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[孽畜在武汉发生疫情禁止出口口罩到大陆。
+
+拜登上台后禁止用武汉肺炎沿用WHO通用的Covid19时，孽畜一直称武汉肺炎。
+
+ ]]></title>
+            <link>http://www.reuters.com/world/india/taiwans-first-batch-covid-19-aid-leaves-india-2021-05-02/</link>
+            <guid>1f321d33bb8030d9bac000f33d887542</guid>
+            <pubDate>Mon, 03 May 2021 06:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当一个山西人说“我想吃早饭了”，究竟在想些什么？]]></title>
+            <link>https://instant.lvv2.com/html/18cbf79a9e9954e5123d4440090cde2e.html</link>
+            <guid>906b5ae4c4f8a7fb6fa2c8f3c2491761</guid>
+            <pubDate>Mon, 03 May 2021 06:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在五一国际劳动节之际，法国、德国、土耳其等多个国家都发生了大规模抗议游行，数万人走上巴黎、柏林等主要城市街头，要求提高劳动保护、抗议社会不平等问题。在新冠疫情对全球经济造成巨大冲击后，提高劳动保护、要求社会平等的呼声正变得越来越响。]]></title>
+            <link>https://instant.lvv2.com/html/dfd5f83af92e56e0b02694849eb6615e.html</link>
+            <guid>653ae68405c1beb9bbb9b295a0939159</guid>
+            <pubDate>Mon, 03 May 2021 05:08:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【徐镜人和被罚了7.64亿的扬子江药业】有趣的是，市场监管总局依据的事实，甚至包括了徐镜人自己在扬子江集团2018年年终大会上的报告。]]></title>
             <link>https://instant.lvv2.com/html/b15c145f9b35a43b27b4fd177e328532.html</link>
@@ -480,18 +508,6 @@ Fxxx off... this is not your home anymore.
             <link>https://instant.lvv2.com/html/9bcf79b9eb9adf2e2fc27c15d438916d.html</link>
             <guid>cb96870ebc64d09e834bd508724dfa01</guid>
             <pubDate>Sat, 01 May 2021 21:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马拉多纳本可能活下来，调查组认定其未获妥善医治]]></title>
-            <link>https://instant.lvv2.com/html/dae32f869d79a69011d36551a2079cfc.html</link>
-            <guid>705ed78e505d12ddfd43c8811657f4ba</guid>
-            <pubDate>Sat, 01 May 2021 20:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗小黑战记：第30话 ]]></title>
-            <link>http://www.bilibili.com/bangumi/play/ep400672</link>
-            <guid>23a76e4e7f8fd6fc47f86ec35436229d</guid>
-            <pubDate>Sat, 01 May 2021 20:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
