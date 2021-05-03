@@ -4,11 +4,32 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 03 May 2021 20:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 22:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021 年，谁取代了 a16z 和红杉资本成为出手最频繁的基金？】和愿景基金及孙正义偏好的共享经济、平台经济不同，Tiger 下注的诸多投资都集中在商业模式更清晰的企业服务行业。]]></title>
+            <link>https://instant.lvv2.com/html/b90db7c73e7db381b4daa83f1d3dc6b2.html</link>
+            <guid>635e90b9699ff39832adb87b25028ab9</guid>
+            <pubDate>Tue, 04 May 2021 06:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国版集体诉讼第一案：造假的代价有多大？】业内人士预测，考虑到康美的虚假陈述行为横跨三年以及其超百亿的市值，本案原告人数可能达到十几万人，索赔规模或达数十亿元。]]></title>
+            <link>https://instant.lvv2.com/html/28a3f5d52f62a7fd682cb5be463ee8ea.html</link>
+            <guid>f1df7070c1b5aa496df6014f6233fbd8</guid>
+            <pubDate>Tue, 04 May 2021 05:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上周六，超过1000名台湾移民在澳大利亚的墨尔本、悉尼、堪培拉和布里斯班举行集会，支持台湾加入世卫组织。
+
+但重返世卫并不像看上去这么简单。除了公共健康，还有其他因素横亘其中，尤其是台湾和世卫漫长而纠结的关系。
+]]></title>
+            <link>https://instant.lvv2.com/html/c8855cd28cd1b304a93be960ff5736f9.html</link>
+            <guid>f121575f76259c57359842dfd27674c7</guid>
+            <pubDate>Tue, 04 May 2021 04:42:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【高铁“降温”初显】4月12日，陕西省发改委表示，陕西已暂停城际铁路建设，并表示这是在综合考虑全省铁路建设、资金筹措情况，从防风险角度出发做出的决定。这一决定，一方面与陕西省资金短缺有关，另一方面也与国家的新政策密不可分，高铁建设“降温”迹象正式开始显现。]]></title>
             <link>https://instant.lvv2.com/html/2d595669dee1771c5bc6827fa4988746.html</link>
@@ -469,19 +490,6 @@
             <link>https://instant.lvv2.com/html/1679f228a559d4282ba58d2d2ad976f6.html</link>
             <guid>426ed55bc9419af4f4375ad1cd4e02ea</guid>
             <pubDate>Sun, 02 May 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[聊聊说中国违背了国际秩序与入世承诺是什么意思]]></title>
-            <link>https://instant.lvv2.com/html/1f5a7cc77ccdfd35dcd5b90cddb51af1.html</link>
-            <guid>ab00e4c814a9996899cfd65e68516c0b</guid>
-            <pubDate>Sun, 02 May 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#一周热门 #专栏作者 中美之间必有一战吗？
-]]></title>
-            <link>https://instant.lvv2.com/html/97bca7d90568e145297a1656ace7772e.html</link>
-            <guid>5bcdd213d3358ea17991c2d724f9b861</guid>
-            <pubDate>Sun, 02 May 2021 18:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
