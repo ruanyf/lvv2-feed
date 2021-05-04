@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 04 May 2021 17:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 18:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://instant.lvv2.com/html/dd73d3416027ef5cf596bc11d1d1c87f.html</link>
             <guid>b1147a82762c0ef5876a1e6fab0a990e</guid>
             <pubDate>Tue, 04 May 2021 23:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京市广电局责令爱奇艺暂停《青春有你》第三季后续节目录制]]></title>
+            <link>https://instant.lvv2.com/html/27012105dd6aab72e52260215c926797.html</link>
+            <guid>43de765c84febd6144466c96cc24831f</guid>
+            <pubDate>Wed, 05 May 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【投资100亿！又一所高水平新大学，来了】5月2日，总投资100亿、定位高水平研究型的”福耀科技大学“（暂名）建设正式启动，这所学校顺利建成后将是全国第四所、福建省第一所新型大学，将大大提升福建的高等教育事业发展水平和人才培养水准。]]></title>
+            <link>https://instant.lvv2.com/html/531a0775ae9fe857d96b804c81b5e892.html</link>
+            <guid>881115be4bf3e3882126bfa464796368</guid>
+            <pubDate>Wed, 05 May 2021 01:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一个多月前，联邦政府中对华鹰派的代表之一彼得·达顿被任命为国防部长。
@@ -465,18 +477,6 @@
             <link>https://instant.lvv2.com/html/d40c67126199575050257f1598799412.html</link>
             <guid>bbf35a81b225421cf72e1e754d59d9e5</guid>
             <pubDate>Mon, 03 May 2021 16:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【棉纺巨头溢达想做中国的“莱卡”】与大多数供应链企业一样，溢达集团在很长一段时间里以“隐形冠军”之姿，不为终端消费者熟知。“新疆棉被抵制”，让这家种植和使用新疆长绒棉，且因此受到不小打击的企业，来到了聚光灯下。]]></title>
-            <link>https://instant.lvv2.com/html/4d95dbc9aaea33ffa6fd6d10f70b8f46.html</link>
-            <guid>4270ed7f77d4108c22e2c3a8d33e6f63</guid>
-            <pubDate>Mon, 03 May 2021 16:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在本轮英超双红会开始前，大批曼联球迷闯进了老特拉福德，抗议俱乐部的美国老板格雷泽。此前，在格雷泽家族的主导下，曼联加入了欧超联赛。虽然欧超胎死腹中，但这出闹剧却激化了曼联球迷与格雷泽家族的矛盾。曼联发布公告，出于对安全的考虑，本轮曼联和利物浦的比赛将延期进行。]]></title>
-            <link>https://instant.lvv2.com/html/cae2e88b35b23d977ac12e7adec7990a.html</link>
-            <guid>874bc3826389e266da9c817d540155d7</guid>
-            <pubDate>Mon, 03 May 2021 16:08:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
