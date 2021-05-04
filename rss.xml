@@ -4,16 +4,28 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 04 May 2021 18:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 20:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【上线突破新高，顶尖机构疯狂囤货，Chia挖矿还有机会吗？】5月3日，躁动了数字货币市场近一个月的Chia正式开放转账功能。 开放转账功能前夜，Chia在抹茶等交易所的期货价格一度暴涨36%，达到1392美金。此前场外市场的交易单价还一度超过5000美金。]]></title>
+            <link>http://www.odaily.com/post/5167700</link>
+            <guid>4d1c094098bab71ced3699124d71b61f</guid>
+            <pubDate>Wed, 05 May 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【拉面哥单方解除短视频运营协议被索赔3.8万】程运付称，索赔3.8万元属实，但 “我没有钱，我只卖3块钱一碗拉面。”他与短视频账号运营协议的乙方黄某某、 丙方许某某解除合约一事，目前正在法院庭前调解中。“还在等法院通知调解。”]]></title>
             <link>https://instant.lvv2.com/html/dd73d3416027ef5cf596bc11d1d1c87f.html</link>
             <guid>b1147a82762c0ef5876a1e6fab0a990e</guid>
             <pubDate>Tue, 04 May 2021 23:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盖茨夫妇离婚了，没什么大不了的】美国官方数据显示，四成以上的婚姻最终都会以离婚结束。缩小到全球首富这个顶级俱乐部，过去二十年先后登上全球首富宝座的几位超级富豪，要么已经离婚恢复单身，要么曾在发家之后离异，要么有过多次婚姻，现在盖茨也加入了他们的行列。]]></title>
+            <link>https://instant.lvv2.com/html/5143563dac63ab157b41a6bf4317c6f7.html</link>
+            <guid>4e12ada91cfa9a0ccb62ec6388ac2391</guid>
+            <pubDate>Wed, 05 May 2021 03:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[北京市广电局责令爱奇艺暂停《青春有你》第三季后续节目录制]]></title>
@@ -471,12 +483,6 @@
             <link>https://instant.lvv2.com/html/5c4dcd2214e868cd4e66f9962d4a7a8b.html</link>
             <guid>bf398074f45b4fcd10c97c816d64d67c</guid>
             <pubDate>Mon, 03 May 2021 17:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【挨了社区团购致命一刀，「永辉超市」还有力反击吗？】自去年三季度以来，包括美团、拼多多等互联网巨头在内的集体杀入，以及烧钱补贴的市场竞争行为，让这家生鲜超市企业一时间无力招架。]]></title>
-            <link>https://instant.lvv2.com/html/d40c67126199575050257f1598799412.html</link>
-            <guid>bbf35a81b225421cf72e1e754d59d9e5</guid>
-            <pubDate>Mon, 03 May 2021 16:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
