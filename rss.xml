@@ -4,11 +4,30 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 04 May 2021 20:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 22:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【迟到的美国人口普查与选区重划前瞻】总的来说，2020年的人口普查呈现的仍是一个人口增长率放缓，中西部人口持续向西部和南部阳光带转移的美国，延续了新世纪以来的人口变迁趋势。]]></title>
+            <link>https://instant.lvv2.com/html/fc602c2de8dada3ea654f46f91c92e23.html</link>
+            <guid>a438684797135df46d4e1ac1a962681d</guid>
+            <pubDate>Wed, 05 May 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【挖掘机，才是男人心中的白月光】看挖掘机、演奥特曼、玩变形金刚是公认的三大男人时间黑洞。一个男人如果沾上了其中任何一种，基本上从此以后的闲暇时光就交出去了。其中，又以看挖掘机为当之无愧的王中之王，男性们对它的依赖可以纵贯数十载，上到九十九，下到刚会走，没有谁敢拍着胸脯保证能扛住诱惑。]]></title>
+            <link>https://instant.lvv2.com/html/20df4784b83c5ccb0292a1b262bdf5d3.html</link>
+            <guid>e6838c943b2f80da2a0dd25876226e7b</guid>
+            <pubDate>Wed, 05 May 2021 05:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新冠疫苗为人们带来希望，也带来一些令人困惑的问题，比如打一针够不够？必须打两针吗 ？间隔多久最有效？为什么？
+]]></title>
+            <link>https://instant.lvv2.com/html/e29dede3557b73fdcbe859782caf8799.html</link>
+            <guid>06f345f7961238f395ef77b8a1ef1f09</guid>
+            <pubDate>Wed, 05 May 2021 04:46:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上线突破新高，顶尖机构疯狂囤货，Chia挖矿还有机会吗？】5月3日，躁动了数字货币市场近一个月的Chia正式开放转账功能。 开放转账功能前夜，Chia在抹茶等交易所的期货价格一度暴涨36%，达到1392美金。此前场外市场的交易单价还一度超过5000美金。]]></title>
             <link>http://www.odaily.com/post/5167700</link>
@@ -477,12 +496,6 @@
             <link>https://instant.lvv2.com/html/9b748aebf4b7032b8bd30cc6e6c6480b.html</link>
             <guid>c17d95be0e879658978099a51cab7a86</guid>
             <pubDate>Mon, 03 May 2021 18:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【想建个“读书医院”】支持读书，社会舆论有共识。可读哪些书？怎么读？参照排行榜读书，就是一种感觉：上当！读经典，没有专业指导、深入思考，反反复复读的只是情节，对人物的评价并非文学角度，往往陷入道德评论之中。《杜诗详注》和《诗词格律》对我的古典诗词困惑，是药到病除的良药。]]></title>
-            <link>https://instant.lvv2.com/html/5c4dcd2214e868cd4e66f9962d4a7a8b.html</link>
-            <guid>bf398074f45b4fcd10c97c816d64d67c</guid>
-            <pubDate>Mon, 03 May 2021 17:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
