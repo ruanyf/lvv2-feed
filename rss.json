@@ -6,6 +6,13 @@
     "description": "Lvv2.com 的非官方 Feed",
     "items": [
         {
+            "id": "4c01c5fd09a735961579f03a9ede29af",
+            "content_html": "",
+            "url": "https://instant.lvv2.com/html/71242e8550e5e106ec25643d36b504bc.html",
+            "title": "【为什么明星爱#发长文告别角色#？】“告别角色”的风潮因谁而起已不可考，最初是只言片语，后来发展成为篇幅越来越长的“小作文”。更夸张的是，甚至连长文都快变成“常规形式”了——现在已经出现了手写信、手绘漫画等新花样。乔欣在《平凡的荣耀》收官后，就用剧中角色兰芊翊平时汇报工作的方式，做了一个“告别PPT”。",
+            "date_modified": "2021-05-05T09:48:32.000Z"
+        },
+        {
             "id": "6468fa59db29be4232632a6b257b0a33",
             "content_html": "",
             "url": "https://instant.lvv2.com/html/1a8d1728f3b71da2d29e937b7d8aaada.html",
@@ -515,27 +522,6 @@
             "url": "https://instant.lvv2.com/html/0d40f62db3bf7b02b4d1c79166f0b64f.html",
             "title": "【互联网的尽头不能是放贷】央行本次约谈内容再次重申“坚持金融活动全部纳入金融监管，金融业务必须持牌经营”，或将对以助贷模式为主的此类APP内金融借贷业务产生影响。",
             "date_modified": "2021-05-03T22:48:22.000Z"
-        },
-        {
-            "id": "229fec7b688e908ef435b6709c964ccb",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/8ea7363657e4069cda19ab5c3d33cc37.html",
-            "title": "我每次搬家都会带一个神秘小盒，永远不扔，那里面是80几只蟑螂",
-            "date_modified": "2021-05-03T22:24:11.000Z"
-        },
-        {
-            "id": "1d7bca3437dbdcaed7d1f404d5742633",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/de7162edadaf7da4520d504bba83c76d.html",
-            "title": "疑似天舟二号货运飞船真身\n航天五院/SAST\n ",
-            "date_modified": "2021-05-03T22:14:11.000Z"
-        },
-        {
-            "id": "275326c3a602c6ae2119abec349088ae",
-            "content_html": "",
-            "url": "https://instant.lvv2.com/html/1f342d57411df2a3f5f21da886d485a4.html",
-            "title": "【英伟达发布全新驱动，软硬件同时限制显卡挖矿性能】4月30日，英伟达发布了全新的WHQL驱动——GeForce 466.27，新版驱动中新增了更多内容。不过有网友发现，该驱动最关键的作用，还是用于限制RTX 3060显卡的挖矿性能。",
-            "date_modified": "2021-05-03T21:48:22.000Z"
         }
     ]
 }

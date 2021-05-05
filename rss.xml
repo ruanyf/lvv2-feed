@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 05 May 2021 01:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 02:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【为什么明星爱#发长文告别角色#？】“告别角色”的风潮因谁而起已不可考，最初是只言片语，后来发展成为篇幅越来越长的“小作文”。更夸张的是，甚至连长文都快变成“常规形式”了——现在已经出现了手写信、手绘漫画等新花样。乔欣在《平凡的荣耀》收官后，就用剧中角色兰芊翊平时汇报工作的方式，做了一个“告别PPT”。]]></title>
+            <link>https://instant.lvv2.com/html/71242e8550e5e106ec25643d36b504bc.html</link>
+            <guid>4c01c5fd09a735961579f03a9ede29af</guid>
+            <pubDate>Wed, 05 May 2021 09:48:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[魔 幻 素 材 库 | 卡 通 手 枪]]></title>
             <link>https://instant.lvv2.com/html/1a8d1728f3b71da2d29e937b7d8aaada.html</link>
@@ -480,26 +486,6 @@
             <link>https://instant.lvv2.com/html/0d40f62db3bf7b02b4d1c79166f0b64f.html</link>
             <guid>64ff16d5863e9886d38dea86c8562af7</guid>
             <pubDate>Mon, 03 May 2021 22:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我每次搬家都会带一个神秘小盒，永远不扔，那里面是80几只蟑螂]]></title>
-            <link>https://instant.lvv2.com/html/8ea7363657e4069cda19ab5c3d33cc37.html</link>
-            <guid>229fec7b688e908ef435b6709c964ccb</guid>
-            <pubDate>Mon, 03 May 2021 22:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[疑似天舟二号货运飞船真身
-航天五院/SAST
- ]]></title>
-            <link>https://instant.lvv2.com/html/de7162edadaf7da4520d504bba83c76d.html</link>
-            <guid>1d7bca3437dbdcaed7d1f404d5742633</guid>
-            <pubDate>Mon, 03 May 2021 22:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达发布全新驱动，软硬件同时限制显卡挖矿性能】4月30日，英伟达发布了全新的WHQL驱动——GeForce 466.27，新版驱动中新增了更多内容。不过有网友发现，该驱动最关键的作用，还是用于限制RTX 3060显卡的挖矿性能。]]></title>
-            <link>https://instant.lvv2.com/html/1f342d57411df2a3f5f21da886d485a4.html</link>
-            <guid>275326c3a602c6ae2119abec349088ae</guid>
-            <pubDate>Mon, 03 May 2021 21:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
