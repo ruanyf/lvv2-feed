@@ -4,11 +4,21 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 05 May 2021 04:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 06:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“图书馆的生与死：战争与和平年代的焚书禁书” 
+
+向《燕京书评》公众号的编辑们致敬。
+
+]]></title>
+            <link>https://instant.lvv2.com/html/7a183d15894bc05611c3d188e25d6af7.html</link>
+            <guid>26b0088890b9826fa5f98d9b55dd50ef</guid>
+            <pubDate>Wed, 05 May 2021 12:46:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[飞行汽车眼看要爆发，但行业第一股竟然说要转型]]></title>
             <link>https://instant.lvv2.com/html/8e4ef1f7b6230349503c577ebb04960d.html</link>
@@ -459,38 +469,6 @@
             <link>https://instant.lvv2.com/html/cbf7aaaf889fa4218a99afa0fdedbd62.html</link>
             <guid>c91770c1c4f6df8821ec485fa96dddbf</guid>
             <pubDate>Tue, 04 May 2021 07:24:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【张国立晒大夜班收工照被骂】4月29日凌晨4点，张国立在个人微博上晒了张“明月当空”，还感慨道“记不清这是第几个大夜班了”。意外的是，更多的留言是“阴阳怪气”：“一个夜班的酬劳，抵上我若干年，咋这么矫情”“有那么多钱，大夜班我也愿意啊”…]]></title>
-            <link>https://instant.lvv2.com/html/f8f3e816147595927dbdaf6aab50bba1.html</link>
-            <guid>2a1b5aea5ceb2410e115c014d5ce6408</guid>
-            <pubDate>Tue, 04 May 2021 07:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一项研究发现，连续60天、每天早晨洗30秒的冷水淋浴可以把病假天数减少30%！
-]]></title>
-            <link>https://instant.lvv2.com/html/1b549aa64e68125ebe3a0e8cc1a10ff3.html</link>
-            <guid>0152099b9ed511f9c45ab927a58c9073</guid>
-            <pubDate>Tue, 04 May 2021 07:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布林肯日前接受美国CBS电视台《60分钟》采访，表示美国不打算遏制中国，但不会允许其破坏国际规范与准则。
-]]></title>
-            <link>https://instant.lvv2.com/html/4468561a34cd9af76fa474e34d278e6e.html</link>
-            <guid>f9987e41565c22e59197f910732685bb</guid>
-            <pubDate>Tue, 04 May 2021 06:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021 年，谁取代了 a16z 和红杉资本成为出手最频繁的基金？】和愿景基金及孙正义偏好的共享经济、平台经济不同，Tiger 下注的诸多投资都集中在商业模式更清晰的企业服务行业。]]></title>
-            <link>https://instant.lvv2.com/html/b90db7c73e7db381b4daa83f1d3dc6b2.html</link>
-            <guid>635e90b9699ff39832adb87b25028ab9</guid>
-            <pubDate>Tue, 04 May 2021 06:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国版集体诉讼第一案：造假的代价有多大？】业内人士预测，考虑到康美的虚假陈述行为横跨三年以及其超百亿的市值，本案原告人数可能达到十几万人，索赔规模或达数十亿元。]]></title>
-            <link>https://instant.lvv2.com/html/28a3f5d52f62a7fd682cb5be463ee8ea.html</link>
-            <guid>f1df7070c1b5aa496df6014f6233fbd8</guid>
-            <pubDate>Tue, 04 May 2021 05:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
