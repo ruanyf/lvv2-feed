@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 05 May 2021 18:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 20:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【电梯故障，13岁男孩自救失败坠亡】5月3日，福建福州一名13岁男孩带着雨伞打包外卖回家。视频显示，18时26分许，孩子按的是电梯二层的按钮，然而电梯却没有停留在2层，而突然上升至6层和7层之间，且大门封闭。孩子先后按警铃、拍打电梯门、按“紧急通话”按钮求助，但没有得到任何回应。]]></title>
+            <link>https://instant.lvv2.com/html/7409c47b65795db3ee942d10f468f1e2.html</link>
+            <guid>43b743bddd8daa80c1de9ea7dca30bd6</guid>
+            <pubDate>Thu, 06 May 2021 03:08:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【香港首富换人了】宁德时代创办人兼董事长曾毓群5日以345亿美元身价，超越常年占据富豪榜首位的长和系创办人李嘉诚和恒基地产创办人李兆基，坐上香港首富宝座。]]></title>
             <link>https://instant.lvv2.com/html/8113fdec053e22eedd6f7ad07b5938d9.html</link>
@@ -469,18 +475,6 @@
             <link>https://instant.lvv2.com/html/90dfca73cbe543f23f8188c388e23a21.html</link>
             <guid>117dadf89cb9e51f06d64c9c46f2a65c</guid>
             <pubDate>Tue, 04 May 2021 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【采摘这事儿，就那么有意思吗？】采摘无疑在满足人们对自然的某种想象之余，成为了一种简化和剪辑现实的工具，顺利完成了乡间和都市之间的衔接。总还有一些人想要退后一步，通过那几个小时沉浸而又忘我的采摘，来逃避似乎独属于城市的冷漠、隔绝与猜疑，在田野、林间乃至塑料大棚中找到答案。]]></title>
-            <link>https://instant.lvv2.com/html/5b74c7595048241267d10292cdf1c9a1.html</link>
-            <guid>a6718a3344612fea64263cfa9a73c755</guid>
-            <pubDate>Tue, 04 May 2021 19:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【这可能是你见过最长的脖子】很多蜥脚类恐龙，都是大长脖子+胖身子+长尾巴，而马门溪龙的奇特之处，就在于脖子特别的长，达到了体长的一半。]]></title>
-            <link>https://instant.lvv2.com/html/37bf533cdce7517ee169d86772e1af7b.html</link>
-            <guid>9afdef4035bfd951ec778ac2288095e6</guid>
-            <pubDate>Tue, 04 May 2021 18:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
