@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 06 May 2021 20:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 22:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[因为“血供”太好，我的右手比左手长了1公分]]></title>
+            <link>https://instant.lvv2.com/html/4ed12a6f68e0a36ee8efc976da115d24.html</link>
+            <guid>dd7c8fe421b2ed9943038774a5e22cdc</guid>
+            <pubDate>Fri, 07 May 2021 06:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【如何勾搭比尔盖茨or他前妻？】自从比尔盖茨官宣和27年的发妻解除婚姻关系后，推上相关的memes可谓是爆梗惹。在reddit上，“如何勾引比尔盖茨”甚至成了一个热门帖。]]></title>
+            <link>https://instant.lvv2.com/html/ff81a363bc2ec93b14ee61b59261b69d.html</link>
+            <guid>6eea85d3f1ba266b84d60d418518d235</guid>
+            <pubDate>Fri, 07 May 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[七国集团外长结束会面并发表联合声明，呼吁中国“建设性地参与基于规则的国际体系”，表示支持台湾参与世卫组织论坛和世卫大会。中国外交部发言人回应称，G7公报是对中国内部事务的“严重干涉”，对此“强烈谴责”。]]></title>
+            <link>https://instant.lvv2.com/html/fb471defef5d30b54827910ccb37076e.html</link>
+            <guid>784e4813f6abc38aa29dd4040dc74300</guid>
+            <pubDate>Fri, 07 May 2021 05:38:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[提前详解俄罗斯胜利日阅兵装备：战斗机器人和勋章醒目]]></title>
             <link>https://instant.lvv2.com/html/bd3c3353db767676f27e968d6162556e.html</link>
@@ -443,24 +461,6 @@
             <link>https://instant.lvv2.com/html/816f92caab318c163e0eabe05692f705.html</link>
             <guid>04d2bf86b3a6003283e5eec4dd5a6858</guid>
             <pubDate>Thu, 06 May 2021 09:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国宣布支持WTO新冠疫苗知识产权豁免提议】去年10月，印度和南非在WTO提出这项提议，允许各国暂时撤销与疫情相关的医疗产品的专利权，目前已得到近60个国家的支持。此前特朗普政府，以及欧盟、英国、挪威坚决抵制这一提议。不过分析认为，随着美国立场动摇，其他国家或许也会作出让步。]]></title>
-            <link>http://wallstreetcn.com/articles/3629639</link>
-            <guid>e52efef67c6200b551de689389e32900</guid>
-            <pubDate>Thu, 06 May 2021 08:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百亿待收P2P凤凰智信被立案，日前曾登报澄清称凤凰卫视仅参与财务投资]]></title>
-            <link>https://instant.lvv2.com/html/4086ecb16097b85d047244293158a016.html</link>
-            <guid>989001380f1dc09bb87e8a7876be47d9</guid>
-            <pubDate>Thu, 06 May 2021 08:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：昨日新增新冠肺炎确诊病例5例，均为境外输入]]></title>
-            <link>https://instant.lvv2.com/html/73906fc9dd849e1613fb4cebb5e2fcec.html</link>
-            <guid>5e15624ffb48c78ed7c5edb790acb399</guid>
-            <pubDate>Thu, 06 May 2021 08:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
