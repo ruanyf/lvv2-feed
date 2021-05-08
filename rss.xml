@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 08 May 2021 18:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 20:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -20,6 +20,18 @@
             <link>https://instant.lvv2.com/html/83668b54ef2ce65356a279aace17009d.html</link>
             <guid>ff01737324cdcc2603ad64b681a4c566</guid>
             <pubDate>Sun, 09 May 2021 01:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【疫情之下，俄罗斯为何坚持大阅兵】对北约情报人员来说，利用彩排提前“参透”俄阅兵细节，是十分刺激的事情，也考验“知俄派”的分析功力。俄军受阅技术兵器里，有没有多少“新家伙”，正在受到各国关注。]]></title>
+            <link>https://instant.lvv2.com/html/20f1c995a2952365af0245db4f61b2a3.html</link>
+            <guid>0bf93b23a4c699de449857a03e450e82</guid>
+            <pubDate>Sun, 09 May 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为世界航空安全做出巨大贡献的人走了】2021年5月5日，空中客车公司的工程技术先驱，前空客工程部高级副总裁，被誉为现代客机“电传操纵之父”和“A320之父”的伯纳德·齐格勒（BernardZiegler）在法国去世，终年88岁。]]></title>
+            <link>https://instant.lvv2.com/html/10fc00949f6721006b7f0e1c8c094908.html</link>
+            <guid>3ec2c409a6e8e70a32ef69c919bcb347</guid>
+            <pubDate>Sun, 09 May 2021 03:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【扛起中国游泳的冲金大旗，从未见过如此坚定的张雨霏】里约奥运会上，被视为中国女子蝶泳接班人的张雨霏曾因为成绩不佳泪洒赛场，但现在，这位经历过起伏和磨砺的天才少女，已经做好了准备。]]></title>
@@ -518,12 +530,6 @@
             <link>https://instant.lvv2.com/html/6362f8ac4b9f957296d1807720a1e08f.html</link>
             <guid>c424f2ee1ba498e74ccf6d61980db6ef</guid>
             <pubDate>Fri, 07 May 2021 18:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【被罚7.64亿不甘心，“千亿药王”和国家市场监管总局讨价还价】在国家市场监管总局看来，扬子江药业“有动机去维护零售市场的药品价格，进而抬高医院渠道基准价格，最终实现维护医院渠道价格的目的”。]]></title>
-            <link>https://instant.lvv2.com/html/ded288a0a0cded4015c6d133eb3864ff.html</link>
-            <guid>7b034614c7378ac5a694c140457790a0</guid>
-            <pubDate>Fri, 07 May 2021 18:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
