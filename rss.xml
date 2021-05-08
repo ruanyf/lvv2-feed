@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 08 May 2021 20:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 22:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,12 @@
             <link>https://instant.lvv2.com/html/e5a1b7918e02f49d01e53e0979547296.html</link>
             <guid>02115d161e2e2cac2d3454bea7604625</guid>
             <pubDate>Sat, 08 May 2021 20:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FILA为什么能让安踏逆袭？】2009年，安踏花了6.5亿港元收购了FILA在中国的商标经营权。当时，安踏即使在诸多“晋江鞋厂”里也不算最领先的一个，而FILA是一个逐渐边缘化的没落意大利品牌。10年后，FILA在中国一年的营收就超过175亿港元，而如今的安踏集团旗下已经拥有17个品牌，成为全球排名前三的运动服饰公司。]]></title>
+            <link>http://www.xiaoyuzhoufm.com/episode/607ff1999c5f2da07716a202</link>
+            <guid>1bef20ad36710cc093245b7315e9670b</guid>
+            <pubDate>Sun, 09 May 2021 05:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【爱奇艺早已失控】爱奇艺曾在节目审核和风险把控上存在漏洞，但他们一直无法舍弃选秀综艺这块肥肉，因为它承载了爱奇艺整个公司发展战略，“《青春有你》这档节目对爱奇艺太重要了。”]]></title>
@@ -518,18 +524,6 @@
             <link>https://instant.lvv2.com/html/92d976d2d5df656e66bb307418e006e8.html</link>
             <guid>514987717176c2d9bd439e55ddc59c9e</guid>
             <pubDate>Fri, 07 May 2021 10:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为什么年轻人都陷进了“娃圈”？｜当代年轻人迷惑行为破解]]></title>
-            <link>https://instant.lvv2.com/html/2c9babcf2688cf327da412e7b249a95c.html</link>
-            <guid>a19b763e06d3697ff7bf8bc12291a92d</guid>
-            <pubDate>Fri, 07 May 2021 18:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[运载中国新空间站部件的长征五号B火箭上周发射升空后，在轨道上翻滚并失控。预计这枚中国最大火箭的残骸周末将坠回地球。事件引发了外界对中国太空计划的质疑。]]></title>
-            <link>https://instant.lvv2.com/html/6362f8ac4b9f957296d1807720a1e08f.html</link>
-            <guid>c424f2ee1ba498e74ccf6d61980db6ef</guid>
-            <pubDate>Fri, 07 May 2021 18:44:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
