@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 09 May 2021 17:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 18:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【继承丝绸之路上的“绝学”  学者潘涛与吐火罗语】《吐火罗语和印欧语言学》这门课程的头三集，在B站的播放量达到了“惊人”的3万多次。潘涛完全没有料到自己小火了一把。很大一部分人是看了网上一部很火的叫《镖人》的武侠漫画而来的。]]></title>
+            <link>https://instant.lvv2.com/html/2d87a3aec26e55fa857c01bb1b1c0bc7.html</link>
+            <guid>ccbccf030ca4b066652310c0cbd76499</guid>
+            <pubDate>Mon, 10 May 2021 02:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【从事社工9年后，我为何会感到迷茫？】作为国内社会组织发育相对成熟和集中的地区，广东在2020年率先提出“双百计划”。但志愿者担心“双百工程”意味着社工工作将变得“工程化”。更重要的是，不知道政府直聘（即社工跟相应街道直接签订劳动合同）后，会不会让社工被行政功能化。]]></title>
+            <link>https://instant.lvv2.com/html/4239d5110a90a5da28ce18f3221e0340.html</link>
+            <guid>55b095a6cec8263c87585d9a336da9c2</guid>
+            <pubDate>Mon, 10 May 2021 01:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[56岁“抛夫出走”阿姨现状曝光，接奢侈品广告，登纽约时报：人生简直开挂]]></title>
             <link>https://instant.lvv2.com/html/010d87936b8d3ddee46578d0eb1fb3a8.html</link>
@@ -427,18 +439,6 @@
             <link>https://instant.lvv2.com/html/99f233bb631ff46e63a25ad4a4845794.html</link>
             <guid>63b6cc24712275f48ef89c626c9ca2f7</guid>
             <pubDate>Sat, 08 May 2021 16:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[六神磊磊 | 鲁迅文章里的一句话 ]]></title>
-            <link>https://instant.lvv2.com/html/553814df8d546062006282a4d0a6202c.html</link>
-            <guid>3d64b5a9aa9e3924785c88a2be20e436</guid>
-            <pubDate>Sat, 08 May 2021 15:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拼多多品牌升级：离天猫越近，离阿里越远】品牌商品的种类相对有限，制约了消费者购物的频次，继而限制了拼多多流量变现价值。这也是为什么拼多多如今加速说服品牌方开设官方店铺：既消除用户对商品质量的疑虑，又有足够的利润空间促销，同时还能向财力雄厚的品牌商户卖广告。]]></title>
-            <link>https://instant.lvv2.com/html/8fe2093bbc3e9c9a9ecb971166823cb1.html</link>
-            <guid>1e95531675d35ed3e9aa75db4f9f45cf</guid>
-            <pubDate>Sat, 08 May 2021 11:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
