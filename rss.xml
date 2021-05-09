@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 09 May 2021 20:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 22:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【西安一大学生因不当言论被退学，此前曾在直播中骚扰女生受处分】“带带小sama”曾于2020年6月因在网络发布在校园内搭讪女生、背后称其为“坦克”视频被学校处以“留校察看”处分，在乃万事件号召狗粉丝网暴患恶性肿瘤的女性，被学校做退学处理。]]></title>
+            <link>http://news.cyol.com/gb/articles/2021-05/09/content_yJbZNCLXR.html</link>
+            <guid>2eb2ec8a3f98beba5cb0deddbfb1332f</guid>
+            <pubDate>Mon, 10 May 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄罗斯76周年胜利日阅兵，今年看点是什么？】由于俄罗斯仪式举行得过于频繁，除了能拿出来说说的新型伞兵战车、无人战斗机器人和巡飞弹等装备，大多数的“新锐战斗装备”其实都不算“新”，甚至都已经是在胜利日阅兵上不知道刷过多少次的常客了。]]></title>
             <link>https://instant.lvv2.com/html/bf802af3487676f41f8a6ca5d1086a0a.html</link>
@@ -432,13 +438,6 @@
             <link>https://instant.lvv2.com/html/5b8ce52ed622c5d068bb015202e1e83b.html</link>
             <guid>223545263282514561430cd18222727e</guid>
             <pubDate>Sat, 08 May 2021 17:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这款中国疫苗成为首种西方国家以外研发并获得世卫批准使用的新冠疫苗。世卫称已经验证了中国国药疫苗的安全性、有效性和品质。
-]]></title>
-            <link>https://instant.lvv2.com/html/deb2df65e1aa7caf70dd4808870d7c65.html</link>
-            <guid>17c4f231e078c62a969fd9ba42e07a58</guid>
-            <pubDate>Sat, 08 May 2021 17:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
