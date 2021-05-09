@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 09 May 2021 18:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 20:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄罗斯76周年胜利日阅兵，今年看点是什么？】由于俄罗斯仪式举行得过于频繁，除了能拿出来说说的新型伞兵战车、无人战斗机器人和巡飞弹等装备，大多数的“新锐战斗装备”其实都不算“新”，甚至都已经是在胜利日阅兵上不知道刷过多少次的常客了。]]></title>
+            <link>https://instant.lvv2.com/html/bf802af3487676f41f8a6ca5d1086a0a.html</link>
+            <guid>1a72bc54331d356a3abe8dd2fa2ced73</guid>
+            <pubDate>Mon, 10 May 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【那些想摆脱被动的母亲】著有《妈妈值多少钱：世界上最重要的工作为何不计薪酬》的纽约时报记者安·克里腾登，曾在书中提到，当一位母亲放弃工作，她不得不用自己的损失垫付“妈妈税”，可她们甚至没有失业保险或者补偿。“母爱是世界上最可再生的资源，但我们仍有充分理由终止对女性劳动的无偿占用，这叫做公正。”]]></title>
+            <link>https://instant.lvv2.com/html/548629cc29df8f2b7fe96dcbaf04c22c.html</link>
+            <guid>ae515245bcb8e5a0c1810fe346369c98</guid>
+            <pubDate>Mon, 10 May 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【继承丝绸之路上的“绝学”  学者潘涛与吐火罗语】《吐火罗语和印欧语言学》这门课程的头三集，在B站的播放量达到了“惊人”的3万多次。潘涛完全没有料到自己小火了一把。很大一部分人是看了网上一部很火的叫《镖人》的武侠漫画而来的。]]></title>
             <link>https://instant.lvv2.com/html/2d87a3aec26e55fa857c01bb1b1c0bc7.html</link>
@@ -427,18 +439,6 @@
             <link>https://instant.lvv2.com/html/deb2df65e1aa7caf70dd4808870d7c65.html</link>
             <guid>17c4f231e078c62a969fd9ba42e07a58</guid>
             <pubDate>Sat, 08 May 2021 17:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拆解水滴IPO：旧故事与新故事】事实上，最迟从去年开始，沈鹏已很少提及水滴创业初期的定位，诸如“筹款+互助+保险”的医疗支付生态闭环，取而代之的目标是，成为“中国版的联合健康”。]]></title>
-            <link>https://instant.lvv2.com/html/a3fab5cee38e562f4497d02ae2ec3190.html</link>
-            <guid>4bf9382d9452fa06eee0eff214ab93ef</guid>
-            <pubDate>Sat, 08 May 2021 16:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京时间5月8日凌晨，欧足联官方宣布，退出欧超的九支球队已和欧足联达成和解，这9家俱乐部会被扣除一个赛季欧冠欧联收入分成的5%。而对于至今还未退出的皇马、巴萨和尤文三队，欧足联主席切费林将提交禁赛欧战2年的提案。]]></title>
-            <link>https://instant.lvv2.com/html/99f233bb631ff46e63a25ad4a4845794.html</link>
-            <guid>63b6cc24712275f48ef89c626c9ca2f7</guid>
-            <pubDate>Sat, 08 May 2021 16:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
