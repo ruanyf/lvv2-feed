@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 12 May 2021 20:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 22:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【运营商占领B站舞蹈区背后，是宅舞正在成为时代的眼泪】一直被视作B站原生内容代表之一的宅舞，却正成为B站最冷门的创作类型之一。也正是因此，给了官方号们“趁虚而入”的机会。在过去的十年里，“宅舞”经历了从无到有、从小众到辉煌的发展，甚至改变了许多人的生活。却又在不知不觉间，已然走向了生命的尾声。]]></title>
+            <link>https://instant.lvv2.com/html/0fb757ccd2bd72f4b14e6b4dae16d9c6.html</link>
+            <guid>88a426c6c1a9b887a8a755ddb60aeb79</guid>
+            <pubDate>Thu, 13 May 2021 06:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网络民议】四川官方已定调“颜色革命”？遇事不利境外势力 ]]></title>
+            <link>https://instant.lvv2.com/html/2c886bdcc52c31700fe43c0877f522c4.html</link>
+            <guid>0cabd459fb3bfc195e60cca503c2a33d</guid>
+            <pubDate>Thu, 13 May 2021 06:22:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[世界卫生组织（WHO）连续第五年未邀请台湾参与世界卫生大会（WHA），中国大陆外交部称先前已对台湾参与全球卫生事务做出妥善安排，台湾外交部斥此说悖离事实与国际认知，强烈谴责大陆将政治凌驾于健康人权之上的霸道行径。
 ]]></title>
@@ -466,30 +478,6 @@
             <link>https://instant.lvv2.com/html/ea36400ec7ad086ede0ef535139e20f1.html</link>
             <guid>149b48fab072126c6bb916878d69760f</guid>
             <pubDate>Wed, 12 May 2021 06:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【404文库】数据归集处｜人口之惑   （该文已在微信被删除）]]></title>
-            <link>https://instant.lvv2.com/html/82dfba9480df2848626d4fd596f094d9.html</link>
-            <guid>baef3e7188d9f2ac4b3a3365c5947e99</guid>
-            <pubDate>Wed, 12 May 2021 05:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【搭讪网约车内女乘客未果，男子竟驾车一路追逐】近日，一女客人搭乘网约车出行，在等待红灯时，旁边轿车内的驾驶员突然探头对其打招呼，言语轻佻。考虑到车内女乘客的安全，网约车司机加快了车速。对方因搭讪未果，一路追逐，还屡次拗网约车车头。在拦下网约车后，还用脚踢踹网约车车门。最终男子被警方行政拘留十二日。]]></title>
-            <link>https://instant.lvv2.com/html/2bca3e47cecc9867deea37a722f158a8.html</link>
-            <guid>9921359795d6ed5f876b46bad464cfca</guid>
-            <pubDate>Wed, 12 May 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[随着尼泊尔新冠疫情恶化，中国表示，将在珠穆朗玛峰峰顶设立一条“隔离线”，以防止中国登山者与来自尼泊尔的登山者在世界之巅“狭路相逢”。]]></title>
-            <link>https://instant.lvv2.com/html/ba5f30e8d671beeba0aa552e728b9ba4.html</link>
-            <guid>0a2d5716890c3ca9bd90fe5cd3b5467a</guid>
-            <pubDate>Wed, 12 May 2021 03:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乐高10292 老友记公寓正式公布，5月19日开卖（内附开箱速拼）]]></title>
-            <link>https://instant.lvv2.com/html/cd3da92593e036f14de5338928d129d5.html</link>
-            <guid>07e1839990eb5c28dd48730c58370942</guid>
-            <pubDate>Wed, 12 May 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
