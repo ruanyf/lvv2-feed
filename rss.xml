@@ -4,11 +4,36 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 13 May 2021 20:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 22:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国输油管道公司向黑客们支付将近500万美元赎金】 美国输油管道公司Colonial Pipeline早在上周五就已经向东欧地区的黑客们支付了将近500万美元赎金——距离该公司遭遇网络袭击才数小时时间，付款方式为加密数字货币。然而，众多媒体本周稍早还一度报道称，该公司无意为了恢复美国最大的燃油管道系统而向网络勒索者屈服。]]></title>
+            <link>https://instant.lvv2.com/html/778d9349bfb33550e53b629ac057b194.html</link>
+            <guid>7e6c25f0cb7580bafa5f1eba3315d8f8</guid>
+            <pubDate>Fri, 14 May 2021 06:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【倒下的首富：中国光伏行业的冠军魔咒】光伏产业的核心是技术迭代带来的成本优势。新技术的出现，意味着新产能将会打败老产能，投资成本甚至会低于老产能的残值。与此同时，先行者因为庞大的资本开支，以及过高的负债率无法跟上新一轮的技术升级，“先发优势”便可能沦为“先发劣势”。]]></title>
+            <link>https://instant.lvv2.com/html/ca83295d9fa8678f6059b865796ccdfc.html</link>
+            <guid>4bbb01f484f6effe623ac81dbbf729ca</guid>
+            <pubDate>Fri, 14 May 2021 06:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度一名高级政府顾问表示，印度将在今年8月至12月获得超过20亿剂冠病疫苗。
+]]></title>
+            <link>https://instant.lvv2.com/html/e0b9340a71e3db9032f93f5505caa8c5.html</link>
+            <guid>0a0e5f9324eca5104373b9d834070a3c</guid>
+            <pubDate>Fri, 14 May 2021 05:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我去了中华遗嘱库】中华遗嘱库的接待员见过一位26岁女生，在等待立遗嘱时迅速掏出电脑，开始噼里啪啦地办公。他们也见过29岁的互联网工作者，在赶高铁的路上用视频通话确认了所有环节。屏幕里，他在公交上被挤得摇摇晃晃。]]></title>
+            <link>https://instant.lvv2.com/html/c4c9b91743a77729533091e7a5457091.html</link>
+            <guid>43da912bc411174f5f731000ef00d6ba</guid>
+            <pubDate>Fri, 14 May 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【在慈溪，见证小家电“产业内卷”】“没材料时，产能跟不上，有材料时，产能过剩打价格战。”]]></title>
             <link>http://www.ebrun.com/20210512/433530.shtml</link>
@@ -476,18 +501,6 @@
             <link>https://instant.lvv2.com/html/8ce6153a8ff3e656dc301ab16d658507.html</link>
             <guid>02de59c47e267fb3866abf502380dabd</guid>
             <pubDate>Thu, 13 May 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1亿中东老铁迷上中国APP：有人寻爱、有人暴富、有人圆梦】在中东的社交娱乐赛道，中国出海应用已占据绝对优势。除了配合当地文化的严格的内容审核之外，“家族”这种玩法也非常本地，也是美国社交产品不具备的。]]></title>
-            <link>https://instant.lvv2.com/html/4ffdbc1ed29c932680b450f0efad839c.html</link>
-            <guid>5017d1de4403ff2bbf2c5d4e965912c8</guid>
-            <pubDate>Wed, 12 May 2021 22:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市值超千亿“插座大王”公牛集团被反垄断调查，高瓴资本是第4大股东】案由是涉嫌与交易相对人达成并实施垄断协议行为。前不久，药企扬子江药业正因为涉嫌达成并实施垄断协议行为被立案调查进而被罚款。]]></title>
-            <link>https://instant.lvv2.com/html/889cc9112f25407bfcdd104be4ce8399.html</link>
-            <guid>5d8cd6d46c1cd428c4b4baa82fb54a93</guid>
-            <pubDate>Wed, 12 May 2021 21:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
