@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 13 May 2021 17:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 18:53:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【越来越多的人沉迷租鸡，他们从收集鸡蛋和照料母鸡中获得快乐】“养鸡是一项很有意义的爱好，人们早上醒来照顾他们的鸡时，会有一种美妙的使命感和连结感。”]]></title>
+            <link>https://instant.lvv2.com/html/b3e69c5a992d0d99a88c34a87fe8fc51.html</link>
+            <guid>06ad232eb436e3330b7a8f1bbea7bd29</guid>
+            <pubDate>Fri, 14 May 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【奶茶店内卷，喜茶们也是原料供应商的打工人】坚持品质的茶饮店身上有三座大山——鲜奶、茶叶与水果的原材料供应。 在行业进入到“鲜牛乳、鲜茶饮、鲜果”的3.0阶段，新一轮原材料革新之下，谁最可能赚钱？在孟繁伟看来，在未来，这个答案很有可能是“茶叶”。]]></title>
             <link>https://instant.lvv2.com/html/0004bb8e4b437ce0ec6a9d7786bec3d3.html</link>
@@ -476,18 +482,6 @@
             <link>https://instant.lvv2.com/html/cc3e6aba08f0840391ad75fdbdd60d9b.html</link>
             <guid>40b57667b8af787c4003681b95a6bce2</guid>
             <pubDate>Thu, 13 May 2021 01:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普号召“清理门户”，美国共和党头号女大佬摇摇欲坠】共和党三号人物利兹·切尼（Liz Cheney）被赶下台。此前她多次斥责前总统特朗普虚假的选举欺诈指控以及他在煽动1月6日国会大厦入侵事件中的作用。​切尼一直是国会中地位最高的共和党女性，也是小布什时代副总统迪克·切尼的女儿]]></title>
-            <link>https://instant.lvv2.com/html/7bea0ee4597de9c20271ccc0cca59f9a.html</link>
-            <guid>78824bb1fe0fa98699bce3f06708e1e2</guid>
-            <pubDate>Thu, 13 May 2021 00:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最强精装房：只花了5万，竟然改出30万的效果？】实不相瞒，最近但凡有朋友要改造精装房，我都会让他们来看看住友Shufei的家。为什么偏偏推荐她家，我的理由很简单：性价比贼高，只用5万，告别冰冷精装；居住智慧贼多，不管住不住精装，人人可参考；实用性贼强，好看又好用，适配性极高。]]></title>
-            <link>https://instant.lvv2.com/html/e12c28227cefab5aae03944272712d50.html</link>
-            <guid>8381521707d5b8b39d72fb6e800e773e</guid>
-            <pubDate>Wed, 12 May 2021 23:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
