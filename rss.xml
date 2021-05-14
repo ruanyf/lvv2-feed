@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 14 May 2021 18:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 20:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日本抢打疫苗引发混乱】神户市900多剂疫苗因保存不当被报废；奈良县54人接种疫苗后发现其中有一个人接种的是生理盐水，但不知道那个人是谁；在福冈县，因护士操作失误将空气当做疫苗注射进一名老人体内，所幸注射的量比较少，老人健康没有大碍…]]></title>
+            <link>https://instant.lvv2.com/html/bdd24c854b3916d1f753a160328ff610.html</link>
+            <guid>4c50e7e93ef2ce3173075032dfa6381c</guid>
+            <pubDate>Sat, 15 May 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[台湾邦交国洪都拉斯（台译宏都拉斯）本周宣布，有意使用中国新冠疫苗，并可能为此在中国开设办事处，再度导致台湾与北京发生争执。
 ]]></title>
@@ -479,12 +485,6 @@
             <link>https://instant.lvv2.com/html/c4c9b91743a77729533091e7a5457091.html</link>
             <guid>43da912bc411174f5f731000ef00d6ba</guid>
             <pubDate>Fri, 14 May 2021 05:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【熊猫血携带者们决定建一个群】每个抱着单纯期待入群的熊猫血“患者”（有的人会这么称呼彼此）和家属都会发现，不仅仅是取暖，有血或者没血，在关键时刻的区分是生和死，任何利益纠葛在这个命题面前都只能退避。它注定的尖锐也将在必须面对的时刻刺痛所有人。]]></title>
-            <link>https://instant.lvv2.com/html/6056042e33e3cd73d3a694dd1a679cb8.html</link>
-            <guid>26e0c29df19e2cd23475f55592d2c693</guid>
-            <pubDate>Fri, 14 May 2021 03:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
