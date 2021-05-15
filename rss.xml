@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 15 May 2021 18:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 20:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【7万元年终奖打水漂，前OPPO员工维权“失败”】有多位OPPO员工指出了OPPO加班和薪资制度存在的问题。]]></title>
+            <link>http://www.tfcaijing.com/article/page/3579314d4d327562654a4d49455362586a4b774e2f773d3d</link>
+            <guid>99f831eb4ef0cc56416e4b82e7b84d13</guid>
+            <pubDate>Sun, 16 May 2021 03:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[有鉴于台湾冠病病例持续增加，新加坡宣布收紧对过去21天曾到过台湾的旅客的边境管控。
 ]]></title>
@@ -461,18 +467,6 @@
             <link>https://instant.lvv2.com/html/367e6054744b86893224a310a1d90083.html</link>
             <guid>f3f653143d5a459f173d458e45b51c68</guid>
             <pubDate>Fri, 14 May 2021 19:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃地名，为何霸气惹不起？】如果两千年前的汉朝人穿越到今天的甘肃，大概不会迷路。甘肃的地名，既有彰显刀光剑影中的“武功军威”，也回荡着大漠孤烟里的声声驼铃。既是一部残酷的战争史，也是一首动人的边塞诗；既有帝王将相拓土开疆的荣光，也饱含千百年来普通民众的梦想。]]></title>
-            <link>https://instant.lvv2.com/html/4a7eac5057bf2ed00b6d1b0864ad0cc6.html</link>
-            <guid>bd52df10ec978b09e35e2593abee9bfd</guid>
-            <pubDate>Fri, 14 May 2021 19:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上千万卡车司机都是个体户：公路货运为何难以规模化？】公路货运门槛低，只要有一辆车就可以拉货，而买车基本都会贷款，大量个体户在物流行业红火的时候进入市场。中小企业对于运费价格极其敏感，没有公司约束的个体户反而拥有一点竞争优势，他们可以自己定价。如此一来，散户占大头的行业格局更加固化。]]></title>
-            <link>https://instant.lvv2.com/html/fafcc1344640e56fe061173f8699a17f.html</link>
-            <guid>475290445789ea62b349a8450330b2e6</guid>
-            <pubDate>Fri, 14 May 2021 19:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
