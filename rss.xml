@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 15 May 2021 20:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 22:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[对话中芯国际创始人张汝京：中国化解缺芯风险的几点看法]]></title>
+            <link>http://mp.weixin.qq.com/s/wLKvxTGh8MfjrIyVgM-ggg</link>
+            <guid>eafc9838bff47033704bb3387b121637</guid>
+            <pubDate>Sun, 16 May 2021 06:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【从怀旧复古到超越未来，动画中的手机隐藏着哪些叙事奥秘？】除了作为一种表现方式，手机作为一种现代机械装置，随着科技的发展，其在动画文本上的作用也在不断变化，如建立人物关系、作为拓展人类能力外延的一种工具（情报获取、科幻想象元素）等等。]]></title>
+            <link>http://www.bilibili.com/read/cv11060316</link>
+            <guid>0c07c22bffd26f00bb4edeb10ce0fc0e</guid>
+            <pubDate>Sun, 16 May 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【7万元年终奖打水漂，前OPPO员工维权“失败”】有多位OPPO员工指出了OPPO加班和薪资制度存在的问题。]]></title>
             <link>http://www.tfcaijing.com/article/page/3579314d4d327562654a4d49455362586a4b774e2f773d3d</link>
@@ -455,18 +467,6 @@
             <link>http://blog.sciencenet.cn/blog-612874-1286293.html</link>
             <guid>42718a0bd8ce07cf78c1c7ff96330308</guid>
             <pubDate>Fri, 14 May 2021 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生育率下降、人口老龄化，世界第二大经济体将遭遇怎样变化？中国广东省人口连续14年称冠，而东北地区人口减少最多，区域差异意味着什么？]]></title>
-            <link>https://instant.lvv2.com/html/012d7b52404603c0f70ea474468ce6ec.html</link>
-            <guid>de717210f3a02f8eda4eb46e3095a0e5</guid>
-            <pubDate>Fri, 14 May 2021 16:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为什么全国这么多地方都在争当韭菜之乡]]></title>
-            <link>https://instant.lvv2.com/html/367e6054744b86893224a310a1d90083.html</link>
-            <guid>f3f653143d5a459f173d458e45b51c68</guid>
-            <pubDate>Fri, 14 May 2021 19:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
