@@ -4,15 +4,21 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 16 May 2021 17:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 18:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[诫勉谈话、记过、免职！辽宁就营口市鲅鱼圈区疫情问责多人]]></title>
+            <link>https://instant.lvv2.com/html/bb1ccc60db417f88a02a3594ee1e2730.html</link>
+            <guid>65c64d1bcb8bfb80243b5a2e939b130e</guid>
+            <pubDate>Mon, 17 May 2021 02:08:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[别再吃西湖醋鱼了，杭州这些好吃的不吃就亏了！]]></title>
-            <link>http://www.guokr.com/article/459718/</link>
-            <guid>064dbd536914c1ae1fea088716d06dc6</guid>
+            <link>https://instant.lvv2.com/html/f4acfcd96d2c53c85180f8348e226408.html</link>
+            <guid>53d06cef23e0e51115ead25e4a6b8324</guid>
             <pubDate>Mon, 17 May 2021 01:08:11 GMT</pubDate>
         </item>
         <item>
