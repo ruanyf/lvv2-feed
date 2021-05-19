@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 19 May 2021 18:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 20:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[不做新闻已经很多年]]></title>
+            <link>https://instant.lvv2.com/html/bcadf3755170d300b2bfc436786dfd0b.html</link>
+            <guid>5a548b5dab1b45d5f5edb8ba2c00dd67</guid>
+            <pubDate>Thu, 20 May 2021 04:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【这 18 座文化建筑，能帮深圳摘掉“文化沙漠”的帽子吗？】文化类建筑有先天的公共性，相比商业建筑更能成为一种“城市风景”，在朝向一个更美好、宜居的城市转型中，除了“新十大”，深圳还有一批已建成/建设中的新文化类建筑。由于所有建筑都集中在近两三年的深圳，你也能从中看到建筑师们将如何参与改变一座城市。]]></title>
             <link>https://instant.lvv2.com/html/f0ed98d0bbe2f6e70188af0d01d55613.html</link>
@@ -481,12 +487,6 @@
             <link>http://www.ttplus.cn/publish/app/data/2021/05/18/372896/os_news.html</link>
             <guid>e8809383b594be1b4ff4cb99a1cb4eb3</guid>
             <pubDate>Tue, 18 May 2021 23:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​谁说在义乌只能买买小商品？进口超市也很好逛！]]></title>
-            <link>https://instant.lvv2.com/html/bf4ab771b0a18cf5867eb655a4f5e7dc.html</link>
-            <guid>13ce6573453b508d4aa796234c96e411</guid>
-            <pubDate>Tue, 18 May 2021 23:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
