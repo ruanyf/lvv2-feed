@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 20 May 2021 18:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 20:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“从今天起，这里已经是另一个智利”】后皮诺切特时代的三十年来，智利是全拉丁美洲人均收入最高的国家，但与此同时，它也是全球发达经济体中最不平等的国家之一。15-16日的选举，仅是智利长达八个月的选举季的开端，年底之前，智利还将进行三次（或四次）关键选举，更换从州长、议员、国会到总统的全部国家权力机构。]]></title>
+            <link>https://instant.lvv2.com/html/2348fd2c610b71fc67f4bb897c81047e.html</link>
+            <guid>425ef61a26c28117878ad965783a3412</guid>
+            <pubDate>Fri, 21 May 2021 04:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在苏北的古代署衙中参观邪典大陈列】很多孩子总以为土地公是西游记里那种和蔼可亲的老爷爷，殊不知，在中国的乡土文化中，土地神最重要的职责之一，就是提示世人天谴不虚、莫要作恶。而这里之所以被叫做“皮场庙”，是因为朱元璋曾下令，大明的每座州府衙门里必须设有这样一座庙宇，用来剥掉贪官的皮，并陈设展示……]]></title>
+            <link>https://instant.lvv2.com/html/f52dcb65b8c9b729c1fbb58a5fa3b6c5.html</link>
+            <guid>0add68bcccb59aba6d39c453cce8bb68</guid>
+            <pubDate>Fri, 21 May 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【风水教母麦玲玲，月入百万靠算命】早年间，香港风水大师走的都是高岭之花的路线，宣传基本为零，靠的是客户的口口相传 。以麦玲玲为代表，中后期的香港玄学市场开启了一条玄学娱乐化和玄学营销化的道路。]]></title>
             <link>https://instant.lvv2.com/html/22532f3afca67f54a651e5a96a0049c6.html</link>
@@ -461,19 +473,6 @@
             <link>http://wallstreetcn.com/articles/3630754</link>
             <guid>844dac6c01c2fed24f62dcc89614c063</guid>
             <pubDate>Wed, 19 May 2021 22:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@大不列颠小脆脆：英国毕业班学生写的中文考试作文，虽然有小错误，但是我一边改一边笑，哈哈，四字成语用得好顺而且三观好正啊//@阿蕴：这个笔法太像雅思作文的翻译了哈哈哈]]></title>
-            <link>https://instant.lvv2.com/html/187ffae052ea694c4ac60bb0b2f38360.html</link>
-            <guid>461be3873f1eb120e34ab98b9ca51b8b</guid>
-            <pubDate>Wed, 19 May 2021 22:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[目前，长征七号遥三运载火箭已完成推进剂加注，计划于北京时间5月20日凌晨1时许发射天舟二号货运飞船。中国载人航天工程办公室正式发布本次飞行任务标识。（CMESCO）
- ]]></title>
-            <link>https://instant.lvv2.com/html/2a8c2d047e8e10e36008200f03aa8606.html</link>
-            <guid>7736404fa0ac884a168db6e5f75c0edd</guid>
-            <pubDate>Wed, 19 May 2021 21:56:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
