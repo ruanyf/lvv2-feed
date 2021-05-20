@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 20 May 2021 17:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 18:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【风水教母麦玲玲，月入百万靠算命】早年间，香港风水大师走的都是高岭之花的路线，宣传基本为零，靠的是客户的口口相传 。以麦玲玲为代表，中后期的香港玄学市场开启了一条玄学娱乐化和玄学营销化的道路。]]></title>
+            <link>https://instant.lvv2.com/html/22532f3afca67f54a651e5a96a0049c6.html</link>
+            <guid>c8d5658952461175e991d1591338b606</guid>
+            <pubDate>Fri, 21 May 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[《殊途》—— 那些写游戏杂谈的老家伙们（三）]]></title>
             <link>https://instant.lvv2.com/html/a37ecad6f9c5bb9d903dd433057bb6ff.html</link>
@@ -468,12 +474,6 @@
             <link>https://instant.lvv2.com/html/2a8c2d047e8e10e36008200f03aa8606.html</link>
             <guid>7736404fa0ac884a168db6e5f75c0edd</guid>
             <pubDate>Wed, 19 May 2021 21:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汉典重光：首批数字化的20万页海外古籍】@何不笑：免费的，还可以一键全变简体字，检索功能比哈佛东亚那个好多了]]></title>
-            <link>https://instant.lvv2.com/html/ed1ed2dfb4d894b6dff89346426f52ba.html</link>
-            <guid>27ccc53d3b38383ce501aaf8c23c9973</guid>
-            <pubDate>Wed, 19 May 2021 21:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
