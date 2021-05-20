@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 20 May 2021 20:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 22:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[武警某部队比武搏击赛，冠军是——炊事班长]]></title>
+            <link>http://haokan.baidu.com/vpd=wisenatural&amp;vid=12708856690723205593</link>
+            <guid>b823f9858b3b4d466d21354b442fa3ec</guid>
+            <pubDate>Fri, 21 May 2021 06:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【左晖走了，贝壳的灯塔熄灭了】据一位链家内部人士透露，内部传言，最终打败左晖的是小细胞肺癌。肺癌本就是“癌中之王”，而小细胞肺癌更是其中恶化速度较快的类型。“这种病对放化疗都不敏感，预后效果很差。得了它，就等于生命进入倒计时。”]]></title>
+            <link>https://instant.lvv2.com/html/a375c899c7849cfb34ec226f51590438.html</link>
+            <guid>0f00d3783e4ffe56311abb62f3ce368e</guid>
+            <pubDate>Fri, 21 May 2021 06:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“从今天起，这里已经是另一个智利”】后皮诺切特时代的三十年来，智利是全拉丁美洲人均收入最高的国家，但与此同时，它也是全球发达经济体中最不平等的国家之一。15-16日的选举，仅是智利长达八个月的选举季的开端，年底之前，智利还将进行三次（或四次）关键选举，更换从州长、议员、国会到总统的全部国家权力机构。]]></title>
             <link>https://instant.lvv2.com/html/2348fd2c610b71fc67f4bb897c81047e.html</link>
@@ -168,12 +180,6 @@
             <link>https://instant.lvv2.com/html/632ca847cd8e76dc2ab843b934e6e816.html</link>
             <guid>1de92323a3e39cc13d1e5d48a8c03a3b</guid>
             <pubDate>Thu, 20 May 2021 16:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国解封第一天】5月19日起，法国将结束第三次全国性的封锁计划，包括餐厅、酒吧和咖啡馆露天部分以及博物馆、体育馆、电影院等室内文化场所和非必要商店将重新开放。法国居民将被允许在晚上9点之前外出享用久违的聚餐。]]></title>
-            <link>https://instant.lvv2.com/html/ea67cba200f3935ccbc1bf2b5238d34f.html</link>
-            <guid>abcf07c85c415792742ff9d8a8227c62</guid>
-            <pubDate>Thu, 20 May 2021 16:32:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【说说陈思诚自恋那些事】满招损，一直都是陈思诚的风格所在。他对自己的美貌非常得意，尤其是梨涡，找老婆也找个有同样梨涡的。上学时他幻想自己是大侠，起艺名为朵朵。一个男生没法叫花，只好叫朵朵，所以他儿子明明是个男孩，小名却叫梨涡朵朵。]]></title>
@@ -467,12 +473,6 @@
             <link>https://instant.lvv2.com/html/76d0b1af642b89f45b3f410129d20388.html</link>
             <guid>fffd9bd05176293a3f2ff00780619236</guid>
             <pubDate>Wed, 19 May 2021 23:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数字货币市场惨遭血洗】比特币近日利空不断，持续下跌，除了此前为其背书的马斯克突然改变立场外，不断收紧的监管信号也给市场带来下行压力。]]></title>
-            <link>http://wallstreetcn.com/articles/3630754</link>
-            <guid>844dac6c01c2fed24f62dcc89614c063</guid>
-            <pubDate>Wed, 19 May 2021 22:24:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
