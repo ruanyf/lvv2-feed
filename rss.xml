@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 21 May 2021 20:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 22:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【当随性的马斯克遇上刻板的德国人】“也许他们开始扪心自问，是否真的应该把目光转向波兰或捷克等地。”“保时捷就决定在斯洛伐克生产卡宴。”]]></title>
+            <link>https://instant.lvv2.com/html/8a9cab57dc134af32dc470b049bc106c.html</link>
+            <guid>5a24f6ba4f41c499c6a34f10962cd0bf</guid>
+            <pubDate>Sat, 22 May 2021 06:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果推出无损音乐，玄学还是革命？】目前任何型号的AirPods和HomePod都不支持播放无损音乐，即便是售价4399元的AirPods Max也不行。让消费者买下苹果手机+苹果耳机+苹果音乐服务，就可以轻而易举地听到无损乃至高解析音乐，这才像苹果——也许我们很快就会看到这个结果了。]]></title>
+            <link>https://instant.lvv2.com/html/d381f54423d5d32123ff968d8257cbca.html</link>
+            <guid>8a6628f7c17915a794c15a8d3fdb49a9</guid>
+            <pubDate>Sat, 22 May 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[今年的5月19日，是喜剧作家梁左先生去世20周年的日子。 《西四五条》制作成了五期特别节目，来纪念梁左。因为节目是早年的访谈录音，所以音质略有嘈杂，但仍然值得一听。参与访谈的人都是曾和梁左有密切接触的人，是他的家人、朋友和工作伙伴。]]></title>
             <link>http://www.xiaoyuzhoufm.com/collection/episode/60a77b71afcf4c0012bbb36b</link>
@@ -437,18 +449,6 @@
             <link>https://instant.lvv2.com/html/1fd09a40d29bed11480ba4865bb5261f.html</link>
             <guid>e3ad3a152862a747388192bd6fd9ef5d</guid>
             <pubDate>Thu, 20 May 2021 21:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在越南确诊的集装箱船，跑了！现以18.6节的航速北上】船长韩国人，船现在已经到韩国了。]]></title>
-            <link>https://instant.lvv2.com/html/8b4e731df55125f2803a2154b9f98ad4.html</link>
-            <guid>d7bc7c4009b0d3994e7217a06536852a</guid>
-            <pubDate>Thu, 20 May 2021 17:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海天文馆将于6月试运营，设有国内口径最大科普望远镜、全球最先进新型光学天象仪]]></title>
-            <link>https://instant.lvv2.com/html/9e764422064058e67e2a62f79afdd1b7.html</link>
-            <guid>165c3b29967200a9f75c9fe25181f0af</guid>
-            <pubDate>Thu, 20 May 2021 20:48:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
