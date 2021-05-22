@@ -4,11 +4,35 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 22 May 2021 12:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 14:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【0-1之间：科幻作品中的性】科幻作品比其他类型的作品（恐怖作品除外）更容易将性和憎恶联系在一起。积极来看，自20世纪70年代起，那些通过想象带有不同的性期待来有意识地批判我们自己社会的性别偏见的科幻作品开始不断繁荣发展。不过，它们在大的科幻领域仍然只是一个小小的子类。]]></title>
+            <link>https://instant.lvv2.com/html/100e39bee6832aa95b177960d31b2e10.html</link>
+            <guid>6b308f86915cd4ab83ad6734be745e11</guid>
+            <pubDate>Sat, 22 May 2021 21:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美亿万富翁爱泼斯坦死亡当晚：2狱警承认没看守 只顾睡觉和网购】两名监狱工作人员在没有例行执勤的情况下，伪造了检查记录。当晚他们有2个小时都在睡觉，还上网购物，并没有进行每半小时一次的巡回检查。]]></title>
+            <link>https://instant.lvv2.com/html/6244d0715654ab30fc55f475a07d2783.html</link>
+            <guid>27dceca7c10f2f0764d9787b3d3d8c41</guid>
+            <pubDate>Sat, 22 May 2021 21:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【遭遇[数据删除]的基金会，是怎么从科幻新星变成“儿童邪典”的？】“SCP基金会”发展过程中的失控多少折射了多人创作的弊端。不受干预的自由创作带来了社区的蓬勃发展，但同时也意味着管理缺失，意味着不可避免的“劣币驱逐良币”，意味着无边际的野蛮生长，最终带来整个社群环境的塌缩。]]></title>
+            <link>https://instant.lvv2.com/html/2294274f201353c9ad3453f7e99ef2e3.html</link>
+            <guid>76489a595147e72fb620de627a6790f0</guid>
+            <pubDate>Sat, 22 May 2021 21:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国今年2月上马新冠病毒人体挑战试验，给人“喂毒”后跟踪观察，是世界首个此类试验。主持项目的帝国理工大学传染病专家邱克让说，打仗要知己知彼，对付病毒也一样。BBC中文梳理了人体挑战的具体操作、前世今生和争议。]]></title>
+            <link>https://instant.lvv2.com/html/90c68e0d40c2839c650a08d903f76555.html</link>
+            <guid>3197985906f4911a3b0a48ea1abf1dd1</guid>
+            <pubDate>Sat, 22 May 2021 20:52:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【小老虎：说唱歌手确实有个职业病值得关注，那就是：话很多（但其实啥都没说）】我突然发现，也许这些年我对于说唱那些酷的想象，对于它在消费中的那些符号、那种穿着的追逐，其实一点儿都不重要。我把它们全都放下了。我觉得，说唱它不再比我大了。你怎样去看待这个世界、怎样去表达，也许才是说唱对我来说最重要的事。]]></title>
             <link>https://instant.lvv2.com/html/e387aa08ec4c04cb313c1732a40dd3f6.html</link>
@@ -442,18 +466,6 @@
             <link>https://instant.lvv2.com/html/64658eb8b4f1969b9802017cfea2aab0.html</link>
             <guid>53f894911471a3948d2540c70cfc6f94</guid>
             <pubDate>Fri, 21 May 2021 15:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大火已过两年，为何巴黎圣母院周边还会出现有毒铅颗粒超标？】“巴黎圣母院的铅超标问题正是来源于其屋顶覆盖的铅板。由于铅具有很好的耐腐蚀性，铅板被制造成教堂及房屋的屋顶。巴黎圣母院的大火导致300吨铅材料融化，虽然有毒金属物质没有在空气中扩散，但对周边局部地区土地造成严重污染。”]]></title>
-            <link>http://www.stdaily.com/index/kejixinwen/2021-05/20/content_1134824.shtml</link>
-            <guid>50ebc4a6564b9d3e4c72d3e1d89160b9</guid>
-            <pubDate>Fri, 21 May 2021 14:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加密市场爆仓400亿，极端行情下的经验与教训】之所以导致大额爆仓单出现，一方面是市场的快速下跌，另一方面还源于这些DeFi产品的清算。DeFi市场毫无规则的抵押借贷，再抵押再借贷，反过来才出现了“暴跌，强平，清算，再暴跌”的螺旋下跌，自然会引起大额爆仓出现。]]></title>
-            <link>http://www.odaily.com/post/5168347</link>
-            <guid>aea892b7e46085dd742e65c2caa36f7a</guid>
-            <pubDate>Fri, 21 May 2021 14:48:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
