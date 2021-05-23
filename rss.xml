@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sun, 23 May 2021 20:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 22:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[监管出拳见效！火币暂停中国大陆境内比特币矿机售卖及衍生服务，另有矿池也宣布跟进]]></title>
+            <link>https://instant.lvv2.com/html/3877d5d4ad0bed64d0fa1135af6843c8.html</link>
+            <guid>634af6c8edace949efc7987a73e0332b</guid>
+            <pubDate>Mon, 24 May 2021 05:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【网络民议】一位甘肃景泰马拉松遇难者家属的微博评论区 ]]></title>
             <link>https://instant.lvv2.com/html/28a0c0dac55bd0a7e3d5c8a7d0d0d1a8.html</link>
@@ -416,18 +422,6 @@
             <link>https://instant.lvv2.com/html/d3968e0072c5fc34c45209142bae8b06.html</link>
             <guid>180a652224ddc7aa0dc69827eb14eef4</guid>
             <pubDate>Sat, 22 May 2021 17:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【订单跌八成，团长出走，用户流失，社区团购遇冷】对于日常生活节奏紧张的人来说，根本不愿意为了几毛的优惠耗费更多精力。社区团购看似便利，实际对闲暇时间的要求很高。调查发现，郑州市场，参与社区团购频繁的大多数是价格敏感且闲暇时间多的居家宝妈和退休老太太们。]]></title>
-            <link>https://instant.lvv2.com/html/c19d6ba2636ae9c6086794c73e84a45e.html</link>
-            <guid>dfe3dd4a20abfadce0a3b27d16395256</guid>
-            <pubDate>Sat, 22 May 2021 16:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾本土疫情大爆发，今天宣布新增721起本土病例，两人死亡。新增本土病例中的400起是“校正回归”，即追加到上周每天的病例数。]]></title>
-            <link>https://instant.lvv2.com/html/889d06a620d62be5204fc0ffa99036ae.html</link>
-            <guid>66329fbee8c4a1b557d3a39373ddd114</guid>
-            <pubDate>Sat, 22 May 2021 16:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
