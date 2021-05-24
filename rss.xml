@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 24 May 2021 19:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 20:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【青海果洛州：一场暂无死亡报告的7.4级大地震】震中发生的地区在青海牧区，地理海拔在4200-4300米，地广人稀，房屋与人员分布少，整体造成的损害相较同级地震要轻，救援的重点应是震中的周边地区，主要是危房与砖房的倒塌。]]></title>
+            <link>http://www.toutiao.com/i6965149544493351455/</link>
+            <guid>adb8b861f974210f75420de071aa2b32</guid>
+            <pubDate>Tue, 25 May 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【资本炫耀或是公共馈赠？】Little Island这个漂浮在哈德逊河上的小岛已建成开放，为市民提供露天剧场、绿地、餐厅和酒吧，它花费了大亨巴里·迪勒（Barry Diller）大约2.6亿美元的投资。]]></title>
+            <link>https://instant.lvv2.com/html/cf2c2ff2eea0e138d3968f07cb81c915.html</link>
+            <guid>3c795de391a8f7703b9e1d44d3ff0cf2</guid>
+            <pubDate>Tue, 25 May 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple 全球开发者大会将于 6 月 7 日拉开帷幕]]></title>
             <link>http://www.apple.com.cn/newsroom/2021/05/apples-worldwide-developers-conference-kicks-off-june-7/</link>
@@ -473,18 +485,6 @@
             <link>https://instant.lvv2.com/html/28a0c0dac55bd0a7e3d5c8a7d0d0d1a8.html</link>
             <guid>8345e573b2f426a5054c14557521de24</guid>
             <pubDate>Mon, 24 May 2021 03:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021，欧美圈塌房元年]]></title>
-            <link>https://instant.lvv2.com/html/a7dc2abcbd1a666bc312d3de00313098.html</link>
-            <guid>05c8bbd8b4031f0fd4a1228d72d3c1e1</guid>
-            <pubDate>Sun, 23 May 2021 22:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传Vogue母公司将被兼并】康泰纳仕这次大洗牌，全球高管集体出走，在这场动荡中，只有极少数人的权力变得更大了，比如集团艺术总监Anna Wintour，去年底被升任为首席内容官和全球编辑总监，同时继续负责Vogue的相关业务。也就是说，她将对康泰纳仕全球30多个市场的出版物拥有最终话语权。]]></title>
-            <link>https://instant.lvv2.com/html/ebb9196efbabd4d47058601e7e072cc1.html</link>
-            <guid>1c4ef55ffe454be52bc7e6d887d5689a</guid>
-            <pubDate>Mon, 24 May 2021 02:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
