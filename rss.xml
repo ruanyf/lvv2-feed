@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 24 May 2021 17:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 19:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple 全球开发者大会将于 6 月 7 日拉开帷幕]]></title>
+            <link>http://www.apple.com.cn/newsroom/2021/05/apples-worldwide-developers-conference-kicks-off-june-7/</link>
+            <guid>8753391242605bb39b59b8e9db0b8012</guid>
+            <pubDate>Tue, 25 May 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[三个年轻人的约炮史]]></title>
             <link>https://instant.lvv2.com/html/8f254b460aea8898d55fdd251a2e1c93.html</link>
@@ -479,12 +485,6 @@
             <link>https://instant.lvv2.com/html/ebb9196efbabd4d47058601e7e072cc1.html</link>
             <guid>1c4ef55ffe454be52bc7e6d887d5689a</guid>
             <pubDate>Mon, 24 May 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恭喜RNG获得MSI冠军]]></title>
-            <link>http://share.api.weibo.cn/share/224071228.htmlweibo_id=4640189094036112</link>
-            <guid>6d63d680ed0a1e00a42a41c81ede35c0</guid>
-            <pubDate>Mon, 24 May 2021 01:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
