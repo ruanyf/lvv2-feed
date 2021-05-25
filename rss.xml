@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 25 May 2021 19:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 20:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【内蒙古出台打击惩戒虚拟货币“挖矿”行为八项措施】对存在虚拟货币“挖矿”行为的相关企业及有关人员，按有关规定纳入失信黑名单；对公职人员利用职务之便，参与虚拟货币“挖矿”或为其提供方便与保护的，一律移送纪检监察机关处理。]]></title>
+            <link>https://instant.lvv2.com/html/81444d47424a653d6fe2834a23f56d5f.html</link>
+            <guid>3bf3847648505bfa5504d6a1ebc67b86</guid>
+            <pubDate>Wed, 26 May 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[达利欧：持有一些比特币，会经历更多通胀，中国资产有吸引力]]></title>
             <link>http://wallstreetcn.com/articles/3631129</link>
