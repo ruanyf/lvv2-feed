@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 25 May 2021 17:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 19:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[达利欧：持有一些比特币，会经历更多通胀，中国资产有吸引力]]></title>
+            <link>http://wallstreetcn.com/articles/3631129</link>
+            <guid>2663f85693f842dc2e28b75378dae4a7</guid>
+            <pubDate>Wed, 26 May 2021 02:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【对于成长型公司来说，业绩“符合预期”是不够的】问题在于市场总是习惯性地对成长型科技公司打满预期值，给予他们远超常规水平的估值。而一旦业绩没有他们设想得那么好 —— 哪怕 “符合预期” —— 市场也会毫不犹豫地抛售。更何况快手为了这样一份算不上好的业绩付出巨大代价：单季创纪录的 117 亿元市场营销费用。]]></title>
             <link>https://instant.lvv2.com/html/3b53d3e273044ca399b64deab6f7b482.html</link>
@@ -503,12 +509,6 @@
             <link>https://instant.lvv2.com/html/6339bb41eb7b13f185508840037500de.html</link>
             <guid>be0fea2523453a0c8e6c34dc70cf8d91</guid>
             <pubDate>Mon, 24 May 2021 22:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[十几年前的电子潮品再入手：你还需要 MP4 播放器吗？]]></title>
-            <link>https://instant.lvv2.com/html/bc3f7527c2fb29bf8377cc30b1855991.html</link>
-            <guid>69c22439577fdf9f40504fb2554f0813</guid>
-            <pubDate>Mon, 24 May 2021 21:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
