@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 26 May 2021 19:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 20:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[扫描全网后，我们整理出一份最全的毕业生劳动合同排雷指南]]></title>
+            <link>https://instant.lvv2.com/html/4cab293dbcec41748042bd4714be0ef8.html</link>
+            <guid>bcac81dacf31a089c09e62c3846eabb0</guid>
+            <pubDate>Thu, 27 May 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【在网上看完200个修脚视频，我大脚趾幻痛了】在修脚视频中，90%的顾客都是甲沟炎。修脚师傅手持各式长短刀具，将入肉三分的嵌甲取出，红肿的脚趾瞬间如释重负，屏息凝神的观众也长出一口气：舒服了。]]></title>
             <link>https://instant.lvv2.com/html/5e57256acf0c58efa84150e4bca1c877.html</link>
@@ -494,12 +500,6 @@
             <link>https://instant.lvv2.com/html/739f31c3ad838a52abf721e6b5e63738.html</link>
             <guid>0a10904e42d1ff4ed604b4ed5cedcffb</guid>
             <pubDate>Wed, 26 May 2021 06:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[褚朝新说事 | 救了6个人的牧羊人那么纯朴，为什么要公然撒谎？ ]]></title>
-            <link>https://instant.lvv2.com/html/818ced28ebba88cc592b0c16439381aa.html</link>
-            <guid>4cf093fb041633cb92cf54189c9df52e</guid>
-            <pubDate>Wed, 26 May 2021 05:32:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
