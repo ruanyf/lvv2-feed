@@ -4,7 +4,7 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Wed, 26 May 2021 17:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 19:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://instant.lvv2.com/html/5e57256acf0c58efa84150e4bca1c877.html</link>
             <guid>1178f4f2356972b8e2e623e1603df57c</guid>
             <pubDate>Thu, 27 May 2021 00:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Arm亮出多款大小核CPU】Arm发布Armv9系列的CPU核心——Cortex-X2、Cortex-A710和Cortex-A510，分别取代的是X1、A78和A55。此次推出的旗舰CPU核心，可以说预告了2022年旗舰安卓手机的CPU性能。]]></title>
+            <link>https://instant.lvv2.com/html/4a9a9d34ed1b2247fd453f2d8426b799.html</link>
+            <guid>7aa598302de0f64259dd6a29c953a8b0</guid>
+            <pubDate>Thu, 27 May 2021 03:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越南疫情告急！多个工业园关闭，越政府称供应链和生产链受阻严重】近一周以来，越南每天新冠肺炎确诊人数都在150人上下，仅从数值判断，似乎疫情仍属在可控范围，但对于越南来说，这一数字的意义却很不一样。这是2020年新冠肺炎疫情在全球暴发以来，越南首次大规模暴发疫情。目前疫情仍在越南北部地区加速蔓延。]]></title>
+            <link>https://instant.lvv2.com/html/23a240ca75afefa1e93adfb004c31dda.html</link>
+            <guid>2ba0ecbb47476c0924de9c473e441b91</guid>
+            <pubDate>Thu, 27 May 2021 02:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【阿里副总裁汪海成为合伙人，淘宝特价版从边缘到 “特区”】今年 4 月初，C2M 事业部更名为淘特事业部，进一步弱化淘宝的印记，强化其独立地位。淘宝特价版目前也正在启动品牌更新，APP 开屏首页已经打出了淘宝特价版更名为 “淘特” 的广告。]]></title>
@@ -488,18 +500,6 @@
             <link>https://instant.lvv2.com/html/818ced28ebba88cc592b0c16439381aa.html</link>
             <guid>4cf093fb041633cb92cf54189c9df52e</guid>
             <pubDate>Wed, 26 May 2021 05:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古出台打击惩戒虚拟货币“挖矿”行为八项措施】对存在虚拟货币“挖矿”行为的相关企业及有关人员，按有关规定纳入失信黑名单；对公职人员利用职务之便，参与虚拟货币“挖矿”或为其提供方便与保护的，一律移送纪检监察机关处理。]]></title>
-            <link>https://instant.lvv2.com/html/81444d47424a653d6fe2834a23f56d5f.html</link>
-            <guid>3bf3847648505bfa5504d6a1ebc67b86</guid>
-            <pubDate>Wed, 26 May 2021 03:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达利欧：持有一些比特币，会经历更多通胀，中国资产有吸引力]]></title>
-            <link>http://wallstreetcn.com/articles/3631129</link>
-            <guid>2663f85693f842dc2e28b75378dae4a7</guid>
-            <pubDate>Wed, 26 May 2021 02:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
