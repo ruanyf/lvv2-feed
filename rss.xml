@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Thu, 27 May 2021 19:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 20:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【住建部“点名”12城楼市新政大盘点】今年来住建部约谈、督导或调研13座城市，截至目前，除南昌撤回调控新政外，年内其余12座城市均出台楼市调控新政，从保障性住房或租赁住房供应（两者或有重合），限售、限购、信贷和税收，新房、二手房交易等多个方面出手调控。]]></title>
+            <link>https://instant.lvv2.com/html/68bea6ba6d9a7f10278ac74b40be5268.html</link>
+            <guid>5d052e1ed9eeb959009df405e8bd14c0</guid>
+            <pubDate>Fri, 28 May 2021 04:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国政府印太政策高官：计划今秋举办面对面“四方安全对话”，共议中国基建挑战】对于中美关系，坎贝尔直言两国之间的“战略接触时期已经结束”，美国在对华议题上如今拥有一套新的“战略参数”，未来的主导模式将会是竞争。]]></title>
             <link>https://instant.lvv2.com/html/a39483360c4db79d13a2817768430821.html</link>
@@ -469,12 +475,6 @@
             <link>https://instant.lvv2.com/html/4cab293dbcec41748042bd4714be0ef8.html</link>
             <guid>bcac81dacf31a089c09e62c3846eabb0</guid>
             <pubDate>Thu, 27 May 2021 04:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南疫情告急！多个工业园关闭，越政府称供应链和生产链受阻严重】近一周以来，越南每天新冠肺炎确诊人数都在150人上下，仅从数值判断，似乎疫情仍属在可控范围，但对于越南来说，这一数字的意义却很不一样。这是2020年新冠肺炎疫情在全球暴发以来，越南首次大规模暴发疫情。目前疫情仍在越南北部地区加速蔓延。]]></title>
-            <link>https://instant.lvv2.com/html/23a240ca75afefa1e93adfb004c31dda.html</link>
-            <guid>2ba0ecbb47476c0924de9c473e441b91</guid>
-            <pubDate>Thu, 27 May 2021 02:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
