@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 28 May 2021 19:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 20:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【人牙还是鹿牙？中国南方古人类论文引发笔战】2月初，南京大学副教授孙雪峰等人发表在PNAS的论文判断现代人类到达中国南方的时间不早于5万年前。其核心证据之一是五个中国南方洞穴的化石年份测定结果。然而有学者质疑，该研究中的一份关键人类化石其实是“鹿牙”。]]></title>
+            <link>https://instant.lvv2.com/html/ae7cf3e59688c878616c2be4cd5a8d9b.html</link>
+            <guid>569f4a4b7c501f93f2fe3cb9e3150665</guid>
+            <pubDate>Sat, 29 May 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【刘擎、罗翔们是如何一步步变成明星的？】“生意”“走红”“学者明星”这些词都是中立的，不带批评意味。学者只是一份工作，不用给他们特别高的道德定位，让自己的研究和知识传播得更广，本就是他们工作的应有之义。而要完成这份工作，需要商业机构的推动。两者并不矛盾，甚至是相辅相成的。]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/609ba3e311f507a5e743eb8c</link>
@@ -463,12 +469,6 @@
             <link>https://instant.lvv2.com/html/f5098731d73f73f3373bf4d1823c044f.html</link>
             <guid>a38bf0943ba13ff6cddbe8560dc5ca20</guid>
             <pubDate>Fri, 28 May 2021 02:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在邪教仪式般的煎饼果子节逛了一圈，见证北方美食的荒芜】相对于天津煎饼菓子的本份老实，主场北京的煎饼摊，可就鸡贼多了，花样百出。我看到上面几个大字”老北京风味”就觉得不妙！果然你看，竟然出现”金枪鱼虾”、”夫妻肺片”.....等魔性煎饼；我吓得花容失色，大饼可以包一切，但煎饼只能包果子或果篦儿啊！]]></title>
-            <link>https://instant.lvv2.com/html/5acd251b280a61fab4e77564f4f3d293.html</link>
-            <guid>4afc9bccb4555310aa8136e744dda65b</guid>
-            <pubDate>Fri, 28 May 2021 00:32:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
