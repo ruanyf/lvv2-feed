@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Sat, 29 May 2021 19:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 21:01:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【养猪业最担心的事情来了？】不论是参考国内现实数据，还是观察美国、日本、德国的禽肉消费先例，在中国，禽肉消费需求增长、猪肉消费需求下降，都将是大势所趋。]]></title>
+            <link>https://instant.lvv2.com/html/b2511bc15dc98616a23f281db15fd829.html</link>
+            <guid>b580f1e5c1e7a5775ac7ca261e29c288</guid>
+            <pubDate>Sun, 30 May 2021 04:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全国碳交易系统即将上线】全国碳市场上线交易拟于6月底前启动，将成为全球覆盖温室气体排放量规模最大的碳市场，有望打造出千亿级市场规模。]]></title>
             <link>https://instant.lvv2.com/html/58539225d81f35a41f4eac308a7a926c.html</link>
@@ -456,12 +462,6 @@
             <link>https://instant.lvv2.com/html/63291e927989d49c70b42bced981c85a.html</link>
             <guid>c46738ab21b8b713243e4f6f11e8e6e0</guid>
             <pubDate>Fri, 28 May 2021 17:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国疾控中心今天（28日）发布我国新冠疫苗接种不良反应监测情况，2020年12月15日至2021年4月30日，31个省、自治区、直辖市以及新疆生产建设兵团报告接种新冠病毒疫苗2.65亿剂次，报告预防接种不良反应31434例，报告发生率为11. 86/10万剂次。]]></title>
-            <link>https://instant.lvv2.com/html/8c9bab707d8de0ec3ed35a113d1456c9.html</link>
-            <guid>e5a04101f9fd8e615818670708e136f1</guid>
-            <pubDate>Fri, 28 May 2021 17:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
