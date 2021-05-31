@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 31 May 2021 18:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 21:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【超超超级工程是怎样建成的】5月31日，全球大坝“家族”再添新成员，目前世界上在建规模最大的水电工程——白鹤滩水电站工程大坝全线浇筑到顶，大坝各项技术指标均满足设计高质量要求，标志着我国300米级特高拱坝建造技术实现世界引领。]]></title>
+            <link>https://instant.lvv2.com/html/673a54df099d006ceee64c3232d7675b.html</link>
+            <guid>b5ab78f6fd5d7134c23d16870128ff0f</guid>
+            <pubDate>Tue, 01 Jun 2021 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【左晖离世后：完成的与未竟的】以左晖为代表的这一代企业家，抓住了时代机遇，建立了重塑数亿人消费的商业巨头。在更乐观的年代，他们曾被奉为榜样。而现在，他们也将因为自己所在的位置，承担一些此前未必由企业家承担的责任。]]></title>
+            <link>https://instant.lvv2.com/html/8a073e62adcd5ba8e1ba2aec0b412a53.html</link>
+            <guid>80e7276979001dc334703bee060dbd27</guid>
+            <pubDate>Tue, 01 Jun 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【跟骨灰级产品经理杨远骋聊聊创业史】杨远骋认为只要始终在牌桌上就会有机会找到你。最早在饭否实习，后来做街旁，是Web 2.0时代；到聚美，负责移动业务，赶上了移动互联网兴起；与合伙人共同创立新世相，是顺应了互联网营销的需求；现在做「躺岛」则是消费品浪潮。]]></title>
             <link>http://www.xiaoyuzhoufm.com/episode/60b28cdc44a1b4c6f0656ff6</link>
@@ -465,18 +477,6 @@
             <link>https://instant.lvv2.com/html/7cc049115d285d3c0e40a364add8b23e.html</link>
             <guid>6f1ebfb1bac8514371a2c9faa9ac8697</guid>
             <pubDate>Mon, 31 May 2021 00:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我一直期待，能有这样一款，能让年轻人们沉浸式寓教于乐感受红色的游戏。没想到这回真的来了，而且一来就来个大的，还是VR版的。等等，这预告片画风怎么那么熟悉啊，一看开发商名称：上海科吉信息科技有限公司，好家伙果然是你！还记得2019年售价256元的那个VR垃圾分类吗？没错就是同一家公司搞的。]]></title>
-            <link>https://instant.lvv2.com/html/23da8f67cfb94434654df55a70852d80.html</link>
-            <guid>bc0c14b05709590c2c66dea37e784672</guid>
-            <pubDate>Sun, 30 May 2021 23:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在内卷、丧、躺平的年代，《老友记》仍是年轻人的安慰剂]]></title>
-            <link>https://instant.lvv2.com/html/d53456666cabeae6c109dba1fab43ecf.html</link>
-            <guid>911a35ebd52b14a1e52e61f8991a5da7</guid>
-            <pubDate>Sun, 30 May 2021 22:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
