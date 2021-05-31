@@ -4,11 +4,17 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Mon, 31 May 2021 21:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 23:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[东电首次公布福岛核污水排放计划：两年后开始排放，每日最多500吨]]></title>
+            <link>https://instant.lvv2.com/html/a6481af0848fc31fc4f83dd24a1c3b5f.html</link>
+            <guid>44b85fa42d35da9290cab0b93e69fb24</guid>
+            <pubDate>Tue, 01 Jun 2021 06:32:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【超超超级工程是怎样建成的】5月31日，全球大坝“家族”再添新成员，目前世界上在建规模最大的水电工程——白鹤滩水电站工程大坝全线浇筑到顶，大坝各项技术指标均满足设计高质量要求，标志着我国300米级特高拱坝建造技术实现世界引领。]]></title>
             <link>https://instant.lvv2.com/html/673a54df099d006ceee64c3232d7675b.html</link>
@@ -471,12 +477,6 @@
             <link>https://instant.lvv2.com/html/c43c504618c1705497faa0eb62849c3f.html</link>
             <guid>c47d9116ec7214d3824dc1c87d9c6823</guid>
             <pubDate>Mon, 31 May 2021 00:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【获雅诗兰黛投资，这家男士美妆创业公司如何诠释“男子气概”的第三波浪潮？】目前，Faculty 只推出了指甲油和指甲贴两种产品，主要通过官网销售。至于为什么选择指甲油这一品类，他表示：“我们希望 Faculty 的首发产品可以产生一定的话题讨论度，而‘男性是否该涂指甲油’恰好是现在社交媒体上的热门话题之一”。]]></title>
-            <link>https://instant.lvv2.com/html/7cc049115d285d3c0e40a364add8b23e.html</link>
-            <guid>6f1ebfb1bac8514371a2c9faa9ac8697</guid>
-            <pubDate>Mon, 31 May 2021 00:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
