@@ -4,11 +4,29 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Tue, 01 Jun 2021 19:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jun 2021 21:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苹果供应链名单：新增12家大陆厂商都是谁？】在苹果最新公布的供应商名单中，新纳入苹果供应链的中国大陆厂商高达12家，进一步凸显中国大陆厂商在苹果供应链上的重要性。]]></title>
+            <link>http://mp.weixin.qq.com/s/LM46DcYBIyVMD5KqscDKXA</link>
+            <guid>b6ea4b695554aed517d09a8d4453534b</guid>
+            <pubDate>Wed, 02 Jun 2021 05:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 月 28 日，苹果位于罗马的一家最新的 Apple Store 正式开业。苹果再次联手英国着名建筑事务所 Foster + Partners 对 19 世纪的一座宏伟宫殿 Palazzo Marignoli 进行了全面的修复翻新，迎来了这间欧洲最大的 Apple Store——Apple Via del Corso。]]></title>
+            <link>http://www.ifanr.com/1420307utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+            <guid>c7faf2b41edc4cfd03f3f51075fa0886</guid>
+            <pubDate>Wed, 02 Jun 2021 04:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AMD联手台积电试图突破摩尔定律瓶颈】整体业务呈向上趋势的AMD再次展现进取势头，在演讲中，苏姿丰发布由台积电代工的“3D chiplet”应用案例，主打高端市场，相关芯片今年底生产；并宣布与特斯拉和三星合作，汽车市场和手机市场拓展AMD图形芯片应用。]]></title>
+            <link>http://www.jiemian.com/article/6176751.html</link>
+            <guid>62cfb464a476119bcef52db18a0c7e3b</guid>
+            <pubDate>Wed, 02 Jun 2021 03:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德法等国要求美国和丹麦就监听事件做出解释】当下美国和欧盟正在就一项跨大西洋数据传输协议进行谈判，这势必会加强欧盟对美国间谍权力、法律限制、对欧洲数据的保障等关注。]]></title>
             <link>http://www.guancha.cn/internation/2021_06_01_592700.shtml</link>
@@ -449,24 +467,6 @@
             <link>https://instant.lvv2.com/html/fa5d2a7cbf1ef1724125b7f0f5fab691.html</link>
             <guid>9bc0ef27b6132cd36c32832c2de47200</guid>
             <pubDate>Tue, 01 Jun 2021 00:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年韩国最好电影之一？大胆点，去掉之一】李濬益的新作《兹山鱼谱》属于那种中国电影永远不会去拍的题材。]]></title>
-            <link>https://instant.lvv2.com/html/dca8f99e0988fa020cd6dd849fb34db3.html</link>
-            <guid>477ef7bcc6adc6f97e7b29e60f66f98c</guid>
-            <pubDate>Mon, 31 May 2021 23:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我为什么还在使用钢笔？]]></title>
-            <link>https://instant.lvv2.com/html/0d35acedd6b4352e16ef3db670b7106b.html</link>
-            <guid>e73daafbfab95e2398e98c019393ebfd</guid>
-            <pubDate>Mon, 31 May 2021 22:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挽救4个赛点！中国女排3-2逆转德国，郎平持续锻炼替补]]></title>
-            <link>http://www.thepaper.cn/newsDetail_forward_12872416</link>
-            <guid>a38ae418ca37cdcd8b55e820cbe69e32</guid>
-            <pubDate>Mon, 31 May 2021 22:24:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
