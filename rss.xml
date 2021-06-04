@@ -4,11 +4,23 @@
         <title>Lvv2 Feed</title>
         <link>https://ruanyf.github.io/lvv2-feed/</link>
         <description>Lvv2.com 的非官方 Feed</description>
-        <lastBuildDate>Fri, 04 Jun 2021 21:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jun 2021 23:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Lvv2 feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/lvv2-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【4 年来最大更新，焕然一新的 Firefox 89 稳定版都有哪些新变化？】@图拉鼎：Firefox 89 正式发布了，在 macOS 上的体验越来越好了，这个版本解决了存在了 20 年的 Bug，换上了 Native 的右键菜单。现在它是我坚实的副浏览器。​​​]]></title>
+            <link>https://instant.lvv2.com/html/8c394343f7eb5872fd53315ed2406eae.html</link>
+            <guid>b8578df1f2cc6204d37092d6bf5843c3</guid>
+            <pubDate>Sat, 05 Jun 2021 06:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[62个白血病儿家长，在燕郊送外卖]]></title>
+            <link>https://instant.lvv2.com/html/dc987445935bc13c07110a38f0798cec.html</link>
+            <guid>7986e32caf5b8e7e4daaf7f0a1c6264e</guid>
+            <pubDate>Sat, 05 Jun 2021 06:08:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【ADE长啥样？有人没见过，却在传“新冠病毒可引发ADE效应”】只要新冠疫情不结束，就会有人不停地炒“ADE”这碗冷饭。]]></title>
             <link>https://instant.lvv2.com/html/5fe4652ce96d26c775f31f5c163b7575.html</link>
@@ -482,12 +494,6 @@ BBC中文已开设直播专页，报道六四32周年纪念日的情况。
             <link>https://instant.lvv2.com/html/99983d29b43e201684b02e5b2f371a8f.html</link>
             <guid>a24f14ca854fa23b3f039e76afa71ded</guid>
             <pubDate>Thu, 03 Jun 2021 23:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海处罚全国首例违规提供塑料吸管案】近日，上海闵行区市场监管局根据线索，发现一家面包店在前台免费向消费者提供一次性塑料吸管。该面包店违法使用不可降解塑料制品的行为，违法了《中华人民共和国固体废物污染环境防治法》相关规定。执法人员当场对当事人进行普法教育，责令其改正违法行为，并处罚金1万元。]]></title>
-            <link>https://instant.lvv2.com/html/edc9b17c480384d201a50fabb0fa334d.html</link>
-            <guid>4779aa4beea3e04402d972ef97a83a8c</guid>
-            <pubDate>Fri, 04 Jun 2021 05:08:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
