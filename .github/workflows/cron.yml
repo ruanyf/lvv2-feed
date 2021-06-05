@@ -1,5 +1,8 @@
-name: 15-minute-cron
+name: Vercel-cron
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '15 * * * *'
 jobs:

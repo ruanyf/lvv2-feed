@@ -1,1 +1,1 @@
-https://ruanyf.github.io/lvv2-feed
+https://lvv2-feed.vercel.app/
