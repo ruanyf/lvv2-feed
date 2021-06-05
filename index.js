@@ -15,12 +15,13 @@ let parser = new Parser({
 const newFeed = new Feed({
   title: 'Lvv2 Feed',
   description: 'Lvv2.com 的非官方 Feed',
-  link: 'https://ruanyf.github.io/lvv2-feed/',
+//  link: 'https://ruanyf.github.io/lvv2-feed/',
+  link: 'https://lvv2-feed.vercel.app/',
   language: 'zh-CN',
   generator: 'Lvv2 feed generator',
   feedLinks: {
-    json: 'https://ruanyf.github.io/lvv2-feed/rss.json',
-    rss: 'https://ruanyf.github.io/lvv2-feed/rss.xml'
+    json: 'https://lvv2-feed.vercel.app/rss.json',
+    rss: 'https://lvv2-feed.vercel.app/rss.xml'
   },
 });
 

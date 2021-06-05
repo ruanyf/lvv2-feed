@@ -1,0 +1,11 @@
+name: 15-minute-cron
+on:
+  schedule:
+    - cron: '15 * * * *'
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Vercel deploy webhook
+        run: |
+          curl -X POST ${{ secrets.VERCEL_HOOKS }}
