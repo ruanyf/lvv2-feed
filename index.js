@@ -67,6 +67,7 @@ const newFeed = new Feed({
       'twitter.com',
       'wap.newsmth.net',
       'www.yystv.cn',
+      'youtu.be',
     ];
     if (hostFilterArr.includes(hostname)) return;
 
