@@ -4,30 +4,14 @@ const crypto = require('crypto');
 const fs = require('fs/promises');
 const process = require('process');
 
-const FeedUrl = 'https://lvv2.com/rss';
-
-function nameToLowerCase(name){
-  if (name === 'PUBDATE') return 'pubDate';
-  return name.toLowerCase();
-}
+const FeedUrl = './sample/rss-new.xml'; // 'https://lvv2.com/rss';
 
 let parser = new Parser({
-  timeout: 3000,
+  timeout: 15000,
   headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'},
   maxRedirects: 5,
-  defaultRSS: 2.0,
-//  customFields: {
-//    item: [
-//      ['pubDate', 'pubDate', {keepArray: true}]
-//    ],
-//  },
-  xml2js: {
-    tagNameProcessors: [nameToLowerCase],
-    attrNameProcessors: [nameToLowerCase],
-    strict: false,
-  },
 });
-
+/*
 const newFeed = new Feed({
   title: 'Lvv2 Feed',
   description: 'Lvv2.com 的非官方 Feed',
@@ -40,7 +24,7 @@ const newFeed = new Feed({
     rss: 'https://lvv2-feed.vercel.app/rss.xml'
   },
 });
-
+*/
 (async () => {
   let feed;
   try {
