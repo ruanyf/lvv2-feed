@@ -55,6 +55,8 @@ const newFeed = new Feed({
 
     if (!link) return;
 
+    if (link.includes('xn--')) return;
+
     if (link.length <= 27) {
       return;
     } else if (!link.includes('instant.lvv2.com')) {
