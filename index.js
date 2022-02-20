@@ -76,6 +76,7 @@ const newFeed = new Feed({
 
     const hostFilterArr = [
       'acfun.cn',
+      'douban.com',
       'bilibili.com',
       'meipin.im',
       'video.weibo.com',
