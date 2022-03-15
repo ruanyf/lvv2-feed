@@ -91,7 +91,7 @@ const newFeed = new Feed({
     ];
     if (hostFilterArr.includes(hostname)) return;
 
-    if (link === 'www.voachinese.com') {
+    if (hostname === 'www.voachinese.com') {
       link = link.replace('htmlutm', 'html?utm');
     }
 
