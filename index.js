@@ -105,7 +105,7 @@ const newFeed = new Feed({
   });
 
   try {
-    await fs.rmdir('./dist', { recursive: true});
+    await fs.rm('./dist', { recursive: true, force: true });
     console.log(`successfully deleted ./dist`);
     await fs.mkdir('./dist');
     console.log(`successfully create ./dist`);
