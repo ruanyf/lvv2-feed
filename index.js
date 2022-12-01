@@ -14,7 +14,7 @@ function nameToLowerCase(name){
 let parser = new Parser({
   timeout: 3000,
   headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10130'},
-  maxRedirects: 5,
+  maxRedirects: 10,
   defaultRSS: 2.0,
 //  customFields: {
 //    item: [
