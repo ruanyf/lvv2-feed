@@ -4,7 +4,8 @@ const crypto = require('crypto');
 const fs = require('fs/promises');
 const process = require('process');
 
-const FeedUrl = 'https://lvv2.com/rss';
+//const FeedUrl = 'https://lvv2.com/rss';
+const FeedUrl = 'https://feeds.feedburner.com/lvv2-feed';
 
 function nameToLowerCase(name){
   if (name === 'PUBDATE') return 'pubDate';
