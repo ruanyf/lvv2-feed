@@ -105,7 +105,7 @@ const newFeed = new Feed({
       id: crypto.createHash('md5').update(item.link).digest('hex'),
       link,
       content: '',
-      date: new Date(item.pubDate),
+      date: new Date((new Date(item.pubDate)).toISOString()),
     });
   });
 
