@@ -103,7 +103,7 @@ const newFeed = new Feed({
     let d = new Date(item.pubDate);
     // 原始时间为中国时区，如果服务器为国际时区，需要调整
     if (new Date().getTimezoneOffset() !== -480) {
-      d = new Date(d.getTime() + d.getTimezoneOffset() * 60000);
+      d = new Date(d.getTime() + (d.getTimezoneOffset() - 480) * 60000);
     }
 
     newFeed.addItem({
