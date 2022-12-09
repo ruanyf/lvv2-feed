@@ -100,12 +100,15 @@ const newFeed = new Feed({
     count = count + 1;
     if (count >= 100) return;
 
+    const pubDate = new Date(item.pubDate);
+    pubDate.setTime(pubDate.getTime() - 8 * 60000);
+
     newFeed.addItem({
       title: item.title,
       id: crypto.createHash('md5').update(item.link).digest('hex'),
       link,
       content: '',
-      date: new Date((new Date(item.pubDate)).toISOString()),
+      date: pubDate,
     });
   });
 
