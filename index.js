@@ -50,6 +50,7 @@ const newFeed = new Feed({
     throw err;
   }
 
+  let count = 0;
 
   feed.items.forEach((item) => {
     let link = item.link;
@@ -95,6 +96,9 @@ const newFeed = new Feed({
     if (hostname === 'www.voachinese.com') {
       link = link.replace('htmlutm', 'html?utm');
     }
+
+    count = count + 1;
+    if (count >= 100) return;
 
     newFeed.addItem({
       title: item.title,
