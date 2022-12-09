@@ -100,15 +100,18 @@ const newFeed = new Feed({
     count = count + 1;
     if (count >= 100) return;
 
-    const pubDate = new Date(item.pubDate);
-    pubDate.setTime(pubDate.getTime() - 8 * 60000);
+    let d = new Date(item.pubDate);
+    // 原始时间为中国时区，如果服务器为国际时区，需要调整
+    if (new Date().getTimezoneOffset() !== -480) {
+      d = new Date(d.getTime() + d.getTimezoneOffset() * 60000);
+    }
 
     newFeed.addItem({
       title: item.title,
       id: crypto.createHash('md5').update(item.link).digest('hex'),
       link,
       content: '',
-      date: pubDate,
+      date: d,
     });
   });
 
